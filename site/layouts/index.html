@@ -12,15 +12,16 @@
   </form>
 </section>
 
-{{/* Category quick-links: top 6 by deal count */}}
+{{/* Category quick-links: top 8 by deal count, skip generic ones */}}
 <section class="category-chips-section">
   <div class="category-chips">
     {{ $cats := .Site.Taxonomies.categories }}
     {{ $sorted := slice }}
     {{ range $key, $val := $cats }}
-      {{ $sorted = $sorted | append (dict "name" $val.Page.Title "count" $val.Count "url" $val.Page.Permalink) }}
+      {{ $name := $key | humanize | title }}
+      {{ $sorted = $sorted | append (dict "name" $name "count" $val.Count "url" $val.Page.Permalink) }}
     {{ end }}
-    {{ range first 6 (sort $sorted "count" "desc") }}
+    {{ range first 8 (sort $sorted "count" "desc") }}
     <a href="{{ .url }}" class="chip">{{ .name }} <span class="chip-count">{{ .count }}</span></a>
     {{ end }}
   </div>
