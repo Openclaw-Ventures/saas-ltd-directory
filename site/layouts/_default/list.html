@@ -1,9 +1,17 @@
 {{ define "main" }}
 <section class="listing-page">
-  <h1>{{ .Title }}</h1>
+  <div class="listing-header">
+    <h1>{{ .Title }}</h1>
+    <div class="listing-meta">
+      <span class="listing-count">{{ len .Pages }} lifetime deals{{ with .Title }} in {{ . }}{{ end }}</span>
+      <span class="updated-badge">🔄 Updated daily</span>
+    </div>
+  </div>
   {{ .Content }}
   <div class="grid">
-    {{ range .Pages }}
+    {{/* Sort by discount_pct desc (Best Value first) */}}
+    {{ $sorted := sort .Pages ".Params.discount_pct" "desc" }}
+    {{ range $sorted }}
     {{ partial "product-card.html" . }}
     {{ end }}
   </div>

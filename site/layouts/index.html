@@ -1,41 +1,83 @@
 {{ define "main" }}
+{{ $allDeals := where .Site.RegularPages "Section" "deals" }}
+{{ $dealCount := len $allDeals }}
+
+{{/* Above the fold: Hero */}}
 <section class="hero">
-  <h1>🔥 Best SaaS Lifetime Deals — Updated Daily</h1>
-  <p>{{ .Site.Params.tagline }}</p>
-  <p class="deal-count">Tracking <strong>{{ len (where .Site.RegularPages "Section" "deals") }}</strong> active deals across AppSumo, DealFuel, DealMirror, and Dealify.</p>
+  <h1>Every SaaS Lifetime Deal, One Directory</h1>
+  <p class="hero-sub">Tracking <strong>{{ $dealCount }}</strong> active deals from AppSumo, DealFuel, DealMirror &amp; Dealify — updated nightly</p>
+  <form class="search-bar" action="/deals/" method="get">
+    <input type="text" name="q" placeholder="Search {{ $dealCount }} deals by name or category..." class="search-input" aria-label="Search deals">
+    <button type="submit" class="search-btn">🔍 Search</button>
+  </form>
 </section>
 
-{{/* Top 10 products by rating — internal links */}}
-<section class="top-rated">
-  <h2>⭐ Top Rated Deals</h2>
+{{/* Category quick-links: top 6 by deal count */}}
+<section class="category-chips-section">
+  <div class="category-chips">
+    {{ $cats := .Site.Taxonomies.categories }}
+    {{ $sorted := slice }}
+    {{ range $key, $val := $cats }}
+      {{ $sorted = $sorted | append (dict "name" $val.Page.Title "count" $val.Count "url" $val.Page.Permalink) }}
+    {{ end }}
+    {{ range first 6 (sort $sorted "count" "desc") }}
+    <a href="{{ .url }}" class="chip">{{ .name }} <span class="chip-count">{{ .count }}</span></a>
+    {{ end }}
+  </div>
+</section>
+
+{{/* Trust strip */}}
+<div class="trust-strip">
+  Independently tracking deals from <strong>AppSumo</strong> · <strong>DealFuel</strong> · <strong>DealMirror</strong> · <strong>Dealify</strong>
+</div>
+
+{{/* 🔥 Top Rated Deals — top 6 by rating */}}
+<section class="deals-section">
+  <h2>🔥 Top Rated Deals</h2>
   <div class="grid">
-    {{ $deals := where .Site.RegularPages "Section" "deals" }}
-    {{ $sorted := sort $deals ".Params.rating" "desc" }}
-    {{ range first 10 $sorted }}
+    {{ $sorted := sort $allDeals ".Params.rating" "desc" }}
+    {{ range first 6 $sorted }}
     {{ partial "product-card.html" . }}
     {{ end }}
   </div>
 </section>
 
-<section class="deals-grid">
-  <h2>Latest Deals</h2>
+{{/* 💰 Best Value — top 6 by savings % */}}
+<section class="deals-section">
+  <h2>💰 Best Value</h2>
   <div class="grid">
-    {{ range first 30 (where .Site.RegularPages "Section" "deals") }}
+    {{ $sorted := sort $allDeals ".Params.discount_pct" "desc" }}
+    {{ range first 6 $sorted }}
     {{ partial "product-card.html" . }}
     {{ end }}
   </div>
-  <p class="view-all"><a href="/deals/">View all deals →</a></p>
 </section>
 
-{{/* All categories — internal links */}}
+{{/* 🆕 Recently Added — latest 6 by date */}}
+<section class="deals-section">
+  <h2>🆕 Recently Added</h2>
+  <div class="grid">
+    {{ $sorted := sort $allDeals ".Date" "desc" }}
+    {{ range first 6 $sorted }}
+    {{ partial "product-card.html" . }}
+    {{ end }}
+  </div>
+</section>
+
+{{/* All categories grid */}}
 <section class="categories">
   <h2>Browse by Category</h2>
   <div class="category-grid">
     {{ range .Site.Taxonomies.categories }}
     <a href="{{ .Page.Permalink }}" class="category-tag">
-      {{ .Page.Title }} ({{ .Count }})
+      {{ .Page.Title }} <span class="cat-count">({{ .Count }})</span>
     </a>
     {{ end }}
   </div>
 </section>
+
+<p class="view-all"><a href="/deals/">View all {{ $dealCount }} deals →</a></p>
+
+{{/* Affiliate disclosure */}}
+<p class="affiliate-footer-note">💡 We earn a commission when you buy through our links, at no extra cost to you. This keeps the directory free.</p>
 {{ end }}

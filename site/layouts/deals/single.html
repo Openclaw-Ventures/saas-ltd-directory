@@ -1,32 +1,59 @@
 {{ define "main" }}
 <article class="deal-page">
-  {{/* Breadcrumb navigation + internal link to category */}}
+  {{/* 1. Breadcrumb */}}
   <nav class="breadcrumb" aria-label="Breadcrumb">
     <a href="/">Home</a> →
     {{ with .Params.categories }}{{ range . }}<a href="/categories/{{ . | urlize }}/">{{ . }}</a> → {{ end }}{{ end }}
     <span>{{ .Params.product_name }}</span>
   </nav>
 
-  {{/* AdSense: above the fold */}}
-  <div id="ad-top" class="ad-slot" style="min-height:0;display:none;">
-    <!-- AdSense: replace data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" with real publisher ID -->
-  </div>
-
-  <div class="deal-header">
-    {{ with .Params.image }}
-    <img src="{{ . }}" alt="{{ $.Params.product_name }} Lifetime Deal" class="deal-hero-image" loading="lazy">
-    {{ end }}
-    <div class="deal-title-block">
+  {{/* 2. Hero Section — above the fold */}}
+  <div class="deal-hero">
+    <div class="deal-hero-content">
       <h1>{{ .Params.product_name }} Lifetime Deal</h1>
-      <p class="tagline">{{ .Params.tagline }}</p>
-      {{/* First paragraph for AI citability — natural key facts */}}
-      <p class="deal-intro">{{ .Params.product_name }} is a {{ with .Params.categories }}{{ range . }}{{ . | lower }}{{ end }}{{ else }}software{{ end }} tool available as a lifetime deal on {{ .Params.source | title }} for ${{ .Params.price_current }}{{ with .Params.price_original }} (originally ${{ . }}/year){{ end }}.</p>
+      <div class="hero-rating">
+        {{ with .Params.rating }}⭐ {{ . }}/5{{ end }}{{ with .Params.review_count }} <span class="review-count">({{ . }} reviews{{ with $.Params.source }} on {{ . | title }}{{ end }})</span>{{ end }}
+      </div>
+      <div class="hero-pricing">
+        {{ with .Params.price_original }}<span class="hero-price-original">${{ . }}/year</span>{{ end }}
+        <span class="hero-price-current">${{ .Params.price_current }}</span>
+        <span class="hero-price-label">one-time</span>
+        {{ with .Params.discount_pct }}{{ if gt . 0 }}<span class="savings-badge-lg">{{ . }}% OFF</span>{{ end }}{{ end }}
+      </div>
+      {{ if .Params.price_original }}
+      {{ $monthly := div (float .Params.price_current) 60.0 }}
+      <p class="hero-per-month">= ${{ printf "%.2f" $monthly }}/month forever</p>
+      {{ end }}
+      <a href="{{ .Params.affiliate_url }}" class="cta-btn-hero" target="_blank" rel="noopener sponsored">
+        Get Lifetime Access — ${{ .Params.price_current }} →
+      </a>
+      <p class="trust-line">via {{ .Params.source | title }} · Last verified {{ .Params.last_scraped | time.Format "January 2, 2006" }}</p>
     </div>
+    {{ with .Params.image }}
+    <div class="deal-hero-image-wrap">
+      <img src="{{ . }}" alt="{{ $.Params.product_name }} Lifetime Deal" class="deal-hero-image" loading="lazy">
+    </div>
+    {{ end }}
   </div>
 
-  {{/* Quick Facts box — highly citable by AI, structured data */}}
+  {{/* 3. Quick Facts Bar */}}
+  <div class="quick-facts-bar">
+    <div class="fact-item"><span class="fact-icon">💰</span><span class="fact-text">One-time payment</span></div>
+    <div class="fact-item"><span class="fact-icon">🛡️</span><span class="fact-text">30-day money back</span></div>
+    <div class="fact-item"><span class="fact-icon">⚡</span><span class="fact-text">Instant access</span></div>
+  </div>
+
+  {{/* Affiliate disclosure */}}
+  <p class="affiliate-inline">💡 We earn a commission when you buy through our links, at no extra cost to you. This keeps the directory free.</p>
+
+  {{/* 4. Our Verdict — moved higher */}}
+  <div class="deal-verdict">
+    {{ .Content }}
+  </div>
+
+  {{/* 5. Quick Facts (detailed) */}}
   <div class="quick-facts">
-    <h2>Quick Facts</h2>
+    <h2>Deal Details</h2>
     <dl>
       <dt>Price</dt>
       <dd>${{ .Params.price_current }} one-time</dd>
@@ -53,52 +80,70 @@
     </dl>
   </div>
 
-  <div class="deal-body">
-    <div class="pricing-box">
-      <div class="price-main">
-        <span class="price-current">${{ .Params.price_current }}</span>
-        <span class="price-label">lifetime access</span>
-      </div>
-      {{ with .Params.price_original }}
-      <div class="price-original">
-        <span>Regular price: ${{ . }}</span>
-        {{ with $.Params.discount_pct }}<span class="discount-badge">Save {{ . }}%</span>{{ end }}
-      </div>
-      {{ end }}
-      <a href="{{ .Params.affiliate_url }}" class="cta-btn-large" target="_blank" rel="noopener sponsored">
-        Get {{ .Params.product_name }} — ${{ .Params.price_current }} Lifetime →
-      </a>
-      <p class="cta-note">One-time payment. No recurring fees.</p>
-    </div>
+  {{/* 6. Description */}}
+  {{ with .Params.description }}
+  <div class="deal-description">
+    <h2>About {{ $.Params.product_name }}</h2>
+    <p>{{ . }}</p>
+  </div>
+  {{ end }}
 
-    <div class="deal-description">
-      <h2>About {{ .Params.product_name }}</h2>
-      {{ .Content }}
-      {{ with .Params.description }}
-      <p>{{ . }}</p>
-      {{ end }}
-    </div>
+  {{/* First paragraph for AI citability */}}
+  <p class="deal-intro">{{ .Params.product_name }} is a {{ with .Params.categories }}{{ range . }}{{ . | lower }}{{ end }}{{ else }}software{{ end }} tool available as a lifetime deal on {{ .Params.source | title }} for ${{ .Params.price_current }}{{ with .Params.price_original }} (originally ${{ . }}/year){{ end }}.</p>
+
+  {{/* 7. SECOND CTA */}}
+  <div class="cta-mid">
+    <a href="{{ .Params.affiliate_url }}" class="cta-btn-hero" target="_blank" rel="noopener sponsored">
+      Get Lifetime Access — ${{ .Params.price_current }} →
+    </a>
+    <p class="cta-note">One-time payment. No recurring fees. 30-day money-back guarantee.</p>
   </div>
 
-  {{/* AdSense: mid-content (between verdict/description and related deals) */}}
-  <div id="ad-mid" class="ad-slot" style="min-height:0;display:none;">
-    <!-- AdSense: replace data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" with real publisher ID -->
+  {{/* 8. Related deals (same category) */}}
+  {{ with .Params.categories }}
+  {{ $currentSlug := $.Params.slug }}
+  {{ $cat := index . 0 }}
+  {{ $related := where $.Site.RegularPages "Section" "deals" }}
+  {{ $related = where $related ".Params.categories" "intersect" (slice $cat) }}
+  {{ $filtered := slice }}
+  {{ range $related }}
+    {{ if ne .Params.slug $currentSlug }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+  {{ if gt (len $filtered) 0 }}
+  <section class="related-deals">
+    <h2>Similar {{ $cat }} Deals</h2>
+    <div class="grid grid-related">
+      {{ range first 3 $filtered }}
+      {{ partial "product-card.html" . }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+  {{ end }}
+
+  {{/* 9. THIRD CTA at bottom */}}
+  <div class="cta-bottom">
+    <a href="{{ .Params.affiliate_url }}" class="cta-btn-hero cta-urgency" target="_blank" rel="noopener sponsored">
+      Grab This Deal Before It's Gone →
+    </a>
   </div>
 
+  {{/* Category link */}}
   <div class="deal-footer">
-    {{/* Internal link back to category */}}
     {{ with .Params.categories }}
     <div class="category-link">
       Browse more deals: {{ range . }}<a href="/categories/{{ . | urlize }}/">{{ . }} Lifetime Deals →</a> {{ end }}
     </div>
     {{ end }}
     <p class="last-updated">Price last verified: {{ .Params.last_scraped | time.Format "January 2, 2006" }}</p>
-    <p class="affiliate-disclosure">This page contains affiliate links. We may earn a commission at no extra cost to you.</p>
   </div>
 </article>
 
-{{/* AdSense: sidebar on desktop */}}
-<aside id="ad-sidebar" class="ad-slot" style="min-height:0;display:none;">
-  <!-- AdSense: replace data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" with real publisher ID -->
-</aside>
+{{/* Mobile sticky CTA */}}
+<div class="mobile-sticky-cta">
+  <span class="deal-name">{{ .Params.product_name }}</span>
+  <a href="{{ .Params.affiliate_url }}" class="cta-btn-sticky" target="_blank" rel="noopener sponsored">${{ .Params.price_current }} — Get Deal</a>
+</div>
 {{ end }}

@@ -6,16 +6,22 @@
     <h3><a href="{{ .Permalink }}">{{ .Params.product_name }}</a></h3>
     <p class="tagline">{{ .Params.tagline }}</p>
     <div class="product-meta">
-      {{ with .Params.category }}<span class="category">{{ . }}</span>{{ end }}
-      {{ with .Params.rating }}<span class="rating">⭐ {{ . }}</span>{{ end }}
+      {{ with .Params.rating }}<span class="rating">⭐ {{ . }}/5</span>{{ end }}
       {{ with .Params.review_count }}<span class="reviews">({{ . }} reviews)</span>{{ end }}
     </div>
     <div class="pricing">
+      {{ with .Params.price_original }}<span class="price-original">${{ . }}/yr</span>{{ end }}
       <span class="price-current">${{ .Params.price_current }}</span>
-      {{ with .Params.price_original }}<span class="price-original">${{ . }}</span>{{ end }}
-      {{ with .Params.discount_pct }}<span class="discount">{{ . }}% off</span>{{ end }}
+      <span class="price-label-inline">one-time</span>
+      {{ with .Params.discount_pct }}{{ if gt . 0 }}<span class="savings-badge">{{ . }}% OFF</span>{{ end }}{{ end }}
     </div>
-    <a href="{{ .Params.affiliate_url }}" class="cta-btn" target="_blank" rel="noopener sponsored">Get This Deal →</a>
-    <span class="source">via {{ .Params.source }}</span>
+    {{ if .Params.price_original }}
+    {{ $monthly := div (float .Params.price_current) 60.0 }}
+    <p class="per-month">= ${{ printf "%.2f" $monthly }}/month forever</p>
+    {{ end }}
+    <div class="card-footer">
+      <span class="source-badge source-{{ .Params.source | urlize }}">{{ .Params.source | title }}</span>
+      <a href="{{ .Params.affiliate_url }}" class="cta-btn" target="_blank" rel="noopener sponsored">Get Deal — ${{ .Params.price_current }}</a>
+    </div>
   </div>
 </div>
