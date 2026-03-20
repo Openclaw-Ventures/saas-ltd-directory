@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="compare-page">
+  <div class="compare-header">
+    <h1>{{ .Title }}</h1>
+    <p>Side-by-side comparison of the best lifetime deals</p>
+  </div>
+
+  {{/* Comparison content from markdown */}}
+  <div class="compare-verdict">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}

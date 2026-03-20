@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="compare-page">
+  <div class="compare-header">
+    <h1>Compare SaaS Lifetime Deals</h1>
+    <p>Side-by-side comparison of the best lifetime deals</p>
+  </div>
+
+  {{/* Search bar placeholder */}}
+  <div class="compare-search">
+    <input type="text" placeholder="Search and add a product to compare..." aria-label="Search products to compare">
+    <button type="button">Add</button>
+  </div>
+
+  {{/* List of available comparisons */}}
+  <div class="grid">
+    {{ range .Pages }}
+    <div class="product-card">
+      <div class="product-info" style="padding: 16px;">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p style="font-size: 13px; color: #6B7280; margin: 8px 0;">{{ .Description }}</p>
+        <a href="{{ .Permalink }}" class="card-cta">View Comparison</a>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

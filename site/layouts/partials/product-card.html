@@ -1,27 +1,27 @@
 <div class="product-card">
-  {{ with .Params.image }}
-  <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" class="product-image">
-  {{ end }}
+  <div class="card-image-wrap">
+    {{ with .Params.image }}
+    <img src="{{ . }}" alt="{{ $.Params.product_name }}" loading="lazy">
+    {{ else }}
+    <div class="card-image-placeholder">📦</div>
+    {{ end }}
+    {{ with .Params.discount_pct }}{{ if gt . 0 }}<span class="discount-badge">{{ . }}% OFF</span>{{ end }}{{ end }}
+  </div>
   <div class="product-info">
     <h3><a href="{{ .Permalink }}">{{ .Params.product_name | safeHTML }}</a></h3>
-    <p class="tagline">{{ .Params.tagline }}</p>
-    <div class="product-meta">
-      {{ with .Params.rating }}<span class="rating">⭐ {{ . }}/5</span>{{ end }}
-      {{ with .Params.review_count }}<span class="reviews">({{ . }} reviews)</span>{{ end }}
+    {{ if and .Params.review_count (ge .Params.review_count 10) }}
+    <div class="card-rating">
+      <span class="stars">{{ with .Params.rating }}{{ if ge . 4.5 }}★★★★★{{ else if ge . 3.5 }}★★★★☆{{ else if ge . 2.5 }}★★★☆☆{{ else }}★★☆☆☆{{ end }}{{ end }}</span>
+      <span class="rating-num">{{ .Params.rating }}/5</span>
+      <span class="review-count">({{ .Params.review_count }} reviews)</span>
     </div>
+    {{ else }}
+    <div class="card-new-listing">New listing</div>
+    {{ end }}
     <div class="pricing">
       {{ with .Params.price_original }}<span class="price-original">${{ . }}/yr</span>{{ end }}
       <span class="price-current">${{ .Params.price_current }}</span>
-      <span class="price-label-inline">one-time</span>
-      {{ with .Params.discount_pct }}{{ if gt . 0 }}<span class="savings-badge">{{ . }}% OFF</span>{{ end }}{{ end }}
     </div>
-    {{ if .Params.price_original }}
-    {{ $monthly := div (float .Params.price_current) 60.0 }}
-    <p class="per-month">= ${{ printf "%.2f" $monthly }}/month forever</p>
-    {{ end }}
-    <div class="card-footer">
-      <span class="source-badge source-{{ .Params.source | urlize }}">{{ .Params.source | title }}</span>
-      <a href="{{ .Params.affiliate_url }}" class="cta-btn" target="_blank" rel="noopener sponsored">Get Deal — ${{ .Params.price_current }}</a>
-    </div>
+    <a href="{{ .Permalink }}" class="card-cta">View Deal</a>
   </div>
 </div>

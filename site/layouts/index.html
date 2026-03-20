@@ -2,7 +2,7 @@
 {{ $allDeals := where .Site.RegularPages "Section" "deals" }}
 {{ $dealCount := len $allDeals }}
 
-{{/* Above the fold: Hero */}}
+{{/* Hero Section */}}
 <section class="hero">
   <h1>Every SaaS Lifetime Deal, One Directory</h1>
   <p class="hero-sub">Tracking <strong>{{ $dealCount }}</strong> active deals from AppSumo, DealFuel, DealMirror &amp; Dealify — updated nightly</p>
@@ -12,7 +12,7 @@
   </form>
 </section>
 
-{{/* Category quick-links: top 8 by deal count, skip generic ones */}}
+{{/* Category filter pills — top 7 by deal count */}}
 <section class="category-chips-section">
   <div class="category-chips">
     {{ $cats := .Site.Taxonomies.categories }}
@@ -21,7 +21,7 @@
       {{ $name := $key | humanize | title }}
       {{ $sorted = $sorted | append (dict "name" $name "count" $val.Count "url" $val.Page.Permalink) }}
     {{ end }}
-    {{ range first 8 (sort $sorted "count" "desc") }}
+    {{ range first 7 (sort $sorted "count" "desc") }}
     <a href="{{ .url }}" class="chip">{{ .name }} <span class="chip-count">{{ .count }}</span></a>
     {{ end }}
   </div>
@@ -29,10 +29,10 @@
 
 {{/* Trust strip */}}
 <div class="trust-strip">
-  Independently tracking deals from <strong>AppSumo</strong> · <strong>DealFuel</strong> · <strong>DealMirror</strong> · <strong>Dealify</strong>
+  Independently tracking deals from: <strong>AppSumo</strong> · <strong>DealFuel</strong> · <strong>DealMirror</strong> · <strong>Dealify</strong>
 </div>
 
-{{/* 🔥 Top Rated Deals — top 6 by rating */}}
+{{/* 🔥 Top Rated Deals */}}
 <section class="deals-section">
   <h2>🔥 Top Rated Deals</h2>
   <div class="grid">
@@ -43,7 +43,7 @@
   </div>
 </section>
 
-{{/* 💰 Best Value — top 6 by savings % */}}
+{{/* 💰 Best Value */}}
 <section class="deals-section">
   <h2>💰 Best Value</h2>
   <div class="grid">
@@ -54,7 +54,7 @@
   </div>
 </section>
 
-{{/* 🆕 Recently Added — latest 6 by date */}}
+{{/* 🆕 Recently Added */}}
 <section class="deals-section">
   <h2>🆕 Recently Added</h2>
   <div class="grid">
@@ -65,20 +65,21 @@
   </div>
 </section>
 
-{{/* All categories grid */}}
+{{/* Browse by Category — top 24 only */}}
 <section class="categories">
   <h2>Browse by Category</h2>
   <div class="category-grid">
-    {{ range .Site.Taxonomies.categories }}
-    <a href="{{ .Page.Permalink }}" class="category-tag">
-      {{ .Page.Title }} <span class="cat-count">({{ .Count }})</span>
+    {{ $allCats := slice }}
+    {{ range $key, $val := .Site.Taxonomies.categories }}
+      {{ $allCats = $allCats | append (dict "title" $val.Page.Title "count" $val.Count "url" $val.Page.Permalink) }}
+    {{ end }}
+    {{ range first 24 (sort $allCats "count" "desc") }}
+    <a href="{{ .url }}" class="category-tag">
+      {{ .title }} <span class="cat-count">({{ .count }})</span>
     </a>
     {{ end }}
   </div>
 </section>
 
-<p class="view-all"><a href="/deals/">View all {{ $dealCount }} deals →</a></p>
-
-{{/* Affiliate disclosure */}}
-<p class="affiliate-footer-note">💡 We earn a commission when you buy through our links, at no extra cost to you. This keeps the directory free.</p>
+<p class="view-all"><a href="/categories/">View all categories →</a></p>
 {{ end }}

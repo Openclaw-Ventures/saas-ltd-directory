@@ -1,13 +1,7 @@
 {{ define "main" }}
-<section class="deals-listing">
-  <div class="listing-header">
-    <h1>All SaaS Lifetime Deals</h1>
-    <div class="listing-meta">
-      <span class="listing-count">{{ len .Pages }} active deals</span>
-      <span class="updated-badge">🔄 Updated daily</span>
-    </div>
-    <p>Prices verified daily. Sorted by best value.</p>
-  </div>
+<section class="deals-list-page">
+  <h1>All SaaS Lifetime Deals</h1>
+  <p style="font-size: 14px; color: #6B7280; margin-bottom: 24px;">{{ len .Pages }} active deals · Prices verified daily · Sorted by best value</p>
 
   <div class="grid">
     {{ $sorted := sort .Pages ".Params.discount_pct" "desc" }}
