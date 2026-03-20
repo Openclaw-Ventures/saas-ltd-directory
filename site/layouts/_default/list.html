@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section class="listing-page">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div class="grid">
+    {{ range .Pages }}
+    {{ partial "product-card.html" . }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

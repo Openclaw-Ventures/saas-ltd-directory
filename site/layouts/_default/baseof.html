@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{/* Title: SEO-optimized for deal pages */}}
+  {{ if and .IsPage (eq .Section "deals") }}
+  <title>{{ .Params.product_name }} Lifetime Deal — ${{ .Params.price_current }} One-Time | SaaS LTD Deals</title>
+  <meta name="description" content="{{ .Params.tagline | default .Description }}. Get the {{ .Params.product_name }} lifetime deal for ${{ .Params.price_current }}{{ with .Params.discount_pct }} (save {{ . }}%){{ end }}.{{ with .Params.review_count }} {{ . }} verified reviews.{{ end }}">
+  {{ else }}
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  {{ end }}
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ partial "head-seo.html" . }}
+  {{ partial "head-scripts.html" . }}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav>
+      <a href="/" class="logo">🔥 SaaS LTD Deals</a>
+      <div class="nav-links">
+        <a href="/deals/">All Deals</a>
+        <a href="/categories/">Categories</a>
+        <a href="/compare/">Compare</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="site-footer">
+    <p>© {{ now.Year }} SaaS LTD Deals. Prices updated daily. Some links are affiliate links.</p>
+    <p>Last updated: {{ now.Format "January 2, 2006" }}</p>
+  </footer>
+</body>
+</html>

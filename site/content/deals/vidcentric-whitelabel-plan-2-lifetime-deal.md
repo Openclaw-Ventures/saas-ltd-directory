@@ -1,0 +1,48 @@
+---
+title: "Vidcentric WhiteLabel Plan 2 Lifetime Deal — $29"
+description: "What you get in this dealVidCentric Dashboard Access5 Software AppUnlimited White Label RightsCommercial License For All AppsQuick Start Training60DaysMoney Back GuaranteeHurry! Only442Licence are lef"
+date: "2026-03-19T16:28:03.697526+00:00"
+lastmod: "2026-03-19T16:28:03.697526+00:00"
+product_name: "Vidcentric WhiteLabel Plan 2"
+slug: "vidcentric-whitelabel-plan-2-lifetime-deal"
+source: "dealmirror"
+source_url: "https://dealmirror.com/product/vidcentric-lifetime-deal/"
+affiliate_url: "https://dealmirror.com/product/vidcentric-lifetime-deal/?ref=saasltddir"
+price_current: 29.0
+price_original: 1800.0
+price_currency: "USD"
+discount_pct: 98
+rating: 5.0
+review_count: 3
+image: "https://dealmirror.com/wp-content/uploads/2022/02/VidCentric-lifetime-deal-feature-image.png"
+deal_active: true
+last_scraped: "2026-03-19T16:28:03.697526+00:00"
+last_updated: "2026-03-19T16:28:03.697526+00:00"
+sources:
+  - "dealmirror"
+---
+
+What you get in this dealVidCentric Dashboard Access5 Software AppUnlimited White Label RightsCommercial License For All AppsQuick Start Training60DaysMoney Back GuaranteeHurry! Only442Licence are lef
+
+## Is It Worth It?
+
+**Deep discount (98% off), but limited reviews.** The price is attractive, but with only 3 reviews, it's harder to gauge long-term quality. Proceed with caution.
+
+
+## Who Is This For?
+
+Best for businesses looking for specialized software tools who need vidcentric whitelabel plan 2 capabilities.
+
+
+## Price Analysis
+
+At **$29 one-time** vs $1800 regular price, you're saving **98%** ($1771) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $150/month subscription — and keeping it forever.
+
+
+_Last updated: 2026-03-19 16:28 UTC_
+
+
+## Get This Deal
+<div style="margin: 2rem 0; display: flex; gap: 1rem; flex-wrap: wrap;">
+  <a href="https://dealmirror.com/product/vidcentric-lifetime-deal/?ref=saasltddir" target="_blank" rel="nofollow sponsored" style="padding: 0.75rem 1.5rem; background-color: #2563eb; color: white; border-radius: 0.5rem; text-decoration: none; font-weight: bold;">Get Lifetime Deal</a>
+</div>

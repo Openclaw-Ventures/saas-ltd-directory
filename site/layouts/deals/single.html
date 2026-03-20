@@ -1,0 +1,104 @@
+{{ define "main" }}
+<article class="deal-page">
+  {{/* Breadcrumb navigation + internal link to category */}}
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Home</a> →
+    {{ with .Params.categories }}{{ range . }}<a href="/categories/{{ . | urlize }}/">{{ . }}</a> → {{ end }}{{ end }}
+    <span>{{ .Params.product_name }}</span>
+  </nav>
+
+  {{/* AdSense: above the fold */}}
+  <div id="ad-top" class="ad-slot" style="min-height:0;display:none;">
+    <!-- AdSense: replace data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" with real publisher ID -->
+  </div>
+
+  <div class="deal-header">
+    {{ with .Params.image }}
+    <img src="{{ . }}" alt="{{ $.Params.product_name }} Lifetime Deal" class="deal-hero-image" loading="lazy">
+    {{ end }}
+    <div class="deal-title-block">
+      <h1>{{ .Params.product_name }} Lifetime Deal</h1>
+      <p class="tagline">{{ .Params.tagline }}</p>
+      {{/* First paragraph for AI citability — natural key facts */}}
+      <p class="deal-intro">{{ .Params.product_name }} is a {{ with .Params.categories }}{{ range . }}{{ . | lower }}{{ end }}{{ else }}software{{ end }} tool available as a lifetime deal on {{ .Params.source | title }} for ${{ .Params.price_current }}{{ with .Params.price_original }} (originally ${{ . }}/year){{ end }}.</p>
+    </div>
+  </div>
+
+  {{/* Quick Facts box — highly citable by AI, structured data */}}
+  <div class="quick-facts">
+    <h2>Quick Facts</h2>
+    <dl>
+      <dt>Price</dt>
+      <dd>${{ .Params.price_current }} one-time</dd>
+      {{ with .Params.price_original }}
+      <dt>Original price</dt>
+      <dd>${{ . }}/year</dd>
+      {{ end }}
+      {{ with .Params.discount_pct }}
+      <dt>Your savings</dt>
+      <dd>{{ . }}%</dd>
+      {{ end }}
+      {{ with .Params.rating }}
+      <dt>Rating</dt>
+      <dd>{{ . }}/5{{ with $.Params.review_count }} ({{ . }} reviews){{ end }}</dd>
+      {{ end }}
+      <dt>Platform</dt>
+      <dd>{{ .Params.source | title }}</dd>
+      {{ with .Params.categories }}{{ range . }}
+      <dt>Category</dt>
+      <dd><a href="/categories/{{ . | urlize }}/">{{ . }}</a></dd>
+      {{ end }}{{ end }}
+      <dt>Last updated</dt>
+      <dd>{{ .Params.last_scraped | time.Format "January 2, 2006" }}</dd>
+    </dl>
+  </div>
+
+  <div class="deal-body">
+    <div class="pricing-box">
+      <div class="price-main">
+        <span class="price-current">${{ .Params.price_current }}</span>
+        <span class="price-label">lifetime access</span>
+      </div>
+      {{ with .Params.price_original }}
+      <div class="price-original">
+        <span>Regular price: ${{ . }}</span>
+        {{ with $.Params.discount_pct }}<span class="discount-badge">Save {{ . }}%</span>{{ end }}
+      </div>
+      {{ end }}
+      <a href="{{ .Params.affiliate_url }}" class="cta-btn-large" target="_blank" rel="noopener sponsored">
+        Get {{ .Params.product_name }} — ${{ .Params.price_current }} Lifetime →
+      </a>
+      <p class="cta-note">One-time payment. No recurring fees.</p>
+    </div>
+
+    <div class="deal-description">
+      <h2>About {{ .Params.product_name }}</h2>
+      {{ .Content }}
+      {{ with .Params.description }}
+      <p>{{ . }}</p>
+      {{ end }}
+    </div>
+  </div>
+
+  {{/* AdSense: mid-content (between verdict/description and related deals) */}}
+  <div id="ad-mid" class="ad-slot" style="min-height:0;display:none;">
+    <!-- AdSense: replace data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" with real publisher ID -->
+  </div>
+
+  <div class="deal-footer">
+    {{/* Internal link back to category */}}
+    {{ with .Params.categories }}
+    <div class="category-link">
+      Browse more deals: {{ range . }}<a href="/categories/{{ . | urlize }}/">{{ . }} Lifetime Deals →</a> {{ end }}
+    </div>
+    {{ end }}
+    <p class="last-updated">Price last verified: {{ .Params.last_scraped | time.Format "January 2, 2006" }}</p>
+    <p class="affiliate-disclosure">This page contains affiliate links. We may earn a commission at no extra cost to you.</p>
+  </div>
+</article>
+
+{{/* AdSense: sidebar on desktop */}}
+<aside id="ad-sidebar" class="ad-slot" style="min-height:0;display:none;">
+  <!-- AdSense: replace data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" with real publisher ID -->
+</aside>
+{{ end }}

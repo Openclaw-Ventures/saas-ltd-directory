@@ -1,0 +1,100 @@
+<!-- Canonical -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ if .IsPage }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+{{ with .Params.image }}<meta property="og:image" content="{{ . }}">{{ end }}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .IsPage }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ with .Params.image }}<meta name="twitter:image" content="{{ . }}">{{ end }}
+
+<!-- Schema.org Product + Offer + BreadcrumbList for deal pages -->
+{{ if and .IsPage (eq .Section "deals") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{ .Params.product_name }}",
+  "description": "{{ .Params.tagline | default .Description }}",
+  {{ with .Params.image }}"image": "{{ . }}",{{ end }}
+  "url": "{{ $.Permalink }}",
+  {{ with .Params.rating }}
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ . }}",
+    "bestRating": "5",
+    "worstRating": "1"{{ with $.Params.review_count }},
+    "reviewCount": "{{ . }}"{{ end }}
+  },
+  {{ end }}
+  "offers": {
+    "@type": "Offer",
+    "price": "{{ .Params.price_current }}",
+    "priceCurrency": "{{ .Params.price_currency | default "USD" }}",
+    "availability": "{{ if .Params.deal_active }}https://schema.org/InStock{{ else }}https://schema.org/Discontinued{{ end }}",
+    "url": "{{ .Params.affiliate_url }}",
+    "seller": {
+      "@type": "Organization",
+      "name": "{{ .Params.source }}"
+    }
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }{{ with .Params.categories }}{{ range $i, $cat := . }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ $cat }}",
+      "item": "{{ $.Site.BaseURL }}categories/{{ $cat | urlize }}/"
+    }{{ end }}{{ end }},
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Params.product_name }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ end }}
+
+<!-- BreadcrumbList for category pages -->
+{{ if and .IsPage (eq .Section "categories") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{ end }}

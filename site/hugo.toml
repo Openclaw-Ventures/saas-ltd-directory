@@ -1,0 +1,37 @@
+baseURL = 'https://saasltddeals.com/'
+languageCode = 'en-us'
+title = 'SaaS LTD Deals — Best Lifetime Software Deals Directory'
+enableRobotsTXT = false
+
+[params]
+  description = "Auto-updated directory of the best SaaS lifetime deals from AppSumo, StackSocial, PitchGround and more. Compare prices, read reviews, find the best deals."
+  tagline = "Every SaaS lifetime deal, one directory."
+  author = "SaaS LTD Deals"
+
+[taxonomies]
+  category = "categories"
+  source = "sources"
+
+[outputFormats]
+  [outputFormats.sitemap]
+    mediaType = "application/xml"
+    baseName = "sitemap"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableSVG = false
+
+[sitemap]
+  changefreq = 'daily'
+  priority = 0.5
+  filename = 'sitemap.xml'

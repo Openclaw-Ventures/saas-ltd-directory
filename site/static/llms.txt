@@ -1,0 +1,137 @@
+# SaaS LTD Deals
+
+> SaaS LTD Deals is a programmatic directory of SaaS lifetime deals — one-time purchase software tools aggregated from AppSumo, DealFuel, DealMirror, and Dealify. Updated nightly.
+
+## What This Site Contains
+- 1,878+ SaaS product listings with real-time pricing
+- Lifetime deal pricing from 4 major platforms
+- Category pages for 95 software categories
+- Product comparison pages
+- Price history tracking
+
+## How To Use This Data
+- Each product page includes: current price, original price, discount %, rating, review count, affiliate purchase link
+- Products marked "Deal Expired" are no longer available at listed price
+- Prices updated nightly via automated scraping
+
+## Categories Available
+- AI
+- AI Automation
+- AI Content Writer
+- AI Image Creator
+- AI Tools
+- AI marketing
+- Accounting software
+- Addons
+- Android
+- Art
+- Audio
+- Browser Based
+- Bundles
+- Business
+- CRM
+- Calendar & scheduling
+- Cloud
+- Content marketing
+- Course
+- Courses & Learning
+- Creative
+- Creative Resources
+- Customer support
+- Design
+- Design Software Tools
+- Developer Tools
+- Development tools
+- Display Fonts
+- E-Commerce
+- Ecommerce
+- Email management
+- Email marketing
+- Flyer Templates
+- Fonts
+- GPT Prompt
+- Graphic Design Resources
+- Illustrations
+- Lead generation
+- Legal
+- Mac Os
+- Marketing management
+- Media management
+- Midjourney Prompts
+- Native app builders
+- Photo
+- Photoshop Actions
+- Privacy
+- Productivity
+- Project management
+- SEO
+- Sales & Marketing
+- Sales management
+- Social Media
+- Software
+- Video
+- Video Editor
+- Web & Hosting
+- Web builders
+
+## Best Deals by Category
+
+### Productivity
+- Shareables: $59 (AppSumo)
+- Documentation.AI: $69 (AppSumo)
+- Journal it!: $39 (AppSumo)
+
+### AI Tools
+- Streamr: $49 (DealMirror)
+- Alt Magic: $49 (DealMirror)
+- VideoProc Converter AI: $30 (DealMirror)
+
+### SEO
+- Visby: $59 (AppSumo)
+- SiteGuru: $79 (AppSumo)
+- Blazly: $79 (AppSumo)
+
+### Email Marketing
+- Reoon Email Verifier: $79 (AppSumo)
+- Newoldstamp: $39 (AppSumo)
+- Emailit: $44 (AppSumo)
+
+### CRM
+- NinjaPipe: $69 (AppSumo)
+
+### Business
+- AI Crypto Risk: $99 (Dealify)
+- WASmsIdea: $79 (Dealify)
+- Spendify: $59 (Dealify)
+
+### Creative
+- CursorClip: $59 (Dealify)
+- Creatiyo: $59 (Dealify)
+- Blupry Bundle: $59 (Dealify)
+
+### Social Media
+- TubeIQ: $99 (Dealify)
+- CrossLike: $59 (Dealify)
+- Qura Al: $59 (Dealify)
+
+### Video
+- Viloud: $99 (AppSumo)
+- reap: $79 (AppSumo)
+- Mootion: $79 (AppSumo)
+
+### Developer Tools
+- Structa: $149 (Dealify)
+- N8Nitro: $220 (Dealify)
+- Likeable: $59 (Dealify)
+
+### Web & Hosting
+- HostNirvana: $79 (Dealify)
+- CopyElement: $80 (Dealify)
+- Whosters: $99 (Dealify)
+
+### Project Management
+- Buildin: $49 (AppSumo)
+- Teable: $69 (AppSumo)
+
+### Ecommerce
+- Evolup: $59 (AppSumo)

@@ -1,0 +1,21 @@
+<div class="product-card">
+  {{ with .Params.image }}
+  <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" class="product-image">
+  {{ end }}
+  <div class="product-info">
+    <h3><a href="{{ .Permalink }}">{{ .Params.product_name }}</a></h3>
+    <p class="tagline">{{ .Params.tagline }}</p>
+    <div class="product-meta">
+      {{ with .Params.category }}<span class="category">{{ . }}</span>{{ end }}
+      {{ with .Params.rating }}<span class="rating">⭐ {{ . }}</span>{{ end }}
+      {{ with .Params.review_count }}<span class="reviews">({{ . }} reviews)</span>{{ end }}
+    </div>
+    <div class="pricing">
+      <span class="price-current">${{ .Params.price_current }}</span>
+      {{ with .Params.price_original }}<span class="price-original">${{ . }}</span>{{ end }}
+      {{ with .Params.discount_pct }}<span class="discount">{{ . }}% off</span>{{ end }}
+    </div>
+    <a href="{{ .Params.affiliate_url }}" class="cta-btn" target="_blank" rel="noopener sponsored">Get This Deal →</a>
+    <span class="source">via {{ .Params.source }}</span>
+  </div>
+</div>

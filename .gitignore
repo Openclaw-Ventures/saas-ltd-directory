@@ -1,0 +1,7 @@
+site/public/
+site/resources/
+data/saas_deals.db
+.env
+__pycache__/
+*.pyc
+.hugo_build.lock

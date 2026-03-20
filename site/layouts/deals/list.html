@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="deals-listing">
+  <h1>All SaaS Lifetime Deals</h1>
+  <p>{{ len .Pages }} active deals. Prices updated daily.</p>
+
+  <div class="grid">
+    {{ range .Pages }}
+    {{ partial "product-card.html" . }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

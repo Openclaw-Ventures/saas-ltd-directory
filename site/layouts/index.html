@@ -1,0 +1,41 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>🔥 Best SaaS Lifetime Deals — Updated Daily</h1>
+  <p>{{ .Site.Params.tagline }}</p>
+  <p class="deal-count">Tracking <strong>{{ len (where .Site.RegularPages "Section" "deals") }}</strong> active deals across AppSumo, DealFuel, DealMirror, and Dealify.</p>
+</section>
+
+{{/* Top 10 products by rating — internal links */}}
+<section class="top-rated">
+  <h2>⭐ Top Rated Deals</h2>
+  <div class="grid">
+    {{ $deals := where .Site.RegularPages "Section" "deals" }}
+    {{ $sorted := sort $deals ".Params.rating" "desc" }}
+    {{ range first 10 $sorted }}
+    {{ partial "product-card.html" . }}
+    {{ end }}
+  </div>
+</section>
+
+<section class="deals-grid">
+  <h2>Latest Deals</h2>
+  <div class="grid">
+    {{ range first 30 (where .Site.RegularPages "Section" "deals") }}
+    {{ partial "product-card.html" . }}
+    {{ end }}
+  </div>
+  <p class="view-all"><a href="/deals/">View all deals →</a></p>
+</section>
+
+{{/* All categories — internal links */}}
+<section class="categories">
+  <h2>Browse by Category</h2>
+  <div class="category-grid">
+    {{ range .Site.Taxonomies.categories }}
+    <a href="{{ .Page.Permalink }}" class="category-tag">
+      {{ .Page.Title }} ({{ .Count }})
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
