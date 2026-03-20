@@ -28,7 +28,7 @@ Boost conversions, leads, and trust with this interactive, face-to-face video wi
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 64 ratings and a 4.7/5 star average. Worth considering if you need lead generation tools for your business.
+**Solid deal.** FacePop holds a 4.7/5 average in the lead generation category. At $69 one-time vs $499/year ($42/month), this deal pays for itself in 2 months and saves you money every month after that. With 64 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need lead generation capabilities without recurring costs.
 
 
 ## Who Is This For?

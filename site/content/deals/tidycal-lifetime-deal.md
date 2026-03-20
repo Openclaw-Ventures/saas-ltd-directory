@@ -28,7 +28,7 @@ Book more customizable meetings using this powerful scheduling software with cal
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 876 ratings and a 4.38/5 star average. Worth considering if you need calendar & scheduling tools for your business.
+**Solid deal.** TidyCal holds a 4.38/5 average in the calendar & scheduling category. At $29 one-time vs $144/year ($12/month), this deal pays for itself in 2 months and saves you money every month after that. With 876 verified reviews, there's substantial user evidence backing this product. A reliable option if you need calendar & scheduling capabilities without recurring costs.
 
 
 ## Who Is This For?

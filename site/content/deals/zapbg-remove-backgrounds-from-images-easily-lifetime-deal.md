@@ -26,7 +26,7 @@ What you get in this deal10 BGR Credits per month10 Credits Rollover per month20
 
 ## Is It Worth It?
 
-**Deep discount (90% off), but limited reviews.** The price is attractive, but with only 6 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (90% off), limited social proof.** At $39 one-time vs $374/year ($31/month), this deal pays for itself in 1 months and saves you money every month after that. With only 6 reviews, user evidence is thin — treat this as an early-stage bet. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

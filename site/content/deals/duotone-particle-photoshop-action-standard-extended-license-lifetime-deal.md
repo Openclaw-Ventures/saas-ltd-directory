@@ -23,7 +23,7 @@ sources:
 
 ## Is It Worth It?
 
-**Low-risk entry point.** At $15, the downside is limited even if the product doesn't fully meet expectations. Worth trying if you need graphic design resources addons tools.
+**Low-risk entry point.** At $15 for a graphic design resources addons tool, the downside is minimal even if it doesn't fully meet expectations. Worth an exploratory purchase.
 
 
 ## Who Is This For?

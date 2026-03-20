@@ -28,7 +28,7 @@ Use this AI ghostwriter to write a book manuscript in less than 24 hours
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 50 ratings and a 4.18/5 star average. Worth considering if you need productivity tools for your business.
+**Solid deal.** First Book ai holds a 4.18/5 average in the productivity category. At $49 one-time vs $107/year ($9/month), this deal pays for itself in 5 months and saves you money every month after that. With 50 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need productivity capabilities without recurring costs.
 
 
 ## Who Is This For?

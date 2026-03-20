@@ -28,7 +28,7 @@ Luminar Neo lifetime DealHave you ever taken a photo that just doesn’t look as
 
 ## Is It Worth It?
 
-**Proceed with caution.** Limited review data makes it difficult to fully assess quality. Check the product's website for demos and detailed feature lists before purchasing.
+**Proceed with caution.** Limited review data for this 15% off tool makes it difficult to fully assess quality. With only 3 reviews, user evidence is thin — treat this as an early-stage bet. Check the product's website for demos and detailed feature lists before purchasing.
 
 
 ## Who Is This For?

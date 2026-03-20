@@ -27,7 +27,7 @@ Generate AI Song CoverNew AI Voice ModelsUnlimited DownloadPriority Support
 
 ## Is It Worth It?
 
-**Low-risk entry point.** At $9, the downside is limited even if the product doesn't fully meet expectations. Worth trying if you need ai tools tools.
+**Low-risk entry point.** At $9 for a ai tools tool, the downside is minimal even if it doesn't fully meet expectations. At $9 one-time vs $10/year ($1/month), this deal pays for itself in 11 months and saves you money every month after that. Worth an exploratory purchase.
 
 
 ## Who Is This For?

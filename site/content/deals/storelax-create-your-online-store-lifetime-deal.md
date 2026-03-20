@@ -26,7 +26,7 @@ What you get in this dealSell physical & digital productsCustom domainEnable Mul
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 5.0/5 rating from 11 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** Storelax : Create your online store has a 5.0/5 average in software. At $79 one-time vs $1049/year ($87/month), this deal pays for itself in 1 months and saves you money every month after that. With only 11 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

@@ -26,7 +26,7 @@ What you get in this deal200+ Premium Photo Effects100,000+ Preset Templates200+
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 5.0/5 rating from 15 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** Fotor: Online Design Maker and Photo Editor has a 5.0/5 average in software. At $50 one-time vs $540/year ($45/month), this deal pays for itself in 1 months and saves you money every month after that. With only 15 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

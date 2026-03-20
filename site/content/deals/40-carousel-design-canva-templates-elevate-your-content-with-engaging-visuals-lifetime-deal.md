@@ -27,7 +27,7 @@ What you get in this dealCarousel Design Canva TemplatesPower of interactive con
 
 ## Is It Worth It?
 
-**Low-risk entry point.** At $9, the downside is limited even if the product doesn't fully meet expectations. Worth trying if you need expired deals tools.
+**Low-risk entry point.** At $9 for a expired deals tool, the downside is minimal even if it doesn't fully meet expectations. At $9 one-time vs $29/year ($2/month), this deal pays for itself in 4 months and saves you money every month after that. Worth an exploratory purchase.
 
 
 ## Who Is This For?

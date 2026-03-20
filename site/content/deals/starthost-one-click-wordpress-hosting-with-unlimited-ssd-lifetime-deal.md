@@ -28,7 +28,7 @@ sources:
 
 ## Is It Worth It?
 
-**Decent option.** StartHost: One-Click WordPress Hosting with Unlimited SSD has a 4.87/5 rating from 34 users. If you're looking for all deals solutions, this is worth a closer look.
+**Decent option.** StartHost: One-Click WordPress Hosting with Unlimited SSD scores 4.87/5 in the all deals space. At $30 one-time vs $150/year ($12/month), this deal pays for itself in 2 months and saves you money every month after that. With 34 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

@@ -28,7 +28,7 @@ Create stunning scheduling pages and manage your bookings with advanced, enterpr
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 98 ratings and a 4.73/5 star average. Worth considering if you need calendar & scheduling tools for your business.
+**Solid deal.** Lunacal holds a 4.73/5 average in the calendar & scheduling category. At $59 one-time vs $360/year ($30/month), this deal pays for itself in 2 months and saves you money every month after that. With 98 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need calendar & scheduling capabilities without recurring costs.
 
 
 ## Who Is This For?

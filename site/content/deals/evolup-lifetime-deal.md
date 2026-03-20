@@ -28,7 +28,7 @@ Launch and manage affiliate websites easily using a suite of AI-powered tools
 
 ## Is It Worth It?
 
-**Decent option.** Evolup has a 4.34/5 rating from 32 users. If you're looking for ecommerce solutions, this is worth a closer look.
+**Decent option.** Evolup scores 4.34/5 in the ecommerce space. At $59 one-time vs $240/year ($20/month), this deal pays for itself in 3 months and saves you money every month after that. With 32 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

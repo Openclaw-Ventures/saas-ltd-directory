@@ -28,7 +28,7 @@ Use this AI-powered live chat widget to analyze your business and provide instan
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 87 ratings and a 4.02/5 star average. Worth considering if you need customer support tools for your business.
+**Solid deal.** Answerly holds a 4.02/5 average in the customer support category. At $69 one-time vs $595/year ($50/month), this deal pays for itself in 1 months and saves you money every month after that. With 87 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need customer support capabilities without recurring costs.
 
 
 ## Who Is This For?

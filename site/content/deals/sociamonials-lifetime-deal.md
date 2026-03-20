@@ -28,7 +28,7 @@ Take over social media with automated posting, viral giveaways, and advanced met
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 240 ratings and a 4.3/5 star average. Worth considering if you need social media tools for your business.
+**Solid deal.** Sociamonials holds a 4.3/5 average in the social media category. At $69 one-time vs $1788/year ($149/month), this deal pays for itself in 0 months and saves you money every month after that. With 240 verified reviews, there's substantial user evidence backing this product. A reliable option if you need social media capabilities without recurring costs.
 
 
 ## Who Is This For?

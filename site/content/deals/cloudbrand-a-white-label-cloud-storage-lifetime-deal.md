@@ -28,7 +28,7 @@ sources:
 
 ## Is It Worth It?
 
-**Deep discount (100% off), but limited reviews.** The price is attractive, but with only 1 review, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (100% off), limited social proof.** With only 1 review, user evidence is thin — treat this as an early-stage bet. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

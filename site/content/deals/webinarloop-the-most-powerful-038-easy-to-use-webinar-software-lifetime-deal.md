@@ -28,7 +28,7 @@ Unlimited Webinars & AttendeesSupports Email & SMS AlertsLive Chat on WebinarsCa
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 4.82/5 rating from 11 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** Webinarloop : The Most Powerful &#038; Easy To Use Webinar Software has a 4.82/5 average in expired deals. At $49 one-time vs $109/year ($9/month), this deal pays for itself in 5 months and saves you money every month after that. With only 11 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

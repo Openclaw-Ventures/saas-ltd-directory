@@ -1,9 +1,14 @@
 # SaaS LTD Deals
 
+> Last updated: 2026-03-20
+> Product pages: https://saas-ltd-directory.netlify.app/deals/{product-slug}/
+> Category pages: https://saas-ltd-directory.netlify.app/categories/{category-slug}/
+> Full listing: https://saas-ltd-directory.netlify.app/llms-full.txt
+
 > SaaS LTD Deals is a programmatic directory of SaaS lifetime deals — one-time purchase software tools aggregated from AppSumo, DealFuel, DealMirror, and Dealify. Updated nightly.
 
 ## What This Site Contains
-- 1,878+ SaaS product listings with real-time pricing
+- 1878+ SaaS product listings with real-time pricing
 - Lifetime deal pricing from 4 major platforms
 - Category pages for 95 software categories
 - Product comparison pages
@@ -15,123 +20,161 @@
 - Prices updated nightly via automated scraping
 
 ## Categories Available
-- AI
-- AI Automation
-- AI Content Writer
-- AI Image Creator
-- AI Tools
-- AI marketing
-- Accounting software
-- Addons
-- Android
-- Art
-- Audio
-- Browser Based
-- Bundles
-- Business
-- CRM
-- Calendar & scheduling
-- Cloud
-- Content marketing
-- Course
-- Courses & Learning
-- Creative
-- Creative Resources
-- Customer support
-- Design
-- Design Software Tools
-- Developer Tools
-- Development tools
-- Display Fonts
-- E-Commerce
-- Ecommerce
-- Email management
-- Email marketing
-- Flyer Templates
-- Fonts
-- GPT Prompt
-- Graphic Design Resources
-- Illustrations
-- Lead generation
-- Legal
-- Mac Os
-- Marketing management
-- Media management
-- Midjourney Prompts
-- Native app builders
-- Photo
-- Photoshop Actions
-- Privacy
-- Productivity
-- Project management
-- SEO
-- Sales & Marketing
-- Sales management
-- Social Media
-- Software
-- Video
-- Video Editor
-- Web & Hosting
-- Web builders
+- 1 99 Store — https://saas-ltd-directory.netlify.app/categories/1-99-store/
+- 15% OFF — https://saas-ltd-directory.netlify.app/categories/15-off/
+- 1password — https://saas-ltd-directory.netlify.app/categories/1password/
+- 20% OFF — https://saas-ltd-directory.netlify.app/categories/20-off/
+- 30% OFF — https://saas-ltd-directory.netlify.app/categories/30-off/
+- 40% OFF — https://saas-ltd-directory.netlify.app/categories/40-off/
+- 50% OFF — https://saas-ltd-directory.netlify.app/categories/50-off/
+- 90% OFF — https://saas-ltd-directory.netlify.app/categories/90-off/
+- AI — https://saas-ltd-directory.netlify.app/categories/ai/
+- AI Automation — https://saas-ltd-directory.netlify.app/categories/ai-automation/
+- AI Content Writer — https://saas-ltd-directory.netlify.app/categories/ai-content-writer/
+- AI Image Creator — https://saas-ltd-directory.netlify.app/categories/ai-image-creator/
+- AI Tools — https://saas-ltd-directory.netlify.app/categories/ai-tools/
+- AI marketing — https://saas-ltd-directory.netlify.app/categories/ai-marketing/
+- Accounting software — https://saas-ltd-directory.netlify.app/categories/accounting-software/
+- Active Campaign — https://saas-ltd-directory.netlify.app/categories/active-campaign/
+- Addons — https://saas-ltd-directory.netlify.app/categories/addons/
+- Adobe Acrobat — https://saas-ltd-directory.netlify.app/categories/adobe-acrobat/
+- Adobe Photoshop — https://saas-ltd-directory.netlify.app/categories/adobe-photoshop/
+- Affinity — https://saas-ltd-directory.netlify.app/categories/affinity/
+- Ahrefs — https://saas-ltd-directory.netlify.app/categories/ahrefs/
+- All Deals — https://saas-ltd-directory.netlify.app/categories/all-deals/
+- Android — https://saas-ltd-directory.netlify.app/categories/android/
+- Annual Subscription Deals — https://saas-ltd-directory.netlify.app/categories/annual-subscription-deals/
+- Art — https://saas-ltd-directory.netlify.app/categories/art/
+- Audio — https://saas-ltd-directory.netlify.app/categories/audio/
+- B Suite Products — https://saas-ltd-directory.netlify.app/categories/b-suite-products/
+- Browser Based — https://saas-ltd-directory.netlify.app/categories/browser-based/
+- Bundles — https://saas-ltd-directory.netlify.app/categories/bundles/
+- Business — https://saas-ltd-directory.netlify.app/categories/business/
+- CRM — https://saas-ltd-directory.netlify.app/categories/crm/
+- Calendar & scheduling — https://saas-ltd-directory.netlify.app/categories/calendar-and-scheduling/
+- Canva — https://saas-ltd-directory.netlify.app/categories/canva/
+- Cloud — https://saas-ltd-directory.netlify.app/categories/cloud/
+- Content marketing — https://saas-ltd-directory.netlify.app/categories/content-marketing/
+- Copy.AI — https://saas-ltd-directory.netlify.app/categories/copyai/
+- Course — https://saas-ltd-directory.netlify.app/categories/course/
+- Courses &amp; Learning — https://saas-ltd-directory.netlify.app/categories/courses-andamp-learning/
+- Creative — https://saas-ltd-directory.netlify.app/categories/creative/
+- Creative Market's Top Trends — https://saas-ltd-directory.netlify.app/categories/creative-markets-top-trends/
+- Creative Resources — https://saas-ltd-directory.netlify.app/categories/creative-resources/
+- Customer support — https://saas-ltd-directory.netlify.app/categories/customer-support/
+- DealMirror Assured — https://saas-ltd-directory.netlify.app/categories/dealmirror-assured/
+- Deals Under $20 — https://saas-ltd-directory.netlify.app/categories/deals-under-20/
+- Deals under $39 — https://saas-ltd-directory.netlify.app/categories/deals-under-39/
+- Deals under $49 — https://saas-ltd-directory.netlify.app/categories/deals-under-49/
+- Default — https://saas-ltd-directory.netlify.app/categories/default/
+- Design — https://saas-ltd-directory.netlify.app/categories/design/
+- Design Software Tools — https://saas-ltd-directory.netlify.app/categories/design-software-tools/
+- Developer Tools — https://saas-ltd-directory.netlify.app/categories/developer-tools/
+- Development tools — https://saas-ltd-directory.netlify.app/categories/development-tools/
+- Display Fonts — https://saas-ltd-directory.netlify.app/categories/display-fonts/
+- E-Commerce — https://saas-ltd-directory.netlify.app/categories/e-commerce/
+- Ecommerce — https://saas-ltd-directory.netlify.app/categories/ecommerce/
+- Email management — https://saas-ltd-directory.netlify.app/categories/email-management/
+- Email marketing — https://saas-ltd-directory.netlify.app/categories/email-marketing/
+- Expired Deals — https://saas-ltd-directory.netlify.app/categories/expired-deals/
+- Flyer Templates — https://saas-ltd-directory.netlify.app/categories/flyer-templates/
+- Fonts — https://saas-ltd-directory.netlify.app/categories/fonts/
+- Free ChatGPT Prompts — https://saas-ltd-directory.netlify.app/categories/free-chatgpt-prompts/
+- Freebies — https://saas-ltd-directory.netlify.app/categories/freebies/
+- GPT Prompt — https://saas-ltd-directory.netlify.app/categories/gpt-prompt/
+- GoDaddy — https://saas-ltd-directory.netlify.app/categories/godaddy/
+- Graphic Design Resources — https://saas-ltd-directory.netlify.app/categories/graphic-design-resources/
+- Graphic Design Resources Addons — https://saas-ltd-directory.netlify.app/categories/graphic-design-resources-addons/
+- Graphic Design Resources Backgrounds — https://saas-ltd-directory.netlify.app/categories/graphic-design-resources-backgrounds/
+- Graphic Design Resources Fonts — https://saas-ltd-directory.netlify.app/categories/graphic-design-resources-fonts/
+- Halloween — https://saas-ltd-directory.netlify.app/categories/halloween/
+- Illustrations — https://saas-ltd-directory.netlify.app/categories/illustrations/
+- International Yoga Day Special — https://saas-ltd-directory.netlify.app/categories/international-yoga-day-special/
+- Kids — https://saas-ltd-directory.netlify.app/categories/kids/
+- Lead generation — https://saas-ltd-directory.netlify.app/categories/lead-generation/
+- Legal — https://saas-ltd-directory.netlify.app/categories/legal/
+- Mac Os — https://saas-ltd-directory.netlify.app/categories/mac-os/
+- Marketing management — https://saas-ltd-directory.netlify.app/categories/marketing-management/
+- Media management — https://saas-ltd-directory.netlify.app/categories/media-management/
+- Midjourney Prompts — https://saas-ltd-directory.netlify.app/categories/midjourney-prompts/
+- More — https://saas-ltd-directory.netlify.app/categories/more/
+- Native app builders — https://saas-ltd-directory.netlify.app/categories/native-app-builders/
+- Photo — https://saas-ltd-directory.netlify.app/categories/photo/
+- Photoshop Actions — https://saas-ltd-directory.netlify.app/categories/photoshop-actions/
+- Privacy — https://saas-ltd-directory.netlify.app/categories/privacy/
+- Productivity — https://saas-ltd-directory.netlify.app/categories/productivity/
+- Project management — https://saas-ltd-directory.netlify.app/categories/project-management/
+- SEO — https://saas-ltd-directory.netlify.app/categories/seo/
+- Sales & Marketing — https://saas-ltd-directory.netlify.app/categories/sales-and-marketing/
+- Sales management — https://saas-ltd-directory.netlify.app/categories/sales-management/
+- Social Media — https://saas-ltd-directory.netlify.app/categories/social-media/
+- Social media — https://saas-ltd-directory.netlify.app/categories/social-media/
+- Software — https://saas-ltd-directory.netlify.app/categories/software/
+- Subscriptions — https://saas-ltd-directory.netlify.app/categories/subscriptions/
+- Video — https://saas-ltd-directory.netlify.app/categories/video/
+- Video Editor — https://saas-ltd-directory.netlify.app/categories/video-editor/
+- Web & Hosting — https://saas-ltd-directory.netlify.app/categories/web-and-hosting/
+- Web builders — https://saas-ltd-directory.netlify.app/categories/web-builders/
 
 ## Best Deals by Category
 
 ### Productivity
-- Shareables: $59 (AppSumo)
-- Documentation.AI: $69 (AppSumo)
-- Journal it!: $39 (AppSumo)
+- Shareables: $59 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/shareables-lifetime-deal/
+- Documentation.AI: $69 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/documentationai-lifetime-deal/
+- Journal it!: $39 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/journal-it-lifetime-deal/
 
 ### AI Tools
-- Streamr: $49 (DealMirror)
-- Alt Magic: $49 (DealMirror)
-- VideoProc Converter AI: $30 (DealMirror)
+- Streamr : Multilingual Video Translation: $49 (Dealmirror) — https://saas-ltd-directory.netlify.app/deals/streamr-multilingual-video-translation-lifetime-deal/
+- Alt Magic : AI-Powered Alt Text Generator to Boost Your Image SEO: $49 (Dealmirror) — https://saas-ltd-directory.netlify.app/deals/alt-magic-ai-powered-alt-text-generator-to-boost-your-image-seo-lifetime-deal/
+- VideoProc Converter AI : Download, Convert, Edit, Compress, &#038; Record: $30 (Dealmirror) — https://saas-ltd-directory.netlify.app/deals/videoproc-converter-ai-download-convert-edit-compress-038-record-lifetime-deal/
 
 ### SEO
-- Visby: $59 (AppSumo)
-- SiteGuru: $79 (AppSumo)
-- Blazly: $79 (AppSumo)
+- Visby: $59 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/visby-lifetime-deal/
+- SiteGuru: $79 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/siteguru-lifetime-deal/
+- Blazly: $79 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/blazly-lifetime-deal/
 
-### Email Marketing
-- Reoon Email Verifier: $79 (AppSumo)
-- Newoldstamp: $39 (AppSumo)
-- Emailit: $44 (AppSumo)
+### Email marketing
+- Reoon Email Verifier: $79 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/reoon-email-verifier-lifetime-deal/
+- Newoldstamp: $39 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/newoldstamp-lifetime-deal/
+- Emailit: $44 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/emailit-lifetime-deal/
 
 ### CRM
-- NinjaPipe: $69 (AppSumo)
+- NinjaPipe: $69 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/ninjapipe-lifetime-deal/
 
 ### Business
-- AI Crypto Risk: $99 (Dealify)
-- WASmsIdea: $79 (Dealify)
-- Spendify: $59 (Dealify)
+- AI Crypto Risk: $99 (Dealify) — https://saas-ltd-directory.netlify.app/deals/ai-crypto-risk-lifetime-deal/
+- AI Vizologi: $69 (Dealify) — https://saas-ltd-directory.netlify.app/deals/ai-vizologi-lifetime-deal/
+- Business Alchemy eBook: $39 (Dealify) — https://saas-ltd-directory.netlify.app/deals/business-alchemy-ebook-lifetime-deal/
 
 ### Creative
-- CursorClip: $59 (Dealify)
-- Creatiyo: $59 (Dealify)
-- Blupry Bundle: $59 (Dealify)
+- Al Webcam Effects: $119 (Dealify) — https://saas-ltd-directory.netlify.app/deals/al-webcam-effects-lifetime-deal/
+- Blupry Bundle: $59 (Dealify) — https://saas-ltd-directory.netlify.app/deals/blupry-bundle-lifetime-deal/
+- Creatiyo: $59 (Dealify) — https://saas-ltd-directory.netlify.app/deals/creatiyo-lifetime-deal/
 
 ### Social Media
-- TubeIQ: $99 (Dealify)
-- CrossLike: $59 (Dealify)
-- Qura Al: $59 (Dealify)
+- Brand2Social: $59 (Dealify) — https://saas-ltd-directory.netlify.app/deals/brand2social-lifetime-deal/
+- CrossLike: $59 (Dealify) — https://saas-ltd-directory.netlify.app/deals/crosslike-lifetime-deal/
+- LinkedIM: $40 (Dealify) — https://saas-ltd-directory.netlify.app/deals/linkedim-lifetime-deal/
 
 ### Video
-- Viloud: $99 (AppSumo)
-- reap: $79 (AppSumo)
-- Mootion: $79 (AppSumo)
+- Viloud: $99 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/viloud-lifetime-deal/
+- reap: $79 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/reap-lifetime-deal/
+- Mootion: $79 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/mootion-lifetime-deal/
 
 ### Developer Tools
-- Structa: $149 (Dealify)
-- N8Nitro: $220 (Dealify)
-- Likeable: $59 (Dealify)
+- Domain Monitor: $50 (Dealify) — https://saas-ltd-directory.netlify.app/deals/domain-monitor-lifetime-deal/
+- Formspark: $49 (Dealify) — https://saas-ltd-directory.netlify.app/deals/formspark-lifetime-deal/
+- Interactive Shell: $57 (Dealify) — https://saas-ltd-directory.netlify.app/deals/interactive-shell-lifetime-deal/
 
 ### Web & Hosting
-- HostNirvana: $79 (Dealify)
-- CopyElement: $80 (Dealify)
-- Whosters: $99 (Dealify)
+- BuzzEmailHost: $49 (Dealify) — https://saas-ltd-directory.netlify.app/deals/buzzemailhost-lifetime-deal/
+- ContactProtect WP Plugin: $59 (Dealify) — https://saas-ltd-directory.netlify.app/deals/contactprotect-wp-plugin-lifetime-deal/
+- CopyElement: $80 (Dealify) — https://saas-ltd-directory.netlify.app/deals/copyelement-lifetime-deal/
 
-### Project Management
-- Buildin: $49 (AppSumo)
-- Teable: $69 (AppSumo)
+### Project management
+- Buildin: $49 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/buildin-lifetime-deal/
+- Teable: $69 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/teable-lifetime-deal/
 
 ### Ecommerce
-- Evolup: $59 (AppSumo)
+- Evolup: $59 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/evolup-lifetime-deal/
+

@@ -28,7 +28,7 @@ Onboard clients in minutes with a no-code access setup tool for smart agencies
 
 ## Is It Worth It?
 
-**Decent option.** Connexify has a 4.66/5 rating from 32 users. If you're looking for marketing management solutions, this is worth a closer look.
+**Decent option.** Connexify scores 4.66/5 in the marketing management space. At $59 one-time vs $216/year ($18/month), this deal pays for itself in 3 months and saves you money every month after that. With 32 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

@@ -28,7 +28,7 @@ Transform your audio content into stunning videos, podcast show notes,  blog pos
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 66 ratings and a 4.82/5 star average. Worth considering if you need audio tools for your business.
+**Solid deal.** SoundMadeSeen holds a 4.82/5 average in the audio category. At $39 one-time vs $95/year ($8/month), this deal pays for itself in 5 months and saves you money every month after that. With 66 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need audio capabilities without recurring costs.
 
 
 ## Who Is This For?

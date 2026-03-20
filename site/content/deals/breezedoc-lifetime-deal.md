@@ -28,7 +28,7 @@ Use this dynamic electronic signature tool to simplify your document signing pro
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 3.79/5 rating from 149 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** BreezeDoc has a 3.79/5 average in productivity. At $19 one-time vs $180/year ($15/month), this deal pays for itself in 1 months and saves you money every month after that. With 149 verified reviews, there's a meaningful sample of real user feedback. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

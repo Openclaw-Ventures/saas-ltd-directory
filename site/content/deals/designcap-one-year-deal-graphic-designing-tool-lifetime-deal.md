@@ -26,7 +26,7 @@ What you get in this dealUnlimited TemplatesUnlimited Stock IconsUnlimited Modul
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 5.0/5 rating from 11 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** DesignCap One Year Deal : Graphic Designing Tool has a 5.0/5 average in software. At $30 one-time vs $499/year ($42/month), this deal pays for itself in 1 months and saves you money every month after that. With only 11 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

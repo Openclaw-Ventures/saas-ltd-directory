@@ -28,7 +28,7 @@ sources:
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 5.0/5 rating from 13 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** The Stock Footage Club : 50,000+ High Quality Stock Videos &#038; Video Elements has a 5.0/5 average in expired deals. At $29 one-time vs $67/year ($6/month), this deal pays for itself in 5 months and saves you money every month after that. With only 13 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

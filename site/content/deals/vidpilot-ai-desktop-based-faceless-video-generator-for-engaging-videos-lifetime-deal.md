@@ -28,7 +28,7 @@ VidPilot AI Lifetime DealAre you a content creator, or do you own a marketing ag
 
 ## Is It Worth It?
 
-**Deep discount (70% off), but limited reviews.** The price is attractive, but with only 3 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (70% off), limited social proof.** At $147 one-time vs $497/year ($41/month), this deal pays for itself in 4 months and saves you money every month after that. With only 3 reviews, user evidence is thin — treat this as an early-stage bet. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

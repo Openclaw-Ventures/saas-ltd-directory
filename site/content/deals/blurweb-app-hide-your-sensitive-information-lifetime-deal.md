@@ -28,7 +28,7 @@ What you get in this deal3 ActiveBrowsers/DevicesChrome extension & Firefox add-
 
 ## Is It Worth It?
 
-**Low-risk entry point.** At $17, the downside is limited even if the product doesn't fully meet expectations. Worth trying if you need expired deals tools.
+**Low-risk entry point.** At $17 for a expired deals tool, the downside is minimal even if it doesn't fully meet expectations. At $17 one-time vs $28/year ($2/month), this deal pays for itself in 7 months and saves you money every month after that. With only 9 reviews, user evidence is thin — treat this as an early-stage bet. Worth an exploratory purchase.
 
 
 ## Who Is This For?

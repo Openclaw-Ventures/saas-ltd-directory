@@ -28,7 +28,7 @@ SendgoMail Lifetime DealEmail marketing automations, no doubt, is one thing that
 
 ## Is It Worth It?
 
-**Decent option.** SendgoMail: Generate 10x Revenue with Advanced Email Marketing has a 5.0/5 rating from 29 users. If you're looking for 15% off solutions, this is worth a closer look.
+**Decent option.** SendgoMail: Generate 10x Revenue with Advanced Email Marketing scores 5.0/5 in the 15% off space. At $49 one-time vs $99/year ($8/month), this deal pays for itself in 6 months and saves you money every month after that. With 29 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

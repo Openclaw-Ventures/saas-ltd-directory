@@ -28,7 +28,7 @@ What you get in this deal150+ 3D character animated assets14 – 3D characters w
 
 ## Is It Worth It?
 
-**Deep discount (94% off), but limited reviews.** The price is attractive, but with only 7 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (94% off), limited social proof.** At $47 one-time vs $800/year ($67/month), this deal pays for itself in 1 months and saves you money every month after that. With only 7 reviews, user evidence is thin — treat this as an early-stage bet. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

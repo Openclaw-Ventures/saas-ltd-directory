@@ -28,7 +28,7 @@ Create docs, manage projects, and sell premium content using an AI workspace tha
 
 ## Is It Worth It?
 
-**Decent option.** Buildin has a 4.58/5 rating from 33 users. If you're looking for project management solutions, this is worth a closer look.
+**Decent option.** Buildin scores 4.58/5 in the project management space. At $49 one-time vs $120/year ($10/month), this deal pays for itself in 5 months and saves you money every month after that. With 33 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

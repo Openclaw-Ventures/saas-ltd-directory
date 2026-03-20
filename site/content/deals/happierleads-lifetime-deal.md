@@ -28,7 +28,7 @@ Identify exact website visitors, qualify them, and convert them into leads
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 102 ratings and a 4.29/5 star average. Worth considering if you need lead generation tools for your business.
+**Solid deal.** Happierleads holds a 4.29/5 average in the lead generation category. At $69 one-time vs $2988/year ($249/month), this deal pays for itself in 0 months and saves you money every month after that. With 102 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need lead generation capabilities without recurring costs.
 
 
 ## Who Is This For?

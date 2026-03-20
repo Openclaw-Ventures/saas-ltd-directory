@@ -26,7 +26,7 @@ What you get in this deal10 Million Professional Photos100,000 Professional Vide
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 4.67/5 rating from 18 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** JumpStory : Authentic Stock Photography has a 4.67/5 average in software. At $50 one-time vs $1170/year ($98/month), this deal pays for itself in 1 months and saves you money every month after that. With only 18 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

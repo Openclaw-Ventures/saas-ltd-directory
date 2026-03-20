@@ -28,7 +28,7 @@ Repurpose long videos with an AI video editor that clips, captions, dubs, and pu
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 67 ratings and a 4.49/5 star average. Worth considering if you need video tools for your business.
+**Solid deal.** reap holds a 4.49/5 average in the video category. At $79 one-time vs $1740/year ($145/month), this deal pays for itself in 1 months and saves you money every month after that. With 67 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need video capabilities without recurring costs.
 
 
 ## Who Is This For?

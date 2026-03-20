@@ -28,7 +28,7 @@ Stay compliant with data protection laws using a user-friendly cookie banner and
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 63 ratings and a 4.41/5 star average. Worth considering if you need legal tools for your business.
+**Solid deal.** GetTerms holds a 4.41/5 average in the legal category. At $79 one-time vs $499/year ($42/month), this deal pays for itself in 2 months and saves you money every month after that. With 63 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need legal capabilities without recurring costs.
 
 
 ## Who Is This For?

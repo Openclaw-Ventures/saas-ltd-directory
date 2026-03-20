@@ -28,7 +28,7 @@ Generate hyper-personalized outreach videos, images, and landing pages at scale
 
 ## Is It Worth It?
 
-**Decent option.** RepliQ has a 4.85/5 rating from 27 users. If you're looking for lead generation solutions, this is worth a closer look.
+**Decent option.** RepliQ scores 4.85/5 in the lead generation space. At $49 one-time vs $348/year ($29/month), this deal pays for itself in 2 months and saves you money every month after that. With 27 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

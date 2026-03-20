@@ -28,7 +28,7 @@ Create on-brand ads for Meta, Google, LinkedIn, and more using your brand assets
 
 ## Is It Worth It?
 
-**Deep discount (92% off), but limited reviews.** The price is attractive, but with only 2 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (92% off), limited social proof.** At $99 one-time vs $1199/year ($100/month), this deal pays for itself in 1 months and saves you money every month after that. With only 2 reviews, user evidence is thin — treat this as an early-stage bet. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

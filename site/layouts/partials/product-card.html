@@ -3,7 +3,7 @@
   <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" class="product-image">
   {{ end }}
   <div class="product-info">
-    <h3><a href="{{ .Permalink }}">{{ .Params.product_name }}</a></h3>
+    <h3><a href="{{ .Permalink }}">{{ .Params.product_name | safeHTML }}</a></h3>
     <p class="tagline">{{ .Params.tagline }}</p>
     <div class="product-meta">
       {{ with .Params.rating }}<span class="rating">⭐ {{ . }}/5</span>{{ end }}

@@ -26,7 +26,7 @@ What you get in this deal1600+ Video & Pre-Made TemplatesCouponFacebook coverFac
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 5.0/5 rating from 13 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** GraphySuite Bundle : 1600+ Videos &#038; Pre-Made Templates has a 5.0/5 average in software. At $59 one-time vs $149/year ($12/month), this deal pays for itself in 5 months and saves you money every month after that. With only 13 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

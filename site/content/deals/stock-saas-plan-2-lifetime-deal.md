@@ -25,7 +25,7 @@ What you get in this dealUnlimited Access to App5 Million Images/VideosKeyword S
 
 ## Is It Worth It?
 
-**Deep discount (88% off), but limited reviews.** The price is attractive, but with only 0 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (88% off), limited social proof.** At $29 one-time vs $249/year ($21/month), this deal pays for itself in 1 months and saves you money every month after that. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

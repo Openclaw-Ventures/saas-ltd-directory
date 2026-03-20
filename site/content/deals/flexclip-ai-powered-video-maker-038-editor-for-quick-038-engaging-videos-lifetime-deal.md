@@ -28,7 +28,7 @@ sources:
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 5.0/5 rating from 15 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** FlexClip : AI-Powered Video Maker &#038; Editor for Quick &#038; Engaging Videos has a 5.0/5 average in expired deals. At $69 one-time vs $400/year ($33/month), this deal pays for itself in 2 months and saves you money every month after that. With only 15 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

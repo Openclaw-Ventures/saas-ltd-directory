@@ -25,7 +25,7 @@ What you get in this deal100K contacts100K messages/monthNo BrandingPaths & Imag
 
 ## Is It Worth It?
 
-**Deep discount (98% off), but limited reviews.** The price is attractive, but with only 0 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (98% off), limited social proof.** At $169 one-time vs $7999/year ($667/month), this deal pays for itself in 0 months and saves you money every month after that. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

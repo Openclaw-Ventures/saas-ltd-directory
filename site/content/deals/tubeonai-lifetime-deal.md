@@ -28,7 +28,7 @@ Repurpose videos, podcasts, PDFs, and articles into publish-ready content with A
 
 ## Is It Worth It?
 
-**Decent option.** TubeOnAI has a 4.31/5 rating from 26 users. If you're looking for productivity solutions, this is worth a closer look.
+**Decent option.** TubeOnAI scores 4.31/5 in the productivity space. At $59 one-time vs $108/year ($9/month), this deal pays for itself in 7 months and saves you money every month after that. With 26 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

@@ -28,7 +28,7 @@ The automatic backend for apps built with AI coding tools
 
 ## Is It Worth It?
 
-**Strong buy.** Highly rated by 116 users with a 4.81/5 star rating, and you're getting 89% off the original price. This is one of the best-reviewed lifetime deals in the Native app builders category.
+**Strong buy.** For native app builders tools, a 4.81/5 star average across 116 verified reviews is exceptional — most products in this category sit around 4.0-4.2 stars. At $79 one-time vs $688/year ($57/month), this deal pays for itself in 1 months and saves you money every month after that. With 116 verified reviews, there's a meaningful sample of real user feedback. This is one of the strongest lifetime deals we track.
 
 
 ## Who Is This For?

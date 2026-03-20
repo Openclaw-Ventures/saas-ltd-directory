@@ -28,7 +28,7 @@ Build AI-ready documentation, API docs, and help centers with a knowledgeable em
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 5.0/5 rating from 14 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** Documentation.AI has a 5.0/5 average in productivity. At $69 one-time vs $348/year ($29/month), this deal pays for itself in 2 months and saves you money every month after that. With only 14 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

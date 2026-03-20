@@ -1,5 +1,30 @@
-<!-- Canonical -->
-<link rel="canonical" href="{{ .Permalink }}">
+{{/* Homepage-only schema and OG image */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "SaaS LTD Deals",
+  "url": "https://saas-ltd-directory.netlify.app",
+  "description": "Programmatic directory of SaaS lifetime deals from AppSumo, DealFuel, DealMirror, and Dealify. Updated nightly.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://saas-ltd-directory.netlify.app/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SaaS LTD Deals",
+  "url": "https://saas-ltd-directory.netlify.app",
+  "description": "Independent directory tracking lifetime software deals from AppSumo, DealFuel, DealMirror, and Dealify."
+}
+</script>
+<meta property="og:image" content="https://saas-ltd-directory.netlify.app/images/og-default.png">
+{{ end }}
 
 <!-- Open Graph -->
 <meta property="og:title" content="{{ if .IsPage }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
@@ -34,6 +59,11 @@
     "reviewCount": "{{ . }}"{{ end }}
   },
   {{ end }}
+  "brand": {
+    "@type": "Brand",
+    "name": "{{ .Params.product_name }}"
+  },
+  "category": "{{ with .Params.categories }}{{ range . }}{{ . }}{{ end }}{{ end }}",
   "offers": {
     "@type": "Offer",
     "price": "{{ .Params.price_current }}",
@@ -75,6 +105,34 @@
 </script>
 {{ end }}
 
+<!-- FAQ Schema for deal pages -->
+{{ if and .IsPage (eq .Section "deals") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is the {{ .Params.product_name }} lifetime deal still available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if .Params.deal_active }}Yes, as of {{ with .Params.last_scraped }}{{ . | time.Format "January 2, 2006" }}{{ end }}, {{ .Params.product_name }} is available for ${{ .Params.price_current }} on {{ .Params.source | title }}.{{ else }}This deal is no longer available.{{ end }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does {{ .Params.product_name }} normally cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ .Params.product_name }} normally costs ${{ .Params.price_original }}/year. The lifetime deal saves you {{ .Params.discount_pct }}%."
+      }
+    }
+  ]
+}
+</script>
+{{ end }}
+
 <!-- BreadcrumbList for category pages -->
 {{ if and .IsPage (eq .Section "categories") }}
 <script type="application/ld+json">
@@ -98,3 +156,25 @@
 }
 </script>
 {{ end }}
+
+<!-- ItemList Schema for category/taxonomy pages -->
+{{ if .IsSection }}{{ if eq .Section "categories" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "numberOfItems": {{ len .Pages }},
+  "itemListElement": [
+    {{ range $i, $p := .Pages }}{{ if $i }},{{ end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $i 1 }},
+      "url": "{{ $p.Permalink }}",
+      "name": "{{ $p.Title }}"
+    }{{ end }}
+  ]
+}
+</script>
+{{ end }}{{ end }}

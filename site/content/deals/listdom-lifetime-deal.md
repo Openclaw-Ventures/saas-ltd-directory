@@ -28,7 +28,7 @@ Get an all-in-one WordPress directory plugin with Elementor- and Divi-ready layo
 
 ## Is It Worth It?
 
-**Deep discount (76% off), but limited reviews.** The price is attractive, but with only 1 review, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (76% off), limited social proof.** At $59 one-time vs $249/year ($21/month), this deal pays for itself in 3 months and saves you money every month after that. With only 1 review, user evidence is thin — treat this as an early-stage bet. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

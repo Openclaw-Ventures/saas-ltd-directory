@@ -28,7 +28,7 @@ What you get in this dealBranding removed4 Timer types for the use case4 Timer e
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 5.0/5 rating from 13 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** Mailtimer : Create Countdown Timers has a 5.0/5 average in expired deals. At $49 one-time vs $1176/year ($98/month), this deal pays for itself in 0 months and saves you money every month after that. With only 13 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

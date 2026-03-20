@@ -25,7 +25,7 @@ What you get in this dealExpertly produced Canva templatesProfessional polish im
 
 ## Is It Worth It?
 
-**Deep discount (91% off), but limited reviews.** The price is attractive, but with only 0 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (91% off), limited social proof.** At $7 one-time vs $79/year ($7/month), this deal pays for itself in 1 months and saves you money every month after that. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

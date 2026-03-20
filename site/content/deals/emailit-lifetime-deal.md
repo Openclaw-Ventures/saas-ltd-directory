@@ -28,7 +28,7 @@ Send transactional and marketing emails easily with built-in campaigns, SMTP, an
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 171 ratings and a 4.32/5 star average. Worth considering if you need email marketing tools for your business.
+**Solid deal.** Emailit holds a 4.32/5 average in the email marketing category. At $44 one-time vs $288/year ($24/month), this deal pays for itself in 2 months and saves you money every month after that. With 171 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need email marketing capabilities without recurring costs.
 
 
 ## Who Is This For?

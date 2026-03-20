@@ -25,7 +25,7 @@ What you get in this dealUnlimited Links/MonthBranded Links ManagementLink Short
 
 ## Is It Worth It?
 
-**Deep discount (87% off), but limited reviews.** The price is attractive, but with only 0 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (87% off), limited social proof.** At $117 one-time vs $899/year ($75/month), this deal pays for itself in 2 months and saves you money every month after that. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

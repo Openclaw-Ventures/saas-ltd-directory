@@ -26,7 +26,7 @@ What you get in this dealLogo File AssetsBrand Identity KitLogo Opener VideoExcl
 
 ## Is It Worth It?
 
-**Low-risk entry point.** At $22, the downside is limited even if the product doesn't fully meet expectations. Worth trying if you need software tools.
+**Low-risk entry point.** At $22 for a software tool, the downside is minimal even if it doesn't fully meet expectations. At $22 one-time vs $67/year ($6/month), this deal pays for itself in 4 months and saves you money every month after that. With only 5 reviews, user evidence is thin — treat this as an early-stage bet. Worth an exploratory purchase.
 
 
 ## Who Is This For?

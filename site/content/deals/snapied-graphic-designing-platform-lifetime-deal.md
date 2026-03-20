@@ -26,7 +26,7 @@ What you get in this dealUnlimited UsersUnlimited WorkspacesUnlimited Brand Pres
 
 ## Is It Worth It?
 
-**Decent option.** Snapied : Graphic Designing Platform has a 5.0/5 rating from 22 users. If you're looking for software solutions, this is worth a closer look.
+**Decent option.** Snapied : Graphic Designing Platform scores 5.0/5 in the software space. At $70 one-time vs $480/year ($40/month), this deal pays for itself in 2 months and saves you money every month after that. With 22 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

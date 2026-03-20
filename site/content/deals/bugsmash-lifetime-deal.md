@@ -28,7 +28,7 @@ Review live websites, annotate PDFs online, and collect clear visual feedback ac
 
 ## Is It Worth It?
 
-**Decent option.** BugSmash has a 4.91/5 rating from 34 users. If you're looking for productivity solutions, this is worth a closer look.
+**Decent option.** BugSmash scores 4.91/5 in the productivity space. At $79 one-time vs $240/year ($20/month), this deal pays for itself in 4 months and saves you money every month after that. With 34 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

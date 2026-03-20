@@ -27,7 +27,7 @@ MailDitch Lifetime DealWe’ve all been there. You want to try a new tool, downl
 
 ## Is It Worth It?
 
-**Proceed with caution.** Limited review data makes it difficult to fully assess quality. Check the product's website for demos and detailed feature lists before purchasing.
+**Proceed with caution.** Limited review data for this all deals tool makes it difficult to fully assess quality. Check the product's website for demos and detailed feature lists before purchasing.
 
 
 ## Who Is This For?

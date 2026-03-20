@@ -26,7 +26,7 @@ Get 15-minute reads of the best book and the best ideas in a nutshell based on y
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 162 ratings and a 4.62/5 star average. Worth considering if you need software tools for your business.
+**Solid deal.** Headway holds a 4.62/5 average in the software category. At $59 one-time vs $99/year ($8/month), this deal pays for itself in 7 months and saves you money every month after that. With 162 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need software capabilities without recurring costs.
 
 
 ## Who Is This For?

@@ -23,7 +23,7 @@ sources:
 
 ## Is It Worth It?
 
-**Low-risk entry point.** At $1, the downside is limited even if the product doesn't fully meet expectations. Worth trying if you need software tools.
+**Low-risk entry point.** At $1 for a software tool, the downside is minimal even if it doesn't fully meet expectations. At $1 one-time vs $2/year ($0/month), this deal pays for itself in 6 months and saves you money every month after that. Worth an exploratory purchase.
 
 
 ## Who Is This For?

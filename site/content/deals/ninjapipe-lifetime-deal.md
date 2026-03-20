@@ -28,7 +28,7 @@ Monitor your entire business with this AI-driven CRM and sales platform
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 3.86/5 rating from 58 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** NinjaPipe has a 3.86/5 average in crm. At $69 one-time vs $588/year ($49/month), this deal pays for itself in 1 months and saves you money every month after that. With 58 verified reviews, there's a meaningful sample of real user feedback. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

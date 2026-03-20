@@ -28,7 +28,7 @@ Full-Screen DisplayUnlimited Time Mirroring​Mirror PC to Other Device​Remove
 
 ## Is It Worth It?
 
-**Deep discount (81% off), but limited reviews.** The price is attractive, but with only 5 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (81% off), limited social proof.** At $49 one-time vs $259/year ($22/month), this deal pays for itself in 2 months and saves you money every month after that. With only 5 reviews, user evidence is thin — treat this as an early-stage bet. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

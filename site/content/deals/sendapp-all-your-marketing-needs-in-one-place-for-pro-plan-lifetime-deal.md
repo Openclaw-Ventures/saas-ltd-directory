@@ -26,7 +26,7 @@ What you get in this deal200 Automatic SubmissionsContacts DirectoryReport Submi
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 4.9/5 rating from 10 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** SendApp : All your Marketing Needs in One Place For Pro Plan has a 4.9/5 average in software. At $59 one-time vs $99/year ($8/month), this deal pays for itself in 7 months and saves you money every month after that. With only 10 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

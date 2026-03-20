@@ -26,7 +26,7 @@ What you get in this dealUnlimited Exports For Images & Videos1000+ Templates100
 
 ## Is It Worth It?
 
-**Decent option.** OFFEO : Animated Online Video Maker has a 4.9/5 rating from 20 users. If you're looking for software solutions, this is worth a closer look.
+**Decent option.** OFFEO : Animated Online Video Maker scores 4.9/5 in the software space. At $98 one-time vs $1800/year ($150/month), this deal pays for itself in 1 months and saves you money every month after that. With 20 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

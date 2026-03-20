@@ -28,7 +28,7 @@ Build an AI-native system for projects, CRM, and marketing
 
 ## Is It Worth It?
 
-**Decent option.** Teable has a 4.41/5 rating from 41 users. If you're looking for project management solutions, this is worth a closer look.
+**Decent option.** Teable scores 4.41/5 in the project management space. At $69 one-time vs $360/year ($30/month), this deal pays for itself in 2 months and saves you money every month after that. With 41 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

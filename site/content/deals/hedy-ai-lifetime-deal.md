@@ -28,7 +28,7 @@ Your AI-powered assistant for navigating professional conversations with confide
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 180 ratings and a 4.78/5 star average. Worth considering if you need productivity tools for your business.
+**Solid deal.** Hedy AI holds a 4.78/5 average in the productivity category. At $179 one-time vs $299/year ($25/month), this deal pays for itself in 7 months and saves you money every month after that. With 180 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need productivity capabilities without recurring costs.
 
 
 ## Who Is This For?

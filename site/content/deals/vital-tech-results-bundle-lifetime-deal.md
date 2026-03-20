@@ -26,7 +26,7 @@ Are you a small business looking to make a big impact online? Look no further th
 
 ## Is It Worth It?
 
-**Deep discount (72% off), but limited reviews.** The price is attractive, but with only 0 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (72% off), limited social proof.** At $150 one-time vs $540/year ($45/month), this deal pays for itself in 3 months and saves you money every month after that. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

@@ -27,7 +27,7 @@ What you get in this deal1000+ Canva Editable Animated ReelsAll-in-one solution 
 
 ## Is It Worth It?
 
-**Proceed with caution.** Limited review data makes it difficult to fully assess quality. Check the product's website for demos and detailed feature lists before purchasing.
+**Proceed with caution.** Limited review data for this expired deals tool makes it difficult to fully assess quality. Check the product's website for demos and detailed feature lists before purchasing.
 
 
 ## Who Is This For?

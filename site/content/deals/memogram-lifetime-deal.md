@@ -28,7 +28,7 @@ Collect all the photos and videos taken by your guest at an event using a simple
 
 ## Is It Worth It?
 
-**Decent option.** Memogram has a 4.53/5 rating from 43 users. If you're looking for media management solutions, this is worth a closer look.
+**Decent option.** Memogram scores 4.53/5 in the media management space. At $59 one-time vs $149/year ($12/month), this deal pays for itself in 5 months and saves you money every month after that. With 43 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

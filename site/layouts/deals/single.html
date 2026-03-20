@@ -7,10 +7,22 @@
     <span>{{ .Params.product_name }}</span>
   </nav>
 
+  {{/* CITABILITY: AI-optimized first paragraph — key facts in first 200 words */}}
+  <p class="deal-intro-top">{{ .Params.product_name }} is a {{ with .Params.categories }}{{ range . }}{{ . | lower }}{{ end }}{{ else }}software{{ end }} tool available as a lifetime deal on {{ .Params.source | title }} for ${{ .Params.price_current }}{{ with .Params.price_original }} (originally ${{ . }}/year{{ with $.Params.discount_pct }}, {{ . }}% off{{ end }}){{ end }}.{{ with .Params.rating }} It has {{ . }}/5 stars{{ end }}{{ with .Params.review_count }} from {{ . }} verified reviews{{ end }}.{{ with .Params.tagline }} {{ . }}.{{ end }}</p>
+
+  <dl class="quick-facts-top">
+    <dt>Price</dt><dd>${{ .Params.price_current }} one-time</dd>
+    {{ with .Params.price_original }}<dt>Original</dt><dd>${{ . }}/year</dd>{{ end }}
+    {{ with .Params.discount_pct }}<dt>Savings</dt><dd>{{ . }}%</dd>{{ end }}
+    {{ with .Params.rating }}<dt>Rating</dt><dd>{{ . }}/5{{ with $.Params.review_count }} ({{ . }} reviews){{ end }}</dd>{{ end }}
+    <dt>Platform</dt><dd>{{ .Params.source | title }}</dd>
+    {{ with .Params.categories }}{{ range . }}<dt>Category</dt><dd>{{ . }}</dd>{{ end }}{{ end }}
+  </dl>
+
   {{/* 2. Hero Section — above the fold */}}
   <div class="deal-hero">
     <div class="deal-hero-content">
-      <h1>{{ .Params.product_name }} Lifetime Deal</h1>
+      <h1>{{ .Params.product_name | safeHTML }} Lifetime Deal</h1>
       <div class="hero-rating">
         {{ with .Params.rating }}⭐ {{ . }}/5{{ end }}{{ with .Params.review_count }} <span class="review-count">({{ . }} reviews{{ with $.Params.source }} on {{ . | title }}{{ end }})</span>{{ end }}
       </div>
@@ -87,9 +99,6 @@
     <p>{{ . }}</p>
   </div>
   {{ end }}
-
-  {{/* First paragraph for AI citability */}}
-  <p class="deal-intro">{{ .Params.product_name }} is a {{ with .Params.categories }}{{ range . }}{{ . | lower }}{{ end }}{{ else }}software{{ end }} tool available as a lifetime deal on {{ .Params.source | title }} for ${{ .Params.price_current }}{{ with .Params.price_original }} (originally ${{ . }}/year){{ end }}.</p>
 
   {{/* 7. SECOND CTA */}}
   <div class="cta-mid">

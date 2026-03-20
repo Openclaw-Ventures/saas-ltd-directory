@@ -28,7 +28,7 @@ Build a custom no-code AI workforce to streamline your business
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 98 ratings and a 4.82/5 star average. Worth considering if you need productivity tools for your business.
+**Solid deal.** TeamPal holds a 4.82/5 average in the productivity category. At $69 one-time vs $1950/year ($162/month), this deal pays for itself in 0 months and saves you money every month after that. With 98 verified reviews, there's a meaningful sample of real user feedback. A reliable option if you need productivity capabilities without recurring costs.
 
 
 ## Who Is This For?

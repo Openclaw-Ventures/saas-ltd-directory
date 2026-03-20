@@ -28,7 +28,7 @@ Track AI mentions, benchmark competitors, and generate GEO optimization tasks to
 
 ## Is It Worth It?
 
-**Decent option.** Visby has a 5.0/5 rating from 29 users. If you're looking for seo solutions, this is worth a closer look.
+**Decent option.** Visby scores 5.0/5 in the seo space. At $59 one-time vs $948/year ($79/month), this deal pays for itself in 1 months and saves you money every month after that. With 29 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

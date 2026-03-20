@@ -28,7 +28,7 @@ Create stunning, on-brand images, videos, and 3D models using 30+ AI tools—all
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 3.88/5 rating from 57 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** Phygital+ has a 3.88/5 average in content marketing. At $59 one-time vs $144/year ($12/month), this deal pays for itself in 5 months and saves you money every month after that. With 57 verified reviews, there's a meaningful sample of real user feedback. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

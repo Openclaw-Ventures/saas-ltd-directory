@@ -26,7 +26,7 @@ What you get in this dealChrome extensionUnlimited Meetings & History15 AI Meeti
 
 ## Is It Worth It?
 
-**Deep discount (75% off), but limited reviews.** The price is attractive, but with only 5 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (75% off), limited social proof.** At $45 one-time vs $180/year ($15/month), this deal pays for itself in 3 months and saves you money every month after that. With only 5 reviews, user evidence is thin — treat this as an early-stage bet. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

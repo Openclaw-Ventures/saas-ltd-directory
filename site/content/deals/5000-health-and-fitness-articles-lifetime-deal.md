@@ -25,7 +25,7 @@ What you get in this deal5000 health and fitness articlesProfessionally written 
 
 ## Is It Worth It?
 
-**Low-risk entry point.** At $19, the downside is limited even if the product doesn't fully meet expectations. Worth trying if you need software tools.
+**Low-risk entry point.** At $19 for a software tool, the downside is minimal even if it doesn't fully meet expectations. At $19 one-time vs $29/year ($2/month), this deal pays for itself in 8 months and saves you money every month after that. Worth an exploratory purchase.
 
 
 ## Who Is This For?

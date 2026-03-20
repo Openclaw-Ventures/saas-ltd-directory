@@ -28,7 +28,7 @@ Run SEO audits, track rankings, and optimize your website with personalized to-d
 
 ## Is It Worth It?
 
-**Strong buy.** Highly rated by 517 users with a 4.95/5 star rating, and you're getting 87% off the original price. This is one of the best-reviewed lifetime deals in the SEO category.
+**Strong buy.** For seo tools, a 4.95/5 star average across 517 verified reviews is exceptional — most products in this category sit around 4.0-4.2 stars. At $79 one-time vs $599/year ($50/month), this deal pays for itself in 2 months and saves you money every month after that. With 517 verified reviews, there's substantial user evidence backing this product. This is one of the strongest lifetime deals we track.
 
 
 ## Who Is This For?

@@ -28,7 +28,7 @@ Resell a white-label AI sales agent to your clients and keep 100% of the profit
 
 ## Is It Worth It?
 
-**Decent option.** DM Champ has a 5.0/5 rating from 23 users. If you're looking for lead generation solutions, this is worth a closer look.
+**Decent option.** DM Champ scores 5.0/5 in the lead generation space. At $59 one-time vs $804/year ($67/month), this deal pays for itself in 1 months and saves you money every month after that. With 23 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

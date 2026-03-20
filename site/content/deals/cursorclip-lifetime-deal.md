@@ -26,7 +26,7 @@ What if your screen recordings looked polished—right after you hit stop?Cursor
 
 ## Is It Worth It?
 
-**Proceed with caution.** Limited review data makes it difficult to fully assess quality. Check the product's website for demos and detailed feature lists before purchasing.
+**Proceed with caution.** Limited review data for this creative tool makes it difficult to fully assess quality. Check the product's website for demos and detailed feature lists before purchasing.
 
 
 ## Who Is This For?

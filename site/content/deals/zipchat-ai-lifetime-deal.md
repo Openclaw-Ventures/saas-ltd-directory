@@ -28,7 +28,7 @@ Use this AI agent to handle pre- and post- sales conversations across chat, emai
 
 ## Is It Worth It?
 
-**Decent option.** Zipchat AI has a 4.82/5 rating from 28 users. If you're looking for customer support solutions, this is worth a closer look.
+**Decent option.** Zipchat AI scores 4.82/5 in the customer support space. At $99 one-time vs $550/year ($46/month), this deal pays for itself in 2 months and saves you money every month after that. With 28 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

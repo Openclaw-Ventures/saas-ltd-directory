@@ -26,7 +26,7 @@ What you get in this deal10 Social Profiles10,000+ TemplatesUnlimited Usage of I
 
 ## Is It Worth It?
 
-**Deep discount (70% off), but limited reviews.** The price is attractive, but with only 6 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (70% off), limited social proof.** At $59 one-time vs $199/year ($17/month), this deal pays for itself in 4 months and saves you money every month after that. With only 6 reviews, user evidence is thin — treat this as an early-stage bet. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

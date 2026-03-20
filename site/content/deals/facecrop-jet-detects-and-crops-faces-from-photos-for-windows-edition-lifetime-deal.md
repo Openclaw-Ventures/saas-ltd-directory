@@ -25,7 +25,7 @@ What you get in this dealIntelligent Face DetectionZero Configuration-Fully Auto
 
 ## Is It Worth It?
 
-**Low-risk entry point.** At $20, the downside is limited even if the product doesn't fully meet expectations. Worth trying if you need software tools.
+**Low-risk entry point.** At $20 for a software tool, the downside is minimal even if it doesn't fully meet expectations. At $20 one-time vs $55/year ($5/month), this deal pays for itself in 4 months and saves you money every month after that. Worth an exploratory purchase.
 
 
 ## Who Is This For?

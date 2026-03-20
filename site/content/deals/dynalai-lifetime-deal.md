@@ -28,7 +28,7 @@ Build a LinkedIn brand in 30-90 days by turning ideas, links, PDFs, and images i
 
 ## Is It Worth It?
 
-**Deep discount (84% off), but limited reviews.** The price is attractive, but with only 22 reviews, it's harder to gauge long-term quality. Proceed with caution.
+**Deep discount (84% off), limited social proof.** At $79 one-time vs $480/year ($40/month), this deal pays for itself in 2 months and saves you money every month after that. With 22 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.
 
 
 ## Who Is This For?

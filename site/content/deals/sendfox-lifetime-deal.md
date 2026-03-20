@@ -28,7 +28,7 @@ Schedule and automate your email growth with this affordable email marketing too
 
 ## Is It Worth It?
 
-**Solid deal.** Well-reviewed with 322 ratings and a 4.04/5 star average. Worth considering if you need email marketing tools for your business.
+**Solid deal.** SendFox holds a 4.04/5 average in the email marketing category. At $49 one-time vs $480/year ($40/month), this deal pays for itself in 1 months and saves you money every month after that. With 322 verified reviews, there's substantial user evidence backing this product. A reliable option if you need email marketing capabilities without recurring costs.
 
 
 ## Who Is This For?

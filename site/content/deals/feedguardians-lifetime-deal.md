@@ -28,7 +28,7 @@ Automate comment and DM moderation with AI replies, spam filtering, and intent-b
 
 ## Is It Worth It?
 
-**Mixed reviews.** With a 4.83/5 rating from 12 users, this deal shows promise but may not work for everyone. Read user reviews before committing.
+**Mixed reviews.** FeedGuardians has a 4.83/5 average in social media. At $59 one-time vs $468/year ($39/month), this deal pays for itself in 2 months and saves you money every month after that. With only 12 reviews, user evidence is thin — treat this as an early-stage bet. Read user reviews carefully before committing — experiences vary.
 
 
 ## Who Is This For?

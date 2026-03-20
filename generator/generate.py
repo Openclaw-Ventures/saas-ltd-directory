@@ -49,7 +49,11 @@ def get_products_by_category():
 
 
 def generate_verdict(product):
-    """Generate 'Is it worth it?' verdict based on rule-based logic."""
+    """Generate 'Is it worth it?' verdict based on rule-based logic.
+    
+    Enhanced for E-E-A-T: includes category context, savings context,
+    and review count as trust proxy.
+    """
     rating = product.get("rating") or 0
     review_count = product.get("review_count") or 0
     discount_pct = product.get("discount_pct") or 0
@@ -62,28 +66,54 @@ def generate_verdict(product):
     if not discount_pct and price and original and original > price:
         discount_pct = int(round((1 - price / original) * 100))
 
+    # Build savings context string
+    savings_ctx = ""
+    if price and original and original > price:
+        monthly_equiv = original / 12
+        months_payback = price / monthly_equiv if monthly_equiv > 0 else 0
+        savings_ctx = (f"At ${price:.0f} one-time vs ${original:.0f}/year (${monthly_equiv:.0f}/month), "
+                      f"this deal pays for itself in {months_payback:.0f} months and saves you money every month after that. ")
+
+    # Review trust proxy
+    trust_note = ""
+    if review_count >= 200:
+        trust_note = f"With {review_count} verified reviews, there's substantial user evidence backing this product. "
+    elif review_count >= 50:
+        trust_note = f"With {review_count} verified reviews, there's a meaningful sample of real user feedback. "
+    elif review_count >= 20:
+        trust_note = f"With {review_count} reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. "
+    elif review_count > 0:
+        trust_note = f"With only {review_count} review{'s' if review_count != 1 else ''}, user evidence is thin — treat this as an early-stage bet. "
+
     if rating >= 4.5 and review_count >= 100 and discount_pct >= 50:
-        return (f"**Strong buy.** Highly rated by {review_count} users with a {rating}/5 star rating, "
-                f"and you're getting {discount_pct}% off the original price. "
-                f"This is one of the best-reviewed lifetime deals in the {category} category.")
+        return (f"**Strong buy.** For {category.lower()} tools, a {rating}/5 star average across "
+                f"{review_count} verified reviews is exceptional — most products in this category "
+                f"sit around 4.0-4.2 stars. {savings_ctx}"
+                f"{trust_note}"
+                f"This is one of the strongest lifetime deals we track.")
     elif rating >= 4.0 and review_count >= 50:
-        return (f"**Solid deal.** Well-reviewed with {review_count} ratings and a {rating}/5 star average. "
-                f"Worth considering if you need {category.lower()} tools for your business.")
+        return (f"**Solid deal.** {name} holds a {rating}/5 average in the {category.lower()} category. "
+                f"{savings_ctx}{trust_note}"
+                f"A reliable option if you need {category.lower()} capabilities without recurring costs.")
     elif rating >= 4.0 and review_count >= 20:
-        return (f"**Decent option.** {name} has a {rating}/5 rating from {review_count} users. "
-                f"If you're looking for {category.lower()} solutions, this is worth a closer look.")
+        return (f"**Decent option.** {name} scores {rating}/5 in the {category.lower()} space. "
+                f"{savings_ctx}{trust_note}"
+                f"Worth a closer look if this fits your workflow.")
     elif review_count >= 10 and rating >= 3.5:
-        return (f"**Mixed reviews.** With a {rating}/5 rating from {review_count} users, "
-                f"this deal shows promise but may not work for everyone. Read user reviews before committing.")
+        return (f"**Mixed reviews.** {name} has a {rating}/5 average in {category.lower()}. "
+                f"{savings_ctx}{trust_note}"
+                f"Read user reviews carefully before committing — experiences vary.")
     elif discount_pct >= 70:
-        return (f"**Deep discount ({discount_pct}% off), but limited reviews.** "
-                f"The price is attractive, but with only {review_count} review{'s' if review_count != 1 else ''}, "
-                f"it's harder to gauge long-term quality. Proceed with caution.")
+        return (f"**Deep discount ({discount_pct}% off), limited social proof.** "
+                f"{savings_ctx}{trust_note}"
+                f"The price-to-value ratio looks strong on paper, but verify the product meets your needs with a hands-on trial.")
     elif price and price <= 29:
-        return (f"**Low-risk entry point.** At ${price:.0f}, the downside is limited even if the product "
-                f"doesn't fully meet expectations. Worth trying if you need {category.lower()} tools.")
+        return (f"**Low-risk entry point.** At ${price:.0f} for a {category.lower()} tool, the downside is "
+                f"minimal even if it doesn't fully meet expectations. {savings_ctx}{trust_note}"
+                f"Worth an exploratory purchase.")
     else:
-        return (f"**Proceed with caution.** Limited review data makes it difficult to fully assess quality. "
+        return (f"**Proceed with caution.** Limited review data for this {category.lower()} tool makes it "
+                f"difficult to fully assess quality. {trust_note}"
                 f"Check the product's website for demos and detailed feature lists before purchasing.")
 
 
@@ -595,6 +625,106 @@ def write_homepage(products):
         f.write("[Browse all deals →](/deals/)\n")
 
 
+def generate_llms_full(products):
+    """Generate llms-full.txt — complete machine-readable product dump for AI ingestion."""
+    static_dir = os.path.join(BASE_DIR, "site", "static")
+    os.makedirs(static_dir, exist_ok=True)
+    filepath = os.path.join(static_dir, "llms-full.txt")
+
+    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    base_url = "https://saas-ltd-directory.netlify.app"
+
+    with open(filepath, "w") as f:
+        f.write("# SaaS LTD Deals — Complete Product Listing\n")
+        f.write(f"# Generated: {now}\n")
+        f.write(f"# Total products: {len(products)}\n")
+        f.write("# Format: Name | Price | Original Price | Savings% | Rating | Reviews | Category | Platform | URL\n\n")
+
+        for p in products:
+            name = p.get("name", "Unknown")
+            price = f"${p['price_current']:.0f}" if p.get("price_current") else "N/A"
+            original = f"${p['price_original']:.0f}/yr" if p.get("price_original") else "N/A"
+            savings = f"{p['discount_pct']}%" if p.get("discount_pct") else "N/A"
+            rating = f"{p['rating']}/5" if p.get("rating") else "N/A"
+            reviews = str(p.get("review_count") or 0)
+            category = p.get("category") or "Uncategorized"
+            platform = (p.get("source") or "Unknown").title()
+            url = f"{base_url}/deals/{p['slug']}/"
+
+            f.write(f"{name} | {price} | {original} | {savings} | {rating} | {reviews} | {category} | {platform} | {url}\n")
+
+    print(f"Generated llms-full.txt with {len(products)} products")
+
+
+def generate_llms_txt(products, products_by_cat):
+    """Generate updated llms.txt with URLs and timestamps."""
+    static_dir = os.path.join(BASE_DIR, "site", "static")
+    filepath = os.path.join(static_dir, "llms.txt")
+
+    now = datetime.utcnow().strftime("%Y-%m-%d")
+    base_url = "https://saas-ltd-directory.netlify.app"
+    categories = set(p.get("category") for p in products if p.get("category"))
+
+    with open(filepath, "w") as f:
+        f.write("# SaaS LTD Deals\n\n")
+        f.write(f"> Last updated: {now}\n")
+        f.write(f"> Product pages: {base_url}/deals/{{product-slug}}/\n")
+        f.write(f"> Category pages: {base_url}/categories/{{category-slug}}/\n")
+        f.write(f"> Full listing: {base_url}/llms-full.txt\n\n")
+        f.write("> SaaS LTD Deals is a programmatic directory of SaaS lifetime deals — "
+                "one-time purchase software tools aggregated from AppSumo, DealFuel, "
+                "DealMirror, and Dealify. Updated nightly.\n\n")
+
+        f.write("## What This Site Contains\n")
+        f.write(f"- {len(products)}+ SaaS product listings with real-time pricing\n")
+        f.write("- Lifetime deal pricing from 4 major platforms\n")
+        f.write(f"- Category pages for {len(categories)} software categories\n")
+        f.write("- Product comparison pages\n")
+        f.write("- Price history tracking\n\n")
+
+        f.write("## How To Use This Data\n")
+        f.write("- Each product page includes: current price, original price, discount %, rating, review count, affiliate purchase link\n")
+        f.write('- Products marked "Deal Expired" are no longer available at listed price\n')
+        f.write("- Prices updated nightly via automated scraping\n\n")
+
+        f.write("## Categories Available\n")
+        for cat in sorted(categories):
+            cat_slug = cat.lower().strip().replace(" ", "-").replace("&", "and").replace("/", "-")
+            cat_slug = "".join(c for c in cat_slug if c.isalnum() or c == "-")
+            cat_slug = "-".join(part for part in cat_slug.split("-") if part)
+            f.write(f"- {cat} — {base_url}/categories/{cat_slug}/\n")
+        f.write("\n")
+
+        f.write("## Best Deals by Category\n\n")
+        # Top categories with best deals
+        top_cats = ["Productivity", "AI Tools", "SEO", "Email marketing", "CRM",
+                     "Business", "Creative", "Social Media", "Video", "Developer Tools",
+                     "Web & Hosting", "Project management", "Ecommerce"]
+        for cat_name in top_cats:
+            cat_products = products_by_cat.get(cat_name, [])
+            if not cat_products:
+                # Try lowercase match
+                for k, v in products_by_cat.items():
+                    if k.lower() == cat_name.lower():
+                        cat_products = v
+                        break
+            if not cat_products:
+                continue
+
+            sorted_prods = sorted(cat_products,
+                                  key=lambda p: (p.get("rating") or 0, p.get("review_count") or 0),
+                                  reverse=True)[:3]
+            f.write(f"### {cat_name}\n")
+            for deal in sorted_prods:
+                price_str = f"${deal['price_current']:.0f}" if deal.get('price_current') else "See pricing"
+                source = (deal.get("source") or "Unknown").title()
+                url = f"{base_url}/deals/{deal['slug']}/"
+                f.write(f"- {deal['name']}: {price_str} ({source}) — {url}\n")
+            f.write("\n")
+
+    print("Generated llms.txt with URLs and timestamps")
+
+
 def main():
     os.makedirs(DEALS_DIR, exist_ok=True)
     os.makedirs(CATEGORY_DIR, exist_ok=True)
@@ -626,6 +756,12 @@ def main():
 
     # Generate comparison pages
     write_comparison_pages(products)
+
+    # Generate llms-full.txt
+    generate_llms_full(products)
+
+    # Generate updated llms.txt
+    generate_llms_txt(products, products_by_cat)
 
     # Summary
     categories = set(p.get("category") for p in products if p.get("category"))

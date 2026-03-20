@@ -28,7 +28,7 @@ Connect your Google Sheets, Airtable Base, or Notion to create customized websit
 
 ## Is It Worth It?
 
-**Decent option.** Shareables has a 5.0/5 rating from 35 users. If you're looking for productivity solutions, this is worth a closer look.
+**Decent option.** Shareables scores 5.0/5 in the productivity space. At $59 one-time vs $96/year ($8/month), this deal pays for itself in 7 months and saves you money every month after that. With 35 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?

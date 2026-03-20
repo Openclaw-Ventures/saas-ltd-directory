@@ -27,7 +27,7 @@ PawnHoster Lifetime DealIs your website slow? Do visitors leave before pages fin
 
 ## Is It Worth It?
 
-**Proceed with caution.** Limited review data makes it difficult to fully assess quality. Check the product's website for demos and detailed feature lists before purchasing.
+**Proceed with caution.** Limited review data for this 40% off tool makes it difficult to fully assess quality. Check the product's website for demos and detailed feature lists before purchasing.
 
 
 ## Who Is This For?

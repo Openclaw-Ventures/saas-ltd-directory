@@ -27,7 +27,7 @@ Lifetime AccessComplete Course (30+ HD Videos)All future Course & UpdatesNon-ref
 
 ## Is It Worth It?
 
-**Low-risk entry point.** At $19, the downside is limited even if the product doesn't fully meet expectations. Worth trying if you need course tools.
+**Low-risk entry point.** At $19 for a course tool, the downside is minimal even if it doesn't fully meet expectations. At $19 one-time vs $49/year ($4/month), this deal pays for itself in 5 months and saves you money every month after that. Worth an exploratory purchase.
 
 
 ## Who Is This For?
