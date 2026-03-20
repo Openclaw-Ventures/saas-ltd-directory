@@ -1,0 +1,40 @@
+name: Nightly Rebuild
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 2am UTC daily
+  workflow_dispatch:  # manual trigger
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y hugo
+          pip install playwright
+          playwright install chromium --with-deps
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scrapers
+        run: make scrape
+
+      - name: Generate site content
+        run: make generate
+
+      - name: Build Hugo site
+        run: make build
+
+      - name: Deploy to Netlify
+        run: |
+          npm install -g netlify-cli
+          netlify deploy --dir=site/public --prod --auth=${{ secrets.NETLIFY_AUTH_TOKEN }} --site=${{ secrets.NETLIFY_SITE_ID }}
