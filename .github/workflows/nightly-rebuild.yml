@@ -25,6 +25,9 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
+      - name: Ensure data directory exists
+        run: mkdir -p data
+
       - name: Run scrapers
         run: make scrape
 
