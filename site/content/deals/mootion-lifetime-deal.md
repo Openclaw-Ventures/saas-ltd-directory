@@ -2,7 +2,7 @@
 title: "Mootion Lifetime Deal — $79"
 description: "Turn ideas, text, images, and audio into stunning videos with this user-friendly AI video generator"
 date: "2026-03-19T16:12:19.369677+00:00"
-lastmod: "2026-03-19T16:12:19.369677+00:00"
+lastmod: "2026-03-21T02:04:11.519995+00:00"
 product_name: "Mootion"
 slug: "mootion-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 3.84
 review_count: 139
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/mootion-as-Header-Mootion-16_9_uuid_f39c75ac-46f9-446c-806c-23857b847c92.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.369677+00:00"
-last_updated: "2026-03-19T16:12:19.369677+00:00"
+last_scraped: "2026-03-21T02:04:11.519995+00:00"
+last_updated: "2026-03-21T02:04:11.519995+00:00"
 categories:
   - "Video"
 sources:
@@ -41,7 +41,7 @@ Best for video creators and marketing teams who need mootion capabilities — Tu
 At **$79 one-time** vs $144 regular price, you're saving **45%** ($65) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal

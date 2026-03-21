@@ -2,7 +2,7 @@
 title: "SiteGuru Lifetime Deal — $79"
 description: "Run SEO audits, track rankings, and optimize your website with personalized to-do lists"
 date: "2026-03-19T16:12:19.444067+00:00"
-lastmod: "2026-03-19T16:12:19.444067+00:00"
+lastmod: "2026-03-21T02:04:11.532336+00:00"
 product_name: "SiteGuru"
 slug: "siteguru-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 4.95
 review_count: 517
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/as-Header-SiteGuru-16_9.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.444067+00:00"
-last_updated: "2026-03-19T16:12:19.444067+00:00"
+last_scraped: "2026-03-21T02:04:11.532336+00:00"
+last_updated: "2026-03-21T02:04:11.532336+00:00"
 categories:
   - "SEO"
 sources:
@@ -41,7 +41,7 @@ Best for digital marketers and SEO professionals who need siteguru capabilities 
 At **$79 one-time** vs $599 regular price, you're saving **87%** ($520) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $50/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal
@@ -56,4 +56,4 @@ Looking for similar tools? Check out these deals:
 
 - [Visby](/deals/visby-lifetime-deal/) — $59 (94% off)
 - [Blazly](/deals/blazly-lifetime-deal/) — $79 (74% off)
-- [ClickRank](/deals/clickrank-lifetime-deal/) — $89 (87% off)
+- [BacklinkScan](/deals/backlinkscan-lifetime-deal/) — $99 (90% off)

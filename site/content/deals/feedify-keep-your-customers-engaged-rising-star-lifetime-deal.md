@@ -2,7 +2,7 @@
 title: "Feedify: Keep Your Customers Engaged Rising Star Lifetime Deal — $78"
 description: "What you get in this dealUnlimited NotificationsSchedule Push NotificationsMobile Push NotificationsCampaign Auto ResponderEvent AnimationSurveysSale ReviewsCustomer Feedback FormsRatingsLifetime Upda"
 date: "2026-03-19T16:28:05.603453+00:00"
-lastmod: "2026-03-19T16:28:05.603453+00:00"
+lastmod: "2026-03-21T02:06:52.794718+00:00"
 product_name: "Feedify: Keep Your Customers Engaged Rising Star"
 slug: "feedify-keep-your-customers-engaged-rising-star-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 97
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2019/10/Dealmirror-lifetime-deal-feedify-feature-image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.603453+00:00"
-last_updated: "2026-03-19T16:28:05.603453+00:00"
+last_scraped: "2026-03-21T02:06:52.794718+00:00"
+last_updated: "2026-03-21T02:06:52.794718+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need feedify: kee
 At **$78 one-time** vs $2400 regular price, you're saving **97%** ($2322) compared to buying at full price. That's equivalent to paying just 6.5 months of the regular $200/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

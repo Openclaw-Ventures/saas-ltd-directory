@@ -2,7 +2,7 @@
 title: "150 Photoshop Editing Effects Bundle Lifetime Deal — $19"
 description: "Get 150 Photoshop Editing Effects Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.074877+00:00"
-lastmod: "2026-03-19T16:29:39.074877+00:00"
+lastmod: "2026-03-21T02:05:46.595440+00:00"
 product_name: "150 Photoshop Editing Effects Bundle"
 slug: "150-photoshop-editing-effects-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 97
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Inkydeals-150-Magnificent-Photoshop-Actions-preview-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:39.074877+00:00"
-last_updated: "2026-03-19T16:29:39.074877+00:00"
+last_scraped: "2026-03-21T02:05:46.595440+00:00"
+last_updated: "2026-03-21T02:05:46.595440+00:00"
 categories:
   - "Photoshop Actions"
 sources:
@@ -38,7 +38,7 @@ Best for photoshop actions users who need 150 photoshop editing effects bundle c
 At **$19 one-time** vs $546 regular price, you're saving **97%** ($527) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $46/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

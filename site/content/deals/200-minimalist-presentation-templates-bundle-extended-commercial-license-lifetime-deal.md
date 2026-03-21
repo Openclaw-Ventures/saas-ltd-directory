@@ -2,7 +2,7 @@
 title: "200 Minimalist Presentation Templates Bundle | Extended Commercial License Lifetime Deal — $19"
 description: "Get 200 Minimalist Presentation Templates Bundle | Extended Commercial License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.306545+00:00"
-lastmod: "2026-03-19T16:29:38.306545+00:00"
+lastmod: "2026-03-21T02:05:45.839672+00:00"
 product_name: "200 Minimalist Presentation Templates Bundle | Extended Commercial License"
 slug: "200-minimalist-presentation-templates-bundle-extended-commercial-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 34
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Minimalist-Presentation-Templates-Bundle-Feature-Image-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.306545+00:00"
-last_updated: "2026-03-19T16:29:38.306545+00:00"
+last_scraped: "2026-03-21T02:05:45.839672+00:00"
+last_updated: "2026-03-21T02:05:45.839672+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 200 minimalist presentation templates bundle | 
 At **$19 one-time** vs $29 regular price, you're saving **34%** ($10) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

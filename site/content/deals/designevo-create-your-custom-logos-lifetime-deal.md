@@ -2,7 +2,7 @@
 title: "DesignEvo : Create Your Custom Logos Lifetime Deal — $49"
 description: "What you get in this dealGet 5 logosDrag and Drop InterfaceMillion of Icons10,000+ TemplatesHundreds of FontsFully CustomizableVector FilesCloud SavingHurry! Only00Licence are left"
 date: "2026-03-19T16:28:04.945181+00:00"
-lastmod: "2026-03-19T16:28:04.945181+00:00"
+lastmod: "2026-03-21T02:06:52.211128+00:00"
 product_name: "DesignEvo : Create Your Custom Logos"
 slug: "designevo-create-your-custom-logos-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 10
 image: "https://dealmirror.com/wp-content/uploads/2020/10/designevo-feature.jpg.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.945181+00:00"
-last_updated: "2026-03-19T16:28:04.945181+00:00"
+last_scraped: "2026-03-21T02:06:52.211128+00:00"
+last_updated: "2026-03-21T02:06:52.211128+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need designevo : 
 At **$49 one-time** vs $245 regular price, you're saving **80%** ($196) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $20/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

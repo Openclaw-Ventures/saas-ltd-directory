@@ -2,7 +2,7 @@
 title: "FOMO Lifetime Deal — $29"
 description: "Learnitive FOMO Notification is an AI-powered no-code notification app that introduces a smart and simple way to generate valuable social proof pop-ups from customers and visitors"
 date: "2026-03-19T16:26:52.770474+00:00"
-lastmod: "2026-03-19T16:26:52.770474+00:00"
+lastmod: "2026-03-21T02:06:54.924874+00:00"
 product_name: "FOMO"
 slug: "fomo-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/fomo-1_jpg.webp?v=1728889389"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.770474+00:00"
-last_updated: "2026-03-19T16:26:52.770474+00:00"
+last_scraped: "2026-03-21T02:06:54.924874+00:00"
+last_updated: "2026-03-21T02:06:54.924874+00:00"
 categories:
   - "Web & Hosting"
 sources:
@@ -39,7 +39,7 @@ Best for website owners and webmasters who need fomo capabilities.
 At **$29 one-time** vs $290 regular price, you're saving **90%** ($261) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $24/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

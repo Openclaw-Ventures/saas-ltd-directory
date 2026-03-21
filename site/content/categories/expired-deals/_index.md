@@ -1,8 +1,10 @@
 ---
-title: "Best Expired Deals Lifetime Deals (2026)"
-description: "Looking for expired deals lifetime deals? Here are the best one-time deals available in 2026, updated daily from AppSumo, DealFuel, DealMirror, and Dealify"
+title: "Expired Lifetime Deals"
+description: "These deals are no longer available. Browse active lifetime deals instead."
 category: "Expired Deals"
 deal_count: 169
+noindex: true
+sitemap_exclude: true
 ---
 
 # Best Expired Deals Lifetime Deals

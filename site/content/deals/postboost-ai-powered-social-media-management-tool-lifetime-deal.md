@@ -2,7 +2,7 @@
 title: "PostBoost : AI-Powered Social Media Management Tool Lifetime Deal — $49"
 description: "All toolsUnlimited scheduled postsSocial Media Accounts"
 date: "2026-03-19T16:28:00.121964+00:00"
-lastmod: "2026-03-19T16:28:00.121964+00:00"
+lastmod: "2026-03-21T02:06:47.229791+00:00"
 product_name: "PostBoost : AI-Powered Social Media Management Tool"
 slug: "postboost-ai-powered-social-media-management-tool-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 90
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/08/PosrBoost-banner-image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.121964+00:00"
-last_updated: "2026-03-19T16:28:00.121964+00:00"
+last_scraped: "2026-03-21T02:06:47.229791+00:00"
+last_updated: "2026-03-21T02:06:47.229791+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need postboost : ai-powered social media manage
 At **$49 one-time** vs $499 regular price, you're saving **90%** ($450) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

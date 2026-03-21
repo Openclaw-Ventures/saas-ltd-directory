@@ -2,7 +2,7 @@
 title: "11-In-1 Floral Watercolor Graphics Bundles Pack | Extended License Lifetime Deal — $21"
 description: "Get 11-In-1 Floral Watercolor Graphics Bundles Pack | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.922976+00:00"
-lastmod: "2026-03-19T16:29:38.922976+00:00"
+lastmod: "2026-03-21T02:05:46.405359+00:00"
 product_name: "11-In-1 Floral Watercolor Graphics Bundles Pack | Extended License"
 slug: "11-in-1-floral-watercolor-graphics-bundles-pack-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/The-11-In-1-Floral-Bundle-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.922976+00:00"
-last_updated: "2026-03-19T16:29:38.922976+00:00"
+last_scraped: "2026-03-21T02:05:46.405359+00:00"
+last_updated: "2026-03-21T02:05:46.405359+00:00"
 categories:
   - "Graphic Design Resources Backgrounds"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources backgrounds users who need 11-in-1 floral wate
 At **$21 one-time** vs $220 regular price, you're saving **90%** ($199) compared to buying at full price. That's equivalent to paying just 1.8 months of the regular $18/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

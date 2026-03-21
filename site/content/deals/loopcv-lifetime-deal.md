@@ -2,7 +2,7 @@
 title: "LoopCV Lifetime Deal — $39"
 description: "Job applications SUCK!You can feel the clock ticking down as you cut and paste, cust and paste"
 date: "2026-03-19T16:26:52.852806+00:00"
-lastmod: "2026-03-19T16:26:52.852806+00:00"
+lastmod: "2026-03-21T02:06:55.023644+00:00"
 product_name: "LoopCV"
 slug: "loopcv-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/loopcv0_jpg.webp?v=1733000663"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.852806+00:00"
-last_updated: "2026-03-19T16:26:52.852806+00:00"
+last_scraped: "2026-03-21T02:06:55.023644+00:00"
+last_updated: "2026-03-21T02:06:55.023644+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$39 one-time** vs $390 regular price, you're saving **90%** ($351) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $32/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

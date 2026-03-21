@@ -2,7 +2,7 @@
 title: "GoEmail Tracker : Secured Email Tracker For Gmail &#038; Workspace Lifetime Deal — $12"
 description: "For 1 Email AccountUnlimited Email opens trackingUnlimited Link clicks trackingLive notification on email open/click"
 date: "2026-03-19T16:28:00.327458+00:00"
-lastmod: "2026-03-19T16:28:00.327458+00:00"
+lastmod: "2026-03-21T02:06:47.424590+00:00"
 product_name: "GoEmail Tracker : Secured Email Tracker For Gmail &#038; Workspace"
 slug: "goemail-tracker-secured-email-tracker-for-gmail-038-workspace-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2023/08/goemail-feature-image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.327458+00:00"
-last_updated: "2026-03-19T16:28:00.327458+00:00"
+last_scraped: "2026-03-21T02:06:47.424590+00:00"
+last_updated: "2026-03-21T02:06:47.424590+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need goemail tracker : secured email tracker fo
 At **$12 one-time** vs $120 regular price, you're saving **90%** ($108) compared to buying at full price. That's equivalent to paying just 1.0 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

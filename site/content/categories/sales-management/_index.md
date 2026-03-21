@@ -13,13 +13,13 @@ Looking for sales management lifetime deals? Here are the best one-time deals av
 
 ## ⭐ Top Picks
 
-1. **[Nonverbia](/deals/nonverbia-lifetime-deal/)** — $89 (61% off) — 5.0/5 (3 reviews)
+1. **[Nonverbia](/deals/nonverbia-lifetime-deal/)** — $89 (80% off) — 5.0/5 (3 reviews)
 
 ## All Deals
 
 | Deal | Price | Discount | Platform |
 |------|-------|----------|----------|
-| [Nonverbia](/deals/nonverbia-lifetime-deal/) | $89 | 61% off | Appsumo |
+| [Nonverbia](/deals/nonverbia-lifetime-deal/) | $89 | 80% off | Appsumo |
 
 ## Why buy a sales management LTD?
 

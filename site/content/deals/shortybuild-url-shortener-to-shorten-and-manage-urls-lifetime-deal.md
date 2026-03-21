@@ -2,7 +2,7 @@
 title: "ShortyBuild: URL Shortener to Shorten and Manage URLs Lifetime Deal Lifetime Deal — $9"
 description: "2000 Short linksSEO FeaturesIn-depth Statistics90 days statistics retention"
 date: "2026-03-19T16:28:00.211526+00:00"
-lastmod: "2026-03-19T16:28:00.211526+00:00"
+lastmod: "2026-03-21T02:06:47.324423+00:00"
 product_name: "ShortyBuild: URL Shortener to Shorten and Manage URLs Lifetime Deal"
 slug: "shortybuild-url-shortener-to-shorten-and-manage-urls-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 1
 image: "https://dealmirror.com/wp-content/uploads/2024/07/ShortyBuild.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.211526+00:00"
-last_updated: "2026-03-19T16:28:00.211526+00:00"
+last_scraped: "2026-03-21T02:06:47.324423+00:00"
+last_updated: "2026-03-21T02:06:47.324423+00:00"
 categories:
   - "50% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 50% off users who need shortybuild: url shortener to shorten and manage
 At **$9 one-time** vs $49 regular price, you're saving **82%** ($40) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

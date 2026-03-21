@@ -2,7 +2,7 @@
 title: "StickyPassword Lifetime Deal — $29"
 description: "Tired of forgetting your passwords or constantly resetting them?Sticky Passwordis your all-in-one solution — the award-winning password manager, form filler, and digital wallet that keeps your online "
 date: "2026-03-19T16:26:52.642551+00:00"
-lastmod: "2026-03-19T16:26:52.642551+00:00"
+lastmod: "2026-03-21T02:06:54.796490+00:00"
 product_name: "StickyPassword"
 slug: "stickypassword-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 85
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/stickypass2_jpg.webp?v=1728889212"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.642551+00:00"
-last_updated: "2026-03-19T16:26:52.642551+00:00"
+last_scraped: "2026-03-21T02:06:54.796490+00:00"
+last_updated: "2026-03-21T02:06:54.796490+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$29 one-time** vs $193 regular price, you're saving **85%** ($164) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "1000+ Productivity ChatGPT Prompt Lifetime Deal — $7"
 description: "What you get in this deal1k+ Productivity ChatGPT PromptHurry! Only174License are left"
 date: "2026-03-19T16:28:00.925452+00:00"
-lastmod: "2026-03-19T16:28:00.925452+00:00"
+lastmod: "2026-03-21T02:06:48.012667+00:00"
 product_name: "1000+ Productivity ChatGPT Prompt"
 slug: "1000-productivity-chatgpt-prompt-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 93
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/05/14.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.925452+00:00"
-last_updated: "2026-03-19T16:28:00.925452+00:00"
+last_scraped: "2026-03-21T02:06:48.012667+00:00"
+last_updated: "2026-03-21T02:06:48.012667+00:00"
 categories:
   - "Deals Under $20"
 sources:
@@ -40,7 +40,7 @@ Best for deals under $20 users who need 1000+ productivity chatgpt prompt capabi
 At **$7 one-time** vs $100 regular price, you're saving **93%** ($93) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

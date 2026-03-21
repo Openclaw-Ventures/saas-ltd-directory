@@ -16,9 +16,9 @@ Comparing two email marketing lifetime deals to help you make the right choice.
 
 | Feature | SendFox | Emailit |
 |---------|---------|----------|
-| **LTD Price** | $49 | $44 |
+| **LTD Price** | $49 | $49 |
 | **Regular Price** | $480 | $288 |
-| **Discount** | 90% | 85% |
+| **Discount** | 90% | 83% |
 | **Rating** | 4.04/5 (322 reviews) | 4.32/5 (171 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | Email marketing | Email marketing |

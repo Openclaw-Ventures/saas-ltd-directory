@@ -2,7 +2,7 @@
 title: "2100+ Photoshop Brushes Bundle | Extended License Lifetime Deal — $25"
 description: "Get 2100+ Photoshop Brushes Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.604217+00:00"
-lastmod: "2026-03-19T16:29:38.604217+00:00"
+lastmod: "2026-03-21T02:05:46.083221+00:00"
 product_name: "2100+ Photoshop Brushes Bundle | Extended License"
 slug: "2100-photoshop-brushes-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 87
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/17-1-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.604217+00:00"
-last_updated: "2026-03-19T16:29:38.604217+00:00"
+last_scraped: "2026-03-21T02:05:46.083221+00:00"
+last_updated: "2026-03-21T02:05:46.083221+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources addons users who need 2100+ photoshop brushes 
 At **$25 one-time** vs $199 regular price, you're saving **87%** ($174) compared to buying at full price. That's equivalent to paying just 2.1 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Krater.ai : The AI SuperApp Lifetime Deal — $79"
 description: "What you get in this deal1K Generations/MonthUnlimited Use casesAll future toolsComplete accessBeta template/tool testerRequest new ideas"
 date: "2026-03-19T16:28:02.595865+00:00"
-lastmod: "2026-03-19T16:28:02.595865+00:00"
+lastmod: "2026-03-21T02:06:49.705629+00:00"
 product_name: "Krater.ai : The AI SuperApp"
 slug: "kraterai-the-ai-superapp-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 83
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/krater.jpeg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.595865+00:00"
-last_updated: "2026-03-19T16:28:02.595865+00:00"
+last_scraped: "2026-03-21T02:06:49.705629+00:00"
+last_updated: "2026-03-21T02:06:49.705629+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need krater.ai : 
 At **$79 one-time** vs $468 regular price, you're saving **83%** ($389) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $39/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

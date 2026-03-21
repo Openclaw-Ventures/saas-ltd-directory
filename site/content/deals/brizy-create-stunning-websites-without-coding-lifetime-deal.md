@@ -2,7 +2,7 @@
 title: "Brizy: Create Stunning Websites Without Coding Lifetime Deal"
 description: "Say goodbye to drafting websites from scratch.You’ve got Hero Headers for a great first impression, Features for inner page content, Pricing to get down to business, and six more categories to streaml"
 date: "2026-03-19T16:28:01.531591+00:00"
-lastmod: "2026-03-19T16:28:01.531591+00:00"
+lastmod: "2026-03-21T02:06:48.640421+00:00"
 product_name: "Brizy: Create Stunning Websites Without Coding"
 slug: "brizy-create-stunning-websites-without-coding-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 100
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/09/Brizy-feature-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.531591+00:00"
-last_updated: "2026-03-19T16:28:01.531591+00:00"
+last_scraped: "2026-03-21T02:06:48.640421+00:00"
+last_updated: "2026-03-21T02:06:48.640421+00:00"
 categories:
   - "Freebies"
 sources:
@@ -35,7 +35,7 @@ Say goodbye to drafting websites from scratch.You’ve got Hero Headers for a gr
 Best for freebies users who need brizy: create stunning websites without coding capabilities — Say goodbye to drafting websites from scratch.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

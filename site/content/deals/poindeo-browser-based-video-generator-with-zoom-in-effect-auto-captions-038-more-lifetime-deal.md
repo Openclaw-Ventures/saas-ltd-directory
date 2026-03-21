@@ -2,7 +2,7 @@
 title: "Poindeo: Browser-Based Video Generator With Zoom-In Effect, Auto Captions &#038; More Lifetime Deal — $70"
 description: "Poindeo Lifetime DealWant to generate creative videos for multiple purposes, but confused & tired of using various time-consuming & technical tools?But here’s the deal! MeetPoindeo, your Online Video "
 date: "2026-03-19T16:27:58.921155+00:00"
-lastmod: "2026-03-19T16:27:58.921155+00:00"
+lastmod: "2026-03-21T02:06:46.210420+00:00"
 product_name: "Poindeo: Browser-Based Video Generator With Zoom-In Effect, Auto Captions &#038; More"
 slug: "poindeo-browser-based-video-generator-with-zoom-in-effect-auto-captions-038-more-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2025/10/Poindeo-Browser-Based-Video-Generator-With-Zoom-In-Effect-Auto-Captions-More.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.921155+00:00"
-last_updated: "2026-03-19T16:27:58.921155+00:00"
+last_scraped: "2026-03-21T02:06:46.210420+00:00"
+last_updated: "2026-03-21T02:06:46.210420+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need poindeo: browser-based video generator wit
 At **$70 one-time** vs $140 regular price, you're saving **50%** ($70) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

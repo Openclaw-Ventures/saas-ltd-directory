@@ -2,7 +2,7 @@
 title: "FormLight: Build Customized Forms with WordPress Form Builder Lifetime Deal — $9"
 description: "FormLight Lifetime DealHave you ever tried building WordPress forms but got lost in the process?? Yes, it is sometimes time-consuming and has so many technical steps.But what if you get to know a tool"
 date: "2026-03-19T16:27:58.535637+00:00"
-lastmod: "2026-03-19T16:27:58.535637+00:00"
+lastmod: "2026-03-21T02:06:45.902977+00:00"
 product_name: "FormLight: Build Customized Forms with WordPress Form Builder"
 slug: "formlight-build-customized-forms-with-wordpress-form-builder-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2026/01/FormLight-Build-Customized-Forms-with-WordPress-Form-Builder.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.535637+00:00"
-last_updated: "2026-03-19T16:27:58.535637+00:00"
+last_scraped: "2026-03-21T02:06:45.902977+00:00"
+last_updated: "2026-03-21T02:06:45.902977+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need formlight: build customized forms with wordpre
 At **$9 one-time** vs $24 regular price, you're saving **62%** ($15) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

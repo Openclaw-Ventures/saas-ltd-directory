@@ -2,7 +2,7 @@
 title: "AWZ Screen Recorder: Screen Recording Tool Lifetime Deal Lifetime Deal — $10"
 description: "Capture webcam and microphone audio for high-quality recordingsRecord 2D/3D games with easeCreate impactful presentations that wow your audience"
 date: "2026-03-19T16:27:59.913622+00:00"
-lastmod: "2026-03-19T16:27:59.913622+00:00"
+lastmod: "2026-03-21T02:06:47.039151+00:00"
 product_name: "AWZ Screen Recorder: Screen Recording Tool Lifetime Deal"
 slug: "awz-screen-recorder-screen-recording-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2024/12/AWZ-Screen-Recorder-Screen-Recording-Tool-Lifetime-Deal.png"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.913622+00:00"
-last_updated: "2026-03-19T16:27:59.913622+00:00"
+last_scraped: "2026-03-21T02:06:47.039151+00:00"
+last_updated: "2026-03-21T02:06:47.039151+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need awz screen recorder: screen recording tool lif
 At **$10 one-time** vs $80 regular price, you're saving **88%** ($70) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

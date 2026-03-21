@@ -2,7 +2,7 @@
 title: "Huge Cinematic Overlays Bundle | Extended Commercial License Lifetime Deal — $49"
 description: "Get Huge Cinematic Overlays Bundle | Extended Commercial License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.950066+00:00"
-lastmod: "2026-03-19T16:29:38.950066+00:00"
+lastmod: "2026-03-21T02:05:46.436365+00:00"
 product_name: "Huge Cinematic Overlays Bundle | Extended Commercial License"
 slug: "huge-cinematic-overlays-bundle-extended-commercial-license-lifetime-deal"
 source: "dealfuel"
@@ -12,8 +12,8 @@ price_current: 49.0
 price_currency: "USD"
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/cinematic-photo-overlays-revised-1-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.950066+00:00"
-last_updated: "2026-03-19T16:29:38.950066+00:00"
+last_scraped: "2026-03-21T02:05:46.436365+00:00"
+last_updated: "2026-03-21T02:05:46.436365+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -36,7 +36,7 @@ Best for graphic design resources addons users who need huge cinematic overlays 
 Available as a one-time purchase at **$49** — no recurring fees.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

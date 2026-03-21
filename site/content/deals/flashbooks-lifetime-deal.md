@@ -2,7 +2,7 @@
 title: "FlashBooks Lifetime Deal — $249"
 description: "Want to improve your life but too busy hustling to read a book?Get FlashBooks!10-20 minute summaries of bestselling business and self-help bookslike Atomic Habits,How to Win Friends and Influence Peop"
 date: "2026-03-19T16:26:52.933159+00:00"
-lastmod: "2026-03-19T16:26:52.933159+00:00"
+lastmod: "2026-03-21T02:06:55.099705+00:00"
 product_name: "FlashBooks"
 slug: "flashbooks-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 86
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/flashbooks1_jpg.webp?v=1733000686"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.933159+00:00"
-last_updated: "2026-03-19T16:26:52.933159+00:00"
+last_scraped: "2026-03-21T02:06:55.099705+00:00"
+last_updated: "2026-03-21T02:06:55.099705+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$249 one-time** vs $1740 regular price, you're saving **86%** ($1491) compared to buying at full price. That's equivalent to paying just 20.8 months of the regular $145/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

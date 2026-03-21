@@ -2,7 +2,7 @@
 title: "AI Crypto Risk Lifetime Deal — $99"
 description: "Ever wondered whether a crypto token is a hidden gem or a cleverly disguised scam before you invest?The crypto market moves fast, and thousands of new tokens appear every month"
 date: "2026-03-19T16:26:52.503752+00:00"
-lastmod: "2026-03-19T16:26:52.503752+00:00"
+lastmod: "2026-03-21T02:06:54.675879+00:00"
 product_name: "AI Crypto Risk"
 slug: "ai-crypto-risk-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 50
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/ai_crypto_risk.jpg?v=1773048337"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.503752+00:00"
-last_updated: "2026-03-19T16:26:52.503752+00:00"
+last_scraped: "2026-03-21T02:06:54.675879+00:00"
+last_updated: "2026-03-21T02:06:54.675879+00:00"
 categories:
   - "Business"
 sources:
@@ -39,7 +39,7 @@ Best for business owners and entrepreneurs who need ai crypto risk capabilities.
 At **$99 one-time** vs $199 regular price, you're saving **50%** ($100) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

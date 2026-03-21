@@ -19,7 +19,7 @@ Comparing two social media lifetime deals to help you make the right choice.
 | **LTD Price** | $69 | $79 |
 | **Regular Price** | $1788 | $480 |
 | **Discount** | 96% | 84% |
-| **Rating** | 4.3/5 (240 reviews) | 3.45/5 (22 reviews) |
+| **Rating** | 4.28/5 (241 reviews) | 3.45/5 (22 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | Social media | Social media |
 

@@ -2,7 +2,7 @@
 title: "150-In-1 Typography T-Shirt Designs | Extended License Lifetime Deal — $12"
 description: "Get 150-In-1 Typography T-Shirt Designs | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.957235+00:00"
-lastmod: "2026-03-19T16:29:38.957235+00:00"
+lastmod: "2026-03-21T02:05:46.444719+00:00"
 product_name: "150-In-1 Typography T-Shirt Designs | Extended License"
 slug: "150-in-1-typography-t-shirt-designs-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 98
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/a-Inkydeal-MianPreview-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.957235+00:00"
-last_updated: "2026-03-19T16:29:38.957235+00:00"
+last_scraped: "2026-03-21T02:05:46.444719+00:00"
+last_updated: "2026-03-21T02:05:46.444719+00:00"
 categories:
   - "Graphic Design Resources"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources users who need 150-in-1 typography t-shirt des
 At **$12 one-time** vs $750 regular price, you're saving **98%** ($738) compared to buying at full price. That's equivalent to paying just 1.0 months of the regular $62/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

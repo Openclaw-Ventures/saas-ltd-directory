@@ -2,7 +2,7 @@
 title: "Groupbox  : Secure Team Collaboration &#038; Task Management Lifetime Deal — $45"
 description: "Groupbox Lifetime DealIt can be hectic to stay updated on team messages, tasks, and upcoming events, important mentions while you’re working.And if you are also facing the same challenge again and aga"
 date: "2026-03-19T16:27:59.172872+00:00"
-lastmod: "2026-03-19T16:27:59.172872+00:00"
+lastmod: "2026-03-21T02:06:46.376058+00:00"
 product_name: "Groupbox  : Secure Team Collaboration &#038; Task Management"
 slug: "groupbox-secure-team-collaboration-038-task-management-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/07/GroupBox-Feature-Image-2.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.172872+00:00"
-last_updated: "2026-03-19T16:27:59.172872+00:00"
+last_scraped: "2026-03-21T02:06:46.376058+00:00"
+last_updated: "2026-03-21T02:06:46.376058+00:00"
 categories:
   - "Deals under $49"
 sources:
@@ -41,7 +41,7 @@ Best for deals under $49 users who need groupbox  : secure team collaboration 
 At **$45 one-time** vs $99 regular price, you're saving **55%** ($54) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

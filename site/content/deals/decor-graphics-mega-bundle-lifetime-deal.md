@@ -2,7 +2,7 @@
 title: "Decor Graphics Mega Bundle Lifetime Deal — $49"
 description: "Get Decor Graphics Mega Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.067757+00:00"
-lastmod: "2026-03-19T16:29:39.067757+00:00"
+lastmod: "2026-03-21T02:05:46.586813+00:00"
 product_name: "Decor Graphics Mega Bundle"
 slug: "decor-graphics-mega-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 99
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Decor-Graphics-Mega-Bundle-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:39.067757+00:00"
-last_updated: "2026-03-19T16:29:39.067757+00:00"
+last_scraped: "2026-03-21T02:05:46.586813+00:00"
+last_updated: "2026-03-21T02:05:46.586813+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need decor graphics mega bundle capabilities.
 At **$49 one-time** vs $4300 regular price, you're saving **99%** ($4251) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $358/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

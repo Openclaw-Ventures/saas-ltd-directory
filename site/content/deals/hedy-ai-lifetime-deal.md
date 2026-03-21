@@ -2,7 +2,7 @@
 title: "Hedy AI Lifetime Deal — $179"
 description: "Your AI-powered assistant for navigating professional conversations with confidence"
 date: "2026-03-19T16:12:19.405716+00:00"
-lastmod: "2026-03-19T16:12:19.405716+00:00"
+lastmod: "2026-03-21T02:04:11.443390+00:00"
 product_name: "Hedy AI"
 slug: "hedy-ai-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 4.78
 review_count: 180
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/hedy-promo-image-automatic-insights-1.jpeg?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.405716+00:00"
-last_updated: "2026-03-19T16:12:19.405716+00:00"
+last_scraped: "2026-03-21T02:04:11.443390+00:00"
+last_updated: "2026-03-21T02:04:11.443390+00:00"
 categories:
   - "Productivity"
 sources:
@@ -41,7 +41,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$179 one-time** vs $299 regular price, you're saving **40%** ($120) compared to buying at full price. That's equivalent to paying just 14.9 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal

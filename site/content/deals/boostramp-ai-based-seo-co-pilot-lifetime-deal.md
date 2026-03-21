@@ -2,7 +2,7 @@
 title: "Boostramp : AI-Based SEO Co-Pilot Lifetime Deal — $69"
 description: "What you get in this dealUnlimited websitesUnlimited backlinksAI-based Growth opportunitiesGoogle Analytics integrationHurry! Only99License are left"
 date: "2026-03-19T16:28:01.514455+00:00"
-lastmod: "2026-03-19T16:28:01.514455+00:00"
+lastmod: "2026-03-21T02:06:48.623551+00:00"
 product_name: "Boostramp : AI-Based SEO Co-Pilot"
 slug: "boostramp-ai-based-seo-co-pilot-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 30
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/09/boostramp-feature.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.514455+00:00"
-last_updated: "2026-03-19T16:28:01.514455+00:00"
+last_scraped: "2026-03-21T02:06:48.623551+00:00"
+last_updated: "2026-03-21T02:06:48.623551+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need boostramp : ai-based seo co-pilot capabili
 At **$69 one-time** vs $99 regular price, you're saving **30%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

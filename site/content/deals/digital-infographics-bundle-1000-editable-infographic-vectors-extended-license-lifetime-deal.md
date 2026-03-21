@@ -2,7 +2,7 @@
 title: "Digital Infographics Bundle: 1000+ Editable Infographic Vectors | Extended License Lifetime Deal — $39"
 description: "Get Digital Infographics Bundle: 1000+ Editable Infographic Vectors | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.837246+00:00"
-lastmod: "2026-03-19T16:29:38.837246+00:00"
+lastmod: "2026-03-21T02:05:46.323440+00:00"
 product_name: "Digital Infographics Bundle: 1000+ Editable Infographic Vectors | Extended License"
 slug: "digital-infographics-bundle-1000-editable-infographic-vectors-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 92
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/68-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.837246+00:00"
-last_updated: "2026-03-19T16:29:38.837246+00:00"
+last_scraped: "2026-03-21T02:05:46.323440+00:00"
+last_updated: "2026-03-21T02:05:46.323440+00:00"
 categories:
   - "Graphic Design Resources"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources users who need digital infographics bundle: 10
 At **$39 one-time** vs $499 regular price, you're saving **92%** ($460) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

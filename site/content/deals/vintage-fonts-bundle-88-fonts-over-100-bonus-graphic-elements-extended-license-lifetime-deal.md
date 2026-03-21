@@ -2,7 +2,7 @@
 title: "Vintage Fonts Bundle: 88 Fonts + Over 100 Bonus Graphic Elements | Extended License Lifetime Deal — $9"
 description: "Get Vintage Fonts Bundle: 88 Fonts + Over 100 Bonus Graphic Elements | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.875394+00:00"
-lastmod: "2026-03-19T16:29:38.875394+00:00"
+lastmod: "2026-03-21T02:05:46.356549+00:00"
 product_name: "Vintage Fonts Bundle: 88 Fonts + Over 100 Bonus Graphic Elements | Extended License"
 slug: "vintage-fonts-bundle-88-fonts-over-100-bonus-graphic-elements-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 95
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/vintage-fonts-bundle-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.875394+00:00"
-last_updated: "2026-03-19T16:29:38.875394+00:00"
+last_scraped: "2026-03-21T02:05:46.356549+00:00"
+last_updated: "2026-03-21T02:05:46.356549+00:00"
 categories:
   - "Graphic Design Resources Fonts"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources fonts users who need vintage fonts bundle: 88 
 At **$9 one-time** vs $194 regular price, you're saving **95%** ($185) compared to buying at full price. That's equivalent to paying just 0.8 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

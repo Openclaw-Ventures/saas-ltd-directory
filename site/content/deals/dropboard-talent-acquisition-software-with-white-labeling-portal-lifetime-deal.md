@@ -2,7 +2,7 @@
 title: "Dropboard: Talent Acquisition Software With White Labeling Portal Lifetime Deal — $59"
 description: "Dropboard Lifetime DealEvery growing business needs to hire, but hiring feels messy: scattered resumes, awkward application flows that send candidates away, and complicated ATS tools built for enterpr"
 date: "2026-03-19T16:27:58.452284+00:00"
-lastmod: "2026-03-19T16:27:58.452284+00:00"
+lastmod: "2026-03-21T02:06:45.830724+00:00"
 product_name: "Dropboard: Talent Acquisition Software With White Labeling Portal"
 slug: "dropboard-talent-acquisition-software-with-white-labeling-portal-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2026/02/Dropboard-Talent-Acquisition-Software-With-White-Labeling-Portal-2.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.452284+00:00"
-last_updated: "2026-03-19T16:27:58.452284+00:00"
+last_scraped: "2026-03-21T02:06:45.830724+00:00"
+last_updated: "2026-03-21T02:06:45.830724+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need dropboard: talent acquisition software with wh
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

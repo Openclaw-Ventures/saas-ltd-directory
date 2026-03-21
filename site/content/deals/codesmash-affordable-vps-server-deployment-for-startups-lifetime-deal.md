@@ -2,7 +2,7 @@
 title: "CodeSmash: Affordable VPS Server Deployment for Startups Lifetime Deal — $279"
 description: "Deploy apps in AWSAutomated CI/CD buildsNo Code API BuilderEmail Supports"
 date: "2026-03-19T16:28:00.020709+00:00"
-lastmod: "2026-03-19T16:28:00.020709+00:00"
+lastmod: "2026-03-21T02:06:47.138369+00:00"
 product_name: "CodeSmash: Affordable VPS Server Deployment for Startups"
 slug: "codesmash-affordable-vps-server-deployment-for-startups-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 1
 image: "https://dealmirror.com/wp-content/uploads/2024/10/CodeSmash-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.020709+00:00"
-last_updated: "2026-03-19T16:28:00.020709+00:00"
+last_scraped: "2026-03-21T02:06:47.138369+00:00"
+last_updated: "2026-03-21T02:06:47.138369+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need codesmash: a
 At **$279 one-time** vs $295 regular price, you're saving **5%** ($16) compared to buying at full price. That's equivalent to paying just 23.2 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

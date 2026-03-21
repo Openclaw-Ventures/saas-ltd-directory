@@ -2,7 +2,7 @@
 title: "The Majestic Christmas Design Bundle | Extended License Lifetime Deal — $19"
 description: "Get The Majestic Christmas Design Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.531103+00:00"
-lastmod: "2026-03-19T16:29:38.531103+00:00"
+lastmod: "2026-03-21T02:05:46.025039+00:00"
 product_name: "The Majestic Christmas Design Bundle | Extended License"
 slug: "the-majestic-christmas-design-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 94
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/00-COVER-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.531103+00:00"
-last_updated: "2026-03-19T16:29:38.531103+00:00"
+last_scraped: "2026-03-21T02:05:46.025039+00:00"
+last_updated: "2026-03-21T02:05:46.025039+00:00"
 categories:
   - "Graphic Design Resources Backgrounds"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources backgrounds users who need the majestic christ
 At **$19 one-time** vs $299 regular price, you're saving **94%** ($280) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

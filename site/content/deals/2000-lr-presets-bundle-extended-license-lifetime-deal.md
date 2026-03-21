@@ -2,7 +2,7 @@
 title: "2000+ Lr Presets Bundle | Extended License Lifetime Deal — $29"
 description: "Get 2000+ Lr Presets Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.334634+00:00"
-lastmod: "2026-03-19T16:29:38.334634+00:00"
+lastmod: "2026-03-21T02:05:45.867581+00:00"
 product_name: "2000+ Lr Presets Bundle | Extended License"
 slug: "2000-lr-presets-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 58
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Lr-Presets-Preview-Image-3-1-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.334634+00:00"
-last_updated: "2026-03-19T16:29:38.334634+00:00"
+last_scraped: "2026-03-21T02:05:45.867581+00:00"
+last_updated: "2026-03-21T02:05:45.867581+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources addons users who need 2000+ lr presets bundle 
 At **$29 one-time** vs $69 regular price, you're saving **58%** ($40) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

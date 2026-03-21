@@ -2,7 +2,7 @@
 title: "22000+ ChatGPT Prompts Bundle Lifetime Deal — $99"
 description: "22000+ Midjourney Prompts BundleIncluded Bonuses"
 date: "2026-03-19T16:28:01.511204+00:00"
-lastmod: "2026-03-19T16:28:01.511204+00:00"
+lastmod: "2026-03-21T02:06:48.619544+00:00"
 product_name: "22000+ ChatGPT Prompts Bundle"
 slug: "22000-chatgpt-prompts-bundle-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 75
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/09/chatGPT-bundal-offer.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.511204+00:00"
-last_updated: "2026-03-19T16:28:01.511204+00:00"
+last_scraped: "2026-03-21T02:06:48.619544+00:00"
+last_updated: "2026-03-21T02:06:48.619544+00:00"
 categories:
   - "50% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 50% off users who need 22000+ chatgpt prompts bundle capabilities — 2
 At **$99 one-time** vs $399 regular price, you're saving **75%** ($300) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $33/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

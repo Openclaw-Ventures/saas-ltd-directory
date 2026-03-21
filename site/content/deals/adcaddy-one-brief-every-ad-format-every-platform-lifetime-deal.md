@@ -2,7 +2,7 @@
 title: "AdCaddy: One Brief, Every Ad Format, Every Platform Lifetime Deal — $79"
 description: "AdCaddy Lifetime DealRunning paid advertising campaigns across multiple platforms? You already know the pain: creating dozens of ad variants in different sizes, each with specific aspect ratios, safe "
 date: "2026-03-19T16:27:58.458524+00:00"
-lastmod: "2026-03-19T16:27:58.458524+00:00"
+lastmod: "2026-03-21T02:06:45.836636+00:00"
 product_name: "AdCaddy: One Brief, Every Ad Format, Every Platform"
 slug: "adcaddy-one-brief-every-ad-format-every-platform-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2026/02/AdCaddy-One-Brief-Every-Ad-Format-Every-Platform-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.458524+00:00"
-last_updated: "2026-03-19T16:27:58.458524+00:00"
+last_scraped: "2026-03-21T02:06:45.836636+00:00"
+last_updated: "2026-03-21T02:06:45.836636+00:00"
 categories:
   - "AI Image Creator"
 sources:
@@ -41,7 +41,7 @@ Best for ai image creator users who need adcaddy: one brief, every ad format, ev
 At **$79 one-time** vs $790 regular price, you're saving **90%** ($711) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $66/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "1000+ Art &#038; Craft Viral Videos Lifetime Deal — $7"
 description: "What you get in this dealArt and craft videos demonstrate talent.Strong digital presenceVast catalog of viral videosHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.150334+00:00"
-lastmod: "2026-03-19T16:28:02.150334+00:00"
+lastmod: "2026-03-21T02:06:49.254241+00:00"
 product_name: "1000+ Art &#038; Craft Viral Videos"
 slug: "1000-art-038-craft-viral-videos-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/1000-Art-Craft-Viral-Videos-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.150334+00:00"
-last_updated: "2026-03-19T16:28:02.150334+00:00"
+last_scraped: "2026-03-21T02:06:49.254241+00:00"
+last_updated: "2026-03-21T02:06:49.254241+00:00"
 categories:
   - "Creative Market's Top Trends"
 sources:
@@ -40,7 +40,7 @@ Best for creative market's top trends users who need 1000+ art &#038; craft vira
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "WP Afinar: Easily transform your website into a dynamic Lifetime Deal — $19"
 description: "Ready-made DemosBuilt-in PreloaderBuilt-in Tracking CodeCustom Code Injector"
 date: "2026-03-19T16:28:01.348777+00:00"
-lastmod: "2026-03-19T16:28:01.348777+00:00"
+lastmod: "2026-03-21T02:06:48.434133+00:00"
 product_name: "WP Afinar: Easily transform your website into a dynamic"
 slug: "wp-afinar-easily-transform-your-website-into-a-dynamic-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2023/10/WP-Affinar-banner.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.348777+00:00"
-last_updated: "2026-03-19T16:28:01.348777+00:00"
+last_scraped: "2026-03-21T02:06:48.434133+00:00"
+last_updated: "2026-03-21T02:06:48.434133+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need wp afinar: easily transform your website into 
 At **$19 one-time** vs $49 regular price, you're saving **61%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

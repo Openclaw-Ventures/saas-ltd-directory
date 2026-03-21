@@ -2,7 +2,7 @@
 title: "Sociosight Lifetime Deal — $67"
 description: "This is social media management simplified!Sociosightallows you to schedule, assess & effectively manage your social media presence across numerous platforms"
 date: "2026-03-19T16:26:52.816580+00:00"
-lastmod: "2026-03-19T16:26:52.816580+00:00"
+lastmod: "2026-03-21T02:06:54.979220+00:00"
 product_name: "Sociosight"
 slug: "sociosight-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 29
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Sociosight1.png?v=1733762296"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.816580+00:00"
-last_updated: "2026-03-19T16:26:52.816580+00:00"
+last_scraped: "2026-03-21T02:06:54.979220+00:00"
+last_updated: "2026-03-21T02:06:54.979220+00:00"
 categories:
   - "Social Media"
 sources:
@@ -39,7 +39,7 @@ Best for social media managers and content creators who need sociosight capabili
 At **$67 one-time** vs $95 regular price, you're saving **29%** ($28) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

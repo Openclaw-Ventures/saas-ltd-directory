@@ -2,7 +2,7 @@
 title: "HostMaria &#8211; WordPress Ultra &#8211; Shared Cloud Hosting (UK) (1-Year) Lifetime Deal — $4"
 description: "What you get in this deal100 GB space1 TB traffic30 Days/backups​Unlimited domains​Hurry! Only199Licence are left"
 date: "2026-03-19T16:28:03.421237+00:00"
-lastmod: "2026-03-19T16:28:03.421237+00:00"
+lastmod: "2026-03-21T02:06:50.612935+00:00"
 product_name: "HostMaria &#8211; WordPress Ultra &#8211; Shared Cloud Hosting (UK) (1-Year)"
 slug: "hostmaria-8211-wordpress-ultra-8211-shared-cloud-hosting-uk-1-year-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 84
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2022/05/UK.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.421237+00:00"
-last_updated: "2026-03-19T16:28:03.421237+00:00"
+last_scraped: "2026-03-21T02:06:50.612935+00:00"
+last_updated: "2026-03-21T02:06:50.612935+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need hostmaria &#
 At **$4 one-time** vs $24 regular price, you're saving **84%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

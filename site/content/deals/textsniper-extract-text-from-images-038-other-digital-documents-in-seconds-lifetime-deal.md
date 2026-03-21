@@ -2,7 +2,7 @@
 title: "TextSniper : Extract text from images &#038; other digital documents in seconds Lifetime Deal — $4"
 description: "QR Code & Barcode ReaderText to SpeechCustomizable Keyboard shortcutsComes with multi-language"
 date: "2026-03-19T16:28:03.224637+00:00"
-lastmod: "2026-03-19T16:28:03.224637+00:00"
+lastmod: "2026-03-21T02:06:50.450731+00:00"
 product_name: "TextSniper : Extract text from images &#038; other digital documents in seconds"
 slug: "textsniper-extract-text-from-images-038-other-digital-documents-in-seconds-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2022/09/textsniper-banner.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.224637+00:00"
-last_updated: "2026-03-19T16:28:03.224637+00:00"
+last_scraped: "2026-03-21T02:06:50.450731+00:00"
+last_updated: "2026-03-21T02:06:50.450731+00:00"
 categories:
   - "Adobe Acrobat"
 sources:
@@ -41,7 +41,7 @@ Best for adobe acrobat users who need textsniper : extract text from images &#03
 At **$4 one-time** vs $10 regular price, you're saving **60%** ($6) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

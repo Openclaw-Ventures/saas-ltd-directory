@@ -2,7 +2,7 @@
 title: "Chorde: Send Voice Recording Directly From Gmail &#038; Outlook Lifetime Deal — $29"
 description: "Chorde Lifetime DealDoes writing emails feel slow and boring? Do you wish your messages could sound more friendly and personal?What if you could just talk to your customers instead of typing? Yes, it’"
 date: "2026-03-19T16:27:58.750532+00:00"
-lastmod: "2026-03-19T16:27:58.750532+00:00"
+lastmod: "2026-03-21T02:06:46.077414+00:00"
 product_name: "Chorde: Send Voice Recording Directly From Gmail &#038; Outlook"
 slug: "chorde-send-voice-recording-directly-from-gmail-038-outlook-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/11/Chorde-Send-Voice-Recording-Directly-Into-Gmail-Outlook.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.750532+00:00"
-last_updated: "2026-03-19T16:27:58.750532+00:00"
+last_scraped: "2026-03-21T02:06:46.077414+00:00"
+last_updated: "2026-03-21T02:06:46.077414+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need chorde: send
 At **$29 one-time** vs $120 regular price, you're saving **76%** ($91) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

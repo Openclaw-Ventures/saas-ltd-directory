@@ -2,7 +2,7 @@
 title: "Noysi (CNAME) Lifetime Deal — $318"
 description: "Noysi CNAME"
 date: "2026-03-19T16:28:03.875425+00:00"
-lastmod: "2026-03-19T16:28:03.875425+00:00"
+lastmod: "2026-03-21T02:06:51.035793+00:00"
 product_name: "Noysi (CNAME)"
 slug: "noysi-cname-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2021/12/noy.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.875425+00:00"
-last_updated: "2026-03-19T16:28:03.875425+00:00"
+last_scraped: "2026-03-21T02:06:51.035793+00:00"
+last_updated: "2026-03-21T02:06:51.035793+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need noysi (cname
 At **$318 one-time** vs $954 regular price, you're saving **67%** ($636) compared to buying at full price. That's equivalent to paying just 26.5 months of the regular $80/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

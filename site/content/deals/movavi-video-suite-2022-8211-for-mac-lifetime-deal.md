@@ -2,7 +2,7 @@
 title: "Movavi : Video Suite 2022 &#8211; for Mac Lifetime Deal — $49"
 description: "What you get in this dealCreate how-tos and presentationsEnhance video qualityHollywood-worthy effectsSupport for a wide range of formatsPremium 24/7 SupportLifetime Updates and Support FREEHurry! Onl"
 date: "2026-03-19T16:28:04.558360+00:00"
-lastmod: "2026-03-19T16:28:04.558360+00:00"
+lastmod: "2026-03-21T02:06:51.817757+00:00"
 product_name: "Movavi : Video Suite 2022 &#8211; for Mac"
 slug: "movavi-video-suite-2022-8211-for-mac-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 39
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/04/m.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.558360+00:00"
-last_updated: "2026-03-19T16:28:04.558360+00:00"
+last_scraped: "2026-03-21T02:06:51.817757+00:00"
+last_updated: "2026-03-21T02:06:51.817757+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need movavi : vid
 At **$49 one-time** vs $80 regular price, you're saving **39%** ($31) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

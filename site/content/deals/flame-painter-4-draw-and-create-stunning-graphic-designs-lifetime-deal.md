@@ -2,7 +2,7 @@
 title: "Flame Painter 4 : Draw and Create Stunning Graphic Designs Lifetime Deal — $19"
 description: "What you get in this dealBrush CreatorPhotoshop plug-inMulti-touch supportDynamic CompositionsPhotorealistic EffectsHurry! Only00Licence are left"
 date: "2026-03-19T16:28:05.095467+00:00"
-lastmod: "2026-03-19T16:28:05.095467+00:00"
+lastmod: "2026-03-21T02:06:52.331361+00:00"
 product_name: "Flame Painter 4 : Draw and Create Stunning Graphic Designs"
 slug: "flame-painter-4-draw-and-create-stunning-graphic-designs-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 79
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2020/07/feature-image-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.095467+00:00"
-last_updated: "2026-03-19T16:28:05.095467+00:00"
+last_scraped: "2026-03-21T02:06:52.331361+00:00"
+last_updated: "2026-03-21T02:06:52.331361+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need flame painte
 At **$19 one-time** vs $90 regular price, you're saving **79%** ($71) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "LeadRocks Lifetime Deal — $79"
 description: "LeadRocks is a reliable B2B contact database with 100M+ records, emails, phone numbers, and LinkedIns"
 date: "2026-03-19T16:12:19.515824+00:00"
-lastmod: "2026-03-19T16:12:19.515824+00:00"
+lastmod: "2026-03-21T02:04:11.581066+00:00"
 product_name: "LeadRocks"
 slug: "leadrocks-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 4.5
 review_count: 365
 image: "https://appsumo2-cdn.appsumo.com/media/selfsubmissions/images/5774ac78-8e44-4274-ad06-e8d989c63435.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.515824+00:00"
-last_updated: "2026-03-19T16:12:19.515824+00:00"
+last_scraped: "2026-03-21T02:04:11.581066+00:00"
+last_updated: "2026-03-21T02:04:11.581066+00:00"
 categories:
   - "Lead generation"
 sources:
@@ -41,7 +41,7 @@ Best for B2B marketers and sales development teams who need leadrocks capabiliti
 At **$79 one-time** vs $1740 regular price, you're saving **95%** ($1661) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $145/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal

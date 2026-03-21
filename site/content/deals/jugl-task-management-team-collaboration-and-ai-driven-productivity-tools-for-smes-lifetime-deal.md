@@ -2,7 +2,7 @@
 title: "Jugl : Task Management, Team Collaboration, and AI-Driven Productivity Tools for SMEs Lifetime Deal — $69"
 description: "Workspace Cloud StorageProject, Order, and TaskTeam Management"
 date: "2026-03-19T16:28:00.064727+00:00"
-lastmod: "2026-03-19T16:28:00.064727+00:00"
+lastmod: "2026-03-21T02:06:47.188877+00:00"
 product_name: "Jugl : Task Management, Team Collaboration, and AI-Driven Productivity Tools for SMEs"
 slug: "jugl-task-management-team-collaboration-and-ai-driven-productivity-tools-for-smes-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 30
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/08/Jugl_Featureimage1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.064727+00:00"
-last_updated: "2026-03-19T16:28:00.064727+00:00"
+last_scraped: "2026-03-21T02:06:47.188877+00:00"
+last_updated: "2026-03-21T02:06:47.188877+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need jugl : task management, team collaboration
 At **$69 one-time** vs $99 regular price, you're saving **30%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

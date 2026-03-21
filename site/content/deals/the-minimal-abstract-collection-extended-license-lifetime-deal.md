@@ -2,7 +2,7 @@
 title: "The Minimal Abstract Collection | Extended License Lifetime Deal — $39"
 description: "Get The Minimal Abstract Collection | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.521374+00:00"
-lastmod: "2026-03-19T16:29:38.521374+00:00"
+lastmod: "2026-03-21T02:05:46.018598+00:00"
 product_name: "The Minimal Abstract Collection | Extended License"
 slug: "the-minimal-abstract-collection-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 80
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/deal-banner-1-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.521374+00:00"
-last_updated: "2026-03-19T16:29:38.521374+00:00"
+last_scraped: "2026-03-21T02:05:46.018598+00:00"
+last_updated: "2026-03-21T02:05:46.018598+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need the minimal abstract collection | extended lice
 At **$39 one-time** vs $200 regular price, you're saving **80%** ($161) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

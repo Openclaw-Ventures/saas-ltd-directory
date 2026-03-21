@@ -13,7 +13,7 @@ Looking for video lifetime deals? Here are the best one-time deals available in 
 
 ## ⭐ Top Picks
 
-1. **[Viloud](/deals/viloud-lifetime-deal/)** — $99 (72% off) — 4.89/5 (228 reviews)
+1. **[Viloud](/deals/viloud-lifetime-deal/)** — $99 (72% off) — 4.9/5 (230 reviews)
 2. **[reap](/deals/reap-lifetime-deal/)** — $79 (95% off) — 4.49/5 (67 reviews)
 3. **[Mootion](/deals/mootion-lifetime-deal/)** — $79 (45% off) — 3.84/5 (139 reviews)
 

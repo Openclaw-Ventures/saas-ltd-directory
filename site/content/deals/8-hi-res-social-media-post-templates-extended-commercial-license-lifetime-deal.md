@@ -2,7 +2,7 @@
 title: "8 Hi-res Social Media Post Templates | Extended Commercial License Lifetime Deal — $2"
 description: "Get 8 Hi-res Social Media Post Templates | Extended Commercial License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.378654+00:00"
-lastmod: "2026-03-19T16:29:38.378654+00:00"
+lastmod: "2026-03-21T02:05:45.908472+00:00"
 product_name: "8 Hi-res Social Media Post Templates | Extended Commercial License"
 slug: "8-hi-res-social-media-post-templates-extended-commercial-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 98
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/social-media-template-feature-image-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.378654+00:00"
-last_updated: "2026-03-19T16:29:38.378654+00:00"
+last_scraped: "2026-03-21T02:05:45.908472+00:00"
+last_updated: "2026-03-21T02:05:45.908472+00:00"
 categories:
   - "1 99 Store"
 sources:
@@ -38,7 +38,7 @@ Best for 1 99 store users who need 8 hi-res social media post templates | extend
 At **$2 one-time** vs $115 regular price, you're saving **98%** ($113) compared to buying at full price. That's equivalent to paying just 0.2 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

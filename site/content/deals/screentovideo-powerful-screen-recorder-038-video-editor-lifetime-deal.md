@@ -2,7 +2,7 @@
 title: "ScreenToVideo : Powerful Screen Recorder &#038; Video Editor Lifetime Deal — $59"
 description: "What you get in this dealFull-Featured Recorder & EditorInstall on Multiple DevicesIn-App & Website SupportWindows Compatibility60 Days Money Back GuaranteeHurry! Only198Licence are left"
 date: "2026-03-19T16:28:03.581244+00:00"
-lastmod: "2026-03-19T16:28:03.581244+00:00"
+lastmod: "2026-03-21T02:06:50.742579+00:00"
 product_name: "ScreenToVideo : Powerful Screen Recorder &#038; Video Editor"
 slug: "screentovideo-powerful-screen-recorder-038-video-editor-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2022/03/screentovideo-feature-image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.581244+00:00"
-last_updated: "2026-03-19T16:28:03.581244+00:00"
+last_scraped: "2026-03-21T02:06:50.742579+00:00"
+last_updated: "2026-03-21T02:06:50.742579+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need screentovide
 At **$59 one-time** vs $119 regular price, you're saving **50%** ($60) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

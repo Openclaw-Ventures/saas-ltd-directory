@@ -2,7 +2,7 @@
 title: "Ultimate Fitness and Yoga Planner: Achieve Your Wellness Goals with Precision Lifetime Deal — $7"
 description: "What you get in this dealUltimate Fitness and Yoga PlannerAll in one powerful bundlePersonalize your dashboardHurry! Only99Products are left"
 date: "2026-03-19T16:28:01.595397+00:00"
-lastmod: "2026-03-19T16:28:01.595397+00:00"
+lastmod: "2026-03-21T02:06:48.716707+00:00"
 product_name: "Ultimate Fitness and Yoga Planner: Achieve Your Wellness Goals with Precision"
 slug: "ultimate-fitness-and-yoga-planner-achieve-your-wellness-goals-with-precision-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 76
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/feature-image-11.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.595397+00:00"
-last_updated: "2026-03-19T16:28:01.595397+00:00"
+last_scraped: "2026-03-21T02:06:48.716707+00:00"
+last_updated: "2026-03-21T02:06:48.716707+00:00"
 categories:
   - "50% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 50% off users who need ultimate fitness and yoga planner: achieve your 
 At **$7 one-time** vs $29 regular price, you're saving **76%** ($22) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

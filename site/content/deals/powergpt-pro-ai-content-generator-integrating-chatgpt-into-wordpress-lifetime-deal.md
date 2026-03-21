@@ -2,7 +2,7 @@
 title: "PowerGPT Pro : AI Content Generator Integrating ChatGPT Into WordPress Lifetime Deal — $9"
 description: "1-CLICK WordPress PluginNewbie Friendly, Fully TestedCreates Unlimited Content For Any Site"
 date: "2026-03-19T16:27:59.754842+00:00"
-lastmod: "2026-03-19T16:27:59.754842+00:00"
+lastmod: "2026-03-21T02:06:46.899651+00:00"
 product_name: "PowerGPT Pro : AI Content Generator Integrating ChatGPT Into WordPress"
 slug: "powergpt-pro-ai-content-generator-integrating-chatgpt-into-wordpress-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/PowerGPT-Pro-Lifetime-Deal-Feature-Image-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.754842+00:00"
-last_updated: "2026-03-19T16:27:59.754842+00:00"
+last_scraped: "2026-03-21T02:06:46.899651+00:00"
+last_updated: "2026-03-21T02:06:46.899651+00:00"
 categories:
   - "50% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 50% off users who need powergpt pro : ai content generator integrating 
 At **$9 one-time** vs $99 regular price, you're saving **91%** ($90) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

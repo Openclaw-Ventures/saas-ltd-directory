@@ -2,7 +2,7 @@
 title: "Blue_Strawberry : AI-Powered Social Marketing Platform Lifetime Deal — $49"
 description: "What you get in this deal3 UsersUnlimited Single PostsUpto 3,000 social media posts a monthPost on up to 12 social media profilesHurry! Only59Licence are left"
 date: "2026-03-19T16:28:02.883497+00:00"
-lastmod: "2026-03-19T16:28:02.883497+00:00"
+lastmod: "2026-03-21T02:06:50.135327+00:00"
 product_name: "Blue_Strawberry : AI-Powered Social Marketing Platform"
 slug: "blue-strawberry-ai-powered-social-marketing-platform-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2023/02/Blue-Strawberry-Lifetime-Deal-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.883497+00:00"
-last_updated: "2026-03-19T16:28:02.883497+00:00"
+last_scraped: "2026-03-21T02:06:50.135327+00:00"
+last_updated: "2026-03-21T02:06:50.135327+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need blue_strawbe
 At **$49 one-time** vs $1620 regular price, you're saving **97%** ($1571) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $135/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

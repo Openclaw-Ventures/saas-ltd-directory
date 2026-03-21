@@ -2,7 +2,7 @@
 title: "Likeable Lifetime Deal — $59"
 description: "Ever dreamed of launching your own app — but got stuck at the tech part?Most people can’t just spin up a functional web or mobile app"
 date: "2026-03-19T16:26:52.646039+00:00"
-lastmod: "2026-03-19T16:26:52.646039+00:00"
+lastmod: "2026-03-21T02:06:54.799490+00:00"
 product_name: "Likeable"
 slug: "likeable-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/likeable_01.png?v=1759912848"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.646039+00:00"
-last_updated: "2026-03-19T16:26:52.646039+00:00"
+last_scraped: "2026-03-21T02:06:54.799490+00:00"
+last_updated: "2026-03-21T02:06:54.799490+00:00"
 categories:
   - "Developer Tools"
 sources:
@@ -39,7 +39,7 @@ Best for software developers and engineering teams who need likeable capabilitie
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

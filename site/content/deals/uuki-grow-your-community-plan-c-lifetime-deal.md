@@ -2,7 +2,7 @@
 title: "UUKI : Grow Your Community Plan C Lifetime Deal — $336"
 description: "What you get in this dealUnlimited Members and StorageUnlimited Public SpacesEvent ManagementModeration and ReportingProfile Pages60 Days Money-Back GuaranteeHurry! Only00Licence are left"
 date: "2026-03-19T16:28:04.047589+00:00"
-lastmod: "2026-03-19T16:28:04.047589+00:00"
+lastmod: "2026-03-21T02:06:51.215307+00:00"
 product_name: "UUKI : Grow Your Community Plan C"
 slug: "uuki-grow-your-community-plan-c-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 96
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/11/uuki-feature-image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.047589+00:00"
-last_updated: "2026-03-19T16:28:04.047589+00:00"
+last_scraped: "2026-03-21T02:06:51.215307+00:00"
+last_updated: "2026-03-21T02:06:51.215307+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need uuki : grow 
 At **$336 one-time** vs $7584 regular price, you're saving **96%** ($7248) compared to buying at full price. That's equivalent to paying just 28.0 months of the regular $632/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

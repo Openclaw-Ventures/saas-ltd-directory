@@ -2,7 +2,7 @@
 title: "Memogram Lifetime Deal — $59"
 description: "Collect all the photos and videos taken by your guest at an event using a simple QR code"
 date: "2026-03-19T16:12:19.527358+00:00"
-lastmod: "2026-03-19T16:12:19.527358+00:00"
+lastmod: "2026-03-21T02:04:11.573293+00:00"
 product_name: "Memogram"
 slug: "memogram-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 4.53
 review_count: 43
 image: "https://appsumo2-cdn.appsumo.com/media/selfsubmissions/images/120e5a38-5257-402b-9b36-1bf05ba03009.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.527358+00:00"
-last_updated: "2026-03-19T16:12:19.527358+00:00"
+last_scraped: "2026-03-21T02:04:11.573293+00:00"
+last_updated: "2026-03-21T02:04:11.573293+00:00"
 categories:
   - "Media management"
 sources:
@@ -41,7 +41,7 @@ Best for media management users who need memogram capabilities — Collect all t
 At **$59 one-time** vs $149 regular price, you're saving **60%** ($90) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal

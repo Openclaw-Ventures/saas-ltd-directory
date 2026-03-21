@@ -16,10 +16,10 @@ Comparing two audio lifetime deals to help you make the right choice.
 
 | Feature | VoiceDash | SoundMadeSeen |
 |---------|---------|----------|
-| **LTD Price** | $49 | $39 |
+| **LTD Price** | $59 | $39 |
 | **Regular Price** | $144 | $95 |
-| **Discount** | 66% | 59% |
-| **Rating** | 4.66/5 (103 reviews) | 4.82/5 (66 reviews) |
+| **Discount** | 59% | 59% |
+| **Rating** | 4.63/5 (109 reviews) | 4.82/5 (67 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | Audio | Audio |
 

@@ -2,7 +2,7 @@
 title: "Iconstica Lifetime Deal : Elevate Your Design Game! Lifetime Deal — $39"
 description: "4000+ icons in 6 stylesFeature-rich Figma fileSVG and IconJar packagesWeb-App access"
 date: "2026-03-19T16:28:00.059800+00:00"
-lastmod: "2026-03-19T16:28:00.059800+00:00"
+lastmod: "2026-03-21T02:06:47.184599+00:00"
 product_name: "Iconstica Lifetime Deal : Elevate Your Design Game!"
 slug: "iconstica-lifetime-deal-elevate-your-design-game-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 20
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/09/Iconstica-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.059800+00:00"
-last_updated: "2026-03-19T16:28:00.059800+00:00"
+last_scraped: "2026-03-21T02:06:47.184599+00:00"
+last_updated: "2026-03-21T02:06:47.184599+00:00"
 categories:
   - "All Deals"
 sources:
@@ -40,7 +40,7 @@ Best for all deals users who need iconstica lifetime deal : elevate your design 
 At **$39 one-time** vs $49 regular price, you're saving **20%** ($10) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

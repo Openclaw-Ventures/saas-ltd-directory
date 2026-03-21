@@ -2,7 +2,7 @@
 title: "Kid&#8217;s Games, Quizzes, and Animated Science Videos Lifetime Deal — $14"
 description: "Exclusive for 3D Kids Animation Story Customers: Access the Biggest, Most Complete Collection of High-Quality and Editable Kid’s Games, Quizzes, and Animated Science Videos with Commercial License.Wel"
 date: "2026-03-19T16:27:59.287592+00:00"
-lastmod: "2026-03-19T16:27:59.287592+00:00"
+lastmod: "2026-03-21T02:06:46.450433+00:00"
 product_name: "Kid&#8217;s Games, Quizzes, and Animated Science Videos"
 slug: "kid8217s-games-quizzes-and-animated-science-videos-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 71
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/07/Gunius-Kids-Bundle.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.287592+00:00"
-last_updated: "2026-03-19T16:27:59.287592+00:00"
+last_scraped: "2026-03-21T02:06:46.450433+00:00"
+last_updated: "2026-03-21T02:06:46.450433+00:00"
 categories:
   - "Kids"
 sources:
@@ -40,7 +40,7 @@ Best for kids users who need kid&#8217;s games, quizzes, and animated science vi
 At **$14 one-time** vs $49 regular price, you're saving **71%** ($35) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

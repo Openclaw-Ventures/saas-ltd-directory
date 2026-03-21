@@ -2,7 +2,7 @@
 title: "Structa Lifetime Deal — $149"
 description: "Ever spent hours designing database schemas, fixing broken SQL from AI tools, or jumping between diagram builders and database editors?Structaeliminates that friction"
 date: "2026-03-19T16:26:52.490702+00:00"
-lastmod: "2026-03-19T16:26:52.490702+00:00"
+lastmod: "2026-03-21T02:06:54.662781+00:00"
 product_name: "Structa"
 slug: "structa-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 50
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/structa.png?v=1773334888"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.490702+00:00"
-last_updated: "2026-03-19T16:26:52.490702+00:00"
+last_scraped: "2026-03-21T02:06:54.662781+00:00"
+last_updated: "2026-03-21T02:06:54.662781+00:00"
 categories:
   - "Developer Tools"
 sources:
@@ -39,7 +39,7 @@ Best for software developers and engineering teams who need structa capabilities
 At **$149 one-time** vs $299 regular price, you're saving **50%** ($150) compared to buying at full price. That's equivalent to paying just 12.4 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

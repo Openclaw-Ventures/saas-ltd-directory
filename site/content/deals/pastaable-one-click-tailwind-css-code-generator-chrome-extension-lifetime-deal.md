@@ -2,7 +2,7 @@
 title: "Pastaable : One-Click Tailwind CSS Code Generator Chrome Extension Lifetime Deal — $49"
 description: "Pastaable lifetime dealAre you spending a lot of time trying to recreate website designs manually in Tailwind CSS?Want to skip the hassle of inspecting styles, guessing layouts, and writing long utili"
 date: "2026-03-19T16:27:59.446835+00:00"
-lastmod: "2026-03-19T16:27:59.446835+00:00"
+lastmod: "2026-03-21T02:06:46.568394+00:00"
 product_name: "Pastaable : One-Click Tailwind CSS Code Generator Chrome Extension"
 slug: "pastaable-one-click-tailwind-css-code-generator-chrome-extension-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 4.67
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/05/Pastaable-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.446835+00:00"
-last_updated: "2026-03-19T16:27:59.446835+00:00"
+last_scraped: "2026-03-21T02:06:46.568394+00:00"
+last_updated: "2026-03-21T02:06:46.568394+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need pastaable : one-click tailwind css code genera
 At **$49 one-time** vs $99 regular price, you're saving **51%** ($50) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

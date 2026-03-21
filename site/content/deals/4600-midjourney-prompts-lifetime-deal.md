@@ -2,7 +2,7 @@
 title: "4600+ Midjourney Prompts Lifetime Deal — $59"
 description: "4600+ Midjourney PromptsBoost Your Images Creation With An Impressive Pack Of4,600+ Extra MidJourney Prompts!Harness the Power of Cutting-Edge AI Technology for Generating High-Quality Art Images. Be "
 date: "2026-03-19T16:28:01.565330+00:00"
-lastmod: "2026-03-19T16:28:01.565330+00:00"
+lastmod: "2026-03-21T02:06:48.683324+00:00"
 product_name: "4600+ Midjourney Prompts"
 slug: "4600-midjourney-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 63
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/mid-2.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.565330+00:00"
-last_updated: "2026-03-19T16:28:01.565330+00:00"
+last_scraped: "2026-03-21T02:06:48.683324+00:00"
+last_updated: "2026-03-21T02:06:48.683324+00:00"
 categories:
   - "50% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 50% off users who need 4600+ midjourney prompts capabilities.
 At **$59 one-time** vs $161 regular price, you're saving **63%** ($102) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $13/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

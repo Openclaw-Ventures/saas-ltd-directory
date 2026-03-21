@@ -2,7 +2,7 @@
 title: "CursorClip Lifetime Deal — $59"
 description: "What if your screen recordings looked polished—right after you hit stop?CursorClipturns raw screen captures into polished, cinematic demos in minutes, so you can focus on building, teaching, or sellin"
 date: "2026-03-19T16:26:52.608690+00:00"
-lastmod: "2026-03-19T16:26:52.608690+00:00"
+lastmod: "2026-03-21T02:06:54.751440+00:00"
 product_name: "CursorClip"
 slug: "cursorclip-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 39
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/cursorclip1.png?v=1765043235"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.608690+00:00"
-last_updated: "2026-03-19T16:26:52.608690+00:00"
+last_scraped: "2026-03-21T02:06:54.751440+00:00"
+last_updated: "2026-03-21T02:06:54.751440+00:00"
 categories:
   - "Creative"
 sources:
@@ -39,7 +39,7 @@ Best for designers and creative professionals who need cursorclip capabilities.
 At **$59 one-time** vs $97 regular price, you're saving **39%** ($38) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

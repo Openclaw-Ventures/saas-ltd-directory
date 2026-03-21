@@ -2,7 +2,7 @@
 title: "Plasfy: Create Multiple Viral Designs In Seconds Lifetime Deal — $99"
 description: "Plasfy Lifetime DealDone with spending hours on complicated design tools, paying for monthly subscriptions you barely use, and ending up with graphics that do not represent your idea of design?You’re "
 date: "2026-03-19T16:28:02.921151+00:00"
-lastmod: "2026-03-19T16:28:02.921151+00:00"
+lastmod: "2026-03-21T02:06:50.170968+00:00"
 product_name: "Plasfy: Create Multiple Viral Designs In Seconds"
 slug: "plasfy-create-multiple-viral-designs-in-seconds-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2023/01/Plasfy-Create-Multiple-Viral-Designs-In-Seconds.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.921151+00:00"
-last_updated: "2026-03-19T16:28:02.921151+00:00"
+last_scraped: "2026-03-21T02:06:50.170968+00:00"
+last_updated: "2026-03-21T02:06:50.170968+00:00"
 categories:
   - "Adobe Photoshop"
 sources:
@@ -41,7 +41,7 @@ Best for adobe photoshop users who need plasfy: create multiple viral designs in
 At **$99 one-time** vs $1440 regular price, you're saving **93%** ($1341) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $120/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

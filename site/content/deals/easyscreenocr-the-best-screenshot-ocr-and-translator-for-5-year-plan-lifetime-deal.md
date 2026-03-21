@@ -2,7 +2,7 @@
 title: "EasyScreenOCR : The Best Screenshot OCR and Translator For 5 Year Plan Lifetime Deal — $199"
 description: "What you get in this dealMinimum UI designCustomizing short keys2 powerful OCR enginesSupport capturing screenshotSupport recognizing charactersSupported formats PDF/PNG/JPGExtract text from images & "
 date: "2026-03-19T16:28:05.155560+00:00"
-lastmod: "2026-03-19T16:28:05.155560+00:00"
+lastmod: "2026-03-21T02:06:52.384860+00:00"
 product_name: "EasyScreenOCR : The Best Screenshot OCR and Translator For 5 Year Plan"
 slug: "easyscreenocr-the-best-screenshot-ocr-and-translator-for-5-year-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 34
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2020/06/Dealmirror-3-year-plan-easyscreenocr-feature-image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.155560+00:00"
-last_updated: "2026-03-19T16:28:05.155560+00:00"
+last_scraped: "2026-03-21T02:06:52.384860+00:00"
+last_updated: "2026-03-21T02:06:52.384860+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need easyscreenoc
 At **$199 one-time** vs $300 regular price, you're saving **34%** ($101) compared to buying at full price. That's equivalent to paying just 16.6 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "UPDF Lifetime Deal — $69"
 description: "UPDF is a powerful PDF editor that helps youlevel up your document productivity across all major platforms"
 date: "2026-03-19T16:26:53.045847+00:00"
-lastmod: "2026-03-19T16:26:53.045847+00:00"
+lastmod: "2026-03-21T02:06:55.178970+00:00"
 product_name: "UPDF"
 slug: "updf-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 37
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/UPDF-100.png?v=1748527147"
 deal_active: true
-last_scraped: "2026-03-19T16:26:53.045847+00:00"
-last_updated: "2026-03-19T16:26:53.045847+00:00"
+last_scraped: "2026-03-21T02:06:55.178970+00:00"
+last_updated: "2026-03-21T02:06:55.178970+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$69 one-time** vs $110 regular price, you're saving **37%** ($41) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $9/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

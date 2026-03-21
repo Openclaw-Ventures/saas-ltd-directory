@@ -2,7 +2,7 @@
 title: "International Open Academy Lifetime Deal — $179"
 description: "Want to turn your curiosity into a career, but don’t know where to start?That’s exactly whatInternational Open Academy(IOA)is here for"
 date: "2026-03-19T16:26:52.687377+00:00"
-lastmod: "2026-03-19T16:26:52.687377+00:00"
+lastmod: "2026-03-21T02:06:54.840334+00:00"
 product_name: "International Open Academy"
 slug: "international-open-academy-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 55
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/International_Open_Academy_1.png?v=1750326296"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.687377+00:00"
-last_updated: "2026-03-19T16:26:52.687377+00:00"
+last_scraped: "2026-03-21T02:06:54.840334+00:00"
+last_updated: "2026-03-21T02:06:54.840334+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$179 one-time** vs $399 regular price, you're saving **55%** ($220) compared to buying at full price. That's equivalent to paying just 14.9 months of the regular $33/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

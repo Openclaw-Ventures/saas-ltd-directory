@@ -2,7 +2,7 @@
 title: "30 Funny T-shirt Designs Lifetime Deal — $26"
 description: "Get 30 Funny T-shirt Designs lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.135667+00:00"
-lastmod: "2026-03-19T16:29:39.135667+00:00"
+lastmod: "2026-03-21T02:05:46.674933+00:00"
 product_name: "30 Funny T-shirt Designs"
 slug: "30-funny-t-shirt-designs-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 94
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/30-extraordinary-tshirt-designs-preview-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:39.135667+00:00"
-last_updated: "2026-03-19T16:29:39.135667+00:00"
+last_scraped: "2026-03-21T02:05:46.674933+00:00"
+last_updated: "2026-03-21T02:05:46.674933+00:00"
 categories:
   - "Android"
 sources:
@@ -38,7 +38,7 @@ Best for android users who need 30 funny t-shirt designs capabilities.
 At **$26 one-time** vs $450 regular price, you're saving **94%** ($424) compared to buying at full price. That's equivalent to paying just 2.2 months of the regular $38/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Feedify : Push Notification Tool Lifetime Deal — $70"
 description: "Unlimited Notifications & PageviewsResponsive TemplatesSchedule Push NotificationsMobile Push Notifications"
 date: "2026-03-19T16:28:02.716236+00:00"
-lastmod: "2026-03-19T16:28:02.716236+00:00"
+lastmod: "2026-03-21T02:06:49.830177+00:00"
 product_name: "Feedify : Push Notification Tool"
 slug: "feedify-push-notification-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2023/05/feedify.jpeg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.716236+00:00"
-last_updated: "2026-03-19T16:28:02.716236+00:00"
+last_scraped: "2026-03-21T02:06:49.830177+00:00"
+last_updated: "2026-03-21T02:06:49.830177+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need feedify : pu
 At **$70 one-time** vs $450 regular price, you're saving **84%** ($380) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $38/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Classified Billing: Instantly Create Professional Invoices for your Businesses Lifetime Deal — $59"
 description: "Classified Billing Lifetime dealAre you tired of juggling multiple tools, chasing late payments, and coming across as unprofessional?You’re not alone. 73% of freelancers and small business owners lose"
 date: "2026-03-19T16:27:59.344357+00:00"
-lastmod: "2026-03-19T16:27:59.344357+00:00"
+lastmod: "2026-03-21T02:06:46.485664+00:00"
 product_name: "Classified Billing: Instantly Create Professional Invoices for your Businesses"
 slug: "classified-billing-instantly-create-professional-invoices-for-your-businesses-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2025/06/Classify-Billing.png"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.344357+00:00"
-last_updated: "2026-03-19T16:27:59.344357+00:00"
+last_scraped: "2026-03-21T02:06:46.485664+00:00"
+last_updated: "2026-03-21T02:06:46.485664+00:00"
 categories:
   - "Accounting software"
 sources:
@@ -41,7 +41,7 @@ Best for accounting software users who need classified billing: instantly create
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

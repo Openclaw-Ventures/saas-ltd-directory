@@ -2,7 +2,7 @@
 title: "Luminar Neo: AI-Powered Photo Editing Tool For Photos That Describe Your Vision Lifetime Deal — $79"
 description: "Luminar Neo lifetime DealHave you ever taken a photo that just doesn’t look as awesome as the real thing? Maybe your friend’s face is too dark in a selfie, the sky looks boring and grey, or there’s so"
 date: "2026-03-19T16:27:58.825273+00:00"
-lastmod: "2026-03-19T16:27:58.825273+00:00"
+lastmod: "2026-03-21T02:06:46.142640+00:00"
 product_name: "Luminar Neo: AI-Powered Photo Editing Tool For Photos That Describe Your Vision"
 slug: "luminar-neo-ai-powered-photo-editing-tool-for-photos-that-describe-your-vision-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/11/Luminar-Neo-AI-Powered-Photo-Editing-Tool-For-Photos-That-Describe-Your-Vision.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.825273+00:00"
-last_updated: "2026-03-19T16:27:58.825273+00:00"
+last_scraped: "2026-03-21T02:06:46.142640+00:00"
+last_updated: "2026-03-21T02:06:46.142640+00:00"
 categories:
   - "15% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 15% off users who need luminar neo: ai-powered photo editing tool for p
 At **$79 one-time** vs $99 regular price, you're saving **20%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

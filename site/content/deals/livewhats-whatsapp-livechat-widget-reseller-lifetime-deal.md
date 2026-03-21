@@ -2,7 +2,7 @@
 title: "LiveWhats : WhatsApp LiveChat Widget (Reseller) Lifetime Deal — $249"
 description: "100K SubscribersConnect Account : 10Number of Messages : 100K / MonthUnlimited Live Chat"
 date: "2026-03-19T16:28:00.171679+00:00"
-lastmod: "2026-03-19T16:28:00.171679+00:00"
+lastmod: "2026-03-21T02:06:47.274890+00:00"
 product_name: "LiveWhats : WhatsApp LiveChat Widget (Reseller)"
 slug: "livewhats-whatsapp-livechat-widget-reseller-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 69
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/07/LiveWhats-Reseller.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.171679+00:00"
-last_updated: "2026-03-19T16:28:00.171679+00:00"
+last_scraped: "2026-03-21T02:06:47.274890+00:00"
+last_updated: "2026-03-21T02:06:47.274890+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need livewhats : whatsapp livechat widget (rese
 At **$249 one-time** vs $799 regular price, you're saving **69%** ($550) compared to buying at full price. That's equivalent to paying just 20.8 months of the regular $67/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

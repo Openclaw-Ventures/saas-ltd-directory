@@ -2,7 +2,7 @@
 title: "Paddle CRM Lifetime Deal — $297"
 description: "Tired of juggling five different tools just to keep your business running smoothly?MeetPaddle CRM— the all-in-one growth engine built specifically forlocal service businessesthat want toscale smarter,"
 date: "2026-03-19T16:26:52.639013+00:00"
-lastmod: "2026-03-19T16:26:52.639013+00:00"
+lastmod: "2026-03-21T02:06:54.793527+00:00"
 product_name: "Paddle CRM"
 slug: "paddle-crm-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/paddle_crm.png?v=1760348862"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.639013+00:00"
-last_updated: "2026-03-19T16:26:52.639013+00:00"
+last_scraped: "2026-03-21T02:06:54.793527+00:00"
+last_updated: "2026-03-21T02:06:54.793527+00:00"
 categories:
   - "Business"
 sources:
@@ -39,7 +39,7 @@ Best for business owners and entrepreneurs who need paddle crm capabilities.
 At **$297 one-time** vs $2970 regular price, you're saving **90%** ($2673) compared to buying at full price. That's equivalent to paying just 24.8 months of the regular $248/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

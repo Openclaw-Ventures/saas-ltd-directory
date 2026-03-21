@@ -2,7 +2,7 @@
 title: "RECnGO : Pro Live Streaming &#038; Recording With Your Mobile Devices Lifetime Deal — $49"
 description: "For iOS & Android devicesLivestream to social media12 camera angles/devicesEdit your stream live"
 date: "2026-03-19T16:28:02.865927+00:00"
-lastmod: "2026-03-19T16:28:02.865927+00:00"
+lastmod: "2026-03-21T02:06:50.109476+00:00"
 product_name: "RECnGO : Pro Live Streaming &#038; Recording With Your Mobile Devices"
 slug: "recngo-pro-live-streaming-038-recording-with-your-mobile-devices-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2024/06/Recongo.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.865927+00:00"
-last_updated: "2026-03-19T16:28:02.865927+00:00"
+last_scraped: "2026-03-21T02:06:50.109476+00:00"
+last_updated: "2026-03-21T02:06:50.109476+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need recngo : pro live streaming &#038; recording w
 At **$49 one-time** vs $299 regular price, you're saving **84%** ($250) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

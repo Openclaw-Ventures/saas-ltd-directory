@@ -2,7 +2,7 @@
 title: "Mockplus DT : Fast Online UI Design Tool Lifetime Deal — $29"
 description: "Unlimited ProjectsSketch/Figma File ImportTeam Management"
 date: "2026-03-19T16:28:00.199240+00:00"
-lastmod: "2026-03-19T16:28:00.199240+00:00"
+lastmod: "2026-03-21T02:06:47.312893+00:00"
 product_name: "Mockplus DT : Fast Online UI Design Tool"
 slug: "mockplus-dt-fast-online-ui-design-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2024/07/mockplus-DT-banner-image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.199240+00:00"
-last_updated: "2026-03-19T16:28:00.199240+00:00"
+last_scraped: "2026-03-21T02:06:47.312893+00:00"
+last_updated: "2026-03-21T02:06:47.312893+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need mockplus dt : fast online ui design tool c
 At **$29 one-time** vs $79 regular price, you're saving **63%** ($50) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

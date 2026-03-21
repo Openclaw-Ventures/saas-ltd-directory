@@ -2,7 +2,7 @@
 title: "Weberlo : ROI And ROAS Tracking Lifetime Deal — $79"
 description: "What you get in this dealLifetime Access1 Workspace2 Users30,000 Page viewsUnlimited sources60 days money back guaranteeHurry! Only00Licence are left"
 date: "2026-03-19T16:28:03.361971+00:00"
-lastmod: "2026-03-19T16:28:03.361971+00:00"
+lastmod: "2026-03-21T02:06:50.577256+00:00"
 product_name: "Weberlo : ROI And ROAS Tracking"
 slug: "weberlo-roi-and-roas-tracking-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 93
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2022/06/Weberlo-lifetime-deal-feature-image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.361971+00:00"
-last_updated: "2026-03-19T16:28:03.361971+00:00"
+last_scraped: "2026-03-21T02:06:50.577256+00:00"
+last_updated: "2026-03-21T02:06:50.577256+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need weberlo : roi and roas tracking capabiliti
 At **$79 one-time** vs $1188 regular price, you're saving **93%** ($1109) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $99/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

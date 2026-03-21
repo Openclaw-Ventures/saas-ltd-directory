@@ -2,7 +2,7 @@
 title: "Minimalistix : Fast, Stylish &#038; Customizable WordPress Theme Lifetime Deal — $29"
 description: "What you get in this dealSupport For Unlimited DomainsFully TranslatableAccessibility OptimizedPage Speed Optimized"
 date: "2026-03-19T16:28:01.131677+00:00"
-lastmod: "2026-03-19T16:28:01.131677+00:00"
+lastmod: "2026-03-21T02:06:48.175021+00:00"
 product_name: "Minimalistix : Fast, Stylish &#038; Customizable WordPress Theme"
 slug: "minimalistix-fast-stylish-038-customizable-wordpress-theme-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 73
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/01/Minimalistix-feature-2.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.131677+00:00"
-last_updated: "2026-03-19T16:28:01.131677+00:00"
+last_scraped: "2026-03-21T02:06:48.175021+00:00"
+last_updated: "2026-03-21T02:06:48.175021+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need minimalistix
 At **$29 one-time** vs $108 regular price, you're saving **73%** ($79) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $9/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

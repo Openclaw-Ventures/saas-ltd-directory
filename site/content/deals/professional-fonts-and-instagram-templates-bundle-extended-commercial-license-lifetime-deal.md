@@ -2,7 +2,7 @@
 title: "Professional Fonts And Instagram Templates Bundle | Extended Commercial License Lifetime Deal — $15"
 description: "Get Professional Fonts And Instagram Templates Bundle | Extended Commercial License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.315768+00:00"
-lastmod: "2026-03-19T16:29:38.315768+00:00"
+lastmod: "2026-03-21T02:05:45.849253+00:00"
 product_name: "Professional Fonts And Instagram Templates Bundle | Extended Commercial License"
 slug: "professional-fonts-and-instagram-templates-bundle-extended-commercial-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 95
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Professional-Fonts-And-Instagram-Templates-Bundle-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.315768+00:00"
-last_updated: "2026-03-19T16:29:38.315768+00:00"
+last_scraped: "2026-03-21T02:05:45.849253+00:00"
+last_updated: "2026-03-21T02:05:45.849253+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need professional fonts and instagram templates bund
 At **$15 one-time** vs $288 regular price, you're saving **95%** ($273) compared to buying at full price. That's equivalent to paying just 1.2 months of the regular $24/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

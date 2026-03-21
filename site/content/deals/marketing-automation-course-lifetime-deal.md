@@ -2,7 +2,7 @@
 title: "Marketing Automation Course Lifetime Deal — $19"
 description: "Lifetime AccessAutomate FacebookAutomate Google Lead AdsNon-refundable Deal"
 date: "2026-03-19T16:28:03.348183+00:00"
-lastmod: "2026-03-19T16:28:03.348183+00:00"
+lastmod: "2026-03-21T02:06:50.566932+00:00"
 product_name: "Marketing Automation Course"
 slug: "marketing-automation-course-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 61
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2022/06/Marketing-Automayions-startegy.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.348183+00:00"
-last_updated: "2026-03-19T16:28:03.348183+00:00"
+last_scraped: "2026-03-21T02:06:50.566932+00:00"
+last_updated: "2026-03-21T02:06:50.566932+00:00"
 categories:
   - "All Deals"
 sources:
@@ -40,7 +40,7 @@ Best for all deals users who need marketing automation course capabilities — L
 At **$19 one-time** vs $49 regular price, you're saving **61%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

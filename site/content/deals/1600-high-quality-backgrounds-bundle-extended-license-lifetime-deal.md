@@ -2,7 +2,7 @@
 title: "1600+ High Quality Backgrounds Bundle | Extended License Lifetime Deal — $17"
 description: "Get 1600+ High Quality Backgrounds Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.932324+00:00"
-lastmod: "2026-03-19T16:29:38.932324+00:00"
+lastmod: "2026-03-21T02:05:46.417757+00:00"
 product_name: "1600+ High Quality Backgrounds Bundle | Extended License"
 slug: "1600-high-quality-backgrounds-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 98
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/1600-Backgrounds-Bundle-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.932324+00:00"
-last_updated: "2026-03-19T16:29:38.932324+00:00"
+last_scraped: "2026-03-21T02:05:46.417757+00:00"
+last_updated: "2026-03-21T02:05:46.417757+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 1600+ high quality backgrounds bundle | extende
 At **$17 one-time** vs $900 regular price, you're saving **98%** ($883) compared to buying at full price. That's equivalent to paying just 1.4 months of the regular $75/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Prospety : Powerful Influencer Marketing Tool For Targeted Campaigns &#038; Brand Growth Lifetime Deal — $59"
 description: "Monthly recurring500 creditsUnlimited number of searchesChoose from 3M+ YouTube channels and 1M+ Instagram profiles"
 date: "2026-03-19T16:28:00.004442+00:00"
-lastmod: "2026-03-19T16:28:00.004442+00:00"
+lastmod: "2026-03-21T02:06:47.121221+00:00"
 product_name: "Prospety : Powerful Influencer Marketing Tool For Targeted Campaigns &#038; Brand Growth"
 slug: "prospety-powerful-influencer-marketing-tool-for-targeted-campaigns-038-brand-growth-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2024/11/prospety_2.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.004442+00:00"
-last_updated: "2026-03-19T16:28:00.004442+00:00"
+last_scraped: "2026-03-21T02:06:47.121221+00:00"
+last_updated: "2026-03-21T02:06:47.121221+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need prospety : powerful influencer marketing tool 
 At **$59 one-time** vs $199 regular price, you're saving **70%** ($140) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

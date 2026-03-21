@@ -2,7 +2,7 @@
 title: "Swilty: Privacy-Focused Website Analytics Lifetime Deal Lifetime Deal — $49"
 description: "Websites: 2 sitesPageviews: 20K per site /monthTracked Goals: 5K per site"
 date: "2026-03-19T16:27:59.918163+00:00"
-lastmod: "2026-03-19T16:27:59.918163+00:00"
+lastmod: "2026-03-21T02:06:47.043757+00:00"
 product_name: "Swilty: Privacy-Focused Website Analytics Lifetime Deal"
 slug: "swilty-privacy-focused-website-analytics-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2024/12/Swilty-Li.png"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.918163+00:00"
-last_updated: "2026-03-19T16:27:59.918163+00:00"
+last_scraped: "2026-03-21T02:06:47.043757+00:00"
+last_updated: "2026-03-21T02:06:47.043757+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need swilty: privacy-focused website analytics 
 At **$49 one-time** vs $199 regular price, you're saving **75%** ($150) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

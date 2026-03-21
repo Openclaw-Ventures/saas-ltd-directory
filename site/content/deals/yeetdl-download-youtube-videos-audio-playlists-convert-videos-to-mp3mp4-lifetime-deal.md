@@ -2,7 +2,7 @@
 title: "YeetDL : Download YouTube videos, audio, playlists; convert videos to MP3/MP4 Lifetime Deal — $20"
 description: "Download 4K & 8K videos at 60 fpsDownload MP3 in 192 KbpsAutomatic DownloadsUnlimited Live Stream Recording"
 date: "2026-03-19T16:28:02.778818+00:00"
-lastmod: "2026-03-19T16:28:02.778818+00:00"
+lastmod: "2026-03-21T02:06:49.951100+00:00"
 product_name: "YeetDL : Download YouTube videos, audio, playlists; convert videos to MP3/MP4"
 slug: "yeetdl-download-youtube-videos-audio-playlists-convert-videos-to-mp3mp4-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2023/04/YeetDL-feature-image-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.778818+00:00"
-last_updated: "2026-03-19T16:28:02.778818+00:00"
+last_scraped: "2026-03-21T02:06:49.951100+00:00"
+last_updated: "2026-03-21T02:06:49.951100+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need yeetdl : download youtube videos, audio, p
 At **$20 one-time** vs $3100 regular price, you're saving **99%** ($3080) compared to buying at full price. That's equivalent to paying just 1.7 months of the regular $258/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

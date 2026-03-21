@@ -2,7 +2,7 @@
 title: "Recreate: Your Complete Video Making Suite For Social Media Marketing Lifetime Deal — $59"
 description: "What you get in this dealAccess to All TemplatesSocial Media VideosReseller Rights For All CreativesUnlimited FoldersText-To-SpeechBackground Removal100+ fonts65+ VoicesWhiteboard Animation3M+ Media S"
 date: "2026-03-19T16:28:04.450242+00:00"
-lastmod: "2026-03-19T16:28:04.450242+00:00"
+lastmod: "2026-03-21T02:06:51.696169+00:00"
 product_name: "Recreate: Your Complete Video Making Suite For Social Media Marketing"
 slug: "recreate-your-complete-video-making-suite-for-social-media-marketing-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 9
 image: "https://dealmirror.com/wp-content/uploads/2021/04/Recrate-feature.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.450242+00:00"
-last_updated: "2026-03-19T16:28:04.450242+00:00"
+last_scraped: "2026-03-21T02:06:51.696169+00:00"
+last_updated: "2026-03-21T02:06:51.696169+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need recreate: yo
 At **$59 one-time** vs $480 regular price, you're saving **88%** ($421) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $40/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

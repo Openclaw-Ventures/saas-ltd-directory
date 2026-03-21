@@ -2,7 +2,7 @@
 title: "VidTags : AI-Powered Interactive Video And Audio Hosting Platform (Platinum) Lifetime Deal — $138"
 description: "What you get in this dealAuto TranslatorLightning-Fast HostingReal-Time Analytics35+ Language TranslationImport videos from any URL1-Click Social SharingText-To-Audio ConverterAI-Powered Audio To Text"
 date: "2026-03-19T16:28:04.492430+00:00"
-lastmod: "2026-03-19T16:28:04.492430+00:00"
+lastmod: "2026-03-21T02:06:51.738247+00:00"
 product_name: "VidTags : AI-Powered Interactive Video And Audio Hosting Platform (Platinum)"
 slug: "vidtags-ai-powered-interactive-video-and-audio-hosting-platform-platinum-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 94
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/05/imgpsh_fullsize_anim-2.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.492430+00:00"
-last_updated: "2026-03-19T16:28:04.492430+00:00"
+last_scraped: "2026-03-21T02:06:51.738247+00:00"
+last_updated: "2026-03-21T02:06:51.738247+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need vidtags : ai
 At **$138 one-time** vs $2456 regular price, you're saving **94%** ($2318) compared to buying at full price. That's equivalent to paying just 11.5 months of the regular $205/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

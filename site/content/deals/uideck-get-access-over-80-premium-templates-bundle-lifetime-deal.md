@@ -2,7 +2,7 @@
 title: "UIDeck : Get Access Over 80+ Premium Templates Bundle Lifetime Deal — $69"
 description: "What you get in this dealAccess to All 80+ TemplatesUse with Commercial ProjectsUnlimited Projects/ Each TemplatesPremium Features IncludedNon RefundableHurry! Only00Licence are left"
 date: "2026-03-19T16:28:04.961292+00:00"
-lastmod: "2026-03-19T16:28:04.961292+00:00"
+lastmod: "2026-03-21T02:06:52.222008+00:00"
 product_name: "UIDeck : Get Access Over 80+ Premium Templates Bundle"
 slug: "uideck-get-access-over-80-premium-templates-bundle-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2021/09/UiDeck-Feature-Deal.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.961292+00:00"
-last_updated: "2026-03-19T16:28:04.961292+00:00"
+last_scraped: "2026-03-21T02:06:52.222008+00:00"
+last_updated: "2026-03-21T02:06:52.222008+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need uideck : get
 At **$69 one-time** vs $1299 regular price, you're saving **95%** ($1230) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $108/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

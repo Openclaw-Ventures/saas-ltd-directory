@@ -2,7 +2,7 @@
 title: "First Book ai Lifetime Deal — $49"
 description: "Use this AI ghostwriter to write a book manuscript in less than 24 hours"
 date: "2026-03-19T16:12:19.246139+00:00"
-lastmod: "2026-03-19T16:12:19.246139+00:00"
+lastmod: "2026-03-21T02:04:11.301462+00:00"
 product_name: "First Book ai"
 slug: "first-book-ai-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 4.18
 review_count: 50
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-FirstBookAI-_16_9_uuid_efefad16-56a4-4cda-9968-888baf002620.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.246139+00:00"
-last_updated: "2026-03-19T16:12:19.246139+00:00"
+last_scraped: "2026-03-21T02:04:11.301462+00:00"
+last_updated: "2026-03-21T02:04:11.301462+00:00"
 categories:
   - "Productivity"
 sources:
@@ -41,7 +41,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$49 one-time** vs $107 regular price, you're saving **54%** ($58) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $9/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal

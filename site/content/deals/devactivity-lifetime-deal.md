@@ -2,7 +2,7 @@
 title: "devActivity Lifetime Deal — $199"
 description: "devActivityis the AI-powered code contributions analytics app designed for software development teams, engineering managers, and software project managers"
 date: "2026-03-19T16:26:52.751046+00:00"
-lastmod: "2026-03-19T16:26:52.751046+00:00"
+lastmod: "2026-03-21T02:06:54.901700+00:00"
 product_name: "devActivity"
 slug: "devactivity-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 80
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/devActivity1.png?v=1733000733"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.751046+00:00"
-last_updated: "2026-03-19T16:26:52.751046+00:00"
+last_scraped: "2026-03-21T02:06:54.901700+00:00"
+last_updated: "2026-03-21T02:06:54.901700+00:00"
 categories:
   - "Developer Tools"
 sources:
@@ -39,7 +39,7 @@ Best for software developers and engineering teams who need devactivity capabili
 At **$199 one-time** vs $990 regular price, you're saving **80%** ($791) compared to buying at full price. That's equivalent to paying just 16.6 months of the regular $82/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

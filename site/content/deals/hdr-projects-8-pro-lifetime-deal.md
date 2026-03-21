@@ -2,7 +2,7 @@
 title: "HDR Projects 8 PRO Lifetime Deal — $19"
 description: "Get HDR Projects 8 PRO lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.452250+00:00"
-lastmod: "2026-03-19T16:29:38.452250+00:00"
+lastmod: "2026-03-21T02:05:45.970014+00:00"
 product_name: "HDR Projects 8 PRO"
 slug: "hdr-projects-8-pro-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 81
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/hdr-feature-image-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.452250+00:00"
-last_updated: "2026-03-19T16:29:38.452250+00:00"
+last_scraped: "2026-03-21T02:05:45.970014+00:00"
+last_updated: "2026-03-21T02:05:45.970014+00:00"
 categories:
   - "Design Software Tools"
 sources:
@@ -38,7 +38,7 @@ Best for design software tools users who need hdr projects 8 pro capabilities.
 At **$19 one-time** vs $99 regular price, you're saving **81%** ($80) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

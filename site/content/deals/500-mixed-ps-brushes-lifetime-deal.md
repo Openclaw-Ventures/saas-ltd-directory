@@ -2,7 +2,7 @@
 title: "500+ Mixed PS Brushes Lifetime Deal — $29"
 description: "Get 500+ Mixed PS Brushes lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.615574+00:00"
-lastmod: "2026-03-19T16:29:38.615574+00:00"
+lastmod: "2026-03-21T02:05:46.093226+00:00"
 product_name: "500+ Mixed PS Brushes"
 slug: "500-mixed-ps-brushes-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 86
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Cover-Image-2-1-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.615574+00:00"
-last_updated: "2026-03-19T16:29:38.615574+00:00"
+last_scraped: "2026-03-21T02:05:46.093226+00:00"
+last_updated: "2026-03-21T02:05:46.093226+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources addons users who need 500+ mixed ps brushes ca
 At **$29 one-time** vs $200 regular price, you're saving **86%** ($171) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

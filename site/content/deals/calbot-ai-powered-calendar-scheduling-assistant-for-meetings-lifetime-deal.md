@@ -2,7 +2,7 @@
 title: "CalBot : AI-Powered Calendar Scheduling Assistant for Meetings Lifetime Deal — $69"
 description: "Grammar & SpellingImprove PromptSimplifyRephraseGrammar & SpellingFriendlyExplainImprove WritingMake LongerMake ShorterHumanizeSummarizedfdfSelected Actions×RegenerateCopy"
 date: "2026-03-19T16:27:59.271177+00:00"
-lastmod: "2026-03-19T16:27:59.271177+00:00"
+lastmod: "2026-03-21T02:06:46.440222+00:00"
 product_name: "CalBot : AI-Powered Calendar Scheduling Assistant for Meetings"
 slug: "calbot-ai-powered-calendar-scheduling-assistant-for-meetings-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2025/07/CalBot-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.271177+00:00"
-last_updated: "2026-03-19T16:27:59.271177+00:00"
+last_scraped: "2026-03-21T02:06:46.440222+00:00"
+last_updated: "2026-03-21T02:06:46.440222+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need calbot : ai-powered calendar scheduling as
 At **$69 one-time** vs $99 regular price, you're saving **30%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

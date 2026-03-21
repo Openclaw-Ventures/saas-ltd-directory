@@ -2,7 +2,7 @@
 title: "Weje : All-in-One Online Team Collaboration Tool Lifetime Deal — $65"
 description: "What you get in this deal1 Brand5 Team MembersVersion HistoryUnlimited BoardsUnlimited Projects60DaysMoney Back GuaranteeHurry! Only0Licence are left"
 date: "2026-03-19T16:28:03.734210+00:00"
-lastmod: "2026-03-19T16:28:03.734210+00:00"
+lastmod: "2026-03-21T02:06:50.898214+00:00"
 product_name: "Weje : All-in-One Online Team Collaboration Tool"
 slug: "weje-all-in-one-online-team-collaboration-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 9
 image: "https://dealmirror.com/wp-content/uploads/2022/02/DealMirror-Weje-Lifetime-Deal-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.734210+00:00"
-last_updated: "2026-03-19T16:28:03.734210+00:00"
+last_scraped: "2026-03-21T02:06:50.898214+00:00"
+last_updated: "2026-03-21T02:06:50.898214+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need weje : all-i
 At **$65 one-time** vs $240 regular price, you're saving **73%** ($175) compared to buying at full price. That's equivalent to paying just 5.4 months of the regular $20/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

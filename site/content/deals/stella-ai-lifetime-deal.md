@@ -2,7 +2,7 @@
 title: "Stella AI Lifetime Deal — $49"
 description: "Working long hours on tasks, reminders, emails, notes, and meetings without achieving optimal efficiency?Imagine a world in whichyour emails almost write themselves and appointments are scheduled in s"
 date: "2026-03-19T16:26:52.754435+00:00"
-lastmod: "2026-03-19T16:26:52.754435+00:00"
+lastmod: "2026-03-21T02:06:54.905644+00:00"
 product_name: "Stella AI"
 slug: "stella-ai-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 51
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Stella-1.png?v=1738928651"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.754435+00:00"
-last_updated: "2026-03-19T16:26:52.754435+00:00"
+last_scraped: "2026-03-21T02:06:54.905644+00:00"
+last_updated: "2026-03-21T02:06:54.905644+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$49 one-time** vs $100 regular price, you're saving **51%** ($51) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $8/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

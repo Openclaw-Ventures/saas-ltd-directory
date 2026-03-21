@@ -2,7 +2,7 @@
 title: "ImgDownloader : A Powerful Image Downloading Tool Lifetime Deal — $39"
 description: "What you get in this dealUnlimitedBasic Features1000 CreditsPer MonthPreview and Download all imagesBulk Download Images from GoogleBulk Download Images from InstaBulk Download Videos from Pinterest60"
 date: "2026-03-19T16:28:04.018267+00:00"
-lastmod: "2026-03-19T16:28:04.018267+00:00"
+lastmod: "2026-03-21T02:06:51.185152+00:00"
 product_name: "ImgDownloader : A Powerful Image Downloading Tool"
 slug: "imgdownloader-a-powerful-image-downloading-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 4.43
 review_count: 7
 image: "https://dealmirror.com/wp-content/uploads/2021/08/ImgDownloader-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.018267+00:00"
-last_updated: "2026-03-19T16:28:04.018267+00:00"
+last_scraped: "2026-03-21T02:06:51.185152+00:00"
+last_updated: "2026-03-21T02:06:51.185152+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need imgdownloade
 At **$39 one-time** vs $99 regular price, you're saving **61%** ($60) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

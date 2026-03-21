@@ -2,7 +2,7 @@
 title: "Prooflander: Social Proof Marketing Software (Free Plan) Lifetime Deal"
 description: "10k Unique Visitors/MonthUnlimited CampaignsMonitor sales and conversionsHelps in customer tracking"
 date: "2026-03-19T16:27:59.032427+00:00"
-lastmod: "2026-03-19T16:27:59.032427+00:00"
+lastmod: "2026-03-21T02:06:46.294420+00:00"
 product_name: "Prooflander: Social Proof Marketing Software (Free Plan)"
 slug: "prooflander-social-proof-marketing-software-free-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 100
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/05/ProofLander.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.032427+00:00"
-last_updated: "2026-03-19T16:27:59.032427+00:00"
+last_scraped: "2026-03-21T02:06:46.294420+00:00"
+last_updated: "2026-03-21T02:06:46.294420+00:00"
 categories:
   - "DealMirror Assured"
 sources:
@@ -35,7 +35,7 @@ sources:
 Best for dealmirror assured users who need prooflander: social proof marketing software (free plan) capabilities — 10k unique visitors/monthunlimited campaignsmonitor sales and conversionshelps in customer tracking.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

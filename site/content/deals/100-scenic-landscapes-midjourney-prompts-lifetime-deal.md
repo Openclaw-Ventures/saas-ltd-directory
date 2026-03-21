@@ -2,7 +2,7 @@
 title: "100+ Scenic Landscapes Midjourney Prompts Lifetime Deal — $7"
 description: "100+ Scenic Landscapes Midjourney Prompts"
 date: "2026-03-19T16:28:02.254123+00:00"
-lastmod: "2026-03-19T16:28:02.254123+00:00"
+lastmod: "2026-03-21T02:06:49.389059+00:00"
 product_name: "100+ Scenic Landscapes Midjourney Prompts"
 slug: "100-scenic-landscapes-midjourney-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/100scenic-Landscapes-2final1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.254123+00:00"
-last_updated: "2026-03-19T16:28:02.254123+00:00"
+last_scraped: "2026-03-21T02:06:49.389059+00:00"
+last_updated: "2026-03-21T02:06:49.389059+00:00"
 categories:
   - "Midjourney Prompts"
 sources:
@@ -40,7 +40,7 @@ Best for midjourney prompts users who need 100+ scenic landscapes midjourney pro
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Liveteley : Affordable Telegram Live Chat Widget for Real-Time Support Lifetime Deal — $49"
 description: "50K Subscribers7 Connect Account50K/month number of MessagesUnlimited Broadcast & Sequence Campaign"
 date: "2026-03-19T16:28:00.931992+00:00"
-lastmod: "2026-03-19T16:28:00.931992+00:00"
+lastmod: "2026-03-21T02:06:48.018600+00:00"
 product_name: "Liveteley : Affordable Telegram Live Chat Widget for Real-Time Support"
 slug: "liveteley-affordable-telegram-live-chat-widget-for-real-time-support-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 75
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/05/LiveTeley.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.931992+00:00"
-last_updated: "2026-03-19T16:28:00.931992+00:00"
+last_scraped: "2026-03-21T02:06:48.018600+00:00"
+last_updated: "2026-03-21T02:06:48.018600+00:00"
 categories:
   - "All Deals"
 sources:
@@ -40,7 +40,7 @@ Best for all deals users who need liveteley : affordable telegram live chat widg
 At **$49 one-time** vs $199 regular price, you're saving **75%** ($150) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

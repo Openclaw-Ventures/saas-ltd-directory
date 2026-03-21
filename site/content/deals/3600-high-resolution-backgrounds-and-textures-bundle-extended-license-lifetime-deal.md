@@ -2,7 +2,7 @@
 title: "3600+ High-Resolution Backgrounds And Textures Bundle | Extended License Lifetime Deal — $39"
 description: "Get 3600+ High-Resolution Backgrounds And Textures Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.939023+00:00"
-lastmod: "2026-03-19T16:29:38.939023+00:00"
+lastmod: "2026-03-21T02:05:46.424925+00:00"
 product_name: "3600+ High-Resolution Backgrounds And Textures Bundle | Extended License"
 slug: "3600-high-resolution-backgrounds-and-textures-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 99
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/3600-Backgrounds-Textures-copy-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.939023+00:00"
-last_updated: "2026-03-19T16:29:38.939023+00:00"
+last_scraped: "2026-03-21T02:05:46.424925+00:00"
+last_updated: "2026-03-21T02:05:46.424925+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 3600+ high-resolution backgrounds and textures 
 At **$39 one-time** vs $3000 regular price, you're saving **99%** ($2961) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $250/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "LEAPS Screener : A Customizable Tool to Screen Long-Term Stock Options Lifetime Deal — $49"
 description: "LEAPS Screener  Lifetime DealAre you feeling overwhelmed by the endless list of LEAPS (long‑term equity anticipation securities) options?You’re not alone.Finding the right contract among thousands can"
 date: "2026-03-19T16:27:59.650343+00:00"
-lastmod: "2026-03-19T16:27:59.650343+00:00"
+lastmod: "2026-03-21T02:06:46.799814+00:00"
 product_name: "LEAPS Screener : A Customizable Tool to Screen Long-Term Stock Options"
 slug: "leaps-screener-a-customizable-tool-to-screen-long-term-stock-options-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2025/07/LEAPS Screener-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.650343+00:00"
-last_updated: "2026-03-19T16:27:59.650343+00:00"
+last_scraped: "2026-03-21T02:06:46.799814+00:00"
+last_updated: "2026-03-21T02:06:46.799814+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need leaps screener : a customizable tool to scre
 At **$49 one-time** vs $149 regular price, you're saving **67%** ($100) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Sensfrx : AI-Powered Fraud Detection &#038; Prevention Tool Lifetime Deal — $79"
 description: "SensfrxLifetime DealAre you sick of dealing with fake sign-ups, bots, or suspicious logins that waste your time and put your business at risk? It can be stressful and costly to handle fraud by hand or"
 date: "2026-03-19T16:27:59.074184+00:00"
-lastmod: "2026-03-19T16:27:59.074184+00:00"
+lastmod: "2026-03-21T02:06:46.314113+00:00"
 product_name: "Sensfrx : AI-Powered Fraud Detection &#038; Prevention Tool"
 slug: "sensfrx-ai-powered-fraud-detection-038-prevention-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2025/08/Sensfrx-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.074184+00:00"
-last_updated: "2026-03-19T16:27:59.074184+00:00"
+last_scraped: "2026-03-21T02:06:46.314113+00:00"
+last_updated: "2026-03-21T02:06:46.314113+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need sensfrx : ai-powered fraud detection &#038
 At **$79 one-time** vs $99 regular price, you're saving **20%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

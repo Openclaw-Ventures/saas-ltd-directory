@@ -2,7 +2,7 @@
 title: "Wallet Up: All‑in‑One WordPress Payment Plugin Lifetime Deal — $199"
 description: "Wallet Up Lifetime DealGetting paid online shouldn’t feel complicated. But for many website owners, it still is. You struggle with different WordPress payment tools, create checkout pages manually, ge"
 date: "2026-03-19T16:27:58.518551+00:00"
-lastmod: "2026-03-19T16:27:58.518551+00:00"
+lastmod: "2026-03-21T02:06:45.888385+00:00"
 product_name: "Wallet Up: All‑in‑One WordPress Payment Plugin"
 slug: "wallet-up-allinone-wordpress-payment-plugin-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2026/02/WalletUp-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.518551+00:00"
-last_updated: "2026-03-19T16:27:58.518551+00:00"
+last_scraped: "2026-03-21T02:06:45.888385+00:00"
+last_updated: "2026-03-21T02:06:45.888385+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need wallet up: all‑in‑one wordpress payment pl
 At **$199 one-time** vs $400 regular price, you're saving **50%** ($201) compared to buying at full price. That's equivalent to paying just 16.6 months of the regular $33/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

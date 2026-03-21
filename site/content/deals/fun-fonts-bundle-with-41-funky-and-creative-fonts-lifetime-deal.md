@@ -2,7 +2,7 @@
 title: "Fun Fonts Bundle- With 41 Funky and Creative Fonts Lifetime Deal — $29"
 description: "Get Fun Fonts Bundle- With 41 Funky and Creative Fonts lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.624451+00:00"
-lastmod: "2026-03-19T16:29:38.624451+00:00"
+lastmod: "2026-03-21T02:05:46.104084+00:00"
 product_name: "Fun Fonts Bundle- With 41 Funky and Creative Fonts"
 slug: "fun-fonts-bundle-with-41-funky-and-creative-fonts-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 91
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/inky-deals-fun-fonts-mega-bundle-450x281.png"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.624451+00:00"
-last_updated: "2026-03-19T16:29:38.624451+00:00"
+last_scraped: "2026-03-21T02:05:46.104084+00:00"
+last_updated: "2026-03-21T02:05:46.104084+00:00"
 categories:
   - "Android"
 sources:
@@ -38,7 +38,7 @@ Best for android users who need fun fonts bundle- with 41 funky and creative fon
 At **$29 one-time** vs $306 regular price, you're saving **91%** ($277) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $26/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

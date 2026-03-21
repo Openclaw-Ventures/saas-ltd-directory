@@ -2,7 +2,7 @@
 title: "51 Contemporary Fonts Bundle | Extended Commercial License Lifetime Deal — $49"
 description: "Get 51 Contemporary Fonts Bundle | Extended Commercial License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.301535+00:00"
-lastmod: "2026-03-19T16:29:38.301535+00:00"
+lastmod: "2026-03-21T02:05:45.833392+00:00"
 product_name: "51 Contemporary Fonts Bundle | Extended Commercial License"
 slug: "51-contemporary-fonts-bundle-extended-commercial-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 93
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/51-Contemporary-Fonts-Bundle-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.301535+00:00"
-last_updated: "2026-03-19T16:29:38.301535+00:00"
+last_scraped: "2026-03-21T02:05:45.833392+00:00"
+last_updated: "2026-03-21T02:05:45.833392+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 51 contemporary fonts bundle | extended commerc
 At **$49 one-time** vs $703 regular price, you're saving **93%** ($654) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $59/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

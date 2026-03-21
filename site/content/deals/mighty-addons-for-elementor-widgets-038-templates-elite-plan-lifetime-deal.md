@@ -2,7 +2,7 @@
 title: "Mighty Addons : For Elementor Widgets &#038; Templates Elite Plan Lifetime Deal — $129"
 description: "What you get in this deal1 Website License25+ Elementor Widgets5+ Extensions20+ Templates Kits200+ Elementor BlocksCross-Domain Copy PasteWhite Label BrandingHurry! Only00Licence are left"
 date: "2026-03-19T16:28:04.934439+00:00"
-lastmod: "2026-03-19T16:28:04.934439+00:00"
+lastmod: "2026-03-21T02:06:52.203343+00:00"
 product_name: "Mighty Addons : For Elementor Widgets &#038; Templates Elite Plan"
 slug: "mighty-addons-for-elementor-widgets-038-templates-elite-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 57
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2020/10/Featured-Image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.934439+00:00"
-last_updated: "2026-03-19T16:28:04.934439+00:00"
+last_scraped: "2026-03-21T02:06:52.203343+00:00"
+last_updated: "2026-03-21T02:06:52.203343+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need mighty addon
 At **$129 one-time** vs $299 regular price, you're saving **57%** ($170) compared to buying at full price. That's equivalent to paying just 10.8 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

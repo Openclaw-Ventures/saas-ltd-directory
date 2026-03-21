@@ -2,7 +2,7 @@
 title: "PrettyWP : Get Expert Help to Keep Your WordPress Site Secure, Fast &#038; Updated Lifetime Deal — $169"
 description: "What you get in this dealOne WP WebsiteWP Updates (Weekly)Daily BackupsUptime Monitoring60DaysMoney Back GuaranteeHurry! Only00Licence are left"
 date: "2026-03-19T16:27:58.739020+00:00"
-lastmod: "2026-03-19T16:27:58.739020+00:00"
+lastmod: "2026-03-21T02:06:46.069234+00:00"
 product_name: "PrettyWP : Get Expert Help to Keep Your WordPress Site Secure, Fast &#038; Updated"
 slug: "prettywp-get-expert-help-to-keep-your-wordpress-site-secure-fast-038-updated-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2022/05/PrettyWP-Get-Expert-Help-to-Keep-Your-WordPress-Site-Secure-Fast-Updated-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.739020+00:00"
-last_updated: "2026-03-19T16:27:58.739020+00:00"
+last_scraped: "2026-03-21T02:06:46.069234+00:00"
+last_updated: "2026-03-21T02:06:46.069234+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need prettywp : get expert help to keep your wo
 At **$169 one-time** vs $1690 regular price, you're saving **90%** ($1521) compared to buying at full price. That's equivalent to paying just 14.1 months of the regular $141/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

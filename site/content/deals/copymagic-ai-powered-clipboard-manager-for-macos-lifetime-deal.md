@@ -2,7 +2,7 @@
 title: "CopyMagic : AI-Powered Clipboard Manager for macOS Lifetime Deal — $30"
 description: "CopyMagic Lifetime DealEver copied something very important and lost it in your clipboard with other links, or double-copied the same thing again and again?It makes your clipboard messy and bulky, and"
 date: "2026-03-19T16:27:59.004090+00:00"
-lastmod: "2026-03-19T16:27:59.004090+00:00"
+lastmod: "2026-03-21T02:06:46.279009+00:00"
 product_name: "CopyMagic : AI-Powered Clipboard Manager for macOS"
 slug: "copymagic-ai-powered-clipboard-manager-for-macos-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 4.86
 review_count: 7
 image: "https://dealmirror.com/wp-content/uploads/2025/09/CopyMagic-AI-Powered-Clipboard-Manager-for-macOS.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.004090+00:00"
-last_updated: "2026-03-19T16:27:59.004090+00:00"
+last_scraped: "2026-03-21T02:06:46.279009+00:00"
+last_updated: "2026-03-21T02:06:46.279009+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -41,7 +41,7 @@ Best for professionals leveraging AI for automation who need copymagic : ai-powe
 At **$30 one-time** vs $50 regular price, you're saving **40%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

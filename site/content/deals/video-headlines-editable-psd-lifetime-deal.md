@@ -2,7 +2,7 @@
 title: "Video Headlines Editable PSD Lifetime Deal — $14"
 description: "How this deal Profitable for you!:PSD Editable File.Professionally built and can be customized easily within secondsyou can start branding your creative projects in minutesUse it as a Marketing Tool f"
 date: "2026-03-19T16:28:05.780145+00:00"
-lastmod: "2026-03-19T16:28:05.780145+00:00"
+lastmod: "2026-03-21T02:06:52.898809+00:00"
 product_name: "Video Headlines Editable PSD"
 slug: "video-headlines-editable-psd-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 86
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2017/12/Thumb-VDD.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.780145+00:00"
-last_updated: "2026-03-19T16:28:05.780145+00:00"
+last_scraped: "2026-03-21T02:06:52.898809+00:00"
+last_updated: "2026-03-21T02:06:52.898809+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need video headli
 At **$14 one-time** vs $99 regular price, you're saving **86%** ($85) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

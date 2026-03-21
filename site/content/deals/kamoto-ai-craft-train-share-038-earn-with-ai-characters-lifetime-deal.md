@@ -2,7 +2,7 @@
 title: "Kamoto AI : Craft, Train, Share &#038; Earn with AI Characters Lifetime Deal — $99"
 description: "3D AvatarTeam MemberTraining ChatsChat & Conversation"
 date: "2026-03-19T16:28:01.099791+00:00"
-lastmod: "2026-03-19T16:28:01.099791+00:00"
+lastmod: "2026-03-21T02:06:48.144846+00:00"
 product_name: "Kamoto AI : Craft, Train, Share &#038; Earn with AI Characters"
 slug: "kamoto-ai-craft-train-share-038-earn-with-ai-characters-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 50
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/02/kamoto-feature-image-1.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.099791+00:00"
-last_updated: "2026-03-19T16:28:01.099791+00:00"
+last_scraped: "2026-03-21T02:06:48.144846+00:00"
+last_updated: "2026-03-21T02:06:48.144846+00:00"
 categories:
   - "20% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 20% off users who need kamoto ai : craft, train, share &#038; earn with
 At **$99 one-time** vs $199 regular price, you're saving **50%** ($100) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "100 Canva Feed Templates: Elevate Your Food Posts on Social Media! Lifetime Deal — $29"
 description: "What you get in this deal100 Canva Feed TemplatesHigh-resolution images and graphicsFully customizable text and layoutsAccess to a tutorial video for easy editingHurry! Only99Products are left"
 date: "2026-03-19T16:28:01.856789+00:00"
-lastmod: "2026-03-19T16:28:01.856789+00:00"
+lastmod: "2026-03-21T02:06:48.913677+00:00"
 product_name: "100 Canva Feed Templates: Elevate Your Food Posts on Social Media!"
 slug: "100-canva-feed-templates-elevate-your-food-posts-on-social-media-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 41
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/100-Canva-Feed-Templates.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.856789+00:00"
-last_updated: "2026-03-19T16:28:01.856789+00:00"
+last_scraped: "2026-03-21T02:06:48.913677+00:00"
+last_updated: "2026-03-21T02:06:48.913677+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need 100 canva feed templates: elevate your foo
 At **$29 one-time** vs $49 regular price, you're saving **41%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

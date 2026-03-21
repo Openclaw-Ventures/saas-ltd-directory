@@ -2,7 +2,7 @@
 title: "500+ crypto ChatGPT Prompts Lifetime Deal — $9"
 description: "500+ crypto ChatGPT Prompts"
 date: "2026-03-19T16:28:00.774864+00:00"
-lastmod: "2026-03-19T16:28:00.774864+00:00"
+lastmod: "2026-03-21T02:06:47.882677+00:00"
 product_name: "500+ crypto ChatGPT Prompts"
 slug: "500-crypto-chatgpt-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/500-Crypto.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.774864+00:00"
-last_updated: "2026-03-19T16:28:00.774864+00:00"
+last_scraped: "2026-03-21T02:06:47.882677+00:00"
+last_updated: "2026-03-21T02:06:47.882677+00:00"
 categories:
   - "GPT Prompt"
 sources:
@@ -40,7 +40,7 @@ Best for gpt prompt users who need 500+ crypto chatgpt prompts capabilities — 
 At **$9 one-time** vs $99 regular price, you're saving **91%** ($90) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

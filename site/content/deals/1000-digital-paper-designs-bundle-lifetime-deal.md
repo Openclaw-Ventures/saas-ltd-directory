@@ -2,7 +2,7 @@
 title: "1000 Digital Paper Designs Bundle Lifetime Deal — $29"
 description: "Get 1000 Digital Paper Designs Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.979693+00:00"
-lastmod: "2026-03-19T16:29:38.979693+00:00"
+lastmod: "2026-03-21T02:05:46.477377+00:00"
 product_name: "1000 Digital Paper Designs Bundle"
 slug: "1000-digital-paper-designs-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 99
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/main_cover-e1539862535193-450x300.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.979693+00:00"
-last_updated: "2026-03-19T16:29:38.979693+00:00"
+last_scraped: "2026-03-21T02:05:46.477377+00:00"
+last_updated: "2026-03-21T02:05:46.477377+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 1000 digital paper designs bundle capabilities.
 At **$29 one-time** vs $4338 regular price, you're saving **99%** ($4309) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $362/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

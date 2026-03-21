@@ -1,5 +1,16 @@
 {{ define "main" }}
 <article class="deal-page">
+  {{/* Expired deal banner */}}
+  {{ if not .Params.deal_active }}
+  <div style="background: #FEF3C7; border: 1px solid #F59E0B; border-radius: 8px; padding: 1rem 1.25rem; margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem;">
+    <span style="font-size: 1.25rem;">⚠️</span>
+    <div>
+      <strong>This deal has expired.</strong> The {{ .Params.product_name }} lifetime deal is no longer available on {{ .Params.source | title }}.
+      {{ with index .Params.categories 0 }}<a href="/categories/{{ . | urlize }}/" style="color: #92400E; font-weight: 600;">Browse active {{ . }} lifetime deals →</a>{{ end }}
+    </div>
+  </div>
+  {{ end }}
+
   {{/* Breadcrumb */}}
   <nav class="breadcrumb" aria-label="Breadcrumb">
     <a href="/">Home</a> /
@@ -231,5 +242,30 @@
       </div>
     </div>
   </div>
+
+  {{/* Related deals */}}
+  {{ $current := . }}
+  {{ $primaryCat := index .Params.categories 0 }}
+  {{ if $primaryCat }}
+  {{ $related := where (where .Site.RegularPages "Section" "deals") ".Params.categories" "intersect" (slice $primaryCat) }}
+  {{ $filtered := slice }}
+  {{ range $related }}
+    {{ if and (ne .Permalink $current.Permalink) .Params.deal_active }}
+      {{ $filtered = $filtered | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $filtered = first 6 $filtered }}
+  {{ if gt (len $filtered) 0 }}
+  <section class="related-deals" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #E5E7EB;">
+    <h2 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 1.5rem;">Similar {{ $primaryCat }} Lifetime Deals</h2>
+    <div class="grid">
+      {{ range $filtered }}
+      {{ partial "product-card.html" . }}
+      {{ end }}
+    </div>
+    <p style="margin-top: 1rem; text-align: center;"><a href="/categories/{{ $primaryCat | urlize }}/" style="color: #2563EB;">Browse all {{ $primaryCat }} lifetime deals →</a></p>
+  </section>
+  {{ end }}
+  {{ end }}
 </article>
 {{ end }}

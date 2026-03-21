@@ -2,7 +2,7 @@
 title: "Recreate: AI-Assisted Video Maker for Social Media Marketing &#8211; Premium Plus(Plan:E) Lifetime Deal — $295"
 description: "What you get in this dealAccess to All TemplatesReseller Rights For All CreativesUnlimited FoldersText-To-Speech300+ Stylish fonts65+ VoicesWhiteboard Animation3M+ Media Standard LibraryCheck Plan Det"
 date: "2026-03-19T16:28:04.609388+00:00"
-lastmod: "2026-03-19T16:28:04.609388+00:00"
+lastmod: "2026-03-21T02:06:51.861742+00:00"
 product_name: "Recreate: AI-Assisted Video Maker for Social Media Marketing &#8211; Premium Plus(Plan:E)"
 slug: "recreate-ai-assisted-video-maker-for-social-media-marketing-8211-premium-plusplane-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 88
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/04/imgpsh_fullsize_anim-2.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.609388+00:00"
-last_updated: "2026-03-19T16:28:04.609388+00:00"
+last_scraped: "2026-03-21T02:06:51.861742+00:00"
+last_updated: "2026-03-21T02:06:51.861742+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need recreate: ai
 At **$295 one-time** vs $2400 regular price, you're saving **88%** ($2105) compared to buying at full price. That's equivalent to paying just 24.6 months of the regular $200/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

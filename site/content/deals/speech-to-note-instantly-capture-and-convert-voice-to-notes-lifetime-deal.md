@@ -2,7 +2,7 @@
 title: "Speech to Note : Instantly Capture and Convert Voice to Notes Lifetime Deal — $59"
 description: "Speech to Note LifetimeDealIn today’s fast-paced world of meetings, ideas, and constant brainstorming, capturing your thoughts at the right moment is more important than ever. Whether you’re commuting"
 date: "2026-03-19T16:27:59.376841+00:00"
-lastmod: "2026-03-19T16:27:59.376841+00:00"
+lastmod: "2026-03-21T02:06:46.506316+00:00"
 product_name: "Speech to Note : Instantly Capture and Convert Voice to Notes"
 slug: "speech-to-note-instantly-capture-and-convert-voice-to-notes-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 25
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/06/Speech-to-Note-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.376841+00:00"
-last_updated: "2026-03-19T16:27:59.376841+00:00"
+last_scraped: "2026-03-21T02:06:46.506316+00:00"
+last_updated: "2026-03-21T02:06:46.506316+00:00"
 categories:
   - "AI Content Writer"
 sources:
@@ -40,7 +40,7 @@ Best for ai content writer users who need speech to note : instantly capture and
 At **$59 one-time** vs $79 regular price, you're saving **25%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

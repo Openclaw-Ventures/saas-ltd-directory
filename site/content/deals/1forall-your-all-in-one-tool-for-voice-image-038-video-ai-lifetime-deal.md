@@ -2,7 +2,7 @@
 title: "1forAll : Your All-in-One Tool For Voice, Image &#038; Video AI Lifetime Deal — $29"
 description: "1ForALL Lifetime DealAre you looking for a single tool that can generate text-to-speech, convert Excel files to images, and transform images into videos?You can now say goodbye to the hassle of juggli"
 date: "2026-03-19T16:27:58.901044+00:00"
-lastmod: "2026-03-19T16:27:58.901044+00:00"
+lastmod: "2026-03-21T02:06:46.197540+00:00"
 product_name: "1forAll : Your All-in-One Tool For Voice, Image &#038; Video AI"
 slug: "1forall-your-all-in-one-tool-for-voice-image-038-video-ai-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2025/01/1for-All-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.901044+00:00"
-last_updated: "2026-03-19T16:27:58.901044+00:00"
+last_scraped: "2026-03-21T02:06:46.197540+00:00"
+last_updated: "2026-03-21T02:06:46.197540+00:00"
 categories:
   - "15% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 15% off users who need 1forall : your all-in-one tool for voice, image 
 At **$29 one-time** vs $300 regular price, you're saving **90%** ($271) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "54 Free Typography Designs | Extended Commercial License Lifetime Deal"
 description: "Get 54 Free Typography Designs | Extended Commercial License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.082396+00:00"
-lastmod: "2026-03-19T16:29:39.082396+00:00"
+lastmod: "2026-03-21T02:05:46.604560+00:00"
 product_name: "54 Free Typography Designs | Extended Commercial License"
 slug: "54-free-typography-designs-extended-commercial-license-lifetime-deal"
 source: "dealfuel"
@@ -13,8 +13,8 @@ price_original: 20.0
 price_currency: "USD"
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/premium-typography-elements-preview-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:39.082396+00:00"
-last_updated: "2026-03-19T16:29:39.082396+00:00"
+last_scraped: "2026-03-21T02:05:46.604560+00:00"
+last_updated: "2026-03-21T02:05:46.604560+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -32,7 +32,7 @@ sources:
 Best for graphic design resources addons users who need 54 free typography designs | extended commercial license capabilities.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

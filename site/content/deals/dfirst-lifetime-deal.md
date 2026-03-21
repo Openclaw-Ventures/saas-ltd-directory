@@ -2,7 +2,7 @@
 title: "DFIRST Lifetime Deal — $89"
 description: "Build, generate, and scale content with AI agent workflows for research, creative, and production"
 date: "2026-03-19T16:12:19.415727+00:00"
-lastmod: "2026-03-19T16:12:19.415727+00:00"
+lastmod: "2026-03-21T02:04:11.537742+00:00"
 product_name: "DFIRST"
 slug: "dfirst-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 3.87
 review_count: 15
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/dfirst-as-Header-DFIRST-16_9_uuid_b8fb0412-d1ee-4ef9-bc8a-322de435f379.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.415727+00:00"
-last_updated: "2026-03-19T16:12:19.415727+00:00"
+last_scraped: "2026-03-21T02:04:11.537742+00:00"
+last_updated: "2026-03-21T02:04:11.537742+00:00"
 categories:
   - "Marketing management"
 sources:
@@ -41,7 +41,7 @@ Best for marketing teams managing campaigns who need dfirst capabilities — Bui
 At **$89 one-time** vs $972 regular price, you're saving **91%** ($883) compared to buying at full price. That's equivalent to paying just 7.4 months of the regular $81/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal
@@ -54,5 +54,6 @@ _Last updated: 2026-03-19 16:12 UTC_
 
 Looking for similar tools? Check out these deals:
 
-- [TruConversion - Plus Exclusive](/deals/truconversion-plus-exclusive-lifetime-deal/) — $79 (84% off)
+- [Opticks](/deals/opticks-lifetime-deal/) — $69 (90% off)
+- [TruConversion](/deals/truconversion-lifetime-deal/) — $79 (84% off)
 - [Connexify](/deals/connexify-lifetime-deal/) — $59 (73% off)

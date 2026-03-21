@@ -2,7 +2,7 @@
 title: "Vidcentric : Easily Rebrand All 5 Futuristic Apps As Your Own Software Plan Three Lifetime Deal — $149"
 description: "What you get in this dealVidCentric Dashboard Access5 Software AppUnlimited White Label RightsCommercial License For All AppsQuick Start Training60DaysMoney Back GuaranteeHurry! Only499Licence are lef"
 date: "2026-03-19T16:28:03.684589+00:00"
-lastmod: "2026-03-19T16:28:03.684589+00:00"
+lastmod: "2026-03-21T02:06:50.842297+00:00"
 product_name: "Vidcentric : Easily Rebrand All 5 Futuristic Apps As Your Own Software Plan Three"
 slug: "vidcentric-easily-rebrand-all-5-futuristic-apps-as-your-own-software-plan-three-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 96
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2022/02/DealMirror-Vidcentric-Lifetime-Deal-Banner-Image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.684589+00:00"
-last_updated: "2026-03-19T16:28:03.684589+00:00"
+last_scraped: "2026-03-21T02:06:50.842297+00:00"
+last_updated: "2026-03-21T02:06:50.842297+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need vidcentric :
 At **$149 one-time** vs $3800 regular price, you're saving **96%** ($3651) compared to buying at full price. That's equivalent to paying just 12.4 months of the regular $317/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

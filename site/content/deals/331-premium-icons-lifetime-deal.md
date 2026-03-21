@@ -2,7 +2,7 @@
 title: "331 Premium Icons Lifetime Deal — $9"
 description: "What you get in this deal331 Premium Icons100% editableEasy to use"
 date: "2026-03-19T16:28:03.490789+00:00"
-lastmod: "2026-03-19T16:28:03.490789+00:00"
+lastmod: "2026-03-21T02:06:50.670600+00:00"
 product_name: "331 Premium Icons"
 slug: "331-premium-icons-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 89
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/04/premium-icons.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.490789+00:00"
-last_updated: "2026-03-19T16:28:03.490789+00:00"
+last_scraped: "2026-03-21T02:06:50.670600+00:00"
+last_updated: "2026-03-21T02:06:50.670600+00:00"
 categories:
   - "All Deals"
 sources:
@@ -40,7 +40,7 @@ Best for all deals users who need 331 premium icons capabilities — What you ge
 At **$9 one-time** vs $80 regular price, you're saving **89%** ($71) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -13,8 +13,8 @@ Project management lifetime deals let your team collaborate without monthly per-
 
 ## ⭐ Top Picks
 
-1. **[Buildin](/deals/buildin-lifetime-deal/)** — $49 (59% off) — 4.58/5 (33 reviews)
-2. **[Teable](/deals/teable-lifetime-deal/)** — $69 (81% off) — 4.41/5 (41 reviews)
+1. **[Buildin](/deals/buildin-lifetime-deal/)** — $49 (59% off) — 4.54/5 (35 reviews)
+2. **[Teable](/deals/teable-lifetime-deal/)** — $69 (81% off) — 4.43/5 (42 reviews)
 
 ## All Deals
 

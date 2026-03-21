@@ -2,7 +2,7 @@
 title: "Publitio : A Cloud-Based Digital Asset Management System Lifetime Deal — $299"
 description: "What you get in this deal100 GB Storage Space500 GBofBandwidth/Month10Players10AdsTags10 Watermarks1 Custom CNAMEDomain Level protectionHLS video encryptionHurry! Only286Licence are left"
 date: "2026-03-19T16:28:04.502022+00:00"
-lastmod: "2026-03-19T16:28:04.502022+00:00"
+lastmod: "2026-03-21T02:06:51.744786+00:00"
 product_name: "Publitio : A Cloud-Based Digital Asset Management System"
 slug: "publitio-a-cloud-based-digital-asset-management-system-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2021/05/publit-feature.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.502022+00:00"
-last_updated: "2026-03-19T16:28:04.502022+00:00"
+last_scraped: "2026-03-21T02:06:51.744786+00:00"
+last_updated: "2026-03-21T02:06:51.744786+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need publitio : a
 At **$299 one-time** vs $948 regular price, you're saving **68%** ($649) compared to buying at full price. That's equivalent to paying just 24.9 months of the regular $79/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

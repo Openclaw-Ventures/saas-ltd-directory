@@ -2,7 +2,7 @@
 title: "Secure Login : One-Click WordPress Login &#038; User Registration Security Plugin Lifetime Deal — $9"
 description: "10 Site License1-CLICK WordPress PluginNewbie Friendly, Fully TestedNo tech skills needed"
 date: "2026-03-19T16:27:59.655921+00:00"
-lastmod: "2026-03-19T16:27:59.655921+00:00"
+lastmod: "2026-03-21T02:06:46.804330+00:00"
 product_name: "Secure Login : One-Click WordPress Login &#038; User Registration Security Plugin"
 slug: "secure-login-one-click-wordpress-login-038-user-registration-security-plugin-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/Secure-Logins-Lifetime-Deal-New-Feature-Image-1-1.png"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.655921+00:00"
-last_updated: "2026-03-19T16:27:59.655921+00:00"
+last_scraped: "2026-03-21T02:06:46.804330+00:00"
+last_updated: "2026-03-21T02:06:46.804330+00:00"
 categories:
   - "50% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 50% off users who need secure login : one-click wordpress login &#038; 
 At **$9 one-time** vs $99 regular price, you're saving **91%** ($90) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

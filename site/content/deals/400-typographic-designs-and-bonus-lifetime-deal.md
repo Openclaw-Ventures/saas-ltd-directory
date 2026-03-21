@@ -2,7 +2,7 @@
 title: "400+ Typographic Designs and Bonus Lifetime Deal — $39"
 description: "Get 400+ Typographic Designs and Bonus lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.184992+00:00"
-lastmod: "2026-03-19T16:29:39.184992+00:00"
+lastmod: "2026-03-21T02:05:46.734109+00:00"
 product_name: "400+ Typographic Designs and Bonus"
 slug: "400-typographic-designs-and-bonus-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 95
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/previewtype-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:39.184992+00:00"
-last_updated: "2026-03-19T16:29:39.184992+00:00"
+last_scraped: "2026-03-21T02:05:46.734109+00:00"
+last_updated: "2026-03-21T02:05:46.734109+00:00"
 categories:
   - "Android"
 sources:
@@ -38,7 +38,7 @@ Best for android users who need 400+ typographic designs and bonus capabilities.
 At **$39 one-time** vs $814 regular price, you're saving **95%** ($775) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $68/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

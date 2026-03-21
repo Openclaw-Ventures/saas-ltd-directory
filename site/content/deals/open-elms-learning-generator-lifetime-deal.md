@@ -2,7 +2,7 @@
 title: "Open eLMS Learning Generator Lifetime Deal — $59"
 description: "Need a professional e-learning course fast?Build a high-quality course you can charge money for in MINUTES, not months"
 date: "2026-03-19T16:26:52.721811+00:00"
-lastmod: "2026-03-19T16:26:52.721811+00:00"
+lastmod: "2026-03-21T02:06:54.872595+00:00"
 product_name: "Open eLMS Learning Generator"
 slug: "open-elms-learning-generator-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 77
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Open_eLMS_10.png?v=1756796321"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.721811+00:00"
-last_updated: "2026-03-19T16:26:52.721811+00:00"
+last_scraped: "2026-03-21T02:06:54.872595+00:00"
+last_updated: "2026-03-21T02:06:54.872595+00:00"
 categories:
   - "AI"
 sources:
@@ -39,7 +39,7 @@ Best for professionals leveraging AI for automation who need open elms learning 
 At **$59 one-time** vs $254 regular price, you're saving **77%** ($195) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $21/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Headway Lifetime Deal — $59"
 description: "Get 15-minute reads of the best book and the best ideas in a nutshell based on your goals & needs"
 date: "2026-03-19T16:12:19.473238+00:00"
-lastmod: "2026-03-19T16:12:19.473238+00:00"
+lastmod: "2026-03-21T02:04:11.598080+00:00"
 product_name: "Headway"
 slug: "headway-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 4.62
 review_count: 162
 image: "https://appsumo2-cdn.appsumo.com/media/selfsubmissions/images/409c70a9-20fe-4921-98e5-0bed36f8dcef.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.473238+00:00"
-last_updated: "2026-03-19T16:12:19.473238+00:00"
+last_scraped: "2026-03-21T02:04:11.598080+00:00"
+last_updated: "2026-03-21T02:04:11.598080+00:00"
 sources:
   - "appsumo"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need headway capa
 At **$59 one-time** vs $99 regular price, you're saving **40%** ($40) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal

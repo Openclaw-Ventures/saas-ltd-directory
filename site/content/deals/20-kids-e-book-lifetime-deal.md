@@ -2,7 +2,7 @@
 title: "20+ Kids E Book Lifetime Deal — $7"
 description: "Interactive StorytellingBeautiful IllustrationsEducational ContentRead-Aloud Option"
 date: "2026-03-19T16:27:59.813354+00:00"
-lastmod: "2026-03-19T16:27:59.813354+00:00"
+lastmod: "2026-03-21T02:06:46.941242+00:00"
 product_name: "20+ Kids E Book"
 slug: "20-kids-e-book-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/02/20-Kids-E-Book-2.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.813354+00:00"
-last_updated: "2026-03-19T16:27:59.813354+00:00"
+last_scraped: "2026-03-21T02:06:46.941242+00:00"
+last_updated: "2026-03-21T02:06:46.941242+00:00"
 categories:
   - "Course"
 sources:
@@ -40,7 +40,7 @@ Best for course users who need 20+ kids e book capabilities — Interactive Stor
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

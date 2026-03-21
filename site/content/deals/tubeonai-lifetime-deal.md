@@ -2,7 +2,7 @@
 title: "TubeOnAI Lifetime Deal — $59"
 description: "Repurpose videos, podcasts, PDFs, and articles into publish-ready content with AI summarization"
 date: "2026-03-19T16:12:19.345323+00:00"
-lastmod: "2026-03-19T16:12:19.345323+00:00"
+lastmod: "2026-03-21T02:04:11.424291+00:00"
 product_name: "TubeOnAI"
 slug: "tubeonai-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 4.31
 review_count: 26
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/tubeonai-as-Header-TubeOnAI-16_9.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.345323+00:00"
-last_updated: "2026-03-19T16:12:19.345323+00:00"
+last_scraped: "2026-03-21T02:04:11.424291+00:00"
+last_updated: "2026-03-21T02:04:11.424291+00:00"
 categories:
   - "Productivity"
 sources:
@@ -41,7 +41,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$59 one-time** vs $108 regular price, you're saving **45%** ($49) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $9/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal

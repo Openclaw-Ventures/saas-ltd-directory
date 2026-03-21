@@ -2,7 +2,7 @@
 title: "Getflix : Smart DNS &#038; VPN Technology Lifetime Deal — $99"
 description: "Access 300+ streaming servicesAccess over 200+ VPN nodes256-bit SSL encryptionAccess Netflix on computers"
 date: "2026-03-19T16:28:03.098131+00:00"
-lastmod: "2026-03-19T16:28:03.098131+00:00"
+lastmod: "2026-03-21T02:06:50.335109+00:00"
 product_name: "Getflix : Smart DNS &#038; VPN Technology"
 slug: "getflix-smart-dns-038-vpn-technology-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2022/10/Getflix-banner.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.098131+00:00"
-last_updated: "2026-03-19T16:28:03.098131+00:00"
+last_scraped: "2026-03-21T02:06:50.335109+00:00"
+last_updated: "2026-03-21T02:06:50.335109+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need getflix : sm
 At **$99 one-time** vs $599 regular price, you're saving **83%** ($500) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $50/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

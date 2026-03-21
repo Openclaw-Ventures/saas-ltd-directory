@@ -2,7 +2,7 @@
 title: "ScrapeTheMap : AI-Powered B2B Lead Generation &#038; Outreach Tool Lifetime Deal — $99"
 description: "ScrapeThe Map Lifetime DealBuilding the right lead list is one of the most important steps in B2B growth, but also one of the most challenging. Finding leads by location, accessing fresh data, and cra"
 date: "2026-03-19T16:27:59.206413+00:00"
-lastmod: "2026-03-19T16:27:59.206413+00:00"
+lastmod: "2026-03-21T02:06:46.396168+00:00"
 product_name: "ScrapeTheMap : AI-Powered B2B Lead Generation &#038; Outreach Tool"
 slug: "scrapethemap-ai-powered-b2b-lead-generation-038-outreach-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 4.83
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2025/07/Scrap-the-Map-Images.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.206413+00:00"
-last_updated: "2026-03-19T16:27:59.206413+00:00"
+last_scraped: "2026-03-21T02:06:46.396168+00:00"
+last_updated: "2026-03-21T02:06:46.396168+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need scrapethemap
 At **$99 one-time** vs $199 regular price, you're saving **50%** ($100) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

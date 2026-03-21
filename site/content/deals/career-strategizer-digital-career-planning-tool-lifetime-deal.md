@@ -2,7 +2,7 @@
 title: "Career_Strategizer : Digital Career Planning Tool Lifetime Deal — $69"
 description: "What you get in this dealAdds Affiliate LinksAffiliate Links CloakingBroken Links CheckerGenerated Links ReportHurry! Only141Licence are left"
 date: "2026-03-19T16:28:03.122430+00:00"
-lastmod: "2026-03-19T16:28:03.122430+00:00"
+lastmod: "2026-03-21T02:06:50.350685+00:00"
 product_name: "Career_Strategizer : Digital Career Planning Tool"
 slug: "career-strategizer-digital-career-planning-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/10/Careee-Strategizer-Lifetime-Deal-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.122430+00:00"
-last_updated: "2026-03-19T16:28:03.122430+00:00"
+last_scraped: "2026-03-21T02:06:50.350685+00:00"
+last_updated: "2026-03-21T02:06:50.350685+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need career_strategizer : digital career planni
 At **$69 one-time** vs $499 regular price, you're saving **86%** ($430) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

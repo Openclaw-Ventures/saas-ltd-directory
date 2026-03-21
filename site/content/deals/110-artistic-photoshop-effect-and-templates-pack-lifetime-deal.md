@@ -2,7 +2,7 @@
 title: "110 Artistic Photoshop Effect And Templates Pack Lifetime Deal — $29"
 description: "Get 110 Artistic Photoshop Effect And Templates Pack lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.511033+00:00"
-lastmod: "2026-03-19T16:29:38.511033+00:00"
+lastmod: "2026-03-21T02:05:46.010238+00:00"
 product_name: "110 Artistic Photoshop Effect And Templates Pack"
 slug: "110-artistic-photoshop-effect-and-templates-pack-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 94
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Artistic-Photoshop-Effects-Pack-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.511033+00:00"
-last_updated: "2026-03-19T16:29:38.511033+00:00"
+last_scraped: "2026-03-21T02:05:46.010238+00:00"
+last_updated: "2026-03-21T02:05:46.010238+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources addons users who need 110 artistic photoshop e
 At **$29 one-time** vs $499 regular price, you're saving **94%** ($470) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

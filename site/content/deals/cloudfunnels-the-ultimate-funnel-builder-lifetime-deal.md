@@ -2,7 +2,7 @@
 title: "CloudFunnels: The Ultimate Funnel Builder Lifetime Deal — $99"
 description: "Multi-UserUnlimited FunnelsCommercial Rights (Unlimited)Agency Rights"
 date: "2026-03-19T16:28:04.073702+00:00"
-lastmod: "2026-03-19T16:28:04.073702+00:00"
+lastmod: "2026-03-21T02:06:51.252197+00:00"
 product_name: "CloudFunnels: The Ultimate Funnel Builder"
 slug: "cloudfunnels-the-ultimate-funnel-builder-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2021/11/cloudfunnels-banner.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.073702+00:00"
-last_updated: "2026-03-19T16:28:04.073702+00:00"
+last_scraped: "2026-03-21T02:06:51.252197+00:00"
+last_updated: "2026-03-21T02:06:51.252197+00:00"
 categories:
   - "Active Campaign"
 sources:
@@ -41,7 +41,7 @@ Best for active campaign users who need cloudfunnels: the ultimate funnel builde
 At **$99 one-time** vs $164 regular price, you're saving **40%** ($65) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $14/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

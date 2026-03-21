@@ -2,7 +2,7 @@
 title: "PlayStory : Create High Quality Interactive Videos Lifetime Deal — $39"
 description: "What you get in this dealLifetime Access3 Interactive VideosOne Project60 days money back guaranteeHurry! Only165Licence are left"
 date: "2026-03-19T16:28:03.288944+00:00"
-lastmod: "2026-03-19T16:28:03.288944+00:00"
+lastmod: "2026-03-21T02:06:50.519200+00:00"
 product_name: "PlayStory : Create High Quality Interactive Videos"
 slug: "playstory-create-high-quality-interactive-videos-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/07/PlayStory-Lifetime-Deal-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.288944+00:00"
-last_updated: "2026-03-19T16:28:03.288944+00:00"
+last_scraped: "2026-03-21T02:06:50.519200+00:00"
+last_updated: "2026-03-21T02:06:50.519200+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need playstory : 
 At **$39 one-time** vs $199 regular price, you're saving **80%** ($160) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

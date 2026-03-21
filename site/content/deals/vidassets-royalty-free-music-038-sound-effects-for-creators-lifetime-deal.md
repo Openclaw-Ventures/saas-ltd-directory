@@ -2,7 +2,7 @@
 title: "VidAssets: Royalty-Free Music &#038; Sound Effects for Creators Lifetime Deal — $50"
 description: "VidAssets lifetime dealAre you a creator constantly searching for high-quality, royalty-free music and sound effects but end up tangled in complicated licenses, limited choices, or low-quality content"
 date: "2026-03-19T16:27:59.264528+00:00"
-lastmod: "2026-03-19T16:27:59.264528+00:00"
+lastmod: "2026-03-21T02:06:46.435796+00:00"
 product_name: "VidAssets: Royalty-Free Music &#038; Sound Effects for Creators"
 slug: "vidassets-royalty-free-music-038-sound-effects-for-creators-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2025/07/Vidassests-Feature-image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.264528+00:00"
-last_updated: "2026-03-19T16:27:59.264528+00:00"
+last_scraped: "2026-03-21T02:06:46.435796+00:00"
+last_updated: "2026-03-21T02:06:46.435796+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need vidassets: royalty-free music &#038; sound eff
 At **$50 one-time** vs $499 regular price, you're saving **90%** ($449) compared to buying at full price. That's equivalent to paying just 4.2 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

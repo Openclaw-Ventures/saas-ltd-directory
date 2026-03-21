@@ -2,7 +2,7 @@
 title: "Sendster : Your Ultimate AI-Powered Email Marketing Solution Lifetime Deal — $67"
 description: "1 Site/Installation50K Contacts10 SMTPs"
 date: "2026-03-19T16:27:59.258210+00:00"
-lastmod: "2026-03-19T16:27:59.258210+00:00"
+lastmod: "2026-03-21T02:06:46.431630+00:00"
 product_name: "Sendster : Your Ultimate AI-Powered Email Marketing Solution"
 slug: "sendster-your-ultimate-ai-powered-email-marketing-solution-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2023/10/sendster.png"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.258210+00:00"
-last_updated: "2026-03-19T16:27:59.258210+00:00"
+last_scraped: "2026-03-21T02:06:46.431630+00:00"
+last_updated: "2026-03-21T02:06:46.431630+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need sendster : your ultimate ai-powered email mark
 At **$67 one-time** vs $99 regular price, you're saving **32%** ($32) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

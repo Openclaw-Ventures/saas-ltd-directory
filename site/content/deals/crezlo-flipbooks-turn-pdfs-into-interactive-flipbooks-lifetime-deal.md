@@ -2,7 +2,7 @@
 title: "Crezlo Flipbooks: Turn PDFs into Interactive Flipbooks Lifetime Deal — $49"
 description: "Crezlo Flipbooks Lifetime DealBeing a small business owner, creating product demos is a task in itself, and if you want your product demos to look attractive and grab attention instantly, old PDFs won"
 date: "2026-03-19T16:27:58.513035+00:00"
-lastmod: "2026-03-19T16:27:58.513035+00:00"
+lastmod: "2026-03-21T02:06:45.883680+00:00"
 product_name: "Crezlo Flipbooks: Turn PDFs into Interactive Flipbooks"
 slug: "crezlo-flipbooks-turn-pdfs-into-interactive-flipbooks-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2026/02/1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.513035+00:00"
-last_updated: "2026-03-19T16:27:58.513035+00:00"
+last_scraped: "2026-03-21T02:06:45.883680+00:00"
+last_updated: "2026-03-21T02:06:45.883680+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need crezlo flipbooks: turn pdfs into interactive f
 At **$49 one-time** vs $490 regular price, you're saving **90%** ($441) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $41/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "NativeRest Lifetime Deal — $19"
 description: "IntroducingNativeRest, the ultimate tool for creating, debugging, and testing APIs on Windows"
 date: "2026-03-19T16:26:52.790502+00:00"
-lastmod: "2026-03-19T16:26:52.790502+00:00"
+lastmod: "2026-03-21T02:06:54.953994+00:00"
 product_name: "NativeRest"
 slug: "nativerest-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/NativeRest1-2048x1082.png?v=1728889305"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.790502+00:00"
-last_updated: "2026-03-19T16:26:52.790502+00:00"
+last_scraped: "2026-03-21T02:06:54.953994+00:00"
+last_updated: "2026-03-21T02:06:54.953994+00:00"
 categories:
   - "Developer Tools"
 sources:
@@ -39,7 +39,7 @@ Best for software developers and engineering teams who need nativerest capabilit
 At **$19 one-time** vs $190 regular price, you're saving **90%** ($171) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

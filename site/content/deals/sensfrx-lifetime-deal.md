@@ -2,7 +2,7 @@
 title: "Sensfrx Lifetime Deal — $79"
 description: "Are fraudsters slipping through yourpurchase flow?MeetSensfrx— the frictionless fraud fighter built to protect your business without slowing it down"
 date: "2026-03-19T16:26:52.628463+00:00"
-lastmod: "2026-03-19T16:26:52.628463+00:00"
+lastmod: "2026-03-21T02:06:54.784332+00:00"
 product_name: "Sensfrx"
 slug: "sensfrx-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 92
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/sensfrx1.jpg?v=1761549798"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.628463+00:00"
-last_updated: "2026-03-19T16:26:52.628463+00:00"
+last_scraped: "2026-03-21T02:06:54.784332+00:00"
+last_updated: "2026-03-21T02:06:54.784332+00:00"
 categories:
   - "E-Commerce"
 sources:
@@ -39,7 +39,7 @@ Best for e-commerce users who need sensfrx capabilities — Are fraudsters slipp
 At **$79 one-time** vs $1044 regular price, you're saving **92%** ($965) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $87/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

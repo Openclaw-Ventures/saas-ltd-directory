@@ -2,7 +2,7 @@
 title: "AdPeekr: Get Instant Notification When Competitors Run New Ads Lifetime Deal — $59"
 description: "AdPeekr Lifetime DealHave you ever looked at your competitor’s ad copy while scrolling through social media, only to find that it was run 10 days ago and you’re only just discovering it now?Competitor"
 date: "2026-03-19T16:27:58.850531+00:00"
-lastmod: "2026-03-19T16:27:58.850531+00:00"
+lastmod: "2026-03-21T02:06:46.163294+00:00"
 product_name: "AdPeekr: Get Instant Notification When Competitors Run New Ads"
 slug: "adpeekr-get-instant-notification-when-competitors-run-new-ads-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2025/11/AdPeekr-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.850531+00:00"
-last_updated: "2026-03-19T16:27:58.850531+00:00"
+last_scraped: "2026-03-21T02:06:46.163294+00:00"
+last_updated: "2026-03-21T02:06:46.163294+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need adpeekr: get instant notification when com
 At **$59 one-time** vs $149 regular price, you're saving **60%** ($90) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

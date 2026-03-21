@@ -2,7 +2,7 @@
 title: "Support Board Lifetime Deal — $70"
 description: "What if every customer conversation—across every channel—felt effortless?Support Boardturns scattered messages into seamless connections"
 date: "2026-03-19T16:26:52.632885+00:00"
-lastmod: "2026-03-19T16:26:52.632885+00:00"
+lastmod: "2026-03-21T02:06:54.787585+00:00"
 product_name: "Support Board"
 slug: "support-board-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 42
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/support-board.jpg?v=1761131781"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.632885+00:00"
-last_updated: "2026-03-19T16:26:52.632885+00:00"
+last_scraped: "2026-03-21T02:06:54.787585+00:00"
+last_updated: "2026-03-21T02:06:54.787585+00:00"
 categories:
   - "Business"
 sources:
@@ -39,7 +39,7 @@ Best for business owners and entrepreneurs who need support board capabilities �
 At **$70 one-time** vs $120 regular price, you're saving **42%** ($50) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

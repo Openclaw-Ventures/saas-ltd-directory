@@ -2,7 +2,7 @@
 title: "Promo style video templates Lifetime Deal â€” $39"
 description: "What you get in this deal20 Promo Style Video TemplatesNo video editing expertise neededHigh-quality promotional content.Pre-designed templatesHurry! Only99Products are left"
 date: "2026-03-19T16:28:01.925370+00:00"
-lastmod: "2026-03-19T16:28:01.925370+00:00"
+lastmod: "2026-03-21T02:06:48.977563+00:00"
 product_name: "Promo style video templates"
 slug: "promo-style-video-templates-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 43
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/Feature-Image-2.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.925370+00:00"
-last_updated: "2026-03-19T16:28:01.925370+00:00"
+last_scraped: "2026-03-21T02:06:48.977563+00:00"
+last_updated: "2026-03-21T02:06:48.977563+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need promo style video templates capabilities â
 At **$39 one-time** vs $69 regular price, you're saving **43%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Handshook: AI Business Card Scanner for Networking &#038; CRM Integration Lifetime Deal — $59"
 description: "1 User License100 Scans per month2000 Total ConnectionsScan Business Cards"
 date: "2026-03-19T16:27:59.659713+00:00"
-lastmod: "2026-03-19T16:27:59.659713+00:00"
+lastmod: "2026-03-21T02:06:46.808940+00:00"
 product_name: "Handshook: AI Business Card Scanner for Networking &#038; CRM Integration"
 slug: "handshook-ai-business-card-scanner-for-networking-038-crm-integration-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/03/Handshook-Feature-Image-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.659713+00:00"
-last_updated: "2026-03-19T16:27:59.659713+00:00"
+last_scraped: "2026-03-21T02:06:46.808940+00:00"
+last_updated: "2026-03-21T02:06:46.808940+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need handshook: ai business card scanner for ne
 At **$59 one-time** vs $299 regular price, you're saving **80%** ($240) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -5,19 +5,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{/* Title: SEO-optimized for deal pages */}}
   {{ if and .IsPage (eq .Section "deals") }}
+  {{ if .Params.deal_active }}
   <title>{{ .Params.product_name }} Lifetime Deal — ${{ .Params.price_current }} One-Time | SaaS LTD Deals</title>
-  <meta name="description" content="{{ .Params.tagline | default .Description }}. Get the {{ .Params.product_name }} lifetime deal for ${{ .Params.price_current }}{{ with .Params.discount_pct }} (save {{ . }}%){{ end }}.{{ with .Params.review_count }} {{ . }} verified reviews.{{ end }}">
+  <meta name="description" content="Get the {{ .Params.product_name }} lifetime deal for ${{ .Params.price_current }} one-time{{ with .Params.discount_pct }} — save {{ . }}%{{ end }}{{ with .Params.price_original }} vs ${{ . }}/yr normally{{ end }}.{{ if and .Params.review_count (ge .Params.review_count 5) }} Rated {{ .Params.rating }}/5 by {{ .Params.review_count }} buyers.{{ end }} Available on {{ .Params.source | title }}.">
+  {{ else }}
+  <title>{{ .Params.product_name }} Lifetime Deal — Was ${{ .Params.price_current }} (Expired) | SaaS LTD Deals</title>
+  <meta name="description" content="The {{ .Params.product_name }} lifetime deal has ended. It was available for ${{ .Params.price_current }} on {{ .Params.source | title }}{{ with .Params.discount_pct }} ({{ . }}% off){{ end }}. Browse active {{ with index .Params.categories 0 }}{{ . }}{{ end }} lifetime deals below.">
+  {{ end }}
   {{ else }}
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   {{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
+  {{ if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ end }}
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   {{ partial "head-seo.html" . }}
   {{ partial "head-scripts.html" . }}
   {{/* Search engine verification tags */}}
   {{ with .Site.Params.googleVerification }}<meta name="google-site-verification" content="{{ . }}" />{{ end }}
   {{ with .Site.Params.bingVerification }}<meta name="msvalidate.01" content="{{ . }}" />{{ end }}
+  <meta name='impact-site-verification' value='e5c50f32-1221-4343-abd4-bdca1eb6cb95'>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="/css/style.css">

@@ -2,7 +2,7 @@
 title: "Contact Concert Lifetime Deal — $89"
 description: "Contact Concertstreamlines the delivery of web push notifications, enabling businesses to communicate seamlessly with their audience through timely updates and personalized messages"
 date: "2026-03-19T16:26:52.779711+00:00"
-lastmod: "2026-03-19T16:26:52.779711+00:00"
+lastmod: "2026-03-21T02:06:54.939036+00:00"
 product_name: "Contact Concert"
 slug: "contact-concert-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/ContactConcert-1-2048x1082_png.webp?v=1728889422"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.779711+00:00"
-last_updated: "2026-03-19T16:26:52.779711+00:00"
+last_scraped: "2026-03-21T02:06:54.939036+00:00"
+last_updated: "2026-03-21T02:06:54.939036+00:00"
 categories:
   - "Sales & Marketing"
 sources:
@@ -39,7 +39,7 @@ Best for sales and marketing professionals who need contact concert capabilities
 At **$89 one-time** vs $890 regular price, you're saving **90%** ($801) compared to buying at full price. That's equivalent to paying just 7.4 months of the regular $74/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

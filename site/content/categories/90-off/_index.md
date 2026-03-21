@@ -3,6 +3,7 @@ title: "Best 90% OFF Lifetime Deals (2026)"
 description: "Looking for 90% off lifetime deals? Here are the best one-time deals available in 2026, updated daily from AppSumo, DealFuel, DealMirror, and Dealify."
 category: "90% OFF"
 deal_count: 2
+noindex: true
 ---
 
 # Best 90% OFF Lifetime Deals

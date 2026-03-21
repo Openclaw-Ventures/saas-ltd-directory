@@ -359,6 +359,13 @@ def write_deals_index():
 
 def write_category_pages(products_by_cat):
     """Generate category landing pages with editorial content."""
+    # Categories to suppress (scraper artifacts, not real categories)
+    SUPPRESSED_CATEGORIES = {
+        "expired deals", "all deals", "uncategorized",
+        "15% off", "20% off", "30% off", "40% off", "50% off", "90% off",
+        "1 99 store",
+    }
+
     # Category intro templates
     category_intros = {
         "productivity": "Looking for productivity lifetime deals? Here are the best one-time payment tools to boost your team's output in 2026.",
@@ -391,6 +398,8 @@ def write_category_pages(products_by_cat):
 
     for category, products in sorted(products_by_cat.items()):
         if not category or category == "Uncategorized":
+            continue
+        if category.lower().strip() in SUPPRESSED_CATEGORIES:
             continue
 
         # Create category slug

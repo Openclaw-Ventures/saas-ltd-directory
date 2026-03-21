@@ -2,7 +2,7 @@
 title: "Pitchbob : AI Pitch Deck Generator &#038; Startup Co-Pilot Lifetime Deal — $99"
 description: "All in one pack generationsAsk me anything, co-pilotAI Growth Booster & Stakeholder Reporter"
 date: "2026-03-19T16:28:00.360477+00:00"
-lastmod: "2026-03-19T16:28:00.360477+00:00"
+lastmod: "2026-03-21T02:06:47.452037+00:00"
 product_name: "Pitchbob : AI Pitch Deck Generator &#038; Startup Co-Pilot"
 slug: "pitchbob-ai-pitch-deck-generator-038-startup-co-pilot-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 58
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/06/PitchBob-banner.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.360477+00:00"
-last_updated: "2026-03-19T16:28:00.360477+00:00"
+last_scraped: "2026-03-21T02:06:47.452037+00:00"
+last_updated: "2026-03-21T02:06:47.452037+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need pitchbob : ai pitch deck generator &#038; 
 At **$99 one-time** vs $238 regular price, you're saving **58%** ($139) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $20/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

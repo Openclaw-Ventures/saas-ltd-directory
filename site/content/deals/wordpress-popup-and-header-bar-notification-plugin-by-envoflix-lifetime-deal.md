@@ -2,7 +2,7 @@
 title: "WordPress Popup and Header Bar Notification Plugin By EnvoFlix Lifetime Deal — $10"
 description: "Get WordPress Popup and Header Bar Notification Plugin By EnvoFlix lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.249588+00:00"
-lastmod: "2026-03-19T16:29:39.249588+00:00"
+lastmod: "2026-03-21T02:05:46.782162+00:00"
 product_name: "WordPress Popup and Header Bar Notification Plugin By EnvoFlix"
 slug: "wordpress-popup-and-header-bar-notification-plugin-by-envoflix-lifetime-deal"
 source: "dealfuel"
@@ -12,8 +12,8 @@ price_current: 10.0
 price_currency: "USD"
 image: "https://www.dealfuel.com/wp-content/uploads/2020/04/Envoflix-WordPress-Header-Bar-and-Pop-Notification-Plugin-1-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:39.249588+00:00"
-last_updated: "2026-03-19T16:29:39.249588+00:00"
+last_scraped: "2026-03-21T02:05:46.782162+00:00"
+last_updated: "2026-03-21T02:05:46.782162+00:00"
 categories:
   - "Browser Based"
 sources:
@@ -36,7 +36,7 @@ Best for browser based users who need wordpress popup and header bar notificatio
 Available as a one-time purchase at **$10** — no recurring fees.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

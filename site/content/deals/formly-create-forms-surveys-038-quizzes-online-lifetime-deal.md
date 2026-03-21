@@ -2,7 +2,7 @@
 title: "Formly: Create Forms, Surveys &#038; Quizzes Online Lifetime Deal — $99"
 description: "1 UserUnlimited Forms & QuestionsUnlimited Responses- Weblink"
 date: "2026-03-19T16:28:03.982323+00:00"
-lastmod: "2026-03-19T16:28:03.982323+00:00"
+lastmod: "2026-03-21T02:06:51.151170+00:00"
 product_name: "Formly: Create Forms, Surveys &#038; Quizzes Online"
 slug: "formly-create-forms-surveys-038-quizzes-online-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2021/12/Formly-1.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.982323+00:00"
-last_updated: "2026-03-19T16:28:03.982323+00:00"
+last_scraped: "2026-03-21T02:06:51.151170+00:00"
+last_updated: "2026-03-21T02:06:51.151170+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need formly: create forms, surveys &#038; quizzes o
 At **$99 one-time** vs $1450 regular price, you're saving **93%** ($1351) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $121/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

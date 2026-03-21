@@ -2,7 +2,7 @@
 title: "LOGO.IM : Create A Logo With A Single Click Lifetime Deal — $59"
 description: "What you get in this dealUnlimited LogosHighest download qualityCommercial-use rights"
 date: "2026-03-19T16:28:01.164963+00:00"
-lastmod: "2026-03-19T16:28:01.164963+00:00"
+lastmod: "2026-03-21T02:06:48.211373+00:00"
 product_name: "LOGO.IM : Create A Logo With A Single Click"
 slug: "logoim-create-a-logo-with-a-single-click-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2023/12/LOGO-FEATURE.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.164963+00:00"
-last_updated: "2026-03-19T16:28:01.164963+00:00"
+last_scraped: "2026-03-21T02:06:48.211373+00:00"
+last_updated: "2026-03-21T02:06:48.211373+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need logo.im : cr
 At **$59 one-time** vs $99 regular price, you're saving **40%** ($40) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

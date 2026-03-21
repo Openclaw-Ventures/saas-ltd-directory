@@ -2,7 +2,7 @@
 title: "iFinancer : Income &#038; Expense Tracker Lifetime Deal — $19"
 description: "What you get in this dealUnlimited number of accountsUnlimited number of categoriesCreate budgetsLifetime AccessPremium SupportFree UpdatesHurry!Only4License are left"
 date: "2026-03-19T16:28:04.873448+00:00"
-lastmod: "2026-03-19T16:28:04.873448+00:00"
+lastmod: "2026-03-21T02:06:52.158495+00:00"
 product_name: "iFinancer : Income &#038; Expense Tracker"
 slug: "ifinancer-income-038-expense-tracker-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2020/11/IFinancer-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.873448+00:00"
-last_updated: "2026-03-19T16:28:04.873448+00:00"
+last_scraped: "2026-03-21T02:06:52.158495+00:00"
+last_updated: "2026-03-21T02:06:52.158495+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need ifinancer : 
 At **$19 one-time** vs $30 regular price, you're saving **37%** ($11) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

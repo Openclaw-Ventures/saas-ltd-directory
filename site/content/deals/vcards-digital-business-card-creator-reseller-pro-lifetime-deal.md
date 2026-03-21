@@ -2,7 +2,7 @@
 title: "vCards: Digital Business Card Creator (Reseller Pro) Lifetime Deal — $799"
 description: "Projects: 100vCard: 50Pixels: 20File links: 20"
 date: "2026-03-19T16:28:00.301540+00:00"
-lastmod: "2026-03-19T16:28:00.301540+00:00"
+lastmod: "2026-03-21T02:06:47.401576+00:00"
 product_name: "vCards: Digital Business Card Creator (Reseller Pro)"
 slug: "vcards-digital-business-card-creator-reseller-pro-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 20
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/07/vCards.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.301540+00:00"
-last_updated: "2026-03-19T16:28:00.301540+00:00"
+last_scraped: "2026-03-21T02:06:47.401576+00:00"
+last_updated: "2026-03-21T02:06:47.401576+00:00"
 categories:
   - "40% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 40% off users who need vcards: digital business card creator (reseller 
 At **$799 one-time** vs $999 regular price, you're saving **20%** ($200) compared to buying at full price. That's equivalent to paying just 66.6 months of the regular $83/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

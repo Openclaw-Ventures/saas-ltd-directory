@@ -2,7 +2,7 @@
 title: "Nero Screen Recorder: Easy 4K Capture with AI Subtitles &#038; Editing Access Lifetime Deal — $22"
 description: "Nero Screen Recorder Yearly DealAre you also tired of using multiple tools for screen recording & still end up with screen recordings that look blurry or take forever to set up?Many screen recorders f"
 date: "2026-03-19T16:27:58.588166+00:00"
-lastmod: "2026-03-19T16:27:58.588166+00:00"
+lastmod: "2026-03-21T02:06:45.946649+00:00"
 product_name: "Nero Screen Recorder: Easy 4K Capture with AI Subtitles &#038; Editing Access"
 slug: "nero-screen-recorder-easy-4k-capture-with-ai-subtitles-038-editing-access-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 27
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2026/01/Nero-Screen-Recorder-Easy-4K-Capture-with-AI-Subtitles-Editing-Access-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.588166+00:00"
-last_updated: "2026-03-19T16:27:58.588166+00:00"
+last_scraped: "2026-03-21T02:06:45.946649+00:00"
+last_updated: "2026-03-21T02:06:45.946649+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -40,7 +40,7 @@ Best for professionals leveraging AI for automation who need nero screen recorde
 At **$22 one-time** vs $30 regular price, you're saving **27%** ($8) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

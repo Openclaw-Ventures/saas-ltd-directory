@@ -2,7 +2,7 @@
 title: "Learnitive : AI-Powered Writing and Learning Platform Lifetime Deal — $49"
 description: "Unlimited words/month (AI Text)Unlimited Kanbans & TodosUnlimited Calendar & Notes100+ AI prompts"
 date: "2026-03-19T16:28:01.113308+00:00"
-lastmod: "2026-03-19T16:28:01.113308+00:00"
+lastmod: "2026-03-21T02:06:48.158172+00:00"
 product_name: "Learnitive : AI-Powered Writing and Learning Platform"
 slug: "learnitive-ai-powered-writing-and-learning-platform-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 1
 image: "https://dealmirror.com/wp-content/uploads/2024/02/Learnitive-banner.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.113308+00:00"
-last_updated: "2026-03-19T16:28:01.113308+00:00"
+last_scraped: "2026-03-21T02:06:48.158172+00:00"
+last_updated: "2026-03-21T02:06:48.158172+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -41,7 +41,7 @@ Best for professionals leveraging AI for automation who need learnitive : ai-pow
 At **$49 one-time** vs $500 regular price, you're saving **90%** ($451) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

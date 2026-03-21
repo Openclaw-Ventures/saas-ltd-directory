@@ -2,7 +2,7 @@
 title: "VanChat AI Lifetime Deal — $57"
 description: "Looking to boost your Shopify sales effortlessly?MeetVanChat, your Al shopping assistant!Revolutionize your online store and grow sales with AI-powered customer interactions"
 date: "2026-03-19T16:26:52.812232+00:00"
-lastmod: "2026-03-19T16:26:52.812232+00:00"
+lastmod: "2026-03-21T02:06:54.974490+00:00"
 product_name: "VanChat AI"
 slug: "vanchat-ai-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 85
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/vanchat-1.png?v=1733833630"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.812232+00:00"
-last_updated: "2026-03-19T16:26:52.812232+00:00"
+last_scraped: "2026-03-21T02:06:54.974490+00:00"
+last_updated: "2026-03-21T02:06:54.974490+00:00"
 categories:
   - "E-Commerce"
 sources:
@@ -39,7 +39,7 @@ Best for e-commerce users who need vanchat ai capabilities.
 At **$57 one-time** vs $390 regular price, you're saving **85%** ($333) compared to buying at full price. That's equivalent to paying just 4.8 months of the regular $32/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

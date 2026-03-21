@@ -2,7 +2,7 @@
 title: "65 In 1 Business Branding Mockup Bundle | Extended License Lifetime Deal — $39"
 description: "Get 65 In 1 Business Branding Mockup Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.143358+00:00"
-lastmod: "2026-03-19T16:29:39.143358+00:00"
+lastmod: "2026-03-21T02:05:46.685462+00:00"
 product_name: "65 In 1 Business Branding Mockup Bundle | Extended License"
 slug: "65-in-1-business-branding-mockup-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 92
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/mock-ups-super-bundle-preview-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:39.143358+00:00"
-last_updated: "2026-03-19T16:29:39.143358+00:00"
+last_scraped: "2026-03-21T02:05:46.685462+00:00"
+last_updated: "2026-03-21T02:05:46.685462+00:00"
 categories:
   - "Graphic Design Resources"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources users who need 65 in 1 business branding mocku
 At **$39 one-time** vs $480 regular price, you're saving **92%** ($441) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $40/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

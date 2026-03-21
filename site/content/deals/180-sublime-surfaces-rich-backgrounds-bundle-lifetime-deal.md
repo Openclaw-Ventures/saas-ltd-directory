@@ -2,7 +2,7 @@
 title: "180 Sublime Surfaces – Rich Backgrounds Bundle Lifetime Deal — $19"
 description: "Get 180 Sublime Surfaces – Rich Backgrounds Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.852353+00:00"
-lastmod: "2026-03-19T16:29:38.852353+00:00"
+lastmod: "2026-03-21T02:05:46.333464+00:00"
 product_name: "180 Sublime Surfaces – Rich Backgrounds Bundle"
 slug: "180-sublime-surfaces-rich-backgrounds-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 61
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/180SublimeSurfaces_Banner-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.852353+00:00"
-last_updated: "2026-03-19T16:29:38.852353+00:00"
+last_scraped: "2026-03-21T02:05:46.333464+00:00"
+last_updated: "2026-03-21T02:05:46.333464+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 180 sublime surfaces – rich backgrounds bundl
 At **$19 one-time** vs $49 regular price, you're saving **61%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

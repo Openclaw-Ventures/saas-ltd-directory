@@ -2,7 +2,7 @@
 title: "PowerGPT : Integrate ChatGPT into your WordPress Lifetime Deal — $6"
 description: "What you get in this dealSingle Site License1-CLICK Wordpress PluginNewbie Friendly, Fully TestedNo tech skills neededCreates Unlimited Content For Any SiteHurry! Only191Licence are left."
 date: "2026-03-19T16:28:02.699772+00:00"
-lastmod: "2026-03-19T16:28:02.699772+00:00"
+lastmod: "2026-03-21T02:06:49.802552+00:00"
 product_name: "PowerGPT : Integrate ChatGPT into your WordPress"
 slug: "powergpt-integrate-chatgpt-into-your-wordpress-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 7
 image: "https://dealmirror.com/wp-content/uploads/2023/05/PowerGpt-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.699772+00:00"
-last_updated: "2026-03-19T16:28:02.699772+00:00"
+last_scraped: "2026-03-21T02:06:49.802552+00:00"
+last_updated: "2026-03-21T02:06:49.802552+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need powergpt : integrate chatgpt into your wor
 At **$6 one-time** vs $99 regular price, you're saving **94%** ($93) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

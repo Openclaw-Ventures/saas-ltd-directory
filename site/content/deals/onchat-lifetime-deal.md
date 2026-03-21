@@ -2,7 +2,7 @@
 title: "OnChat Lifetime Deal — $59"
 description: "Tired of inefficient customer support and high operational costs for your business?OnChatis here to help! The new Al chatbot creation platform that sets itself apart from the competition with its adva"
 date: "2026-03-19T16:26:52.761928+00:00"
-lastmod: "2026-03-19T16:26:52.761928+00:00"
+lastmod: "2026-03-21T02:06:54.914957+00:00"
 product_name: "OnChat"
 slug: "onchat-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Onchat-1.jpg?v=1736783283"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.761928+00:00"
-last_updated: "2026-03-19T16:26:52.761928+00:00"
+last_scraped: "2026-03-21T02:06:54.914957+00:00"
+last_updated: "2026-03-21T02:06:54.914957+00:00"
 categories:
   - "Sales & Marketing"
 sources:
@@ -39,7 +39,7 @@ Best for sales and marketing professionals who need onchat capabilities.
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

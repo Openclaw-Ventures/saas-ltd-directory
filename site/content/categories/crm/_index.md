@@ -13,7 +13,7 @@ Compare CRM lifetime deals and stop paying per-seat monthly fees. One-time payme
 
 ## ⭐ Top Picks
 
-1. **[NinjaPipe](/deals/ninjapipe-lifetime-deal/)** — $69 (88% off) — 3.86/5 (58 reviews)
+1. **[NinjaPipe](/deals/ninjapipe-lifetime-deal/)** — $69 (88% off) — 3.92/5 (61 reviews)
 
 ## All Deals
 

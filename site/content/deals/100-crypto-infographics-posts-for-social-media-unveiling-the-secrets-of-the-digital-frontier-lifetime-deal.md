@@ -2,7 +2,7 @@
 title: "100 Crypto Infographics Posts for Social Media : Unveiling the Secrets of the Digital Frontier Lifetime Deal — $7"
 description: "What you get in this deal100 Crypto Infographics postsEye-catching infographics postsEasily edit with canva freeInfographics cover many crypto topicsHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.510495+00:00"
-lastmod: "2026-03-19T16:28:02.510495+00:00"
+lastmod: "2026-03-21T02:06:49.627049+00:00"
 product_name: "100 Crypto Infographics Posts for Social Media : Unveiling the Secrets of the Digital Frontier"
 slug: "100-crypto-infographics-posts-for-social-media-unveiling-the-secrets-of-the-digital-frontier-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 86
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/100-Crypto-Infographics-Posts-for-Social-Media.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.510495+00:00"
-last_updated: "2026-03-19T16:28:02.510495+00:00"
+last_scraped: "2026-03-21T02:06:49.627049+00:00"
+last_updated: "2026-03-21T02:06:49.627049+00:00"
 categories:
   - "Creative Market's Top Trends"
 sources:
@@ -40,7 +40,7 @@ Best for creative market's top trends users who need 100 crypto infographics pos
 At **$7 one-time** vs $49 regular price, you're saving **86%** ($42) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Lyter Lifetime Deal — $199"
 description: "Struggling to stay consistent and professional on LinkedIn without sinking hours into writing posts?MeetLyter– your AI-powered LinkedIn marketing co-pilot"
 date: "2026-03-19T16:26:52.656449+00:00"
-lastmod: "2026-03-19T16:26:52.656449+00:00"
+lastmod: "2026-03-21T02:06:54.810012+00:00"
 product_name: "Lyter"
 slug: "lyter-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 82
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Lyter1.jpg?v=1751988950"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.656449+00:00"
-last_updated: "2026-03-19T16:26:52.656449+00:00"
+last_scraped: "2026-03-21T02:06:54.810012+00:00"
+last_updated: "2026-03-21T02:06:54.810012+00:00"
 categories:
   - "Sales & Marketing"
 sources:
@@ -39,7 +39,7 @@ Best for sales and marketing professionals who need lyter capabilities.
 At **$199 one-time** vs $1078 regular price, you're saving **82%** ($879) compared to buying at full price. That's equivalent to paying just 16.6 months of the regular $90/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

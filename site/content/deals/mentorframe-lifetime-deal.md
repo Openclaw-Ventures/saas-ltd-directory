@@ -2,7 +2,7 @@
 title: "MentorFrame Lifetime Deal — $49"
 description: "Are you looking for an easy and customizable way to build your website on Elementor? Look no further thanMentorFrameWireframe Blocks and Layouts! With over 230 layouts and 40 layouts with custom CSS, "
 date: "2026-03-19T16:26:52.890528+00:00"
-lastmod: "2026-03-19T16:26:52.890528+00:00"
+lastmod: "2026-03-21T02:06:55.063712+00:00"
 product_name: "MentorFrame"
 slug: "mentorframe-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 59
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/mentor-frame-1_jpg.webp?v=1733000660"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.890528+00:00"
-last_updated: "2026-03-19T16:26:52.890528+00:00"
+last_scraped: "2026-03-21T02:06:55.063712+00:00"
+last_updated: "2026-03-21T02:06:55.063712+00:00"
 categories:
   - "Web & Hosting"
 sources:
@@ -39,7 +39,7 @@ Best for website owners and webmasters who need mentorframe capabilities.
 At **$49 one-time** vs $120 regular price, you're saving **59%** ($71) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

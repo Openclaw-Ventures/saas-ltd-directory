@@ -2,7 +2,7 @@
 title: "Locker Password Manager (Family Plan) Lifetime Deal — $399"
 description: "What you get in this dealOne click password savingAutomatic LoginStrong Password GeneratorSaved PromptsBuilt-in Locker AuthenticationLocker Private EmailEarly Bird Offer Price"
 date: "2026-03-19T16:28:01.363330+00:00"
-lastmod: "2026-03-19T16:28:01.363330+00:00"
+lastmod: "2026-03-21T02:06:48.446660+00:00"
 product_name: "Locker Password Manager (Family Plan)"
 slug: "locker-password-manager-family-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 33
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/10/Locker-feature-image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.363330+00:00"
-last_updated: "2026-03-19T16:28:01.363330+00:00"
+last_scraped: "2026-03-21T02:06:48.446660+00:00"
+last_updated: "2026-03-21T02:06:48.446660+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need locker passw
 At **$399 one-time** vs $599 regular price, you're saving **33%** ($200) compared to buying at full price. That's equivalent to paying just 33.2 months of the regular $50/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

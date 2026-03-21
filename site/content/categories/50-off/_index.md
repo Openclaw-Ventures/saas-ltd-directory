@@ -3,6 +3,7 @@ title: "Best 50% OFF Lifetime Deals (2026)"
 description: "Looking for 50% off lifetime deals? Here are the best one-time deals available in 2026, updated daily from AppSumo, DealFuel, DealMirror, and Dealify."
 category: "50% OFF"
 deal_count: 25
+noindex: true
 ---
 
 # Best 50% OFF Lifetime Deals

@@ -2,7 +2,7 @@
 title: "Aivolut Books : AI Book Writing Tool to Create &#038; Publish Books Lifetime Deal — $49"
 description: "Aivolut Books Lifetime dealHave you ever dreamt of writing your own ebook, but the process feels overwhelming, like it would take more than a month just to complete a single book?Not anymore.Introduci"
 date: "2026-03-19T16:27:59.326747+00:00"
-lastmod: "2026-03-19T16:27:59.326747+00:00"
+lastmod: "2026-03-21T02:06:46.474376+00:00"
 product_name: "Aivolut Books : AI Book Writing Tool to Create &#038; Publish Books"
 slug: "aivolut-books-ai-book-writing-tool-to-create-038-publish-books-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/07/Aivolut-Books-feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.326747+00:00"
-last_updated: "2026-03-19T16:27:59.326747+00:00"
+last_scraped: "2026-03-21T02:06:46.474376+00:00"
+last_updated: "2026-03-21T02:06:46.474376+00:00"
 categories:
   - "AI Content Writer"
 sources:
@@ -41,7 +41,7 @@ Best for ai content writer users who need aivolut books : ai book writing tool t
 At **$49 one-time** vs $99 regular price, you're saving **51%** ($50) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

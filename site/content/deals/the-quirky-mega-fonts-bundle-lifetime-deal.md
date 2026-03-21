@@ -2,7 +2,7 @@
 title: "The Quirky Mega Fonts Bundle Lifetime Deal — $20"
 description: "Get The Quirky Mega Fonts Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.738271+00:00"
-lastmod: "2026-03-19T16:29:38.738271+00:00"
+lastmod: "2026-03-21T02:05:46.227808+00:00"
 product_name: "The Quirky Mega Fonts Bundle"
 slug: "the-quirky-mega-fonts-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 80
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/The-Quirky-Mega-Fonts-Bundle-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.738271+00:00"
-last_updated: "2026-03-19T16:29:38.738271+00:00"
+last_scraped: "2026-03-21T02:05:46.227808+00:00"
+last_updated: "2026-03-21T02:05:46.227808+00:00"
 categories:
   - "Android"
 sources:
@@ -38,7 +38,7 @@ Best for android users who need the quirky mega fonts bundle capabilities.
 At **$20 one-time** vs $99 regular price, you're saving **80%** ($79) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

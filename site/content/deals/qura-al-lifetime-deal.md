@@ -2,7 +2,7 @@
 title: "Qura Al Lifetime Deal — $59"
 description: "Struggling to keep up with replies and comments on X (Twitter), LinkedIn, Threads, Facebook, Instagram, YouTube, Reddit or even ProductHunt?Qura"
 date: "2026-03-19T16:26:52.669453+00:00"
-lastmod: "2026-03-19T16:26:52.669453+00:00"
+lastmod: "2026-03-21T02:06:54.822240+00:00"
 product_name: "Qura Al"
 slug: "qura-al-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Qura_AI.png?v=1753458811"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.669453+00:00"
-last_updated: "2026-03-19T16:26:52.669453+00:00"
+last_scraped: "2026-03-21T02:06:54.822240+00:00"
+last_updated: "2026-03-21T02:06:54.822240+00:00"
 categories:
   - "Social Media"
 sources:
@@ -39,7 +39,7 @@ Best for social media managers and content creators who need qura al capabilitie
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

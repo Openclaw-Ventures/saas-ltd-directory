@@ -2,7 +2,7 @@
 title: "Free YouTube ChatGPT Prompts Lifetime Deal"
 description: "What you get in this dealFree YouTube ChatGPT PromptsHurry! Only99Licence are left."
 date: "2026-03-19T16:28:00.543221+00:00"
-lastmod: "2026-03-19T16:28:00.543221+00:00"
+lastmod: "2026-03-21T02:06:47.639625+00:00"
 product_name: "Free YouTube ChatGPT Prompts"
 slug: "free-youtube-chatgpt-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 100
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/50-Youtube-ChatGPT-Prompt-free-plan-image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.543221+00:00"
-last_updated: "2026-03-19T16:28:00.543221+00:00"
+last_scraped: "2026-03-21T02:06:47.639625+00:00"
+last_updated: "2026-03-21T02:06:47.639625+00:00"
 categories:
   - "Free ChatGPT Prompts"
 sources:
@@ -35,7 +35,7 @@ What you get in this dealFree YouTube ChatGPT PromptsHurry! Only99Licence are le
 Best for free chatgpt prompts users who need free youtube chatgpt prompts capabilities — What you get in this dealFree YouTube ChatGPT PromptsHurry! Only99Licence are left.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

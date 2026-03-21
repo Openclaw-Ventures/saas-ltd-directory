@@ -2,7 +2,7 @@
 title: "IdeaAize Lifetime Deal — $79"
 description: "Say goodbye to manual tasks and hello to a world of effortless creativity withIdeaAize"
 date: "2026-03-19T16:26:53.004529+00:00"
-lastmod: "2026-03-19T16:26:53.004529+00:00"
+lastmod: "2026-03-21T02:06:55.149417+00:00"
 product_name: "IdeaAize"
 slug: "ideaaize-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 60
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/IdeaAize-1.webp?v=1733000748"
 deal_active: true
-last_scraped: "2026-03-19T16:26:53.004529+00:00"
-last_updated: "2026-03-19T16:26:53.004529+00:00"
+last_scraped: "2026-03-21T02:06:55.149417+00:00"
+last_updated: "2026-03-21T02:06:55.149417+00:00"
 categories:
   - "AI"
 sources:
@@ -39,7 +39,7 @@ Best for professionals leveraging AI for automation who need ideaaize capabiliti
 At **$79 one-time** vs $199 regular price, you're saving **60%** ($120) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

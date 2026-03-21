@@ -2,7 +2,7 @@
 title: "350+ Advertising ChatGPT Prompts (Reseller Rights) Lifetime Deal — $19"
 description: "350+ Advertising ChatGPT Prompts"
 date: "2026-03-19T16:28:02.584801+00:00"
-lastmod: "2026-03-19T16:28:02.584801+00:00"
+lastmod: "2026-03-21T02:06:49.695406+00:00"
 product_name: "350+ Advertising ChatGPT Prompts (Reseller Rights)"
 slug: "350-advertising-chatgpt-prompts-reseller-rights-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 90
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/350-Advertising-ChatGPT-Prompts-Reseller-Rights.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.584801+00:00"
-last_updated: "2026-03-19T16:28:02.584801+00:00"
+last_scraped: "2026-03-21T02:06:49.695406+00:00"
+last_updated: "2026-03-21T02:06:49.695406+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need 350+ adverti
 At **$19 one-time** vs $199 regular price, you're saving **90%** ($180) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

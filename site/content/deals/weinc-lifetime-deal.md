@@ -2,7 +2,7 @@
 title: "We.inc Lifetime Deal — $60"
 description: "Want one platform to handle your website, chatbots, and marketing?We"
 date: "2026-03-19T16:26:52.595670+00:00"
-lastmod: "2026-03-19T16:26:52.595670+00:00"
+lastmod: "2026-03-21T02:06:54.738578+00:00"
 product_name: "We.inc"
 slug: "weinc-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 92
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/we.inc.png?v=1765105988"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.595670+00:00"
-last_updated: "2026-03-19T16:26:52.595670+00:00"
+last_scraped: "2026-03-21T02:06:54.738578+00:00"
+last_updated: "2026-03-21T02:06:54.738578+00:00"
 categories:
   - "Web & Hosting"
 sources:
@@ -39,7 +39,7 @@ Best for website owners and webmasters who need we.inc capabilities — Want one
 At **$60 one-time** vs $799 regular price, you're saving **92%** ($739) compared to buying at full price. That's equivalent to paying just 5.0 months of the regular $67/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Journal it! Lifetime Deal — $39"
 description: "Combine journaling, planning, notes, habits, and tracking in one private, encrypted life organizer"
 date: "2026-03-19T16:12:19.233279+00:00"
-lastmod: "2026-03-19T16:12:19.233279+00:00"
+lastmod: "2026-03-21T02:04:11.291331+00:00"
 product_name: "Journal it!"
 slug: "journal-it-lifetime-deal"
 source: "appsumo"
@@ -13,11 +13,11 @@ price_original: 99.0
 price_currency: "USD"
 discount_pct: 61
 rating: 5.0
-review_count: 7
+review_count: 8
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/journalit-as-Header-Journal_it-16_9.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.233279+00:00"
-last_updated: "2026-03-19T16:12:19.233279+00:00"
+last_scraped: "2026-03-21T02:04:11.291331+00:00"
+last_updated: "2026-03-21T02:04:11.291331+00:00"
 categories:
   - "Productivity"
 sources:
@@ -28,7 +28,7 @@ Combine journaling, planning, notes, habits, and tracking in one private, encryp
 
 ## Is It Worth It?
 
-**Proceed with caution.** Limited review data for this productivity tool makes it difficult to fully assess quality. With only 7 reviews, user evidence is thin — treat this as an early-stage bet. Check the product's website for demos and detailed feature lists before purchasing.
+**Proceed with caution.** Limited review data for this productivity tool makes it difficult to fully assess quality. With only 8 reviews, user evidence is thin — treat this as an early-stage bet. Check the product's website for demos and detailed feature lists before purchasing.
 
 
 ## Who Is This For?
@@ -41,7 +41,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$39 one-time** vs $99 regular price, you're saving **61%** ($60) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal

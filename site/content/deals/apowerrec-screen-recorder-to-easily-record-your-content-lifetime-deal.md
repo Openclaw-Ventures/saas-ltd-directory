@@ -2,7 +2,7 @@
 title: "ApowerREC : Screen Recorder to Easily Record Your Content Lifetime Deal — $49"
 description: "Instant Video SavingEasy-to-use ControlsUnlimited Screen Recording TimeNo watermark"
 date: "2026-03-19T16:27:59.599887+00:00"
-lastmod: "2026-03-19T16:27:59.599887+00:00"
+lastmod: "2026-03-21T02:06:46.751807+00:00"
 product_name: "ApowerREC : Screen Recorder to Easily Record Your Content"
 slug: "apowerrec-screen-recorder-to-easily-record-your-content-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 9
 image: "https://dealmirror.com/wp-content/uploads/2022/01/apowerrec-banner.png"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.599887+00:00"
-last_updated: "2026-03-19T16:27:59.599887+00:00"
+last_scraped: "2026-03-21T02:06:46.751807+00:00"
+last_updated: "2026-03-21T02:06:46.751807+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need apowerrec : screen recorder to easily record y
 At **$49 one-time** vs $129 regular price, you're saving **62%** ($80) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $11/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

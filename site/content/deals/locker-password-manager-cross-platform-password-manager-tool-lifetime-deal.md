@@ -2,7 +2,7 @@
 title: "Locker Password Manager : Cross-Platform Password Manager Tool Lifetime Deal — $70"
 description: "One click password savingAutomatic LoginStrong Password GeneratorSaved Prompts"
 date: "2026-03-19T16:28:01.355849+00:00"
-lastmod: "2026-03-19T16:28:01.355849+00:00"
+lastmod: "2026-03-21T02:06:48.440711+00:00"
 product_name: "Locker Password Manager : Cross-Platform Password Manager Tool"
 slug: "locker-password-manager-cross-platform-password-manager-tool-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 29
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/10/Locker-feature-image-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.355849+00:00"
-last_updated: "2026-03-19T16:28:01.355849+00:00"
+last_scraped: "2026-03-21T02:06:48.440711+00:00"
+last_updated: "2026-03-21T02:06:48.440711+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need locker password manager : cross-platform p
 At **$70 one-time** vs $99 regular price, you're saving **29%** ($29) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

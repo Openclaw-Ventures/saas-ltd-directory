@@ -1,13 +1,13 @@
-baseURL = 'https://saas-ltd-directory.netlify.app/'
+baseURL = 'https://saas-deals.com/'
 languageCode = 'en-us'
-title = 'SaaS LTD Deals — Best Lifetime Software Deals Directory'
+title = 'Best SaaS Lifetime Deals 2026 — 1,800+ Deals from AppSumo & More'
 enableRobotsTXT = false
 
 [params]
-  description = "Auto-updated directory of the best SaaS lifetime deals from AppSumo, StackSocial, PitchGround and more. Compare prices, read reviews, find the best deals."
-  tagline = "Every SaaS lifetime deal, one directory."
+  description = "The largest free directory of SaaS lifetime deals. Browse 1,800+ one-time payment software deals from AppSumo, DealFuel, DealMirror, and Dealify. Updated every night."
+  tagline = "Every lifetime software deal. One free directory."
   author = "SaaS LTD Deals"
-  googleVerification = ""  # Paste your Google Search Console verification code here
+  googleVerification = "e4SP4iUW-xgI7oRPISWJ5wV4rJBT9OZ9QHJVv_60PIE"
   bingVerification = ""    # Paste your Bing Webmaster Tools verification code here
 
 [taxonomies]

@@ -2,7 +2,7 @@
 title: "SmartSlide AI : Create Slides In Seconds With AI Lifetime Deal — $25"
 description: "What you get in this dealUnlimited SlidesUnlimited TemplatesAI Image GenerationUpload a custom image"
 date: "2026-03-19T16:28:01.173356+00:00"
-lastmod: "2026-03-19T16:28:01.173356+00:00"
+lastmod: "2026-03-21T02:06:48.222266+00:00"
 product_name: "SmartSlide AI : Create Slides In Seconds With AI"
 slug: "smartslide-ai-create-slides-in-seconds-with-ai-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 1
 image: "https://dealmirror.com/wp-content/uploads/2023/12/smartslide-feature-2.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.173356+00:00"
-last_updated: "2026-03-19T16:28:01.173356+00:00"
+last_scraped: "2026-03-21T02:06:48.222266+00:00"
+last_updated: "2026-03-21T02:06:48.222266+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need smartslide a
 At **$25 one-time** vs $99 regular price, you're saving **75%** ($74) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

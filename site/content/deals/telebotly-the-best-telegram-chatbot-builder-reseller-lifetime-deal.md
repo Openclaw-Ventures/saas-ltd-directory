@@ -2,7 +2,7 @@
 title: "TeleBotly : The Best Telegram ChatBot Builder (Reseller) Lifetime Deal — $249"
 description: "25K Subscribers5 Connect Account25K/month number of MessagesUnlimited Broadcast & Bot Conditional Reply"
 date: "2026-03-19T16:28:00.261939+00:00"
-lastmod: "2026-03-19T16:28:00.261939+00:00"
+lastmod: "2026-03-21T02:06:47.363019+00:00"
 product_name: "TeleBotly : The Best Telegram ChatBot Builder (Reseller)"
 slug: "telebotly-the-best-telegram-chatbot-builder-reseller-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 69
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/05/TeleBotly.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.261939+00:00"
-last_updated: "2026-03-19T16:28:00.261939+00:00"
+last_scraped: "2026-03-21T02:06:47.363019+00:00"
+last_updated: "2026-03-21T02:06:47.363019+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need telebotly : the best telegram chatbot buil
 At **$249 one-time** vs $799 regular price, you're saving **69%** ($550) compared to buying at full price. That's equivalent to paying just 20.8 months of the regular $67/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

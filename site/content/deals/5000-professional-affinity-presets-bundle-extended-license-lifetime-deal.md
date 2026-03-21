@@ -2,7 +2,7 @@
 title: "5000+ Professional Affinity Presets Bundle | Extended License Lifetime Deal — $29"
 description: "Get 5000+ Professional Affinity Presets Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.812894+00:00"
-lastmod: "2026-03-19T16:29:38.812894+00:00"
+lastmod: "2026-03-21T02:05:46.299885+00:00"
 product_name: "5000+ Professional Affinity Presets Bundle | Extended License"
 slug: "5000-professional-affinity-presets-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 71
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Main-scaled-1-450x300.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.812894+00:00"
-last_updated: "2026-03-19T16:29:38.812894+00:00"
+last_scraped: "2026-03-21T02:05:46.299885+00:00"
+last_updated: "2026-03-21T02:05:46.299885+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources addons users who need 5000+ professional affin
 At **$29 one-time** vs $99 regular price, you're saving **71%** ($70) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

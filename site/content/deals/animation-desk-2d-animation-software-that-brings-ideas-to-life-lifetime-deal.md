@@ -2,7 +2,7 @@
 title: "Animation Desk : 2D Animation Software that brings ideas to life Lifetime Deal — $59"
 description: "Export/import image sequencesFrame viewer and brush customizationHSV & color wheel supportImport multiple soundtracks & palettesHurry! Only94licenses are left."
 date: "2026-03-19T16:28:02.673435+00:00"
-lastmod: "2026-03-19T16:28:02.673435+00:00"
+lastmod: "2026-03-21T02:06:49.778413+00:00"
 product_name: "Animation Desk : 2D Animation Software that brings ideas to life"
 slug: "animation-desk-2d-animation-software-that-brings-ideas-to-life-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2023/06/Animation-new-image-1.jpeg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.673435+00:00"
-last_updated: "2026-03-19T16:28:02.673435+00:00"
+last_scraped: "2026-03-21T02:06:49.778413+00:00"
+last_updated: "2026-03-21T02:06:49.778413+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need animation desk : 2d animation software tha
 At **$59 one-time** vs $150 regular price, you're saving **61%** ($91) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

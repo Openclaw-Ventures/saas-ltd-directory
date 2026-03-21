@@ -2,7 +2,7 @@
 title: "Alpha Sender : Design, Customize and launch emails Lifetime Deal — $79"
 description: "Up to 5,000 Contacts10X Email Sending/MonthLanding PageSign up Form"
 date: "2026-03-19T16:28:00.216951+00:00"
-lastmod: "2026-03-19T16:28:00.216951+00:00"
+lastmod: "2026-03-21T02:06:47.330429+00:00"
 product_name: "Alpha Sender : Design, Customize and launch emails"
 slug: "alpha-sender-design-customize-and-launch-emails-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2024/07/Alpha-Sender-Feature-Images.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.216951+00:00"
-last_updated: "2026-03-19T16:28:00.216951+00:00"
+last_scraped: "2026-03-21T02:06:47.330429+00:00"
+last_updated: "2026-03-21T02:06:47.330429+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need alpha sender : design, customize and launc
 At **$79 one-time** vs $299 regular price, you're saving **74%** ($220) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

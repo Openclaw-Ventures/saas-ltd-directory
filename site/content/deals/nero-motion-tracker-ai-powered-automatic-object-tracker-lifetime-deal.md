@@ -2,7 +2,7 @@
 title: "Nero Motion Tracker: AI-Powered Automatic Object Tracker Lifetime Deal — $50"
 description: "Nero Motion Tracker Lifetime DealEditing moving objects by hand is slow and frustrating. Pinning labels or blurring faces means endless keyframes, missed frames, and exported video that looks worse af"
 date: "2026-03-19T16:27:58.426156+00:00"
-lastmod: "2026-03-19T16:27:58.426156+00:00"
+lastmod: "2026-03-21T02:06:45.808101+00:00"
 product_name: "Nero Motion Tracker: AI-Powered Automatic Object Tracker"
 slug: "nero-motion-tracker-ai-powered-automatic-object-tracker-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2026/03/Nero-Motion-Tracker-AI-Powered-Automatic-Object-Tracker.jpeg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.426156+00:00"
-last_updated: "2026-03-19T16:27:58.426156+00:00"
+last_scraped: "2026-03-21T02:06:45.808101+00:00"
+last_updated: "2026-03-21T02:06:45.808101+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -41,7 +41,7 @@ Best for professionals leveraging AI for automation who need nero motion tracker
 At **$50 one-time** vs $70 regular price, you're saving **29%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Swatle: AI Work Management for Real-Time Updates &#038; Collaboration Lifetime Deal — $99"
 description: "Unlimited UsersUnlimited ProjectsUnlimited TasksUnlimited Conversations"
 date: "2026-03-19T16:27:59.567057+00:00"
-lastmod: "2026-03-19T16:27:59.567057+00:00"
+lastmod: "2026-03-21T02:06:46.717032+00:00"
 product_name: "Swatle: AI Work Management for Real-Time Updates &#038; Collaboration"
 slug: "swatle-ai-work-management-for-real-time-updates-038-collaboration-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 4.33
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2025/03/Swatle-Feature-Image-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.567057+00:00"
-last_updated: "2026-03-19T16:27:59.567057+00:00"
+last_scraped: "2026-03-21T02:06:46.717032+00:00"
+last_updated: "2026-03-21T02:06:46.717032+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need swatle: ai work management for real-time u
 At **$99 one-time** vs $199 regular price, you're saving **50%** ($100) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

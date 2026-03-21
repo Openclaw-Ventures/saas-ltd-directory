@@ -2,7 +2,7 @@
 title: "Video Service Desk Lifetime Deal — $149"
 description: "Are you looking for ways to retain customers and increase profits? Look no further than a live voice and video chat button for your website visitors"
 date: "2026-03-19T16:26:52.841444+00:00"
-lastmod: "2026-03-19T16:26:52.841444+00:00"
+lastmod: "2026-03-21T02:06:55.008238+00:00"
 product_name: "Video Service Desk"
 slug: "video-service-desk-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 95
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/videoservicedesk_jpg.webp?v=1733000589"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.841444+00:00"
-last_updated: "2026-03-19T16:26:52.841444+00:00"
+last_scraped: "2026-03-21T02:06:55.008238+00:00"
+last_updated: "2026-03-21T02:06:55.008238+00:00"
 categories:
   - "Business"
 sources:
@@ -39,7 +39,7 @@ Best for business owners and entrepreneurs who need video service desk capabilit
 At **$149 one-time** vs $2985 regular price, you're saving **95%** ($2836) compared to buying at full price. That's equivalent to paying just 12.4 months of the regular $249/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

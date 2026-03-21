@@ -2,7 +2,7 @@
 title: "Upto11 : Experimental B2B Marketing Widgets Lifetime Deal — $59"
 description: "Unlimited team membersUnlimited campaignsAccess all future widgets200 credits/month"
 date: "2026-03-19T16:28:01.180642+00:00"
-lastmod: "2026-03-19T16:28:01.180642+00:00"
+lastmod: "2026-03-21T02:06:48.235958+00:00"
 product_name: "Upto11 : Experimental B2B Marketing Widgets"
 slug: "upto11-experimental-b2b-marketing-widgets-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 60
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/11/upto11-banner.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.180642+00:00"
-last_updated: "2026-03-19T16:28:01.180642+00:00"
+last_scraped: "2026-03-21T02:06:48.235958+00:00"
+last_updated: "2026-03-21T02:06:48.235958+00:00"
 categories:
   - "All Deals"
 sources:
@@ -40,7 +40,7 @@ Best for all deals users who need upto11 : experimental b2b marketing widgets ca
 At **$59 one-time** vs $149 regular price, you're saving **60%** ($90) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

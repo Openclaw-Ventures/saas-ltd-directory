@@ -2,7 +2,7 @@
 title: "The 3-in-1 VideoProc Bundle Lifetime Deal — $49"
 description: "Get The 3-in-1 VideoProc Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.504391+00:00"
-lastmod: "2026-03-19T16:29:38.504391+00:00"
+lastmod: "2026-03-21T02:05:46.006080+00:00"
 product_name: "The 3-in-1 VideoProc Bundle"
 slug: "the-3-in-1-videoproc-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 65
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/videoproc-banner-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.504391+00:00"
-last_updated: "2026-03-19T16:29:38.504391+00:00"
+last_scraped: "2026-03-21T02:05:46.006080+00:00"
+last_updated: "2026-03-21T02:05:46.006080+00:00"
 categories:
   - "Android"
 sources:
@@ -38,7 +38,7 @@ Best for android users who need the 3-in-1 videoproc bundle capabilities.
 At **$49 one-time** vs $139 regular price, you're saving **65%** ($90) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Fonts Plugin Google Fonts Typography Lifetime Deal"
 description: "Fonts PluginThe Google Fonts library currently contains 998 unique fonts. This plugin allows you to easily use any of them on your WordPress website.You’re not stuck with one font for the entire websi"
 date: "2026-03-19T16:28:04.238607+00:00"
-lastmod: "2026-03-19T16:28:04.238607+00:00"
+lastmod: "2026-03-21T02:06:51.441646+00:00"
 product_name: "Fonts Plugin Google Fonts Typography"
 slug: "fonts-plugin-google-fonts-typography-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 100
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/10/feature-8.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.238607+00:00"
-last_updated: "2026-03-19T16:28:04.238607+00:00"
+last_scraped: "2026-03-21T02:06:51.441646+00:00"
+last_updated: "2026-03-21T02:06:51.441646+00:00"
 categories:
   - "Freebies"
 sources:
@@ -35,7 +35,7 @@ Fonts PluginThe Google Fonts library currently contains 998 unique fonts. This p
 Best for freebies users who need fonts plugin google fonts typography capabilities — Fonts PluginThe Google Fonts library currently contains 998 unique fonts.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

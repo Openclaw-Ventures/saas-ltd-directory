@@ -2,7 +2,7 @@
 title: "LeadLocator : Find Verified Local Leads Across USA, Canada, UK, France, and Germany Lifetime Deal — $99"
 description: "LeadLocator Lifetime DealStill wasting hours searching for Local Business Leads manually? Or going from one directory to another, copying contact details, and many other related tasks which can be tim"
 date: "2026-03-19T16:27:58.882428+00:00"
-lastmod: "2026-03-19T16:27:58.882428+00:00"
+lastmod: "2026-03-21T02:06:46.186303+00:00"
 product_name: "LeadLocator : Find Verified Local Leads Across USA, Canada, UK, France, and Germany"
 slug: "leadlocator-find-verified-local-leads-across-usa-canada-uk-france-and-germany-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/10/Lead-Locator-Find-Top-Leads-Across-USA-Canada-UK-France-and-Germany.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.882428+00:00"
-last_updated: "2026-03-19T16:27:58.882428+00:00"
+last_scraped: "2026-03-21T02:06:46.186303+00:00"
+last_updated: "2026-03-21T02:06:46.186303+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need leadlocator : find verified local leads ac
 At **$99 one-time** vs $169 regular price, you're saving **41%** ($70) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $14/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Updowntime : Reseller Pro Plan Lifetime Deal — $799"
 description: "10 Sub AccountsNo. of servers – 10No. of webpages – 10No. of APIs – 10"
 date: "2026-03-19T16:28:00.184633+00:00"
-lastmod: "2026-03-19T16:28:00.184633+00:00"
+lastmod: "2026-03-21T02:06:47.295294+00:00"
 product_name: "Updowntime : Reseller Pro Plan"
 slug: "updowntime-reseller-pro-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 73
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/07/Updowntime-resellers-plan.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.184633+00:00"
-last_updated: "2026-03-19T16:28:00.184633+00:00"
+last_scraped: "2026-03-21T02:06:47.295294+00:00"
+last_updated: "2026-03-21T02:06:47.295294+00:00"
 categories:
   - "20% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 20% off users who need updowntime : reseller pro plan capabilities — 
 At **$799 one-time** vs $2999 regular price, you're saving **73%** ($2200) compared to buying at full price. That's equivalent to paying just 66.6 months of the regular $250/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

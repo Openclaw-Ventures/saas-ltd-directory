@@ -2,7 +2,7 @@
 title: "OneAir AI Lifetime Deal — $79"
 description: "Turn Your Travel Dreams into Reality – Without Breaking the Bank!Tired of sky-high prices keeping you from your dream vacation? WithOneAir, you’ll unlockexclusive, AI-powered hotel and flight dealstha"
 date: "2026-03-19T16:26:52.744133+00:00"
-lastmod: "2026-03-19T16:26:52.744133+00:00"
+lastmod: "2026-03-21T02:06:54.893643+00:00"
 product_name: "OneAir AI"
 slug: "oneair-ai-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/OneAir-1.jpg?v=1741690203"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.744133+00:00"
-last_updated: "2026-03-19T16:26:52.744133+00:00"
+last_scraped: "2026-03-21T02:06:54.893643+00:00"
+last_updated: "2026-03-21T02:06:54.893643+00:00"
 categories:
   - "AI"
 sources:
@@ -39,7 +39,7 @@ Best for professionals leveraging AI for automation who need oneair ai capabilit
 At **$79 one-time** vs $790 regular price, you're saving **90%** ($711) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $66/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

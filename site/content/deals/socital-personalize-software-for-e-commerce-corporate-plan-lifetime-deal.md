@@ -2,7 +2,7 @@
 title: "Socital: Personalize Software for E-commerce Corporate Plan Lifetime Deal — $495"
 description: "What you get in this dealNew profilesEmail Analysis limitEmail Integrations SetupCampaign ManagementCSS ConfigurationFB Permissions SetupsReportingStrategy CallDedicated Customer SupportPremium 24/7 S"
 date: "2026-03-19T16:28:05.559607+00:00"
-lastmod: "2026-03-19T16:28:05.559607+00:00"
+lastmod: "2026-03-21T02:06:52.770732+00:00"
 product_name: "Socital: Personalize Software for E-commerce Corporate Plan"
 slug: "socital-personalize-software-for-e-commerce-corporate-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 93
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2019/10/DealMirror-lifetime-deal-socital-main-image-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.559607+00:00"
-last_updated: "2026-03-19T16:28:05.559607+00:00"
+last_scraped: "2026-03-21T02:06:52.770732+00:00"
+last_updated: "2026-03-21T02:06:52.770732+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need socital: per
 At **$495 one-time** vs $7140 regular price, you're saving **93%** ($6645) compared to buying at full price. That's equivalent to paying just 41.2 months of the regular $595/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

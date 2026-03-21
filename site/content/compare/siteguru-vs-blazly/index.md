@@ -19,7 +19,7 @@ Comparing two seo lifetime deals to help you make the right choice.
 | **LTD Price** | $79 | $79 |
 | **Regular Price** | $599 | $300 |
 | **Discount** | 87% | 74% |
-| **Rating** | 4.95/5 (517 reviews) | 4.89/5 (9 reviews) |
+| **Rating** | 4.95/5 (517 reviews) | 4.9/5 (10 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | SEO | SEO |
 

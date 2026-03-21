@@ -2,7 +2,7 @@
 title: "VivoMeetings : Communication Platform Lifetime Deal — $89"
 description: "Up to 12 AttendeesWebinar ModeWeb ConferencingScreen Sharing"
 date: "2026-03-19T16:28:03.034614+00:00"
-lastmod: "2026-03-19T16:28:03.034614+00:00"
+lastmod: "2026-03-21T02:06:50.281774+00:00"
 product_name: "VivoMeetings : Communication Platform"
 slug: "vivomeetings-communication-platform-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/11/Vivomeetings.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.034614+00:00"
-last_updated: "2026-03-19T16:28:03.034614+00:00"
+last_scraped: "2026-03-21T02:06:50.281774+00:00"
+last_updated: "2026-03-21T02:06:50.281774+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need vivomeetings : communication platform capabili
 At **$89 one-time** vs $99 regular price, you're saving **10%** ($10) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

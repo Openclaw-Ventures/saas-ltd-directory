@@ -2,7 +2,7 @@
 title: "Quiz Maker Wordpress Plugin Lifetime Deal"
 description: "Quiz MakerThe Quiz Maker plugin allows you to create advanced quizzes and exams easily and quickly.Just follow a few simple steps to create online quizzes.What you need to do first is make questions a"
 date: "2026-03-19T16:28:04.242788+00:00"
-lastmod: "2026-03-19T16:28:04.242788+00:00"
+lastmod: "2026-03-21T02:06:51.445696+00:00"
 product_name: "Quiz Maker Wordpress Plugin"
 slug: "quiz-maker-wordpress-plugin-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 100
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/10/feature-9.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.242788+00:00"
-last_updated: "2026-03-19T16:28:04.242788+00:00"
+last_scraped: "2026-03-21T02:06:51.445696+00:00"
+last_updated: "2026-03-21T02:06:51.445696+00:00"
 categories:
   - "Freebies"
 sources:
@@ -35,7 +35,7 @@ Quiz MakerThe Quiz Maker plugin allows you to create advanced quizzes and exams 
 Best for freebies users who need quiz maker wordpress plugin capabilities — Quiz MakerThe Quiz Maker plugin allows you to create advanced quizzes and exams easily and quickly.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

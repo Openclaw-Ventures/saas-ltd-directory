@@ -2,7 +2,7 @@
 title: "Makassan- Live Chat Tool for Customer Support Across Channels Lifetime Deal — $49"
 description: "Affordable live chat toolCustomized chat widgetSlack and SMS integrationIncrease customer interaction and engagement"
 date: "2026-03-19T16:28:00.937800+00:00"
-lastmod: "2026-03-19T16:28:00.937800+00:00"
+lastmod: "2026-03-21T02:06:48.023758+00:00"
 product_name: "Makassan- Live Chat Tool for Customer Support Across Channels"
 slug: "makassan-live-chat-tool-for-customer-support-across-channels-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 51
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/05/Makasana-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.937800+00:00"
-last_updated: "2026-03-19T16:28:00.937800+00:00"
+last_scraped: "2026-03-21T02:06:48.023758+00:00"
+last_updated: "2026-03-21T02:06:48.023758+00:00"
 categories:
   - "All Deals"
 sources:
@@ -40,7 +40,7 @@ Best for all deals users who need makassan- live chat tool for customer support 
 At **$49 one-time** vs $99 regular price, you're saving **51%** ($50) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

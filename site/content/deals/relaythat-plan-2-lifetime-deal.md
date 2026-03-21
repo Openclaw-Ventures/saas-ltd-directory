@@ -2,7 +2,7 @@
 title: "RelayThat Plan 2 Lifetime Deal — $118"
 description: "What you get in this deal1 UserBrowsers/Devices3 workspacesAccess 3 million ImagesHurry! Only500Licence are left"
 date: "2026-03-19T16:28:04.447482+00:00"
-lastmod: "2026-03-19T16:28:04.447482+00:00"
+lastmod: "2026-03-21T02:06:51.690353+00:00"
 product_name: "RelayThat Plan 2"
 slug: "relaythat-plan-2-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 80
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/06/relaythat-feature.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.447482+00:00"
-last_updated: "2026-03-19T16:28:04.447482+00:00"
+last_scraped: "2026-03-21T02:06:51.690353+00:00"
+last_updated: "2026-03-21T02:06:51.690353+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need relaythat pl
 At **$118 one-time** vs $600 regular price, you're saving **80%** ($482) compared to buying at full price. That's equivalent to paying just 9.8 months of the regular $50/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

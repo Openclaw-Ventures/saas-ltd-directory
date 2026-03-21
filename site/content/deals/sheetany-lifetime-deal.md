@@ -2,7 +2,7 @@
 title: "Sheetany Lifetime Deal — $89"
 description: "What if creating a beautiful, functional website was as easy as editing a Google Sheet?Say hello toSheetany— the simplest way to turn yourGoogle Sheets into a lightning-fast, fully customizable websit"
 date: "2026-03-19T16:26:52.666123+00:00"
-lastmod: "2026-03-19T16:26:52.666123+00:00"
+lastmod: "2026-03-21T02:06:54.819268+00:00"
 product_name: "Sheetany"
 slug: "sheetany-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 74
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Sheetany_1.png?v=1754389365"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.666123+00:00"
-last_updated: "2026-03-19T16:26:52.666123+00:00"
+last_scraped: "2026-03-21T02:06:54.819268+00:00"
+last_updated: "2026-03-21T02:06:54.819268+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$89 one-time** vs $348 regular price, you're saving **74%** ($259) compared to buying at full price. That's equivalent to paying just 7.4 months of the regular $29/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

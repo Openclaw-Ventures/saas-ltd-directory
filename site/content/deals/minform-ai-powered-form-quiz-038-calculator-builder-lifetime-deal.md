@@ -2,7 +2,7 @@
 title: "Minform : AI-Powered Form, Quiz &#038; Calculator Builder Lifetime Deal — $129"
 description: "MinformLifetime DealWant to boost customer activity on your website withcreative forms or quizzes?Let’s introduce you toMinform, anonline AI form and quiz builder lifetime deal.With this one tool, you"
 date: "2026-03-19T16:27:59.108727+00:00"
-lastmod: "2026-03-19T16:27:59.108727+00:00"
+lastmod: "2026-03-21T02:06:46.334986+00:00"
 product_name: "Minform : AI-Powered Form, Quiz &#038; Calculator Builder"
 slug: "minform-ai-powered-form-quiz-038-calculator-builder-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2025/08/Minform-Images.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.108727+00:00"
-last_updated: "2026-03-19T16:27:59.108727+00:00"
+last_scraped: "2026-03-21T02:06:46.334986+00:00"
+last_updated: "2026-03-21T02:06:46.334986+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need minform : ai-powered form, quiz &#038; cal
 At **$129 one-time** vs $199 regular price, you're saving **35%** ($70) compared to buying at full price. That's equivalent to paying just 10.8 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

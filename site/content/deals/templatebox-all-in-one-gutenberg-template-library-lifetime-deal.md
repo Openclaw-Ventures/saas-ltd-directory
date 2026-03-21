@@ -2,7 +2,7 @@
 title: "TemplateBox : All-In-One Gutenberg Template Library Lifetime Deal — $29"
 description: "What you get in this deal1 active websiteUse on personal projectsUse on client projectsChild Theme"
 date: "2026-03-19T16:28:01.187279+00:00"
-lastmod: "2026-03-19T16:28:01.187279+00:00"
+lastmod: "2026-03-21T02:06:48.247962+00:00"
 product_name: "TemplateBox : All-In-One Gutenberg Template Library"
 slug: "templatebox-all-in-one-gutenberg-template-library-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 76
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/11/templatebox-1.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.187279+00:00"
-last_updated: "2026-03-19T16:28:01.187279+00:00"
+last_scraped: "2026-03-21T02:06:48.247962+00:00"
+last_updated: "2026-03-21T02:06:48.247962+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need templatebox : all-in-one gutenberg templat
 At **$29 one-time** vs $120 regular price, you're saving **76%** ($91) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

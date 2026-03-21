@@ -2,7 +2,7 @@
 title: "100+ Background And Textures Midjourney Prompt Lifetime Deal — $7"
 description: "100+ Background And Textures Midjourney Prompt"
 date: "2026-03-19T16:28:02.522886+00:00"
-lastmod: "2026-03-19T16:28:02.522886+00:00"
+lastmod: "2026-03-21T02:06:49.636869+00:00"
 product_name: "100+ Background And Textures Midjourney Prompt"
 slug: "100-background-and-textures-midjourney-prompt-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/background-and-textures-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.522886+00:00"
-last_updated: "2026-03-19T16:28:02.522886+00:00"
+last_scraped: "2026-03-21T02:06:49.636869+00:00"
+last_updated: "2026-03-21T02:06:49.636869+00:00"
 categories:
   - "Design"
 sources:
@@ -40,7 +40,7 @@ Best for design users who need 100+ background and textures midjourney prompt ca
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

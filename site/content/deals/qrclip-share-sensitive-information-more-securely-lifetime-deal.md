@@ -2,7 +2,7 @@
 title: "QRClip : Share Sensitive Information More Securely Lifetime Deal — $5"
 description: "What you get in this deal100 Credits (100 GB of file transfers)1GB file limit50,000 characters per message12 Days of max expiration time60DaysMoney Back GuaranteeHurry! Only64Licence are left"
 date: "2026-03-19T16:28:03.379014+00:00"
-lastmod: "2026-03-19T16:28:03.379014+00:00"
+lastmod: "2026-03-21T02:06:50.587412+00:00"
 product_name: "QRClip : Share Sensitive Information More Securely"
 slug: "qrclip-share-sensitive-information-more-securely-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/06/Qr-Clip-lifetime-deal-feature-image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.379014+00:00"
-last_updated: "2026-03-19T16:28:03.379014+00:00"
+last_scraped: "2026-03-21T02:06:50.587412+00:00"
+last_updated: "2026-03-21T02:06:50.587412+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need qrclip : sha
 At **$5 one-time** vs $9 regular price, you're saving **44%** ($4) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

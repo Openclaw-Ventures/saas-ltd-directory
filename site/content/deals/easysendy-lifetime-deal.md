@@ -2,7 +2,7 @@
 title: "EasySendy Lifetime Deal — $69"
 description: "EasySendy Pro is aninnovative hybrid email marketing platformfor digital marketing teams"
 date: "2026-03-19T16:26:52.901521+00:00"
-lastmod: "2026-03-19T16:26:52.901521+00:00"
+lastmod: "2026-03-21T02:06:55.072719+00:00"
 product_name: "EasySendy"
 slug: "easysendy-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 88
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/easysendy1_jpg.webp?v=1733000694"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.901521+00:00"
-last_updated: "2026-03-19T16:26:52.901521+00:00"
+last_scraped: "2026-03-21T02:06:55.072719+00:00"
+last_updated: "2026-03-21T02:06:55.072719+00:00"
 categories:
   - "Sales & Marketing"
 sources:
@@ -39,7 +39,7 @@ Best for sales and marketing professionals who need easysendy capabilities — E
 At **$69 one-time** vs $570 regular price, you're saving **88%** ($501) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $48/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

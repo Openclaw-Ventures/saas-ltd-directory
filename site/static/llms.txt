@@ -1,6 +1,6 @@
 # SaaS LTD Deals
 
-> Last updated: 2026-03-20
+> Last updated: 2026-03-21
 > Product pages: https://saas-ltd-directory.netlify.app/deals/{product-slug}/
 > Category pages: https://saas-ltd-directory.netlify.app/categories/{category-slug}/
 > Full listing: https://saas-ltd-directory.netlify.app/llms-full.txt
@@ -10,7 +10,7 @@
 ## What This Site Contains
 - 1878+ SaaS product listings with real-time pricing
 - Lifetime deal pricing from 4 major platforms
-- Category pages for 95 software categories
+- Category pages for 96 software categories
 - Product comparison pages
 - Price history tracking
 
@@ -57,6 +57,7 @@
 - Content marketing — https://saas-ltd-directory.netlify.app/categories/content-marketing/
 - Copy.AI — https://saas-ltd-directory.netlify.app/categories/copyai/
 - Course — https://saas-ltd-directory.netlify.app/categories/course/
+- Course builders — https://saas-ltd-directory.netlify.app/categories/course-builders/
 - Courses &amp; Learning — https://saas-ltd-directory.netlify.app/categories/courses-andamp-learning/
 - Creative — https://saas-ltd-directory.netlify.app/categories/creative/
 - Creative Market's Top Trends — https://saas-ltd-directory.netlify.app/categories/creative-markets-top-trends/
@@ -73,7 +74,6 @@
 - Development tools — https://saas-ltd-directory.netlify.app/categories/development-tools/
 - Display Fonts — https://saas-ltd-directory.netlify.app/categories/display-fonts/
 - E-Commerce — https://saas-ltd-directory.netlify.app/categories/e-commerce/
-- Ecommerce — https://saas-ltd-directory.netlify.app/categories/ecommerce/
 - Email management — https://saas-ltd-directory.netlify.app/categories/email-management/
 - Email marketing — https://saas-ltd-directory.netlify.app/categories/email-marketing/
 - Expired Deals — https://saas-ltd-directory.netlify.app/categories/expired-deals/
@@ -107,6 +107,7 @@
 - SEO — https://saas-ltd-directory.netlify.app/categories/seo/
 - Sales & Marketing — https://saas-ltd-directory.netlify.app/categories/sales-and-marketing/
 - Sales management — https://saas-ltd-directory.netlify.app/categories/sales-management/
+- Security — https://saas-ltd-directory.netlify.app/categories/security/
 - Social Media — https://saas-ltd-directory.netlify.app/categories/social-media/
 - Social media — https://saas-ltd-directory.netlify.app/categories/social-media/
 - Software — https://saas-ltd-directory.netlify.app/categories/software/
@@ -136,7 +137,7 @@
 ### Email marketing
 - Reoon Email Verifier: $79 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/reoon-email-verifier-lifetime-deal/
 - Newoldstamp: $39 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/newoldstamp-lifetime-deal/
-- Emailit: $44 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/emailit-lifetime-deal/
+- Emailit: $49 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/emailit-lifetime-deal/
 
 ### CRM
 - NinjaPipe: $69 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/ninjapipe-lifetime-deal/
@@ -174,7 +175,4 @@
 ### Project management
 - Buildin: $49 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/buildin-lifetime-deal/
 - Teable: $69 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/teable-lifetime-deal/
-
-### Ecommerce
-- Evolup: $59 (Appsumo) — https://saas-ltd-directory.netlify.app/deals/evolup-lifetime-deal/
 

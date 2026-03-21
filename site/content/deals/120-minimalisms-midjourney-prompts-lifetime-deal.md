@@ -2,7 +2,7 @@
 title: "120+ Minimalisms Midjourney Prompts Lifetime Deal — $7"
 description: "120+ Minimalisms Midjourney Prompts"
 date: "2026-03-19T16:28:02.464967+00:00"
-lastmod: "2026-03-19T16:28:02.464967+00:00"
+lastmod: "2026-03-21T02:06:49.584548+00:00"
 product_name: "120+ Minimalisms Midjourney Prompts"
 slug: "120-minimalisms-midjourney-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/120Minimalism.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.464967+00:00"
-last_updated: "2026-03-19T16:28:02.464967+00:00"
+last_scraped: "2026-03-21T02:06:49.584548+00:00"
+last_updated: "2026-03-21T02:06:49.584548+00:00"
 categories:
   - "Midjourney Prompts"
 sources:
@@ -40,7 +40,7 @@ Best for midjourney prompts users who need 120+ minimalisms midjourney prompts c
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -13,7 +13,7 @@ Looking for calendar & scheduling lifetime deals? Here are the best one-time dea
 
 ## ⭐ Top Picks
 
-1. **[Lunacal](/deals/lunacal-lifetime-deal/)** — $59 (84% off) — 4.73/5 (98 reviews)
+1. **[Lunacal](/deals/lunacal-lifetime-deal/)** — $59 (84% off) — 4.74/5 (99 reviews)
 2. **[TidyCal](/deals/tidycal-lifetime-deal/)** — $29 (80% off) — 4.38/5 (876 reviews)
 
 ## All Deals

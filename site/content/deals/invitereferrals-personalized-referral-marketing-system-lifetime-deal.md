@@ -2,7 +2,7 @@
 title: "InviteReferrals : Personalized Referral Marketing System Lifetime Deal — $114"
 description: "What you get in this dealNew ReferrersIn-Depth AnalyticsSupports Multiple PlatformsExport Data as you likeReferral coupon-based programUnlimited Referrals/ConversionsFully Dynamic AutomationEasy to us"
 date: "2026-03-19T16:28:05.008514+00:00"
-lastmod: "2026-03-19T16:28:05.008514+00:00"
+lastmod: "2026-03-21T02:06:52.264027+00:00"
 product_name: "InviteReferrals : Personalized Referral Marketing System"
 slug: "invitereferrals-personalized-referral-marketing-system-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2019/10/feature-image1invitereferrals-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.008514+00:00"
-last_updated: "2026-03-19T16:28:05.008514+00:00"
+last_scraped: "2026-03-21T02:06:52.264027+00:00"
+last_updated: "2026-03-21T02:06:52.264027+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need invitereferr
 At **$114 one-time** vs $948 regular price, you're saving **88%** ($834) compared to buying at full price. That's equivalent to paying just 9.5 months of the regular $79/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

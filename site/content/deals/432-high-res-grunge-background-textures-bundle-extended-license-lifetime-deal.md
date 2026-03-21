@@ -2,7 +2,7 @@
 title: "432 High-Res Grunge Background Textures Bundle | Extended License Lifetime Deal — $29"
 description: "Get 432 High-Res Grunge Background Textures Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.168184+00:00"
-lastmod: "2026-03-19T16:29:39.168184+00:00"
+lastmod: "2026-03-21T02:05:46.718116+00:00"
 product_name: "432 High-Res Grunge Background Textures Bundle | Extended License"
 slug: "432-high-res-grunge-background-textures-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 91
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/432-High-Res-Grunge-Background-Textures-Bundle-450x312.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:39.168184+00:00"
-last_updated: "2026-03-19T16:29:39.168184+00:00"
+last_scraped: "2026-03-21T02:05:46.718116+00:00"
+last_updated: "2026-03-21T02:05:46.718116+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 432 high-res grunge background textures bundle 
 At **$29 one-time** vs $310 regular price, you're saving **91%** ($281) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $26/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

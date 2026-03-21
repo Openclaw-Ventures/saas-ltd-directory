@@ -2,7 +2,7 @@
 title: "AI Collective : Create content using multiple AI models Lifetime Deal — $67"
 description: "20+ Language Models4 Image ModelsAll AI models unlocked"
 date: "2026-03-19T16:28:01.961840+00:00"
-lastmod: "2026-03-19T16:28:01.961840+00:00"
+lastmod: "2026-03-21T02:06:49.015763+00:00"
 product_name: "AI Collective : Create content using multiple AI models"
 slug: "ai-collective-create-content-using-multiple-ai-models-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 90
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/ai-collective-banner.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.961840+00:00"
-last_updated: "2026-03-19T16:28:01.961840+00:00"
+last_scraped: "2026-03-21T02:06:49.015763+00:00"
+last_updated: "2026-03-21T02:06:49.015763+00:00"
 categories:
   - "AI Content Writer"
 sources:
@@ -40,7 +40,7 @@ Best for ai content writer users who need ai collective : create content using m
 At **$67 one-time** vs $670 regular price, you're saving **90%** ($603) compared to buying at full price. That's equivalent to paying just 5.6 months of the regular $56/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

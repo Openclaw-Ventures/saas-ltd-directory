@@ -2,7 +2,7 @@
 title: "PlanPost AI: AI‑Driven Social Media Post Creation, Design &#038; Scheduling Lifetime Deal — $259"
 description: "PlanPost AI Lifetime DealDo you want to grow social media engagement and presence but stuck on what to post, when to post?Well, you’re not alone; almost everyone struggles with keeping the audience bu"
 date: "2026-03-19T16:27:59.183156+00:00"
-lastmod: "2026-03-19T16:27:59.183156+00:00"
+lastmod: "2026-03-21T02:06:46.382285+00:00"
 product_name: "PlanPost AI: AI‑Driven Social Media Post Creation, Design &#038; Scheduling"
 slug: "planpost-ai-aidriven-social-media-post-creation-design-038-scheduling-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2025/07/PlanPost-AI-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.183156+00:00"
-last_updated: "2026-03-19T16:27:59.183156+00:00"
+last_scraped: "2026-03-21T02:06:46.382285+00:00"
+last_updated: "2026-03-21T02:06:46.382285+00:00"
 categories:
   - "20% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 20% off users who need planpost ai: ai‑driven social media post creat
 At **$259 one-time** vs $2000 regular price, you're saving **87%** ($1741) compared to buying at full price. That's equivalent to paying just 21.6 months of the regular $167/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

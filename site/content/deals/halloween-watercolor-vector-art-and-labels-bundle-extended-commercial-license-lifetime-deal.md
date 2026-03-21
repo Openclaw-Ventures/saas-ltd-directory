@@ -2,7 +2,7 @@
 title: "Halloween Watercolor Vector Art And Labels Bundle | Extended Commercial License Lifetime Deal — $2"
 description: "Get Halloween Watercolor Vector Art And Labels Bundle | Extended Commercial License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.483422+00:00"
-lastmod: "2026-03-19T16:29:38.483422+00:00"
+lastmod: "2026-03-21T02:05:45.991532+00:00"
 product_name: "Halloween Watercolor Vector Art And Labels Bundle | Extended Commercial License"
 slug: "halloween-watercolor-vector-art-and-labels-bundle-extended-commercial-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 78
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Feature-7-420x280-1-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.483422+00:00"
-last_updated: "2026-03-19T16:29:38.483422+00:00"
+last_scraped: "2026-03-21T02:05:45.991532+00:00"
+last_updated: "2026-03-21T02:05:45.991532+00:00"
 categories:
   - "1 99 Store"
 sources:
@@ -38,7 +38,7 @@ Best for 1 99 store users who need halloween watercolor vector art and labels bu
 At **$2 one-time** vs $9 regular price, you're saving **78%** ($7) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

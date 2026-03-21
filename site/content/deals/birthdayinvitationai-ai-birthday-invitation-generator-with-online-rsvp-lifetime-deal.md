@@ -2,7 +2,7 @@
 title: "BirthdayInvitation.AI: AI Birthday Invitation Generator with Online RSVP Lifetime Deal — $59"
 description: "BirthdayInvitation.AI Lifetime DealThrowing a birthday party is more about making a list of people, inviting them, and managing all the invitations. And to make sure the invitation exactly reflects wh"
 date: "2026-03-19T16:27:58.542284+00:00"
-lastmod: "2026-03-19T16:27:58.542284+00:00"
+lastmod: "2026-03-21T02:06:45.907289+00:00"
 product_name: "BirthdayInvitation.AI: AI Birthday Invitation Generator with Online RSVP"
 slug: "birthdayinvitationai-ai-birthday-invitation-generator-with-online-rsvp-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 12
 image: "https://dealmirror.com/wp-content/uploads/2026/01/BirthdayInvitation.AI-AI-Birthday-Invitation-Generator-with-Online-RSVP.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.542284+00:00"
-last_updated: "2026-03-19T16:27:58.542284+00:00"
+last_scraped: "2026-03-21T02:06:45.907289+00:00"
+last_updated: "2026-03-21T02:06:45.907289+00:00"
 categories:
   - "AI Image Creator"
 sources:
@@ -41,7 +41,7 @@ Best for ai image creator users who need birthdayinvitation.ai: ai birthday invi
 At **$59 one-time** vs $119 regular price, you're saving **50%** ($60) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

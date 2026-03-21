@@ -2,7 +2,7 @@
 title: "LeadGrabber &#8211; The Ultimate WordPress Plugin to Capture Leads &#038; Delight Visitors Lifetime Deal — $5"
 description: "Increase pageviews and time spent on your siteGrow your potential customer baseDrive more sales"
 date: "2026-03-19T16:28:00.117244+00:00"
-lastmod: "2026-03-19T16:28:00.117244+00:00"
+lastmod: "2026-03-21T02:06:47.226036+00:00"
 product_name: "LeadGrabber &#8211; The Ultimate WordPress Plugin to Capture Leads &#038; Delight Visitors"
 slug: "leadgrabber-8211-the-ultimate-wordpress-plugin-to-capture-leads-038-delight-visitors-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 90
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/08/feature.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.117244+00:00"
-last_updated: "2026-03-19T16:28:00.117244+00:00"
+last_scraped: "2026-03-21T02:06:47.226036+00:00"
+last_updated: "2026-03-21T02:06:47.226036+00:00"
 categories:
   - "50% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 50% off users who need leadgrabber &#8211; the ultimate wordpress plugi
 At **$5 one-time** vs $49 regular price, you're saving **90%** ($44) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

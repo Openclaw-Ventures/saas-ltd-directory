@@ -16,12 +16,16 @@
 <section class="category-chips-section">
   <div class="category-chips">
     {{ $cats := .Site.Taxonomies.categories }}
+    {{ $suppress := slice "expired deals" "all deals" "15% off" "20% off" "30% off" "40% off" "50% off" "90% off" "1 99 store" }}
     {{ $sorted := slice }}
     {{ range $key, $val := $cats }}
-      {{ $name := $key | humanize | title }}
-      {{ $sorted = $sorted | append (dict "name" $name "count" $val.Count "url" $val.Page.Permalink) }}
+      {{ $keyLower := lower $key }}
+      {{ if not (in $suppress $keyLower) }}
+        {{ $name := $key | humanize | title }}
+        {{ $sorted = $sorted | append (dict "name" $name "count" $val.Count "url" $val.Page.Permalink) }}
+      {{ end }}
     {{ end }}
-    {{ range first 7 (sort $sorted "count" "desc") }}
+    {{ range first 8 (sort $sorted "count" "desc") }}
     <a href="{{ .url }}" class="chip">{{ .name }} <span class="chip-count">{{ .count }}</span></a>
     {{ end }}
   </div>
@@ -65,13 +69,17 @@
   </div>
 </section>
 
-{{/* Browse by Category — top 24 only */}}
+{{/* Browse by Category — top 24 only, junk categories suppressed */}}
 <section class="categories">
   <h2>Browse by Category</h2>
   <div class="category-grid">
+    {{ $suppressCats := slice "expired deals" "all deals" "15% off" "20% off" "30% off" "40% off" "50% off" "90% off" "1 99 store" }}
     {{ $allCats := slice }}
     {{ range $key, $val := .Site.Taxonomies.categories }}
-      {{ $allCats = $allCats | append (dict "title" $val.Page.Title "count" $val.Count "url" $val.Page.Permalink) }}
+      {{ $keyLower := lower $key }}
+      {{ if not (in $suppressCats $keyLower) }}
+        {{ $allCats = $allCats | append (dict "title" $val.Page.Title "count" $val.Count "url" $val.Page.Permalink) }}
+      {{ end }}
     {{ end }}
     {{ range first 24 (sort $allCats "count" "desc") }}
     <a href="{{ .url }}" class="category-tag">

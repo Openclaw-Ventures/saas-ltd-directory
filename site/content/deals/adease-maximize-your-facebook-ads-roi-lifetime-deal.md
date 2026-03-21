@@ -2,7 +2,7 @@
 title: "Adease : Maximize Your Facebook Ads ROI Lifetime Deal — $19"
 description: "Combined reportingAll Automation10 ad accounts250 monthly AI credits"
 date: "2026-03-19T16:28:01.931373+00:00"
-lastmod: "2026-03-19T16:28:01.931373+00:00"
+lastmod: "2026-03-21T02:06:48.983205+00:00"
 product_name: "Adease : Maximize Your Facebook Ads ROI"
 slug: "adease-maximize-your-facebook-ads-roi-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 89
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/adease-banner.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.931373+00:00"
-last_updated: "2026-03-19T16:28:01.931373+00:00"
+last_scraped: "2026-03-21T02:06:48.983205+00:00"
+last_updated: "2026-03-21T02:06:48.983205+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need adease : maximize your facebook ads roi ca
 At **$19 one-time** vs $180 regular price, you're saving **89%** ($161) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $15/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "150+ Ai Fitness Models Video shorts Lifetime Deal — $3"
 description: "What you get in this deal150+ AI Fitness Models Video ShortsGet inspired and motivatedExperience a new level of motivationHurry! Only99Products are left"
 date: "2026-03-19T16:28:01.416465+00:00"
-lastmod: "2026-03-19T16:28:01.416465+00:00"
+lastmod: "2026-03-21T02:06:48.494666+00:00"
 product_name: "150+ Ai Fitness Models Video shorts"
 slug: "150-ai-fitness-models-video-shorts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 94
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/150-Ai-Fitness-Models-Video-shorts.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.416465+00:00"
-last_updated: "2026-03-19T16:28:01.416465+00:00"
+last_scraped: "2026-03-21T02:06:48.494666+00:00"
+last_updated: "2026-03-21T02:06:48.494666+00:00"
 categories:
   - "Creative Resources"
 sources:
@@ -40,7 +40,7 @@ Best for creative resources users who need 150+ ai fitness models video shorts c
 At **$3 one-time** vs $49 regular price, you're saving **94%** ($46) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Rolly AI : Money Tracker that Smartly handles AI Budgeting &#038; Expenses Lifetime Deal — $60"
 description: "Rolly AI lifetime dealAre you struggling to manage your monthly finances or looking to organize your spending better?Say hello toRolly AI lifetime deal, amoney trackerwhich is here to simplify money m"
 date: "2026-03-19T16:27:59.398374+00:00"
-lastmod: "2026-03-19T16:27:59.398374+00:00"
+lastmod: "2026-03-21T02:06:46.523412+00:00"
 product_name: "Rolly AI : Money Tracker that Smartly handles AI Budgeting &#038; Expenses"
 slug: "rolly-ai-money-tracker-that-smartly-handles-ai-budgeting-038-expenses-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 4.75
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2025/06/RollyAI-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.398374+00:00"
-last_updated: "2026-03-19T16:27:59.398374+00:00"
+last_scraped: "2026-03-21T02:06:46.523412+00:00"
+last_updated: "2026-03-21T02:06:46.523412+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need rolly ai : money tracker that smartly hand
 At **$60 one-time** vs $99 regular price, you're saving **39%** ($39) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

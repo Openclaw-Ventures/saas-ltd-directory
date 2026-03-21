@@ -2,7 +2,7 @@
 title: "220+ Minimalist Art Midjourney Prompt Lifetime Deal â€” $7"
 description: "220+ Minimalist Art Midjourney Prompt"
 date: "2026-03-19T16:28:00.643586+00:00"
-lastmod: "2026-03-19T16:28:00.643586+00:00"
+lastmod: "2026-03-21T02:06:47.757618+00:00"
 product_name: "220+ Minimalist Art Midjourney Prompt"
 slug: "220-minimalist-art-midjourney-prompt-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/220Minimalist-Art-.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:00.643586+00:00"
-last_updated: "2026-03-19T16:28:00.643586+00:00"
+last_scraped: "2026-03-21T02:06:47.757618+00:00"
+last_updated: "2026-03-21T02:06:47.757618+00:00"
 categories:
   - "Art"
 sources:
@@ -40,7 +40,7 @@ Best for art users who need 220+ minimalist art midjourney prompt capabilities â
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

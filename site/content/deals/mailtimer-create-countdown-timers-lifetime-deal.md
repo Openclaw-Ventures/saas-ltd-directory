@@ -2,7 +2,7 @@
 title: "Mailtimer : Create Countdown Timers Lifetime Deal — $49"
 description: "What you get in this dealBranding removed4 Timer types for the use case4 Timer expiration behaviorsReal-time views & clicks analyticsMultiple timer templatesHurry! Only99Licence are left"
 date: "2026-03-19T16:28:03.343570+00:00"
-lastmod: "2026-03-19T16:28:03.343570+00:00"
+lastmod: "2026-03-21T02:06:50.563775+00:00"
 product_name: "Mailtimer : Create Countdown Timers"
 slug: "mailtimer-create-countdown-timers-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 13
 image: "https://dealmirror.com/wp-content/uploads/2022/06/mailtimer-lifetime-deal-feature-image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:03.343570+00:00"
-last_updated: "2026-03-19T16:28:03.343570+00:00"
+last_scraped: "2026-03-21T02:06:50.563775+00:00"
+last_updated: "2026-03-21T02:06:50.563775+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need mailtimer : create countdown timers capabi
 At **$49 one-time** vs $1176 regular price, you're saving **96%** ($1127) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $98/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

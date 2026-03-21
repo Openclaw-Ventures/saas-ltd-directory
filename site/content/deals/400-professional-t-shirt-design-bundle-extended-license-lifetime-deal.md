@@ -2,7 +2,7 @@
 title: "400+ Professional T-Shirt Design Bundle | Extended License Lifetime Deal — $30"
 description: "Get 400+ Professional T-Shirt Design Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.703631+00:00"
-lastmod: "2026-03-19T16:29:38.703631+00:00"
+lastmod: "2026-03-21T02:05:46.184287+00:00"
 product_name: "400+ Professional T-Shirt Design Bundle | Extended License"
 slug: "400-professional-t-shirt-design-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 70
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/418-t-shirt-design-bundle-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.703631+00:00"
-last_updated: "2026-03-19T16:29:38.703631+00:00"
+last_scraped: "2026-03-21T02:05:46.184287+00:00"
+last_updated: "2026-03-21T02:05:46.184287+00:00"
 categories:
   - "Graphic Design Resources"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources users who need 400+ professional t-shirt desig
 At **$30 one-time** vs $99 regular price, you're saving **70%** ($69) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

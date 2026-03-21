@@ -3,6 +3,7 @@ title: "Best 40% OFF Lifetime Deals (2026)"
 description: "Looking for 40% off lifetime deals? Here are the best one-time deals available in 2026, updated daily from AppSumo, DealFuel, DealMirror, and Dealify."
 category: "40% OFF"
 deal_count: 10
+noindex: true
 ---
 
 # Best 40% OFF Lifetime Deals

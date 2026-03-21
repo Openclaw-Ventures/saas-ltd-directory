@@ -2,7 +2,7 @@
 title: "Odus: AI chat bots for sales and support Lifetime Deal — $149"
 description: "What you get in this dealThe intuitive Dialog BuilderOwn a unique AI engineNo coding requiredMultilingual assistantsShortcodes for personalizationUser segmentationBot templates & pluginsNo LabelPremiu"
 date: "2026-03-19T16:28:05.467581+00:00"
-lastmod: "2026-03-19T16:28:05.467581+00:00"
+lastmod: "2026-03-21T02:06:52.684459+00:00"
 product_name: "Odus: AI chat bots for sales and support"
 slug: "odus-ai-chat-bots-for-sales-and-support-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2019/08/Odus-feature.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.467581+00:00"
-last_updated: "2026-03-19T16:28:05.467581+00:00"
+last_scraped: "2026-03-21T02:06:52.684459+00:00"
+last_updated: "2026-03-21T02:06:52.684459+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need odus: ai cha
 At **$149 one-time** vs $1788 regular price, you're saving **92%** ($1639) compared to buying at full price. That's equivalent to paying just 12.4 months of the regular $149/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

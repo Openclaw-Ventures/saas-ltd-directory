@@ -2,7 +2,7 @@
 title: "EasyVideo Reviews : A Video Testimonial Plugin for WordPress Pro Plus Plan Lifetime Deal — $199"
 description: "What you get in this deal200 Video Reviews/MonthUp to 10 MinShortcodesCustom FormCustom StyleCustom TranslationSocial Shares60 Days Money-Back GuaranteeHurry! Only00Licence are left"
 date: "2026-03-19T16:28:04.324864+00:00"
-lastmod: "2026-03-19T16:28:04.324864+00:00"
+lastmod: "2026-03-21T02:06:51.511139+00:00"
 product_name: "EasyVideo Reviews : A Video Testimonial Plugin for WordPress Pro Plus Plan"
 slug: "easyvideo-reviews-a-video-testimonial-plugin-for-wordpress-pro-plus-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 80
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/09/Easy-video-reviews-feature-image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.324864+00:00"
-last_updated: "2026-03-19T16:28:04.324864+00:00"
+last_scraped: "2026-03-21T02:06:51.511139+00:00"
+last_updated: "2026-03-21T02:06:51.511139+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need easyvideo re
 At **$199 one-time** vs $999 regular price, you're saving **80%** ($800) compared to buying at full price. That's equivalent to paying just 16.6 months of the regular $83/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

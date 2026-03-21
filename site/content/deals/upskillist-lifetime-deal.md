@@ -2,7 +2,7 @@
 title: "Upskillist Lifetime Deal — $99"
 description: "Upskillistoffers a wide range of intelligently designed courses to help individuals enhance their skills and achieve their career goals"
 date: "2026-03-19T16:26:52.908716+00:00"
-lastmod: "2026-03-19T16:26:52.908716+00:00"
+lastmod: "2026-03-21T02:06:55.077510+00:00"
 product_name: "Upskillist"
 slug: "upskillist-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 75
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/upskillist1_jpg.webp?v=1733000594"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.908716+00:00"
-last_updated: "2026-03-19T16:26:52.908716+00:00"
+last_scraped: "2026-03-21T02:06:55.077510+00:00"
+last_updated: "2026-03-21T02:06:55.077510+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$99 one-time** vs $400 regular price, you're saving **75%** ($301) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $33/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

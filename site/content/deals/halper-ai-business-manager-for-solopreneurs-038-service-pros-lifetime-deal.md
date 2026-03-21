@@ -2,7 +2,7 @@
 title: "Halper: AI Business Manager for Solopreneurs &#038; Service Pros Lifetime Deal — $139"
 description: "Halper lifetime dealAre you tired of chasing payments, answering DMs, and juggling appointments all day?MeetHalper lifetime deal,your ai business manager, that is built specifically for solopreneurs a"
 date: "2026-03-19T16:27:59.350726+00:00"
-lastmod: "2026-03-19T16:27:59.350726+00:00"
+lastmod: "2026-03-21T02:06:46.489614+00:00"
 product_name: "Halper: AI Business Manager for Solopreneurs &#038; Service Pros"
 slug: "halper-ai-business-manager-for-solopreneurs-038-service-pros-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2025/06/Halper-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.350726+00:00"
-last_updated: "2026-03-19T16:27:59.350726+00:00"
+last_scraped: "2026-03-21T02:06:46.489614+00:00"
+last_updated: "2026-03-21T02:06:46.489614+00:00"
 categories:
   - "20% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 20% off users who need halper: ai business manager for solopreneurs &#0
 At **$139 one-time** vs $499 regular price, you're saving **72%** ($360) compared to buying at full price. That's equivalent to paying just 11.6 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

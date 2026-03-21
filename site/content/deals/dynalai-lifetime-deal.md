@@ -2,7 +2,7 @@
 title: "Dynal.AI Lifetime Deal — $79"
 description: "Build a LinkedIn brand in 30-90 days by turning ideas, links, PDFs, and images into posts in your voice"
 date: "2026-03-19T16:12:19.462062+00:00"
-lastmod: "2026-03-19T16:12:19.462062+00:00"
+lastmod: "2026-03-21T02:04:11.614487+00:00"
 product_name: "Dynal.AI"
 slug: "dynalai-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 3.45
 review_count: 22
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/dynal-as-Header-Dynal_uuid_0a68dc47-d0ee-4c70-aa32-188238d2c2e1.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.462062+00:00"
-last_updated: "2026-03-19T16:12:19.462062+00:00"
+last_scraped: "2026-03-21T02:04:11.614487+00:00"
+last_updated: "2026-03-21T02:04:11.614487+00:00"
 categories:
   - "Social media"
 sources:
@@ -41,7 +41,7 @@ Best for social media managers and content creators who need dynal.ai capabiliti
 At **$79 one-time** vs $480 regular price, you're saving **84%** ($401) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $40/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal

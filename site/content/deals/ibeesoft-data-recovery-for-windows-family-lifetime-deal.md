@@ -2,7 +2,7 @@
 title: "iBeesoft Data Recovery : For Windows (Family) Lifetime Deal — $50"
 description: "What you get in this dealRecover Deleted Files200+file formatsLifetime Technical SupportLifetime Updates For FreeHurry! Only100Licence are left"
 date: "2026-03-19T16:28:04.585496+00:00"
-lastmod: "2026-03-19T16:28:04.585496+00:00"
+lastmod: "2026-03-21T02:06:51.836519+00:00"
 product_name: "iBeesoft Data Recovery : For Windows (Family)"
 slug: "ibeesoft-data-recovery-for-windows-family-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 74
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/04/imgpsh_fullsize_anim-3-1.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.585496+00:00"
-last_updated: "2026-03-19T16:28:04.585496+00:00"
+last_scraped: "2026-03-21T02:06:51.836519+00:00"
+last_updated: "2026-03-21T02:06:51.836519+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need ibeesoft dat
 At **$50 one-time** vs $190 regular price, you're saving **74%** ($140) compared to buying at full price. That's equivalent to paying just 4.2 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

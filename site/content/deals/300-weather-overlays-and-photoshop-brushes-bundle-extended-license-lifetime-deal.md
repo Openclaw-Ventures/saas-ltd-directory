@@ -2,7 +2,7 @@
 title: "300 Weather Overlays and Photoshop Brushes Bundle | Extended License Lifetime Deal — $14"
 description: "Get 300 Weather Overlays and Photoshop Brushes Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.806208+00:00"
-lastmod: "2026-03-19T16:29:38.806208+00:00"
+lastmod: "2026-03-21T02:05:46.293632+00:00"
 product_name: "300 Weather Overlays and Photoshop Brushes Bundle | Extended License"
 slug: "300-weather-overlays-and-photoshop-brushes-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 75
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/4-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.806208+00:00"
-last_updated: "2026-03-19T16:29:38.806208+00:00"
+last_scraped: "2026-03-21T02:05:46.293632+00:00"
+last_updated: "2026-03-21T02:05:46.293632+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources addons users who need 300 weather overlays and
 At **$14 one-time** vs $56 regular price, you're saving **75%** ($42) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

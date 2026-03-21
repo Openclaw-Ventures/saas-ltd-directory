@@ -2,7 +2,7 @@
 title: "Anim Ads: Generate Stunning Animated Ads in Seconds With AI Ads Video Maker Lifetime Deal — $69"
 description: "Anim Ads Lifetime DealCreating ads can feel difficult. You may have ideas, but turning them into videos takes time, editing skills, and the right tools. Many people struggle with design, spend hours t"
 date: "2026-03-19T16:27:58.727054+00:00"
-lastmod: "2026-03-19T16:27:58.727054+00:00"
+lastmod: "2026-03-21T02:06:46.062309+00:00"
 product_name: "Anim Ads: Generate Stunning Animated Ads in Seconds With AI Ads Video Maker"
 slug: "anim-ads-generate-stunning-animated-ads-in-seconds-with-ai-ads-video-maker-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/11/Anim-Ads-Images.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.727054+00:00"
-last_updated: "2026-03-19T16:27:58.727054+00:00"
+last_scraped: "2026-03-21T02:06:46.062309+00:00"
+last_updated: "2026-03-21T02:06:46.062309+00:00"
 categories:
   - "15% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 15% off users who need anim ads: generate stunning animated ads in seco
 At **$69 one-time** vs $99 regular price, you're saving **30%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

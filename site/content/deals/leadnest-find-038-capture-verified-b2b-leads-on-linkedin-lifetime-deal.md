@@ -2,7 +2,7 @@
 title: "LeadNest: Find &#038; Capture Verified B2B Leads on LinkedIn Lifetime Deal — $49"
 description: "LeadNest Lifetime DealWant to boost your outreach on LinkedIn but end up reaching emails that are not verified, or simply want to create a post that helps you get more customers and leads but end up s"
 date: "2026-03-19T16:27:58.986982+00:00"
-lastmod: "2026-03-19T16:27:58.986982+00:00"
+lastmod: "2026-03-21T02:06:46.269534+00:00"
 product_name: "LeadNest: Find &#038; Capture Verified B2B Leads on LinkedIn"
 slug: "leadnest-find-038-capture-verified-b2b-leads-on-linkedin-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/09/LeadNest-Smarter-LinkedIn-Lead-Generation-Made-Simple.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.986982+00:00"
-last_updated: "2026-03-19T16:27:58.986982+00:00"
+last_scraped: "2026-03-21T02:06:46.269534+00:00"
+last_updated: "2026-03-21T02:06:46.269534+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -41,7 +41,7 @@ Best for professionals leveraging AI for automation who need leadnest: find &#03
 At **$49 one-time** vs $490 regular price, you're saving **90%** ($441) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $41/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

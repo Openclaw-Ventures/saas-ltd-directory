@@ -2,7 +2,7 @@
 title: "WinX HD Video Converter For Windows Lifetime Deal — $20"
 description: "Lifetime licenseInstall on 1 Windows computerNo limits, no watermark"
 date: "2026-03-19T16:28:01.903568+00:00"
-lastmod: "2026-03-19T16:28:01.903568+00:00"
+lastmod: "2026-03-21T02:06:48.954955+00:00"
 product_name: "WinX HD Video Converter For Windows"
 slug: "winx-hd-video-converter-for-windows-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 50
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/winxdvd-feature-2nd.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:01.903568+00:00"
-last_updated: "2026-03-19T16:28:01.903568+00:00"
+last_scraped: "2026-03-21T02:06:48.954955+00:00"
+last_updated: "2026-03-21T02:06:48.954955+00:00"
 categories:
   - "Deals Under $20"
 sources:
@@ -40,7 +40,7 @@ Best for deals under $20 users who need winx hd video converter for windows capa
 At **$20 one-time** vs $40 regular price, you're saving **50%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

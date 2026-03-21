@@ -2,7 +2,7 @@
 title: "300 Yoga Training Videos Lifetime Deal — $7"
 description: "What you get in this deal300 High-Quality Yoga Training VideosDiscover a path to wellness and fulfilmentFit your schedule with different durationsHigh-quality HD video tutorialsHurry! Only99Products a"
 date: "2026-03-19T16:28:02.333624+00:00"
-lastmod: "2026-03-19T16:28:02.333624+00:00"
+lastmod: "2026-03-21T02:06:49.497292+00:00"
 product_name: "300 Yoga Training Videos"
 slug: "300-yoga-training-videos-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 76
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/yoga-00.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.333624+00:00"
-last_updated: "2026-03-19T16:28:02.333624+00:00"
+last_scraped: "2026-03-21T02:06:49.497292+00:00"
+last_updated: "2026-03-21T02:06:49.497292+00:00"
 categories:
   - "International Yoga Day Special"
 sources:
@@ -40,7 +40,7 @@ Best for international yoga day special users who need 300 yoga training videos 
 At **$7 one-time** vs $29 regular price, you're saving **76%** ($22) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

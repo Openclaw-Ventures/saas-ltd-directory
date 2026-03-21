@@ -2,7 +2,7 @@
 title: "343 Cool Photoshop Effects Bundle | Extended License Lifetime Deal — $49"
 description: "Get 343 Cool Photoshop Effects Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.734097+00:00"
-lastmod: "2026-03-19T16:29:38.734097+00:00"
+lastmod: "2026-03-21T02:05:46.222419+00:00"
 product_name: "343 Cool Photoshop Effects Bundle | Extended License"
 slug: "343-cool-photoshop-effects-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 95
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Cover-Image-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.734097+00:00"
-last_updated: "2026-03-19T16:29:38.734097+00:00"
+last_scraped: "2026-03-21T02:05:46.222419+00:00"
+last_updated: "2026-03-21T02:05:46.222419+00:00"
 categories:
   - "Photoshop Actions"
 sources:
@@ -38,7 +38,7 @@ Best for photoshop actions users who need 343 cool photoshop effects bundle | ex
 At **$49 one-time** vs $999 regular price, you're saving **95%** ($950) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $83/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

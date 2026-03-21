@@ -2,7 +2,7 @@
 title: "ContactProtect WP Plugin Lifetime Deal — $59"
 description: "Are you tired ofdealing with spam emails flooding your inboxfrom email-harvesting bots?Look no further thanContactProtect WordPress Plugin"
 date: "2026-03-19T16:26:52.807679+00:00"
-lastmod: "2026-03-19T16:26:52.807679+00:00"
+lastmod: "2026-03-21T02:06:54.970134+00:00"
 product_name: "ContactProtect WP Plugin"
 slug: "contactprotect-wp-plugin-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/ContactProtect.jpg?v=1733940288"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.807679+00:00"
-last_updated: "2026-03-19T16:26:52.807679+00:00"
+last_scraped: "2026-03-21T02:06:54.970134+00:00"
+last_updated: "2026-03-21T02:06:54.970134+00:00"
 categories:
   - "Web & Hosting"
 sources:
@@ -39,7 +39,7 @@ Best for website owners and webmasters who need contactprotect wp plugin capabil
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Blupry Bundle Lifetime Deal — $59"
 description: "Got an amazing app idea but no clue how to code?TheBlupry Bundleis your shortcut to launching a full-featured app—without writing a single line of code"
 date: "2026-03-19T16:26:52.680299+00:00"
-lastmod: "2026-03-19T16:26:52.680299+00:00"
+lastmod: "2026-03-21T02:06:54.832857+00:00"
 product_name: "Blupry Bundle"
 slug: "blupry-bundle-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 74
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/blupry1.png?v=1752067940"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.680299+00:00"
-last_updated: "2026-03-19T16:26:52.680299+00:00"
+last_scraped: "2026-03-21T02:06:54.832857+00:00"
+last_updated: "2026-03-21T02:06:54.832857+00:00"
 categories:
   - "Creative"
 sources:
@@ -39,7 +39,7 @@ Best for designers and creative professionals who need blupry bundle capabilitie
 At **$59 one-time** vs $227 regular price, you're saving **74%** ($168) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $19/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

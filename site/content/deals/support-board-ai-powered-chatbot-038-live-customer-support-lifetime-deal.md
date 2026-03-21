@@ -2,7 +2,7 @@
 title: "Support Board : AI-Powered Chatbot &#038; Live Customer Support Lifetime Deal — $70"
 description: "Support BoardLifetime dealFor every industry, there is one thing common to boost its marketing, and that is customer support. But if done manually, this process can cause errors and delays, leaving cu"
 date: "2026-03-19T16:27:59.663849+00:00"
-lastmod: "2026-03-19T16:27:59.663849+00:00"
+lastmod: "2026-03-21T02:06:46.813731+00:00"
 product_name: "Support Board : AI-Powered Chatbot &#038; Live Customer Support"
 slug: "support-board-ai-powered-chatbot-038-live-customer-support-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/08/Support-Board-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:59.663849+00:00"
-last_updated: "2026-03-19T16:27:59.663849+00:00"
+last_scraped: "2026-03-21T02:06:46.813731+00:00"
+last_updated: "2026-03-21T02:06:46.813731+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need support board : ai-powered chatbot &#038; 
 At **$70 one-time** vs $120 regular price, you're saving **42%** ($50) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

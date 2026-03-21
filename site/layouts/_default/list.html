@@ -1,8 +1,34 @@
 {{ define "main" }}
 <section class="category-page">
   <h1>{{ .Title }}</h1>
-  <p style="font-size: 14px; color: #6B7280; margin-bottom: 24px;">{{ len .Pages }} lifetime deals{{ with .Title }} in {{ . }}{{ end }} · Updated daily</p>
-  {{ .Content }}
+  <p style="font-size: 14px; color: #6B7280; margin-bottom: 8px;">
+    <strong>{{ len .Pages }} lifetime deals</strong> · Updated daily
+  </p>
+
+  {{/* Show description only — skip the full markdown dump */}}
+  {{ with .Description }}
+  <p style="color: #374151; margin-bottom: 28px;">{{ . }}</p>
+  {{ end }}
+
+  {{/* Top picks: first 3 by rating + review count */}}
+  {{ $rated := where .Pages ".Params.review_count" "ge" 5 }}
+  {{ $topPicks := sort $rated ".Params.rating" "desc" | first 3 }}
+  {{ if gt (len $topPicks) 0 }}
+  <div style="background: #FFF7ED; border: 1px solid #FED7AA; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 2rem;">
+    <p style="font-weight: 700; font-size: 0.95rem; margin-bottom: 0.5rem;">⭐ Top Picks</p>
+    {{ range $topPicks }}
+    <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.4rem 0; border-bottom: 1px solid #FDE8C8;">
+      <a href="{{ .Permalink }}" style="font-weight: 600; color: #1D4ED8; text-decoration: none;">{{ .Params.product_name }}</a>
+      <span style="font-size: 0.85rem; color: #6B7280; white-space: nowrap; margin-left: 1rem;">
+        ${{ .Params.price_current }} · {{ .Params.discount_pct }}% off
+        {{ if and .Params.rating (ge .Params.review_count 5) }} · ⭐ {{ .Params.rating }}{{ end }}
+      </span>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{/* All deals as product cards, sorted by discount % */}}
   <div class="grid">
     {{ $sorted := sort .Pages ".Params.discount_pct" "desc" }}
     {{ range $sorted }}

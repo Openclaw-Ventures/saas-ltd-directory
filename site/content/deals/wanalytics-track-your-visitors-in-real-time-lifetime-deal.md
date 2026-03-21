@@ -2,7 +2,7 @@
 title: "Wanalytics : Track Your Visitors In Real-Time Lifetime Deal — $20"
 description: "10k Visitors Per MonthUnlimited WebsitesUnlimited EventsAPI Access"
 date: "2026-03-19T16:28:02.833471+00:00"
-lastmod: "2026-03-19T16:28:02.833471+00:00"
+lastmod: "2026-03-21T02:06:50.057357+00:00"
 product_name: "Wanalytics : Track Your Visitors In Real-Time"
 slug: "wanalytics-track-your-visitors-in-real-time-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2023/03/WAnalytics-Lifetime-Deal-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.833471+00:00"
-last_updated: "2026-03-19T16:28:02.833471+00:00"
+last_scraped: "2026-03-21T02:06:50.057357+00:00"
+last_updated: "2026-03-21T02:06:50.057357+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need wanalytics : track your visitors in real-time 
 At **$20 one-time** vs $300 regular price, you're saving **93%** ($280) compared to buying at full price. That's equivalent to paying just 1.7 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Voxxi : Build &#038; Empower Your Community Lifetime Deal — $69"
 description: "1K membersThreads and chat & WebformsAbility to upgradeUnlimited groupsHurry! Only991License are left"
 date: "2026-03-19T16:28:02.786213+00:00"
-lastmod: "2026-03-19T16:28:02.786213+00:00"
+lastmod: "2026-03-21T02:06:49.962756+00:00"
 product_name: "Voxxi : Build &#038; Empower Your Community"
 slug: "voxxi-build-038-empower-your-community-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2023/04/voxxi-image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.786213+00:00"
-last_updated: "2026-03-19T16:28:02.786213+00:00"
+last_scraped: "2026-03-21T02:06:49.962756+00:00"
+last_updated: "2026-03-21T02:06:49.962756+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need voxxi : build &#038; empower your communit
 At **$69 one-time** vs $3999 regular price, you're saving **98%** ($3930) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $333/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

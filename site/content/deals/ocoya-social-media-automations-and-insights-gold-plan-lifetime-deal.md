@@ -2,7 +2,7 @@
 title: "Ocoya : Social Media Automations and Insights Gold Plan Lifetime Deal — $169"
 description: "What you get in this deal10 Social Profiles10,000+ TemplatesUnlimited Usage of ImagesAI-Social Media Automation ToolSchedule Unlimited Posts60 Days Money-Back GuaranteeHurry! Only00Licence are left"
 date: "2026-03-19T16:28:04.360167+00:00"
-lastmod: "2026-03-19T16:28:04.360167+00:00"
+lastmod: "2026-03-21T02:06:51.556003+00:00"
 product_name: "Ocoya : Social Media Automations and Insights Gold Plan"
 slug: "ocoya-social-media-automations-and-insights-gold-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 43
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/09/Ocoya-feature-image-1.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.360167+00:00"
-last_updated: "2026-03-19T16:28:04.360167+00:00"
+last_scraped: "2026-03-21T02:06:51.556003+00:00"
+last_updated: "2026-03-21T02:06:51.556003+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need ocoya : soci
 At **$169 one-time** vs $299 regular price, you're saving **43%** ($130) compared to buying at full price. That's equivalent to paying just 14.1 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

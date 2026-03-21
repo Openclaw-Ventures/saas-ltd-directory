@@ -2,7 +2,7 @@
 title: "Directory Ideas AI: Find Ideas for Your Directory Based On Its Niche Lifetime Deal — $89"
 description: "Directory Ideas AI Lifetime DealLet’s be honest, the hardest part of building a successful Directory Website is that very first step, coming up with the perfect idea.You know there’s an opportunity ou"
 date: "2026-03-19T16:27:58.844956+00:00"
-lastmod: "2026-03-19T16:27:58.844956+00:00"
+lastmod: "2026-03-21T02:06:46.158500+00:00"
 product_name: "Directory Ideas AI: Find Ideas for Your Directory Based On Its Niche"
 slug: "directory-ideas-ai-find-ideas-for-your-directory-based-on-its-niche-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2025/11/Directory-Ideas-AI-Business-Directory-Idea-Generator-Tool-for-Finding-Niche-Directory-Ideas.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.844956+00:00"
-last_updated: "2026-03-19T16:27:58.844956+00:00"
+last_scraped: "2026-03-21T02:06:46.158500+00:00"
+last_updated: "2026-03-21T02:06:46.158500+00:00"
 categories:
   - "20% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 20% off users who need directory ideas ai: find ideas for your director
 At **$89 one-time** vs $129 regular price, you're saving **31%** ($40) compared to buying at full price. That's equivalent to paying just 7.4 months of the regular $11/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

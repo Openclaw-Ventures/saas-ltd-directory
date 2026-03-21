@@ -2,7 +2,7 @@
 title: "Shareables Lifetime Deal — $59"
 description: "Connect your Google Sheets, Airtable Base, or Notion to create customized websites—no coding required"
 date: "2026-03-19T16:12:19.362173+00:00"
-lastmod: "2026-03-19T16:12:19.362173+00:00"
+lastmod: "2026-03-21T02:04:11.411489+00:00"
 product_name: "Shareables"
 slug: "shareables-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 35
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/shareables-as-Header-Shareables-16_9.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-19T16:12:19.362173+00:00"
-last_updated: "2026-03-19T16:12:19.362173+00:00"
+last_scraped: "2026-03-21T02:04:11.411489+00:00"
+last_updated: "2026-03-21T02:04:11.411489+00:00"
 categories:
   - "Productivity"
 sources:
@@ -41,7 +41,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$59 one-time** vs $96 regular price, you're saving **39%** ($37) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:12 UTC_
+_Last updated: 2026-03-21 02:04 UTC_
 
 
 ## Get This Deal

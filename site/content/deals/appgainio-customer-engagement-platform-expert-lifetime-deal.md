@@ -2,7 +2,7 @@
 title: "AppGain.io : Customer Engagement Platform (Expert) Lifetime Deal — $149"
 description: "What you get in this dealAudience Analytics for 300 K MAULive & Past Behavior User SegmentsUp-to 30 SegmentsMobile AttributionRetargeting URL ShortnerMulti-Channel Marketing AutomationAd-Networks Rema"
 date: "2026-03-19T16:28:04.190025+00:00"
-lastmod: "2026-03-19T16:28:04.190025+00:00"
+lastmod: "2026-03-21T02:06:51.399955+00:00"
 product_name: "AppGain.io : Customer Engagement Platform (Expert)"
 slug: "appgainio-customer-engagement-platform-expert-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 96
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/10/imgpsh_fullsize_anim.png"
 deal_active: true
-last_scraped: "2026-03-19T16:28:04.190025+00:00"
-last_updated: "2026-03-19T16:28:04.190025+00:00"
+last_scraped: "2026-03-21T02:06:51.399955+00:00"
+last_updated: "2026-03-21T02:06:51.399955+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need appgain.io :
 At **$149 one-time** vs $3599 regular price, you're saving **96%** ($3450) compared to buying at full price. That's equivalent to paying just 12.4 months of the regular $300/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

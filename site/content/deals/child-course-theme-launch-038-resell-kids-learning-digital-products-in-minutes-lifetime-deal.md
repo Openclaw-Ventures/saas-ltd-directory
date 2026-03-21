@@ -2,7 +2,7 @@
 title: "Child Course Theme : Launch &#038; Resell Kids Learning Digital Products In Minutes Lifetime Deal — $9"
 description: "Child Course Theme Lifetime DealRunning an online kids’ store sounds exciting, but designing one that looks fun, professional, and trustworthy isn’t easy.Most ready-made templates feel too generic, to"
 date: "2026-03-19T16:27:58.908168+00:00"
-lastmod: "2026-03-19T16:27:58.908168+00:00"
+lastmod: "2026-03-21T02:06:46.201427+00:00"
 product_name: "Child Course Theme : Launch &#038; Resell Kids Learning Digital Products In Minutes"
 slug: "child-course-theme-launch-038-resell-kids-learning-digital-products-in-minutes-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 82
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/10/Child-Course-Theme-Launch-Resell-Kids-Learning-Digital-Products-In-Minutes-2.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.908168+00:00"
-last_updated: "2026-03-19T16:27:58.908168+00:00"
+last_scraped: "2026-03-21T02:06:46.201427+00:00"
+last_updated: "2026-03-21T02:06:46.201427+00:00"
 categories:
   - "15% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 15% off users who need child course theme : launch &#038; resell kids l
 At **$9 one-time** vs $49 regular price, you're saving **82%** ($40) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

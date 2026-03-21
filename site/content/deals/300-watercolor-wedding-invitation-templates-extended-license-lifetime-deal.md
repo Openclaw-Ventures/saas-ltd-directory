@@ -2,7 +2,7 @@
 title: "300+ Watercolor Wedding Invitation Templates | Extended License Lifetime Deal — $29"
 description: "Get 300+ Watercolor Wedding Invitation Templates | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.662061+00:00"
-lastmod: "2026-03-19T16:29:38.662061+00:00"
+lastmod: "2026-03-21T02:05:46.144141+00:00"
 product_name: "300+ Watercolor Wedding Invitation Templates | Extended License"
 slug: "300-watercolor-wedding-invitation-templates-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 77
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/cover_00_2-800x532-1-450x299.jpeg"
 deal_active: true
-last_scraped: "2026-03-19T16:29:38.662061+00:00"
-last_updated: "2026-03-19T16:29:38.662061+00:00"
+last_scraped: "2026-03-21T02:05:46.144141+00:00"
+last_updated: "2026-03-21T02:05:46.144141+00:00"
 categories:
   - "Graphic Design Resources"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources users who need 300+ watercolor wedding invitat
 At **$29 one-time** vs $124 regular price, you're saving **77%** ($95) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:29 UTC_
+_Last updated: 2026-03-21 02:05 UTC_
 
 
 ## Get This Deal

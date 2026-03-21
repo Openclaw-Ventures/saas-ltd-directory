@@ -13,9 +13,9 @@ Looking for email marketing lifetime deals? Here are the best one-time deals to 
 
 ## ⭐ Top Picks
 
-1. **[Reoon Email Verifier](/deals/reoon-email-verifier-lifetime-deal/)** — $79 (81% off) — 4.94/5 (742 reviews)
+1. **[Reoon Email Verifier](/deals/reoon-email-verifier-lifetime-deal/)** — $79 (81% off) — 4.94/5 (743 reviews)
 2. **[Newoldstamp](/deals/newoldstamp-lifetime-deal/)** — $39 (64% off) — 4.73/5 (110 reviews)
-3. **[Emailit](/deals/emailit-lifetime-deal/)** — $44 (85% off) — 4.32/5 (171 reviews)
+3. **[Emailit](/deals/emailit-lifetime-deal/)** — $49 (83% off) — 4.32/5 (171 reviews)
 
 ## All Deals
 
@@ -23,7 +23,7 @@ Looking for email marketing lifetime deals? Here are the best one-time deals to 
 |------|-------|----------|----------|
 | [Reoon Email Verifier](/deals/reoon-email-verifier-lifetime-deal/) | $79 | 81% off | Appsumo |
 | [Newoldstamp](/deals/newoldstamp-lifetime-deal/) | $39 | 64% off | Appsumo |
-| [Emailit](/deals/emailit-lifetime-deal/) | $44 | 85% off | Appsumo |
+| [Emailit](/deals/emailit-lifetime-deal/) | $49 | 83% off | Appsumo |
 | [SendFox](/deals/sendfox-lifetime-deal/) | $49 | 90% off | Appsumo |
 
 ## Why buy an email marketing LTD?

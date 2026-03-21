@@ -2,7 +2,7 @@
 title: "Someka Excel Bundels Lifetime Deal — $29"
 description: "What you get in this dealBasic Math OperatorsSUM FunctionCOUNT FunctionAVERAGE FunctionMAX and MIN FunctionsDate FunctionsLEN FunctionCOUNTA FunctionPremium 24/7 SupportLifetime Updates and Support FR"
 date: "2026-03-19T16:28:05.242431+00:00"
-lastmod: "2026-03-19T16:28:05.242431+00:00"
+lastmod: "2026-03-21T02:06:52.479220+00:00"
 product_name: "Someka Excel Bundels"
 slug: "someka-excel-bundels-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 78
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2020/04/Compare-image-Someka-Excel.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.242431+00:00"
-last_updated: "2026-03-19T16:28:05.242431+00:00"
+last_scraped: "2026-03-21T02:06:52.479220+00:00"
+last_updated: "2026-03-21T02:06:52.479220+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need someka excel bundels capabilities.
 At **$29 one-time** vs $129 regular price, you're saving **78%** ($100) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $11/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

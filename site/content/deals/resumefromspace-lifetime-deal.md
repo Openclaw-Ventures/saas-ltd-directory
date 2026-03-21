@@ -2,7 +2,7 @@
 title: "ResumeFromSpace Lifetime Deal — $99"
 description: "Creating a resume that matches job listings andpasses through Applicant Tracking Systems (ATS)can be time-consuming and difficult"
 date: "2026-03-19T16:26:52.747927+00:00"
-lastmod: "2026-03-19T16:26:52.747927+00:00"
+lastmod: "2026-03-21T02:06:54.897723+00:00"
 product_name: "ResumeFromSpace"
 slug: "resumefromspace-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 59
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/ResumeFromSpace.png?v=1739374735"
 deal_active: true
-last_scraped: "2026-03-19T16:26:52.747927+00:00"
-last_updated: "2026-03-19T16:26:52.747927+00:00"
+last_scraped: "2026-03-21T02:06:54.897723+00:00"
+last_updated: "2026-03-21T02:06:54.897723+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$99 one-time** vs $240 regular price, you're saving **59%** ($141) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $20/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:26 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

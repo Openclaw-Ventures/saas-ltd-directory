@@ -2,7 +2,7 @@
 title: "Intento: Convert Ideas into Step-by-Step Project Plans Lifetime Deal — $69"
 description: "Intento Lifetime DealEver had a great product idea but didn’t know what to do next? One person imagines one thing, the developer builds another, and suddenly weeks are gone with nothing useful to show"
 date: "2026-03-19T16:27:58.500618+00:00"
-lastmod: "2026-03-19T16:27:58.500618+00:00"
+lastmod: "2026-03-21T02:06:45.873085+00:00"
 product_name: "Intento: Convert Ideas into Step-by-Step Project Plans"
 slug: "intento-convert-ideas-into-step-by-step-project-plans-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2026/02/Intento-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:27:58.500618+00:00"
-last_updated: "2026-03-19T16:27:58.500618+00:00"
+last_scraped: "2026-03-21T02:06:45.873085+00:00"
+last_updated: "2026-03-21T02:06:45.873085+00:00"
 categories:
   - "AI Automation"
 sources:
@@ -41,7 +41,7 @@ Best for ai automation users who need intento: convert ideas into step-by-step p
 At **$69 one-time** vs $199 regular price, you're saving **65%** ($130) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:27 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

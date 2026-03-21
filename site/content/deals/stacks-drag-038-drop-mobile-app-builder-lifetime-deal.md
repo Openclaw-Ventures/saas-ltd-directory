@@ -2,7 +2,7 @@
 title: "Stacks : Drag &#038; Drop Mobile App Builder Lifetime Deal — $49"
 description: "What you get in this dealDrag & Drop app builder20+ App templatesNative iOS & Android appUnlimited Push NotificationsSocial LoginsCustom Checkout PagesHurry! Only95Licence are left."
 date: "2026-03-19T16:28:02.719543+00:00"
-lastmod: "2026-03-19T16:28:02.719543+00:00"
+lastmod: "2026-03-21T02:06:49.836388+00:00"
 product_name: "Stacks : Drag &#038; Drop Mobile App Builder"
 slug: "stacks-drag-038-drop-mobile-app-builder-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2023/05/stacks-image.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.719543+00:00"
-last_updated: "2026-03-19T16:28:02.719543+00:00"
+last_scraped: "2026-03-21T02:06:49.836388+00:00"
+last_updated: "2026-03-21T02:06:49.836388+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need stacks : dra
 At **$49 one-time** vs $490 regular price, you're saving **90%** ($441) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $41/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

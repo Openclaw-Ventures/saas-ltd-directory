@@ -2,7 +2,7 @@
 title: "7 Premium Infographics Template Design Lifetime Deal — $17"
 description: "How this deal is profitable for you?7 Awesome Infographics Template DesignProfessionally built and can be customized easilyStart branding your creative projects in minutesUse it as a Marketing Tool fo"
 date: "2026-03-19T16:28:05.769012+00:00"
-lastmod: "2026-03-19T16:28:05.769012+00:00"
+lastmod: "2026-03-21T02:06:52.893293+00:00"
 product_name: "7 Premium Infographics Template Design"
 slug: "7-premium-infographics-template-design-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2018/02/Thumb-VDD-2.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.769012+00:00"
-last_updated: "2026-03-19T16:28:05.769012+00:00"
+last_scraped: "2026-03-21T02:06:52.893293+00:00"
+last_updated: "2026-03-21T02:06:52.893293+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need 7 premium in
 At **$17 one-time** vs $199 regular price, you're saving **91%** ($182) compared to buying at full price. That's equivalent to paying just 1.4 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

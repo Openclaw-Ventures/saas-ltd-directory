@@ -2,7 +2,7 @@
 title: "Audiencefy Customer Segmentation &#038; Ecommerce Analytics App Lifetime Deal — $49"
 description: "What you get in this deal1 Ecommerce Stores2 Years Data Analysed3 IntegrationsExecutive SummaryPredefined SegmentsPremium 24/7 SupportLifetime Updates and Support FREEHurry! Only649Licence are left"
 date: "2026-03-19T16:28:05.436580+00:00"
-lastmod: "2026-03-19T16:28:05.436580+00:00"
+lastmod: "2026-03-21T02:06:52.656664+00:00"
 product_name: "Audiencefy Customer Segmentation &#038; Ecommerce Analytics App"
 slug: "audiencefy-customer-segmentation-038-ecommerce-analytics-app-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2020/01/feature-image-.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.436580+00:00"
-last_updated: "2026-03-19T16:28:05.436580+00:00"
+last_scraped: "2026-03-21T02:06:52.656664+00:00"
+last_updated: "2026-03-21T02:06:52.656664+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need audiencefy c
 At **$49 one-time** vs $588 regular price, you're saving **92%** ($539) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

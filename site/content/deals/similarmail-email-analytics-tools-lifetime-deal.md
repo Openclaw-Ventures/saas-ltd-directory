@@ -2,7 +2,7 @@
 title: "SimilarMail : Email Analytics Tools Lifetime Deal — $49"
 description: "What you get in this dealSearch 2,500,000 emails20,000 brandsDomains across 3 years of dataSeasonal or brand keywordsDiscover unique subjectsTimeline view/Calendar viewPremium 24/7 SupportLifetime Upd"
 date: "2026-03-19T16:28:05.176602+00:00"
-lastmod: "2026-03-19T16:28:05.176602+00:00"
+lastmod: "2026-03-21T02:06:52.404947+00:00"
 product_name: "SimilarMail : Email Analytics Tools"
 slug: "similarmail-email-analytics-tools-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2020/02/feature-image-similarmail.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:05.176602+00:00"
-last_updated: "2026-03-19T16:28:05.176602+00:00"
+last_scraped: "2026-03-21T02:06:52.404947+00:00"
+last_updated: "2026-03-21T02:06:52.404947+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need similarmail : email analytics tools capabi
 At **$49 one-time** vs $120 regular price, you're saving **59%** ($71) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

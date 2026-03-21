@@ -2,7 +2,7 @@
 title: "340+ Historical Figures Midjourney Prompts Sale Lifetime Deal — $7"
 description: "340+ Historical Figures Midjourney Prompts Sale"
 date: "2026-03-19T16:28:02.227393+00:00"
-lastmod: "2026-03-19T16:28:02.227393+00:00"
+lastmod: "2026-03-21T02:06:49.358893+00:00"
 product_name: "340+ Historical Figures Midjourney Prompts Sale"
 slug: "340-historical-figures-midjourney-prompts-sale-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/340-historical-figures.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.227393+00:00"
-last_updated: "2026-03-19T16:28:02.227393+00:00"
+last_scraped: "2026-03-21T02:06:49.358893+00:00"
+last_updated: "2026-03-21T02:06:49.358893+00:00"
 categories:
   - "Midjourney Prompts"
 sources:
@@ -40,7 +40,7 @@ Best for midjourney prompts users who need 340+ historical figures midjourney pr
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal

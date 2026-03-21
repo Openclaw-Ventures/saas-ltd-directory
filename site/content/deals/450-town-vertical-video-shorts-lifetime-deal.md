@@ -2,7 +2,7 @@
 title: "450 Town Vertical Video Shorts Lifetime Deal — $7"
 description: "What you get in this deal450 Town Vertical Video ShortsBeautiful videos to captivate audienceEngage in Activity with EaseHigh-quality HD video tutorialsHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.125367+00:00"
-lastmod: "2026-03-19T16:28:02.125367+00:00"
+lastmod: "2026-03-21T02:06:49.220139+00:00"
 product_name: "450 Town Vertical Video Shorts"
 slug: "450-town-vertical-video-shorts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/450-Town-Vertical-Video-Shorts.jpg"
 deal_active: true
-last_scraped: "2026-03-19T16:28:02.125367+00:00"
-last_updated: "2026-03-19T16:28:02.125367+00:00"
+last_scraped: "2026-03-21T02:06:49.220139+00:00"
+last_updated: "2026-03-21T02:06:49.220139+00:00"
 categories:
   - "Creative Resources"
 sources:
@@ -40,7 +40,7 @@ Best for creative resources users who need 450 town vertical video shorts capabi
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-19 16:28 UTC_
+_Last updated: 2026-03-21 02:06 UTC_
 
 
 ## Get This Deal
