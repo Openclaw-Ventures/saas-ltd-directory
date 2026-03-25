@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $allDeals := where .Site.RegularPages "Section" "deals" }}
+{{ $allDeals := where (where .Site.RegularPages "Section" "deals") ".Params.deal_active" true }}
 {{ $dealCount := len $allDeals }}
 
 {{/* Hero Section */}}
