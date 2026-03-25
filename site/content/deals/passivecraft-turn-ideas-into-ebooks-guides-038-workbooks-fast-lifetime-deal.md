@@ -2,7 +2,7 @@
 title: "PassiveCraft: Turn Ideas Into Ebooks, Guides &#038; Workbooks Fast Lifetime Deal — $19"
 description: "PassiveCraft Lifetime DealIf you’re a creator who shares valuable posts every day but still doesn’t have a product to sell, you’re not alone. Many creators pour hours into content, grow a loyal audien"
 date: "2026-03-19T16:27:58.678337+00:00"
-lastmod: "2026-03-21T02:06:46.024580+00:00"
+lastmod: "2026-03-25T02:04:32.083276+00:00"
 product_name: "PassiveCraft: Turn Ideas Into Ebooks, Guides &#038; Workbooks Fast"
 slug: "passivecraft-turn-ideas-into-ebooks-guides-038-workbooks-fast-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2025/12/PassiveCraft-Turn-Your-Post-Into-Guides-WorkBooks-with-AI-eBook-Generator-3.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.024580+00:00"
-last_updated: "2026-03-21T02:06:46.024580+00:00"
+last_scraped: "2026-03-25T02:04:32.083276+00:00"
+last_updated: "2026-03-25T02:04:32.083276+00:00"
 categories:
   - "AI Automation"
 sources:
@@ -41,7 +41,7 @@ Best for ai automation users who need passivecraft: turn ideas into ebooks, guid
 At **$19 one-time** vs $228 regular price, you're saving **92%** ($209) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $19/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

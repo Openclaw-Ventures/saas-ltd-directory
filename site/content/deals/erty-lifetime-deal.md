@@ -2,7 +2,7 @@
 title: "Erty Lifetime Deal — $79"
 description: "Stay Online"
 date: "2026-03-19T16:26:52.710508+00:00"
-lastmod: "2026-03-21T02:06:54.861435+00:00"
+lastmod: "2026-03-25T02:04:40.988125+00:00"
 product_name: "Erty"
 slug: "erty-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/erty-1.jpg?v=1746001525"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.861435+00:00"
-last_updated: "2026-03-21T02:06:54.861435+00:00"
+last_scraped: "2026-03-25T02:04:40.988125+00:00"
+last_updated: "2026-03-25T02:04:40.988125+00:00"
 categories:
   - "Web & Hosting"
 sources:
@@ -39,7 +39,7 @@ Best for website owners and webmasters who need erty capabilities.
 At **$79 one-time** vs $790 regular price, you're saving **90%** ($711) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $66/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

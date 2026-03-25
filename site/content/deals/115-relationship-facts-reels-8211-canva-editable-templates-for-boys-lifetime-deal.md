@@ -2,7 +2,7 @@
 title: "115 Relationship Facts Reels &#8211; Canva Editable Templates for Boys! Lifetime Deal — $7"
 description: "What you get in this deal115 Relationship Facts Reelsall-in-one solution for social mediaCanva-compatible templatesHurry! Only99Products are left"
 date: "2026-03-19T16:28:01.490385+00:00"
-lastmod: "2026-03-21T02:06:48.590708+00:00"
+lastmod: "2026-03-25T02:04:34.761404+00:00"
 product_name: "115 Relationship Facts Reels &#8211; Canva Editable Templates for Boys!"
 slug: "115-relationship-facts-reels-8211-canva-editable-templates-for-boys-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 76
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/09/115-Relationship-Facts-Reels.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.590708+00:00"
-last_updated: "2026-03-21T02:06:48.590708+00:00"
+last_scraped: "2026-03-25T02:04:34.761404+00:00"
+last_updated: "2026-03-25T02:04:34.761404+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need 115 relationship facts reels &#8211; canva
 At **$7 one-time** vs $29 regular price, you're saving **76%** ($22) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

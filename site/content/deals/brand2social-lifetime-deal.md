@@ -2,7 +2,7 @@
 title: "Brand2Social Lifetime Deal — $59"
 description: "Managing multiple social media accounts can be overwhelming and time-consuming"
 date: "2026-03-19T16:26:52.802985+00:00"
-lastmod: "2026-03-21T02:06:54.965483+00:00"
+lastmod: "2026-03-25T02:04:41.126800+00:00"
 product_name: "Brand2Social"
 slug: "brand2social-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/brand2social-1-new.jpg?v=1752162375"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.965483+00:00"
-last_updated: "2026-03-21T02:06:54.965483+00:00"
+last_scraped: "2026-03-25T02:04:41.126800+00:00"
+last_updated: "2026-03-25T02:04:41.126800+00:00"
 categories:
   - "Social Media"
 sources:
@@ -39,7 +39,7 @@ Best for social media managers and content creators who need brand2social capabi
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

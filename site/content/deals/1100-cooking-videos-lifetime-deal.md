@@ -2,7 +2,7 @@
 title: "1100_Cooking_Videos Lifetime Deal — $7"
 description: "What you get in this deal1,100 cooking videosEnhance your Cooking journeyVariety of recipesHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.064456+00:00"
-lastmod: "2026-03-21T02:06:49.130037+00:00"
+lastmod: "2026-03-25T02:04:35.274959+00:00"
 product_name: "1100_Cooking_Videos"
 slug: "1100-cooking-videos-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/1100-Cooking-Videos-2.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.130037+00:00"
-last_updated: "2026-03-21T02:06:49.130037+00:00"
+last_scraped: "2026-03-25T02:04:35.274959+00:00"
+last_updated: "2026-03-25T02:04:35.274959+00:00"
 categories:
   - "Creative Market's Top Trends"
 sources:
@@ -40,7 +40,7 @@ Best for creative market's top trends users who need 1100_cooking_videos capabil
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

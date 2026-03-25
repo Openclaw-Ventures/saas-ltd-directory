@@ -2,7 +2,7 @@
 title: "VerifyEmail: Bulk Email Verifier for Google Sheet Lifetime Deal — $29"
 description: "25k Emails Per MonthReal time Processing99.99% uptime SLAFirewall protection"
 date: "2026-03-19T16:28:02.788998+00:00"
-lastmod: "2026-03-21T02:06:49.968639+00:00"
+lastmod: "2026-03-25T02:04:36.213066+00:00"
 product_name: "VerifyEmail: Bulk Email Verifier for Google Sheet"
 slug: "verifyemail-bulk-email-verifier-for-google-sheet-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2023/04/VerifyEmail-Bulk-Email-Verifier-Add-on-for-Sheets.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.968639+00:00"
-last_updated: "2026-03-21T02:06:49.968639+00:00"
+last_scraped: "2026-03-25T02:04:36.213066+00:00"
+last_updated: "2026-03-25T02:04:36.213066+00:00"
 categories:
   - "Active Campaign"
 sources:
@@ -41,7 +41,7 @@ Best for active campaign users who need verifyemail: bulk email verifier for goo
 At **$29 one-time** vs $99 regular price, you're saving **71%** ($70) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

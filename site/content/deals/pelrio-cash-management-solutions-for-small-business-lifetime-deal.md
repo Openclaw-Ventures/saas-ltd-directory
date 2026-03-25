@@ -2,7 +2,7 @@
 title: "Pelrio : Cash Management Solutions For Small Business Lifetime Deal — $80"
 description: "CashflowGoogle Analytics integrationAccounts payable and receivable controlMultiple bank accounts"
 date: "2026-03-19T16:28:01.478396+00:00"
-lastmod: "2026-03-21T02:06:48.574195+00:00"
+lastmod: "2026-03-25T02:04:34.749794+00:00"
 product_name: "Pelrio : Cash Management Solutions For Small Business"
 slug: "pelrio-cash-management-solutions-for-small-business-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 90
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/09/Pelrio-Lifetime-Deal-Featured-Image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.574195+00:00"
-last_updated: "2026-03-21T02:06:48.574195+00:00"
+last_scraped: "2026-03-25T02:04:34.749794+00:00"
+last_updated: "2026-03-25T02:04:34.749794+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need pelrio : cash management solutions for sma
 At **$80 one-time** vs $800 regular price, you're saving **90%** ($720) compared to buying at full price. That's equivalent to paying just 6.7 months of the regular $67/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

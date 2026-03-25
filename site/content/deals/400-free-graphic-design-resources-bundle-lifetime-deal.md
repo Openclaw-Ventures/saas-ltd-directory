@@ -2,7 +2,7 @@
 title: "400+ Free Graphic Design Resources Bundle Lifetime Deal"
 description: "Get 400+ Free Graphic Design Resources Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.147680+00:00"
-lastmod: "2026-03-21T02:05:46.690942+00:00"
+lastmod: "2026-03-25T02:03:31.021641+00:00"
 product_name: "400+ Free Graphic Design Resources Bundle"
 slug: "400-free-graphic-design-resources-bundle-lifetime-deal"
 source: "dealfuel"
@@ -13,8 +13,8 @@ price_original: 999.0
 price_currency: "USD"
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/download-43-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.690942+00:00"
-last_updated: "2026-03-21T02:05:46.690942+00:00"
+last_scraped: "2026-03-25T02:03:31.021641+00:00"
+last_updated: "2026-03-25T02:03:31.021641+00:00"
 categories:
   - "Android"
 sources:
@@ -32,7 +32,7 @@ sources:
 Best for android users who need 400+ free graphic design resources bundle capabilities.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

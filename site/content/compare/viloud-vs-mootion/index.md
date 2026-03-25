@@ -19,7 +19,7 @@ Comparing two video lifetime deals to help you make the right choice.
 | **LTD Price** | $99 | $79 |
 | **Regular Price** | $349 | $144 |
 | **Discount** | 72% | 45% |
-| **Rating** | 4.9/5 (230 reviews) | 3.84/5 (139 reviews) |
+| **Rating** | 4.89/5 (231 reviews) | 3.84/5 (139 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | Video | Video |
 

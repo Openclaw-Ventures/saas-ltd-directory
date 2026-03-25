@@ -2,7 +2,7 @@
 title: "350 Fitness Vertical Videos Shorts Lifetime Deal — $7"
 description: "What you get in this deal350 Fitness Vertical Video ShortsEngage in immersive vertical videosTransform your workout routinePersonalize your fitness journeyHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.230468+00:00"
-lastmod: "2026-03-21T02:06:49.363781+00:00"
+lastmod: "2026-03-25T02:04:35.527159+00:00"
 product_name: "350 Fitness Vertical Videos Shorts"
 slug: "350-fitness-vertical-videos-shorts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 76
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/yoga-11.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.363781+00:00"
-last_updated: "2026-03-21T02:06:49.363781+00:00"
+last_scraped: "2026-03-25T02:04:35.527159+00:00"
+last_updated: "2026-03-25T02:04:35.527159+00:00"
 categories:
   - "Creative Resources"
 sources:
@@ -40,7 +40,7 @@ Best for creative resources users who need 350 fitness vertical videos shorts ca
 At **$7 one-time** vs $29 regular price, you're saving **76%** ($22) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Nostalgia: Customised Photo Editor Lifetime Deal — $29"
 description: "What you get in this deal105 Awesome overlays & texturesPhoto manipulation103 Pre-made filtersComposition & correct photo orientationCrop, flip, resize, & straighten imagesOne-click effectsPremium 24/"
 date: "2026-03-19T16:28:05.530549+00:00"
-lastmod: "2026-03-21T02:06:52.744188+00:00"
+lastmod: "2026-03-25T02:04:38.883646+00:00"
 product_name: "Nostalgia: Customised Photo Editor"
 slug: "nostalgia-customised-photo-editor-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 90
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2019/09/Nostalgia.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.744188+00:00"
-last_updated: "2026-03-21T02:06:52.744188+00:00"
+last_scraped: "2026-03-25T02:04:38.883646+00:00"
+last_updated: "2026-03-25T02:04:38.883646+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need nostalgia: c
 At **$29 one-time** vs $300 regular price, you're saving **90%** ($271) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

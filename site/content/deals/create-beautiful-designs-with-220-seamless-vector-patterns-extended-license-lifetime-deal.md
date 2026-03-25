@@ -2,7 +2,7 @@
 title: "Create Beautiful Designs With 220+ Seamless Vector Patterns | Extended License Lifetime Deal — $9"
 description: "Get Create Beautiful Designs With 220+ Seamless Vector Patterns | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.999406+00:00"
-lastmod: "2026-03-21T02:05:46.505438+00:00"
+lastmod: "2026-03-25T02:03:30.896867+00:00"
 product_name: "Create Beautiful Designs With 220+ Seamless Vector Patterns | Extended License"
 slug: "create-beautiful-designs-with-220-seamless-vector-patterns-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 70
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Cover-222-Vector-Patterns-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.505438+00:00"
-last_updated: "2026-03-21T02:05:46.505438+00:00"
+last_scraped: "2026-03-25T02:03:30.896867+00:00"
+last_updated: "2026-03-25T02:03:30.896867+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need create beautiful designs with 220+ seamless vec
 At **$9 one-time** vs $30 regular price, you're saving **70%** ($21) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Taskfloly : Track Tasks, Automate Actions &#038; Close Deals Faster Lifetime Deal — $19"
 description: "Taskfloly Lifetime DealKeeping up with chores and follow-ups should not feel like a full-time commitment. However, when dealing with spreadsheets, sticky notes, and a constant stream of messages, thin"
 date: "2026-03-19T16:27:58.647962+00:00"
-lastmod: "2026-03-21T02:06:45.998395+00:00"
+lastmod: "2026-03-25T02:04:32.057877+00:00"
 product_name: "Taskfloly : Track Tasks, Automate Actions &#038; Close Deals Faster"
 slug: "taskfloly-track-tasks-automate-actions-038-close-deals-faster-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 90
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/10/Taskfloly-Track-Tasks-Automate-Actions-Close-Deals-Faster.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:45.998395+00:00"
-last_updated: "2026-03-21T02:06:45.998395+00:00"
+last_scraped: "2026-03-25T02:04:32.057877+00:00"
+last_updated: "2026-03-25T02:04:32.057877+00:00"
 categories:
   - "All Deals"
 sources:
@@ -40,7 +40,7 @@ Best for all deals users who need taskfloly : track tasks, automate actions &#03
 At **$19 one-time** vs $190 regular price, you're saving **90%** ($171) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

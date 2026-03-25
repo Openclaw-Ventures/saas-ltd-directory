@@ -2,7 +2,7 @@
 title: "Radar : Check Important Metrics From Your Menubar Lifetime Deal — $29"
 description: "What you get in this dealAdd data to Radar with ready-made 1-click installersAdd Any APIThreshold Desktop NotificationsAnalytics for the metrics/strong>60DaysMoney Back GuaranteeHurry! Only201Licence "
 date: "2026-03-19T16:28:03.432745+00:00"
-lastmod: "2026-03-21T02:06:50.626758+00:00"
+lastmod: "2026-03-25T02:04:36.923227+00:00"
 product_name: "Radar : Check Important Metrics From Your Menubar"
 slug: "radar-check-important-metrics-from-your-menubar-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2022/05/Radar-Lifetime-Deal-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.626758+00:00"
-last_updated: "2026-03-21T02:06:50.626758+00:00"
+last_scraped: "2026-03-25T02:04:36.923227+00:00"
+last_updated: "2026-03-25T02:04:36.923227+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need radar : chec
 At **$29 one-time** vs $45 regular price, you're saving **36%** ($16) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

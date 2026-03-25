@@ -2,7 +2,7 @@
 title: "Formcake : The Form Backend Built For Developers Lifetime Deal — $49"
 description: "What you get in this dealUnlimited Forms2,000 Submissions / month15 Actions / FormFile Storage 500 MiBMaximum File Size 5 MiBHurry! Only00Licence are left"
 date: "2026-03-19T16:28:05.355142+00:00"
-lastmod: "2026-03-21T02:06:52.582283+00:00"
+lastmod: "2026-03-25T02:04:38.719994+00:00"
 product_name: "Formcake : The Form Backend Built For Developers"
 slug: "formcake-the-form-backend-built-for-developers-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 86
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/10/imgpsh_fullsize_anim-4.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.582283+00:00"
-last_updated: "2026-03-21T02:06:52.582283+00:00"
+last_scraped: "2026-03-25T02:04:38.719994+00:00"
+last_updated: "2026-03-25T02:04:38.719994+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need formcake : t
 At **$49 one-time** vs $349 regular price, you're saving **86%** ($300) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $29/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Xplorify : Revolutionary Facebook™ Interest Targeting Tool Lifetime Deal — $32"
 description: "What you get in this deal1000’sof Targetable FB InterestsUncover Hidden InterestsInterest SuggestionsCut-Down Research TimeGoogle & FBSearch IntegrationsFB Connection Not requiredSave InterestsHurry!O"
 date: "2026-03-19T16:28:04.629828+00:00"
-lastmod: "2026-03-21T02:06:51.887723+00:00"
+lastmod: "2026-03-25T02:04:38.147617+00:00"
 product_name: "Xplorify : Revolutionary Facebook™ Interest Targeting Tool"
 slug: "xplorify-revolutionary-facebook-interest-targeting-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2021/04/imgpsh_fullsize_anim-1.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.887723+00:00"
-last_updated: "2026-03-21T02:06:51.887723+00:00"
+last_scraped: "2026-03-25T02:04:38.147617+00:00"
+last_updated: "2026-03-25T02:04:38.147617+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need xplorify : r
 At **$32 one-time** vs $899 regular price, you're saving **96%** ($867) compared to buying at full price. That's equivalent to paying just 2.7 months of the regular $75/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

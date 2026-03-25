@@ -2,7 +2,7 @@
 title: "Mondly Yearly Deal : Learn Your Next Language Faster Lifetime Deal — $40"
 description: "What you get in this dealGet All 41 languages300+ Bite-sized lessons50+ Conversations2100+ Daily Lessons"
 date: "2026-03-19T16:28:04.761578+00:00"
-lastmod: "2026-03-21T02:06:52.052532+00:00"
+lastmod: "2026-03-25T02:04:38.254971+00:00"
 product_name: "Mondly Yearly Deal : Learn Your Next Language Faster"
 slug: "mondly-yearly-deal-learn-your-next-language-faster-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/01/Untitled-design.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.052532+00:00"
-last_updated: "2026-03-21T02:06:52.052532+00:00"
+last_scraped: "2026-03-25T02:04:38.254971+00:00"
+last_updated: "2026-03-25T02:04:38.254971+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need mondly yearl
 At **$40 one-time** vs $480 regular price, you're saving **92%** ($440) compared to buying at full price. That's equivalent to paying just 3.3 months of the regular $40/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

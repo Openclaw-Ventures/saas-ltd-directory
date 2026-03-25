@@ -2,7 +2,7 @@
 title: "Streamr : Multilingual Video Translation Lifetime Deal — $49"
 description: "Cutting-edge technologyMaximum global reachAutomatic transcription 7 translationAutomated voiceover & caption creation"
 date: "2026-03-19T16:28:04.056895+00:00"
-lastmod: "2026-03-21T02:06:51.232432+00:00"
+lastmod: "2026-03-25T02:04:37.538762+00:00"
 product_name: "Streamr : Multilingual Video Translation"
 slug: "streamr-multilingual-video-translation-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 14
 image: "https://dealmirror.com/wp-content/uploads/2020/11/Streamr-2.0.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.232432+00:00"
-last_updated: "2026-03-21T02:06:51.232432+00:00"
+last_scraped: "2026-03-25T02:04:37.538762+00:00"
+last_updated: "2026-03-25T02:04:37.538762+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -41,7 +41,7 @@ Best for professionals leveraging AI for automation who need streamr : multiling
 At **$49 one-time** vs $69 regular price, you're saving **29%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

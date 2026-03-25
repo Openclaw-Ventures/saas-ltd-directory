@@ -2,7 +2,7 @@
 title: "Skaffolder : Build Better Custom Web &#038; Mobile Apps Business plan Lifetime Deal — $890"
 description: "What you get in this deal2 Users2 Projects2 TemplatesPrivate DocumentationWhitelabel DocumentationRemove Branding On FilesPremium 24/7 SupportLifetime Updates and Support FREEHurry! Only0Licence are l"
 date: "2026-03-19T16:28:05.027600+00:00"
-lastmod: "2026-03-21T02:06:52.280754+00:00"
+lastmod: "2026-03-25T02:04:38.475666+00:00"
 product_name: "Skaffolder : Build Better Custom Web &#038; Mobile Apps Business plan"
 slug: "skaffolder-build-better-custom-web-038-mobile-apps-business-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 68
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2020/07/feacher-image-skffolder.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.280754+00:00"
-last_updated: "2026-03-21T02:06:52.280754+00:00"
+last_scraped: "2026-03-25T02:04:38.475666+00:00"
+last_updated: "2026-03-25T02:04:38.475666+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need skaffolder :
 At **$890 one-time** vs $2799 regular price, you're saving **68%** ($1909) compared to buying at full price. That's equivalent to paying just 74.2 months of the regular $233/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

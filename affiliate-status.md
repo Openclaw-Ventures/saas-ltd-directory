@@ -1,68 +1,90 @@
 # Affiliate Program Status — SaaS LTD Directory
 
-**Last updated:** 2026-03-19
+**Last updated:** 2026-03-24
 
 ---
 
-## Programs to Apply To
+## Programs — Current Status
 
 ### 1. AppSumo via Impact.com (P0 — Primary Revenue)
 
 - **Signup URL:** https://app.impact.com/campaign-promo-signup/AppSumo.brand?execution=e1s1
 - **Commission:** Up to 100% ($50 max) on first purchase by referred new customer
-- **Cookie:** Last-click attribution via Impact
-- **Payout:** 60 days after month-end, paid on 10th of following month
-- **Approval time:** ~2 business days
-- **Status:** ⏳ NOT YET APPLIED
+- **Cookie:** Last-click via Impact
+- **Payout:** 60 days after month-end, paid 10th of following month
+- **Status:** ⏳ PENDING APPROVAL — submitted 2026-03-24
 
-**Steps for Jaisev:**
-1. Go to https://app.impact.com/campaign-promo-signup/AppSumo.brand?execution=e1s1
-2. Create an Impact.com account (or log in if existing)
-3. Fill in website/promotional methods — list the directory URL
-4. Submit application
-5. Wait for approval (typically 2 business days)
-6. Once approved: get the tracking parameters from Impact dashboard
-7. Update `.env` with `APPSUMO_IMPACT_ID=<your-id>`
-
-### 2. PartnerStack (P0 — Secondary Revenue)
-
-- **Signup URL:** https://partnerstack.com/partnerstack-partner-program
-- **Marketplace:** https://market.partnerstack.com/
-- **Commission:** Varies by vendor (10%-50% recurring)
-- **Status:** ⏳ NOT YET APPLIED
-
-**Steps for Jaisev:**
-1. Go to https://partnerstack.com/partnerstack-partner-program
-2. Create a free PartnerStack account
-3. Browse marketplace and apply to these high-priority vendor programs:
-   - **Brevo** (email marketing) — $100 per paying customer
-   - **monday.com** — up to 20% commission
-   - **Kit (ConvertKit)** — 50% recurring for 1st year
-   - **Apollo.io** — up to 20% commission
-   - **Gorgias** — 10% commission indefinitely
-4. Once approved: get `ps_partner_key` from dashboard
-5. Update `.env` with `PARTNERSTACK_KEY=<your-key>`
-
-### 3. Awin / ShareASale (P2 — Fallback)
-
-- **Signup URL:** https://www.awin.com
-- **Commission:** 4-50% depending on merchant
-- **Min payout:** $50
-- **Status:** ⏳ DEFERRED — apply after site is live with traffic
+**Next step:** Jaisev checks Impact dashboard (est. 2–7 business days). Once approved: update `.env` with `APPSUMO_IMPACT_ID=<impact-id>`.
 
 ---
 
-## Current Code Configuration
+### 2. PartnerStack (REJECTED)
 
-All affiliate links use **placeholder parameters** defined in `.env.example`:
+- **Status:** ❌ REJECTED — 2026-03-24 ("not a great fit" — profile too thin, no traffic)
+- **Rejected vendors affected:** monday.com, Brevo, Kit, Apollo.io, Gorgias
+- **Action taken:** Migrated all PartnerStack vendors to direct affiliate programs (see below)
+- **Reapply trigger:** 10k monthly GSC visitors
 
-```
-APPSUMO_IMPACT_ID=placeholder_impact_id
-PARTNERSTACK_KEY=placeholder_ps_key
-DEFAULT_REF=saasltddir
-```
+---
 
-The `?ref=saasltddir` parameter is appended to all AppSumo links now. This serves as a basic tracking parameter even before Impact approval. Once approved, we swap to proper Impact tracking.
+## Direct Vendor Programs (PartnerStack Replacement)
+
+### 3. monday.com Direct (P0)
+
+- **Signup URL:** https://monday.com/affiliate-program
+- **Commission:** Up to 100% first-year sales (tier model), base 25%
+- **Payout:** Monthly via PayPal or Stripe
+- **Traffic gate:** None disclosed
+- **Env var:** `MONDAY_AFFILIATE_ID`
+- **Status:** ⏳ PENDING APPLICATION — Jaisev to apply
+
+### 4. Kit (ConvertKit) Direct (P0)
+
+- **Signup URL:** https://kit.com/affiliate
+- **Commission:** 50% recurring yr 1; 10–20% recurring lifetime after yr 1
+- **Cookie:** 90 days
+- **Traffic gate:** None disclosed
+- **Env var:** `KIT_AFFILIATE_ID`
+- **Status:** ⏳ PENDING APPLICATION — Jaisev to apply
+
+### 5. Apollo.io Direct (P0)
+
+- **Signup URL:** https://www.apollo.io/partners/affiliates
+- **Commission:** 15% monthly / 20% annual, first 12 months. 4,000+ active partners.
+- **Traffic gate:** None disclosed
+- **Env var:** `APOLLO_AFFILIATE_ID`
+- **Status:** ⏳ PENDING APPLICATION — Jaisev to apply
+
+### 6. Brevo Direct (P0)
+
+- **Signup URL:** https://www.brevo.com/partners/affiliates/
+- **Commission:** $5/free signup + $100/paying customer
+- **Payout:** PayPal or Stripe
+- **Traffic gate:** None disclosed (apply directly to Brevo, NOT via PartnerStack marketplace)
+- **Env var:** `BREVO_AFFILIATE_ID`
+- **Note:** Brevo's backend uses PartnerStack but they manage approvals directly — the marketplace rejection does not apply here
+- **Status:** ⏳ PENDING APPLICATION — Jaisev to apply
+
+### 7. Gorgias Direct (DEFERRED)
+
+- **Signup URL:** https://www.gorgias.com/partner-program
+- **Commission:** Revenue share (agency-focused, % not publicly disclosed)
+- **Traffic gate:** ⚠️ Agency/partner-focused program — low likelihood of approval for publisher without traffic
+- **Env var:** `GORGIAS_AFFILIATE_ID`
+- **Status:** ⏸ DEFERRED — revisit at 5k monthly GSC visitors
+
+---
+
+## Code Configuration
+
+All affiliate links use env vars defined in `.env.example`. To activate any program:
+1. Receive partner ID from the program dashboard
+2. Set the env var in `.env` (or Netlify env vars dashboard)
+3. Rebuild the Hugo site — links go live on next nightly cron run
+
+**Swapping IDs takes under 10 minutes per vendor once approvals arrive.**
+
+Current fallback: `?ref=saasltddir` appended to all untracked links (maintains basic analytics visibility).
 
 ---
 
@@ -71,15 +93,20 @@ The `?ref=saasltddir` parameter is appended to all AppSumo links now. This serve
 | Date | Action |
 |------|--------|
 | 2026-03-19 | Code built with placeholder affiliate params |
-| 2026-03-20 | Jaisev applies to Impact.com (AppSumo) + PartnerStack |
-| 2026-03-22 | Expected Impact approval |
-| 2026-03-23 | Swap placeholder IDs with real affiliate tracking |
-| 2026-03-31 | Site live with real affiliate links |
+| 2026-03-24 | AppSumo Impact submitted by Jaisev |
+| 2026-03-24 | PartnerStack REJECTED — migrated to direct programs |
+| 2026-03-24 | Direct program research + code changes complete (Forge) |
+| 2026-03-24 | Jaisev to apply to Kit, monday.com, Apollo.io, Brevo (all same day) |
+| 2026-03-26 | Expected: Kit + Apollo.io approvals (faster programs) |
+| 2026-03-28 | Expected: AppSumo Impact + monday.com approvals |
 
 ---
 
-## Revenue Potential (per pre-build gates report)
+## Revenue Potential
 
-- AppSumo: Up to $50 per referred new customer
-- PartnerStack vendors: 10-50% recurring commissions
-- Target: $800-$3,000/month at 30k monthly visitors
+- AppSumo: Up to $50 per referred new customer (first purchase)
+- monday.com: Up to 100% first-year commission at volume (base 25%)
+- Kit: 50% recurring yr 1 = strong long-term value per subscriber
+- Apollo.io: 15–20% for 12 months per B2B referral
+- Brevo: $100 per paying customer activation
+- Target: $800–$3,000/month at 30k monthly visitors

@@ -2,7 +2,7 @@
 title: "Prooflander : Increasing Your Sales, Leads and Conversions Plus Plan Lifetime Deal — $99"
 description: "What you get in this dealUnlimited CampaignsCustom BrandingAccess to all notificationsUnique Visitors/ MonthUnlimited SitesPowerful AnalyticsIntegrationsPremium 24/7 SupportLifetime Updates and Suppor"
 date: "2026-03-19T16:28:03.576370+00:00"
-lastmod: "2026-03-21T02:06:50.739134+00:00"
+lastmod: "2026-03-25T02:04:37.042270+00:00"
 product_name: "Prooflander : Increasing Your Sales, Leads and Conversions Plus Plan"
 slug: "prooflander-increasing-your-sales-leads-and-conversions-plus-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 50
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/12/prooflander.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.739134+00:00"
-last_updated: "2026-03-21T02:06:50.739134+00:00"
+last_scraped: "2026-03-25T02:04:37.042270+00:00"
+last_updated: "2026-03-25T02:04:37.042270+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need prooflander 
 At **$99 one-time** vs $199 regular price, you're saving **50%** ($100) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Viloud Lifetime Deal — $99"
 description: "Create an online TV channel or livestream for your brand and monetize video content"
 date: "2026-03-19T16:12:19.467971+00:00"
-lastmod: "2026-03-21T02:04:11.370143+00:00"
+lastmod: "2026-03-25T02:01:43.989137+00:00"
 product_name: "Viloud"
 slug: "viloud-lifetime-deal"
 source: "appsumo"
@@ -12,12 +12,12 @@ price_current: 99.0
 price_original: 349.0
 price_currency: "USD"
 discount_pct: 72
-rating: 4.9
-review_count: 230
+rating: 4.89
+review_count: 231
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-Viloud_uuid_2f50aa54-c61e-4cb4-9c86-51bb3a8e979b.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-21T02:04:11.370143+00:00"
-last_updated: "2026-03-21T02:04:11.370143+00:00"
+last_scraped: "2026-03-25T02:01:43.989137+00:00"
+last_updated: "2026-03-25T02:01:43.989137+00:00"
 categories:
   - "Video"
 sources:
@@ -28,7 +28,7 @@ Create an online TV channel or livestream for your brand and monetize video cont
 
 ## Is It Worth It?
 
-**Strong buy.** For video tools, a 4.9/5 star average across 230 verified reviews is exceptional — most products in this category sit around 4.0-4.2 stars. At $99 one-time vs $349/year ($29/month), this deal pays for itself in 3 months and saves you money every month after that. With 230 verified reviews, there's substantial user evidence backing this product. This is one of the strongest lifetime deals we track.
+**Strong buy.** For video tools, a 4.89/5 star average across 231 verified reviews is exceptional — most products in this category sit around 4.0-4.2 stars. At $99 one-time vs $349/year ($29/month), this deal pays for itself in 3 months and saves you money every month after that. With 231 verified reviews, there's substantial user evidence backing this product. This is one of the strongest lifetime deals we track.
 
 
 ## Who Is This For?
@@ -41,7 +41,7 @@ Best for video creators and marketing teams who need viloud capabilities — Cre
 At **$99 one-time** vs $349 regular price, you're saving **72%** ($250) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $29/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:04 UTC_
+_Last updated: 2026-03-25 02:01 UTC_
 
 
 ## Get This Deal
@@ -55,4 +55,3 @@ _Last updated: 2026-03-21 02:04 UTC_
 Looking for similar tools? Check out these deals:
 
 - [reap](/deals/reap-lifetime-deal/) — $79 (95% off)
-- [Mootion](/deals/mootion-lifetime-deal/) — $79 (45% off)

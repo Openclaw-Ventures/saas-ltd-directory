@@ -2,7 +2,7 @@
 title: "Screenrun : Create Videos from Screenshots and Recordings Lifetime Deal — $10"
 description: "Unlimited Video ExportsUnlimited Video DurationAutomatic SubtitlesCustom Watermark Text"
 date: "2026-03-19T16:27:59.976204+00:00"
-lastmod: "2026-03-21T02:06:47.095059+00:00"
+lastmod: "2026-03-25T02:04:33.375402+00:00"
 product_name: "Screenrun : Create Videos from Screenshots and Recordings"
 slug: "screenrun-create-videos-from-screenshots-and-recordings-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 4.33
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2023/04/sr.jpeg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.095059+00:00"
-last_updated: "2026-03-21T02:06:47.095059+00:00"
+last_scraped: "2026-03-25T02:04:33.375402+00:00"
+last_updated: "2026-03-25T02:04:33.375402+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need screenrun : create videos from screenshots
 At **$10 one-time** vs $99 regular price, you're saving **90%** ($89) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

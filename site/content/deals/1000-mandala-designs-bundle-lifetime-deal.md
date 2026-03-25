@@ -2,7 +2,7 @@
 title: "1000+ Mandala Designs Bundle Lifetime Deal — $12"
 description: "Get 1000+ Mandala Designs Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.936104+00:00"
-lastmod: "2026-03-21T02:05:46.420877+00:00"
+lastmod: "2026-03-25T02:03:30.821426+00:00"
 product_name: "1000+ Mandala Designs Bundle"
 slug: "1000-mandala-designs-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 94
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/1000-Mandalas-Main-450x281.png"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.420877+00:00"
-last_updated: "2026-03-21T02:05:46.420877+00:00"
+last_scraped: "2026-03-25T02:03:30.821426+00:00"
+last_updated: "2026-03-25T02:03:30.821426+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 1000+ mandala designs bundle capabilities.
 At **$12 one-time** vs $191 regular price, you're saving **94%** ($179) compared to buying at full price. That's equivalent to paying just 1.0 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

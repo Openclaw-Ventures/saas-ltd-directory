@@ -2,7 +2,7 @@
 title: "DocGPT AI : AI-Powered Assistant For Google Sheets Lifetime Deal — $79"
 description: "Unlimited creditsUnlimited access to featuresNo request limit"
 date: "2026-03-19T16:28:00.127263+00:00"
-lastmod: "2026-03-21T02:06:47.233958+00:00"
+lastmod: "2026-03-25T02:04:33.534340+00:00"
 product_name: "DocGPT AI : AI-Powered Assistant For Google Sheets"
 slug: "docgpt-ai-ai-powered-assistant-for-google-sheets-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 74
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/08/DocGPT-AI-Feature-Image-1.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.233958+00:00"
-last_updated: "2026-03-21T02:06:47.233958+00:00"
+last_scraped: "2026-03-25T02:04:33.534340+00:00"
+last_updated: "2026-03-25T02:04:33.534340+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -40,7 +40,7 @@ Best for professionals leveraging AI for automation who need docgpt ai : ai-powe
 At **$79 one-time** vs $299 regular price, you're saving **74%** ($220) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Listdom Lifetime Deal — $59"
 description: "Get an all-in-one WordPress directory plugin with Elementor- and Divi-ready layouts, maps, search, and monetization"
 date: "2026-03-19T16:12:19.479295+00:00"
-lastmod: "2026-03-21T02:04:11.549237+00:00"
+lastmod: "2026-03-25T02:01:44.139750+00:00"
 product_name: "Listdom"
 slug: "listdom-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 1
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/listdom-as-Header-Listdom-16_9.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-21T02:04:11.549237+00:00"
-last_updated: "2026-03-21T02:04:11.549237+00:00"
+last_scraped: "2026-03-25T02:01:44.139750+00:00"
+last_updated: "2026-03-25T02:01:44.139750+00:00"
 categories:
   - "Web builders"
 sources:
@@ -41,7 +41,7 @@ Best for web developers and designers building sites who need listdom capabiliti
 At **$59 one-time** vs $249 regular price, you're saving **76%** ($190) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $21/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:04 UTC_
+_Last updated: 2026-03-25 02:01 UTC_
 
 
 ## Get This Deal

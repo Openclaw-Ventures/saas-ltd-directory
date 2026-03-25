@@ -2,7 +2,7 @@
 title: "Two-Factor Wordpress Plugins Lifetime Deal"
 description: "Two-Factor WordPress PluginsUse the “Two-Factor Options” section under “Users” → “Your Profile” to enable and configure one or multiple two-factor authentication providers for your account:Email codes"
 date: "2026-03-19T16:28:04.227742+00:00"
-lastmod: "2026-03-21T02:06:51.429173+00:00"
+lastmod: "2026-03-25T02:04:37.710638+00:00"
 product_name: "Two-Factor Wordpress Plugins"
 slug: "two-factor-wordpress-plugins-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 100
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/10/feature-3-2.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.429173+00:00"
-last_updated: "2026-03-21T02:06:51.429173+00:00"
+last_scraped: "2026-03-25T02:04:37.710638+00:00"
+last_updated: "2026-03-25T02:04:37.710638+00:00"
 sources:
   - "dealmirror"
 ---
@@ -33,7 +33,7 @@ Two-Factor WordPress PluginsUse the “Two-Factor Options” section under “Us
 Best for businesses looking for specialized software tools who need two-factor wordpress plugins capabilities.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

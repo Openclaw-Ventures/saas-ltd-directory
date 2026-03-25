@@ -2,7 +2,7 @@
 title: "Sendgomail Reseller Pro Plan Lifetime Deal — $799"
 description: "50 ACCOUNTS10k Subscribers3 SMTP Servers1 Sending Domain"
 date: "2026-03-19T16:28:00.176226+00:00"
-lastmod: "2026-03-21T02:06:47.281676+00:00"
+lastmod: "2026-03-25T02:04:33.602464+00:00"
 product_name: "Sendgomail Reseller Pro Plan"
 slug: "sendgomail-reseller-pro-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 60
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/07/Sendgomail-Reseller-Plan-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.281676+00:00"
-last_updated: "2026-03-21T02:06:47.281676+00:00"
+last_scraped: "2026-03-25T02:04:33.602464+00:00"
+last_updated: "2026-03-25T02:04:33.602464+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need sendgomail r
 At **$799 one-time** vs $1999 regular price, you're saving **60%** ($1200) compared to buying at full price. That's equivalent to paying just 66.6 months of the regular $167/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

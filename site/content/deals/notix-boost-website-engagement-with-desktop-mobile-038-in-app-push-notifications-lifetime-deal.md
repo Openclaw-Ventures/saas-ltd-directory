@@ -2,7 +2,7 @@
 title: "Notix : Boost Website Engagement with Desktop, Mobile &#038; In-App Push Notifications Lifetime Deal — $99"
 description: "What you get in this dealLifetime AccessUp to150kSubscribersUnlimited push notificationHurry! Only99License are left"
 date: "2026-03-19T16:28:01.486367+00:00"
-lastmod: "2026-03-21T02:06:48.585254+00:00"
+lastmod: "2026-03-25T02:04:34.757354+00:00"
 product_name: "Notix : Boost Website Engagement with Desktop, Mobile &#038; In-App Push Notifications"
 slug: "notix-boost-website-engagement-with-desktop-mobile-038-in-app-push-notifications-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2023/09/notix-feature.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.585254+00:00"
-last_updated: "2026-03-21T02:06:48.585254+00:00"
+last_scraped: "2026-03-25T02:04:34.757354+00:00"
+last_updated: "2026-03-25T02:04:34.757354+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need notix : boos
 At **$99 one-time** vs $499 regular price, you're saving **80%** ($400) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

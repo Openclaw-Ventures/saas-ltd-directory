@@ -2,7 +2,7 @@
 title: "Sendgomail : All-in-One Email Marketing Solution 99 Plan Lifetime Deal — $99"
 description: "What you get in this dealUnlimited Emails10k Subscribers3 SMTP Servers1-Sending DomainUnlimited ListsUnlimited CampaignsUnlimited AutomationUnlimited tags & SegmentsHurry!Only500License are left"
 date: "2026-03-19T16:28:04.397360+00:00"
-lastmod: "2026-03-21T02:06:51.617758+00:00"
+lastmod: "2026-03-25T02:04:37.925200+00:00"
 product_name: "Sendgomail : All-in-One Email Marketing Solution 99 Plan"
 slug: "sendgomail-all-in-one-email-marketing-solution-99-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 34
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/07/sendgomail.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.617758+00:00"
-last_updated: "2026-03-21T02:06:51.617758+00:00"
+last_scraped: "2026-03-25T02:04:37.925200+00:00"
+last_updated: "2026-03-25T02:04:37.925200+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need sendgomail :
 At **$99 one-time** vs $149 regular price, you're saving **34%** ($50) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

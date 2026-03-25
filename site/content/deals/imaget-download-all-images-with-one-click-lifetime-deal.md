@@ -2,7 +2,7 @@
 title: "Imaget : Download All Images With One Click Lifetime Deal — $25"
 description: "One PCPerpetual Full-Featured License"
 date: "2026-03-19T16:28:00.365362+00:00"
-lastmod: "2026-03-21T02:06:47.456083+00:00"
+lastmod: "2026-03-25T02:04:33.795259+00:00"
 product_name: "Imaget : Download All Images With One Click"
 slug: "imaget-download-all-images-with-one-click-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2024/06/Imaget-Featured-Image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.456083+00:00"
-last_updated: "2026-03-21T02:06:47.456083+00:00"
+last_scraped: "2026-03-25T02:04:33.795259+00:00"
+last_updated: "2026-03-25T02:04:33.795259+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need imaget : download all images with one click ca
 At **$25 one-time** vs $70 regular price, you're saving **64%** ($45) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

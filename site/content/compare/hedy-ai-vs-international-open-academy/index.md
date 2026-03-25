@@ -19,7 +19,7 @@ Comparing two productivity lifetime deals to help you make the right choice.
 | **LTD Price** | $179 | $179 |
 | **Regular Price** | $299 | $399 |
 | **Discount** | 40% | 55% |
-| **Rating** | 4.78/5 (180 reviews) | No ratings yet |
+| **Rating** | 4.79/5 (185 reviews) | No ratings yet |
 | **Platform** | Appsumo | Dealify |
 | **Category** | Productivity | Productivity |
 

@@ -2,7 +2,7 @@
 title: "SocialPlanner : The Ultimate Social Media Management Tool Lifetime Deal — $32"
 description: "What you get in this dealLifetime AccessProjectsAI ImagesAI Text Content CreatorHurry! Only199Licence are left."
 date: "2026-03-19T16:28:00.485787+00:00"
-lastmod: "2026-03-21T02:06:47.589099+00:00"
+lastmod: "2026-03-25T02:04:33.917410+00:00"
 product_name: "SocialPlanner : The Ultimate Social Media Management Tool"
 slug: "socialplanner-the-ultimate-social-media-management-tool-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 68
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/SocialPlanner-feature-2.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.589099+00:00"
-last_updated: "2026-03-21T02:06:47.589099+00:00"
+last_scraped: "2026-03-25T02:04:33.917410+00:00"
+last_updated: "2026-03-25T02:04:33.917410+00:00"
 categories:
   - "Deals under $39"
 sources:
@@ -40,7 +40,7 @@ Best for deals under $39 users who need socialplanner : the ultimate social medi
 At **$32 one-time** vs $99 regular price, you're saving **68%** ($67) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

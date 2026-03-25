@@ -2,7 +2,7 @@
 title: "200+ Key Lessons from Movies and Books Lifetime Deal — $19"
 description: "What you get in this dealKey Lessons from Movies and BooksUnlock the power of storytellingReady to use canva templatesHurry! Only99Products are left"
 date: "2026-03-19T16:28:01.422221+00:00"
-lastmod: "2026-03-21T02:06:48.500758+00:00"
+lastmod: "2026-03-25T02:04:34.700472+00:00"
 product_name: "200+ Key Lessons from Movies and Books"
 slug: "200-key-lessons-from-movies-and-books-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 72
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/09/200-Key-Lessons-from-Movies-and-Books.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.500758+00:00"
-last_updated: "2026-03-21T02:06:48.500758+00:00"
+last_scraped: "2026-03-25T02:04:34.700472+00:00"
+last_updated: "2026-03-25T02:04:34.700472+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need 200+ key lessons from movies and books cap
 At **$19 one-time** vs $69 regular price, you're saving **72%** ($50) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

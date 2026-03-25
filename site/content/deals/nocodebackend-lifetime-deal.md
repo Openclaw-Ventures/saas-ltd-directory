@@ -2,7 +2,7 @@
 title: "NoCodeBackend Lifetime Deal — $79"
 description: "The automatic backend for apps built with AI coding tools"
 date: "2026-03-19T16:12:19.504419+00:00"
-lastmod: "2026-03-21T02:04:11.603760+00:00"
+lastmod: "2026-03-25T02:01:44.135421+00:00"
 product_name: "NoCodeBackend"
 slug: "nocodebackend-lifetime-deal"
 source: "appsumo"
@@ -12,12 +12,12 @@ price_current: 79.0
 price_original: 688.0
 price_currency: "USD"
 discount_pct: 89
-rating: 4.81
-review_count: 116
+rating: 4.8
+review_count: 117
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/ncbh.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-21T02:04:11.603760+00:00"
-last_updated: "2026-03-21T02:04:11.603760+00:00"
+last_scraped: "2026-03-25T02:01:44.135421+00:00"
+last_updated: "2026-03-25T02:01:44.135421+00:00"
 categories:
   - "Native app builders"
 sources:
@@ -28,7 +28,7 @@ The automatic backend for apps built with AI coding tools
 
 ## Is It Worth It?
 
-**Strong buy.** For native app builders tools, a 4.81/5 star average across 116 verified reviews is exceptional — most products in this category sit around 4.0-4.2 stars. At $79 one-time vs $688/year ($57/month), this deal pays for itself in 1 months and saves you money every month after that. With 116 verified reviews, there's a meaningful sample of real user feedback. This is one of the strongest lifetime deals we track.
+**Strong buy.** For native app builders tools, a 4.8/5 star average across 117 verified reviews is exceptional — most products in this category sit around 4.0-4.2 stars. At $79 one-time vs $688/year ($57/month), this deal pays for itself in 1 months and saves you money every month after that. With 117 verified reviews, there's a meaningful sample of real user feedback. This is one of the strongest lifetime deals we track.
 
 
 ## Who Is This For?
@@ -41,7 +41,7 @@ Best for native app builders users who need nocodebackend capabilities — The a
 At **$79 one-time** vs $688 regular price, you're saving **89%** ($609) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $57/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:04 UTC_
+_Last updated: 2026-03-25 02:01 UTC_
 
 
 ## Get This Deal

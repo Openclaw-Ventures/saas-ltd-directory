@@ -2,7 +2,7 @@
 title: "Ebookany: Convert any Web Content into Your Digital E-Book Collection Lifetime Deal — $69"
 description: "Unlimited ebooksUnlimited chaptersConvert ebooks to multiple formatsSend documents to Kindle and email"
 date: "2026-03-19T16:27:59.786190+00:00"
-lastmod: "2026-03-21T02:06:46.920325+00:00"
+lastmod: "2026-03-25T02:04:33.187262+00:00"
 product_name: "Ebookany: Convert any Web Content into Your Digital E-Book Collection"
 slug: "ebookany-convert-any-web-content-into-your-digital-e-book-collection-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2025/02/Ebookany-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.920325+00:00"
-last_updated: "2026-03-21T02:06:46.920325+00:00"
+last_scraped: "2026-03-25T02:04:33.187262+00:00"
+last_updated: "2026-03-25T02:04:33.187262+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need ebookany: convert any web content into your di
 At **$69 one-time** vs $149 regular price, you're saving **54%** ($80) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

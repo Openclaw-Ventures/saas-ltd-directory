@@ -13,7 +13,7 @@ Find the best SEO tool lifetime deals. Stop paying monthly for keyword research,
 
 ## ⭐ Top Picks
 
-1. **[Visby](/deals/visby-lifetime-deal/)** — $59 (94% off) — 5.0/5 (34 reviews)
+1. **[Visby](/deals/visby-lifetime-deal/)** — $59 (94% off) — 5.0/5 (48 reviews)
 2. **[SiteGuru](/deals/siteguru-lifetime-deal/)** — $79 (87% off) — 4.95/5 (517 reviews)
 3. **[Blazly](/deals/blazly-lifetime-deal/)** — $79 (74% off) — 4.9/5 (10 reviews)
 

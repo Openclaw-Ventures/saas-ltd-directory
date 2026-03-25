@@ -2,7 +2,7 @@
 title: "QR-Maky: QR Codes Generator (Reseller) Lifetime Deal — $499"
 description: "Unlimited QR codesUnlimited scansUnlimited stat retentionUnlimited Pixel tracking"
 date: "2026-03-19T16:28:00.280867+00:00"
-lastmod: "2026-03-21T02:06:47.378289+00:00"
+lastmod: "2026-03-25T02:04:33.705199+00:00"
 product_name: "QR-Maky: QR Codes Generator (Reseller)"
 slug: "qr-maky-qr-codes-generator-reseller-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 29
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/05/QR-Maky.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.378289+00:00"
-last_updated: "2026-03-21T02:06:47.378289+00:00"
+last_scraped: "2026-03-25T02:04:33.705199+00:00"
+last_updated: "2026-03-25T02:04:33.705199+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need qr-maky: qr codes generator (reseller) cap
 At **$499 one-time** vs $699 regular price, you're saving **29%** ($200) compared to buying at full price. That's equivalent to paying just 41.6 months of the regular $58/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

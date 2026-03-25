@@ -2,7 +2,7 @@
 title: "GroupBoss Lifetime Deal — $87"
 description: "What you get in this dealUnlimited Facebook groupUnlimited AutoresponderSupport over the phoneSaves all members answerExport email for custom audienceIn-depth search filtersFree trainingAccess to Excl"
 date: "2026-03-19T16:28:05.257405+00:00"
-lastmod: "2026-03-21T02:06:52.492249+00:00"
+lastmod: "2026-03-25T02:04:38.645829+00:00"
 product_name: "GroupBoss"
 slug: "groupboss-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 70
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2020/04/Dealmirror-Lifetime-Deal-GroupBoss-Featured-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.492249+00:00"
-last_updated: "2026-03-21T02:06:52.492249+00:00"
+last_scraped: "2026-03-25T02:04:38.645829+00:00"
+last_updated: "2026-03-25T02:04:38.645829+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need groupboss ca
 At **$87 one-time** vs $287 regular price, you're saving **70%** ($200) compared to buying at full price. That's equivalent to paying just 7.2 months of the regular $24/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

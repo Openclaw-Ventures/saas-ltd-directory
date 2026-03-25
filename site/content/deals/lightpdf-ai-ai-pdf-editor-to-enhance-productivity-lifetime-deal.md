@@ -2,7 +2,7 @@
 title: "LightPDF AI: AI PDF Editor to Enhance Productivity Lifetime Deal — $110"
 description: "Edit & Convert PDFPage ManagementForms/Merge/Compress/Protect/PrintCloud & Share"
 date: "2026-03-19T16:28:00.963453+00:00"
-lastmod: "2026-03-21T02:06:48.042171+00:00"
+lastmod: "2026-03-25T02:04:34.320021+00:00"
 product_name: "LightPDF AI: AI PDF Editor to Enhance Productivity"
 slug: "lightpdf-ai-ai-pdf-editor-to-enhance-productivity-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2024/04/Light-pdf-banner-768x657-1.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.042171+00:00"
-last_updated: "2026-03-21T02:06:48.042171+00:00"
+last_scraped: "2026-03-25T02:04:34.320021+00:00"
+last_updated: "2026-03-25T02:04:34.320021+00:00"
 categories:
   - "Adobe Acrobat"
 sources:
@@ -41,7 +41,7 @@ Best for adobe acrobat users who need lightpdf ai: ai pdf editor to enhance prod
 At **$110 one-time** vs $399 regular price, you're saving **72%** ($289) compared to buying at full price. That's equivalent to paying just 9.2 months of the regular $33/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

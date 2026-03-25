@@ -2,7 +2,7 @@
 title: "MetaSurvey : &#8220;Tinder-like&#8221; Surveys Lifetime Deal — $78"
 description: "What you get in this dealUnlimited “Tinder-like” surveysUnlimited questionsSecure Surveys (SSL/HTTPS)Embedded WidgetHurry! Only185Licence are left"
 date: "2026-03-19T16:28:03.064825+00:00"
-lastmod: "2026-03-21T02:06:50.309470+00:00"
+lastmod: "2026-03-25T02:04:36.618421+00:00"
 product_name: "MetaSurvey : &#8220;Tinder-like&#8221; Surveys"
 slug: "metasurvey-8220tinder-like8221-surveys-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2022/11/metasurvey.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.309470+00:00"
-last_updated: "2026-03-21T02:06:50.309470+00:00"
+last_scraped: "2026-03-25T02:04:36.618421+00:00"
+last_updated: "2026-03-25T02:04:36.618421+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need metasurvey :
 At **$78 one-time** vs $864 regular price, you're saving **91%** ($786) compared to buying at full price. That's equivalent to paying just 6.5 months of the regular $72/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

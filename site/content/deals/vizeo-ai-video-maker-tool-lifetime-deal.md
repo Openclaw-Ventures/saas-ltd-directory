@@ -2,7 +2,7 @@
 title: "Vizeo : AI Video Maker Tool Lifetime Deal — $197"
 description: "What you get in this dealUnlimited Voice Calling10 Minutes Video generation/month100k Characters/month600+ Voices"
 date: "2026-03-19T16:28:02.007266+00:00"
-lastmod: "2026-03-21T02:06:49.063937+00:00"
+lastmod: "2026-03-25T02:04:35.193389+00:00"
 product_name: "Vizeo : AI Video Maker Tool"
 slug: "vizeo-ai-video-maker-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2023/07/Vizeo-feature2-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.063937+00:00"
-last_updated: "2026-03-21T02:06:49.063937+00:00"
+last_scraped: "2026-03-25T02:04:35.193389+00:00"
+last_updated: "2026-03-25T02:04:35.193389+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need vizeo : ai v
 At **$197 one-time** vs $499 regular price, you're saving **61%** ($302) compared to buying at full price. That's equivalent to paying just 16.4 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

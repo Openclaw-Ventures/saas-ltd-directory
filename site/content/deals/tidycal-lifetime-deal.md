@@ -2,7 +2,7 @@
 title: "TidyCal Lifetime Deal — $29"
 description: "Book more customizable meetings using this powerful scheduling software with calendar integrations"
 date: "2026-03-19T16:12:19.298038+00:00"
-lastmod: "2026-03-21T02:04:11.362337+00:00"
+lastmod: "2026-03-25T02:01:43.860164+00:00"
 product_name: "TidyCal"
 slug: "tidycal-lifetime-deal"
 source: "appsumo"
@@ -13,11 +13,11 @@ price_original: 144.0
 price_currency: "USD"
 discount_pct: 80
 rating: 4.38
-review_count: 876
+review_count: 878
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-TidyCal_-_16_9_uuid_f96cf889-43d2-4d7f-a4a8-e03d9c08b7b5.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-21T02:04:11.362337+00:00"
-last_updated: "2026-03-21T02:04:11.362337+00:00"
+last_scraped: "2026-03-25T02:01:43.860164+00:00"
+last_updated: "2026-03-25T02:01:43.860164+00:00"
 categories:
   - "Calendar & scheduling"
 sources:
@@ -28,7 +28,7 @@ Book more customizable meetings using this powerful scheduling software with cal
 
 ## Is It Worth It?
 
-**Solid deal.** TidyCal holds a 4.38/5 average in the calendar & scheduling category. At $29 one-time vs $144/year ($12/month), this deal pays for itself in 2 months and saves you money every month after that. With 876 verified reviews, there's substantial user evidence backing this product. A reliable option if you need calendar & scheduling capabilities without recurring costs.
+**Solid deal.** TidyCal holds a 4.38/5 average in the calendar & scheduling category. At $29 one-time vs $144/year ($12/month), this deal pays for itself in 2 months and saves you money every month after that. With 878 verified reviews, there's substantial user evidence backing this product. A reliable option if you need calendar & scheduling capabilities without recurring costs.
 
 
 ## Who Is This For?
@@ -41,7 +41,7 @@ Best for calendar & scheduling users who need tidycal capabilities — Book more
 At **$29 one-time** vs $144 regular price, you're saving **80%** ($115) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:04 UTC_
+_Last updated: 2026-03-25 02:01 UTC_
 
 
 ## Get This Deal
@@ -55,3 +55,4 @@ _Last updated: 2026-03-21 02:04 UTC_
 Looking for similar tools? Check out these deals:
 
 - [Lunacal](/deals/lunacal-lifetime-deal/) — $59 (84% off)
+- [Trafft](/deals/trafft-lifetime-deal/) — $89 (84% off)

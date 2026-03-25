@@ -2,7 +2,7 @@
 title: "Contact Concert : Effortless Web Push Notifications tool for Seamless Audience Engagement Lifetime Deal — $89"
 description: "Automation withUp to 500,000 total subscribersUnlimited websitesPush notifications"
 date: "2026-03-19T16:27:59.992679+00:00"
-lastmod: "2026-03-21T02:06:47.109283+00:00"
+lastmod: "2026-03-25T02:04:33.392778+00:00"
 product_name: "Contact Concert : Effortless Web Push Notifications tool for Seamless Audience Engagement"
 slug: "contact-concert-effortless-web-push-notifications-tool-for-seamless-audience-engagement-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2024/11/Contact-Concert-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.109283+00:00"
-last_updated: "2026-03-21T02:06:47.109283+00:00"
+last_scraped: "2026-03-25T02:04:33.392778+00:00"
+last_updated: "2026-03-25T02:04:33.392778+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need contact concert : effortless web push notifica
 At **$89 one-time** vs $267 regular price, you're saving **67%** ($178) compared to buying at full price. That's equivalent to paying just 7.4 months of the regular $22/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "280+ Pencil Illustrations Midjourney Prompts Lifetime Deal — $7"
 description: "280+ Pencil Illustrations Midjourney Prompts"
 date: "2026-03-19T16:28:02.552735+00:00"
-lastmod: "2026-03-21T02:06:49.665037+00:00"
+lastmod: "2026-03-25T02:04:35.904262+00:00"
 product_name: "280+ Pencil Illustrations Midjourney Prompts"
 slug: "280-pencil-illustrations-midjourney-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/280-Pencil-Illustrations-Midjourney-Prompts-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.665037+00:00"
-last_updated: "2026-03-21T02:06:49.665037+00:00"
+last_scraped: "2026-03-25T02:04:35.904262+00:00"
+last_updated: "2026-03-25T02:04:35.904262+00:00"
 categories:
   - "Design"
 sources:
@@ -40,7 +40,7 @@ Best for design users who need 280+ pencil illustrations midjourney prompts capa
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "LinkSolo : Chrome LinkedIn App for B2B and B2C Leads Lifetime Deal — $59"
 description: "What you get in this deal1500 Per Month Contact View LimitVerified Email IdsSaved ContactsAPI AccessExportTeam60 Days Money-Back GuaranteeHurry! Only408Licence are left"
 date: "2026-03-19T16:28:04.038270+00:00"
-lastmod: "2026-03-21T02:06:51.202377+00:00"
+lastmod: "2026-03-25T02:04:37.510469+00:00"
 product_name: "LinkSolo : Chrome LinkedIn App for B2B and B2C Leads"
 slug: "linksolo-chrome-linkedin-app-for-b2b-and-b2c-leads-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2021/11/Leadsolo-feature.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.202377+00:00"
-last_updated: "2026-03-21T02:06:51.202377+00:00"
+last_scraped: "2026-03-25T02:04:37.510469+00:00"
+last_updated: "2026-03-25T02:04:37.510469+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need linksolo : c
 At **$59 one-time** vs $199 regular price, you're saving **70%** ($140) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

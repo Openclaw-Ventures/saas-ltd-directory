@@ -2,7 +2,7 @@
 title: "Landing Page Builder for Notion Lifetime Deal — $49"
 description: "What you get in this deal50 Beautiful ComponentsUnlimited WebpagesNo Subscription RequiredHurry! Only197Licence are left"
 date: "2026-03-19T16:28:03.640499+00:00"
-lastmod: "2026-03-21T02:06:50.794506+00:00"
+lastmod: "2026-03-25T02:04:37.094300+00:00"
 product_name: "Landing Page Builder for Notion"
 slug: "landing-page-builder-for-notion-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/03/Landing-page-builder-lifetime-deal-feature-image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.794506+00:00"
-last_updated: "2026-03-21T02:06:50.794506+00:00"
+last_scraped: "2026-03-25T02:04:37.094300+00:00"
+last_updated: "2026-03-25T02:04:37.094300+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need landing page
 At **$49 one-time** vs $100 regular price, you're saving **51%** ($51) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

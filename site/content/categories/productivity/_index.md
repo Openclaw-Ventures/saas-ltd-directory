@@ -2,20 +2,20 @@
 title: "Best Productivity Lifetime Deals (2026)"
 description: "Looking for productivity lifetime deals? Here are the best one-time payment tools to boost your team's output in 2026."
 category: "Productivity"
-deal_count: 37
+deal_count: 40
 ---
 
 # Best Productivity Lifetime Deals
 
 Looking for productivity lifetime deals? Here are the best one-time payment tools to boost your team's output in 2026.
 
-**37 deals found** across AppSumo, DealFuel, DealMirror, and Dealify.
+**40 deals found** across AppSumo, DealFuel, DealMirror, and Dealify.
 
 ## ⭐ Top Picks
 
-1. **[Shareables](/deals/shareables-lifetime-deal/)** — $59 (39% off) — 5.0/5 (35 reviews)
+1. **[Shareables](/deals/shareables-lifetime-deal/)** — $59 (39% off) — 5.0/5 (36 reviews)
 2. **[Documentation.AI](/deals/documentationai-lifetime-deal/)** — $69 (80% off) — 5.0/5 (14 reviews)
-3. **[Journal it!](/deals/journal-it-lifetime-deal/)** — $39 (61% off) — 5.0/5 (8 reviews)
+3. **[TinyCommand](/deals/tinycommand-lifetime-deal/)** — $79 (66% off) — 5.0/5 (3 reviews)
 
 ## All Deals
 
@@ -23,12 +23,15 @@ Looking for productivity lifetime deals? Here are the best one-time payment tool
 |------|-------|----------|----------|
 | [Shareables](/deals/shareables-lifetime-deal/) | $59 | 39% off | Appsumo |
 | [Documentation.AI](/deals/documentationai-lifetime-deal/) | $69 | 80% off | Appsumo |
+| [TinyCommand](/deals/tinycommand-lifetime-deal/) | $79 | 66% off | Appsumo |
+| [remio](/deals/remio-lifetime-deal/) | $69 | 34% off | Appsumo |
 | [Journal it!](/deals/journal-it-lifetime-deal/) | $39 | 61% off | Appsumo |
 | [BugSmash](/deals/bugsmash-lifetime-deal/) | $79 | 67% off | Appsumo |
 | [TeamPal](/deals/teampal-lifetime-deal/) | $69 | 96% off | Appsumo |
 | [Hedy AI](/deals/hedy-ai-lifetime-deal/) | $179 | 40% off | Appsumo |
-| [Awaz](/deals/awaz-lifetime-deal/) | $49 | 95% off | Appsumo |
+| [Robomotion RPA](/deals/robomotion-rpa-lifetime-deal/) | $119 | 94% off | Appsumo |
 | [Agency Handy](/deals/agency-handy-lifetime-deal/) | $74 | 81% off | Appsumo |
+| [ByDesign](/deals/bydesign-lifetime-deal/) | $79 | 68% off | Appsumo |
 | [TubeOnAI](/deals/tubeonai-lifetime-deal/) | $59 | 45% off | Appsumo |
 | [First Book ai](/deals/first-book-ai-lifetime-deal/) | $49 | 54% off | Appsumo |
 | [BreezeDoc](/deals/breezedoc-lifetime-deal/) | $19 | 89% off | Appsumo |

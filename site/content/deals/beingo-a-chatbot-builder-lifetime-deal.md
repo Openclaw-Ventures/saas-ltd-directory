@@ -2,7 +2,7 @@
 title: "Beingo : A Chatbot Builder Lifetime Deal — $59"
 description: "What you get in this deal3 Bots3 Users3,000 ConversationsWordPress PluginWeb EmbeddingReporting & AnalyticsEmail NotificationsHurry! Only0Licence are left"
 date: "2026-03-19T16:28:04.950621+00:00"
-lastmod: "2026-03-21T02:06:52.215171+00:00"
+lastmod: "2026-03-25T02:04:38.404368+00:00"
 product_name: "Beingo : A Chatbot Builder"
 slug: "beingo-a-chatbot-builder-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 9
 image: "https://dealmirror.com/wp-content/uploads/2020/09/DealMirror-Lifetime-Deal-Beingo-Featured-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.215171+00:00"
-last_updated: "2026-03-21T02:06:52.215171+00:00"
+last_scraped: "2026-03-25T02:04:38.404368+00:00"
+last_updated: "2026-03-25T02:04:38.404368+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need beingo : a c
 At **$59 one-time** vs $3452 regular price, you're saving **98%** ($3393) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $288/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

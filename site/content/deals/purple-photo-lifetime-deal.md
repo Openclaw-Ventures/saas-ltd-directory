@@ -2,7 +2,7 @@
 title: "Purple Photo Lifetime Deal — $59"
 description: "Create Awesome Screenshots or Social Media Posts in a Few Steps!With Purple Photo’s helpful tools, you can effortlesslyenhance your screenshotsand images, giving your posts a polished look"
 date: "2026-03-19T16:26:52.928438+00:00"
-lastmod: "2026-03-21T02:06:55.096388+00:00"
+lastmod: "2026-03-25T02:04:41.280259+00:00"
 product_name: "Purple Photo"
 slug: "purple-photo-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 25
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/purplephoto1_jpg.webp?v=1733000630"
 deal_active: true
-last_scraped: "2026-03-21T02:06:55.096388+00:00"
-last_updated: "2026-03-21T02:06:55.096388+00:00"
+last_scraped: "2026-03-25T02:04:41.280259+00:00"
+last_updated: "2026-03-25T02:04:41.280259+00:00"
 categories:
   - "Creative"
 sources:
@@ -39,7 +39,7 @@ Best for designers and creative professionals who need purple photo capabilities
 At **$59 one-time** vs $79 regular price, you're saving **25%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

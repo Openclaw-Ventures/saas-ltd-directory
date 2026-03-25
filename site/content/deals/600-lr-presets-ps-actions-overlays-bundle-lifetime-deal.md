@@ -2,7 +2,7 @@
 title: "600+ Lr Presets, PS Actions & Overlays Bundle Lifetime Deal — $29"
 description: "Get 600+ Lr Presets, PS Actions & Overlays Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.556175+00:00"
-lastmod: "2026-03-21T02:05:46.042309+00:00"
+lastmod: "2026-03-25T02:03:30.440090+00:00"
 product_name: "600+ Lr Presets, PS Actions & Overlays Bundle"
 slug: "600-lr-presets-ps-actions-overlays-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 75
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/600-Lightroom-Presets-Photoshop-Actions-Overlays-Bundle-feature-Image-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.042309+00:00"
-last_updated: "2026-03-21T02:05:46.042309+00:00"
+last_scraped: "2026-03-25T02:03:30.440090+00:00"
+last_updated: "2026-03-25T02:03:30.440090+00:00"
 categories:
   - "Photoshop Actions"
 sources:
@@ -38,7 +38,7 @@ Best for photoshop actions users who need 600+ lr presets, ps actions & overlays
 At **$29 one-time** vs $116 regular price, you're saving **75%** ($87) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

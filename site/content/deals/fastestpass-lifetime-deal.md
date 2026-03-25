@@ -2,7 +2,7 @@
 title: "FastestPass Lifetime Deal — $30"
 description: "Looking for a simpler way to secure your digital world?MeetFastestPass– the password manager that turns online chaos into effortless control"
 date: "2026-03-19T16:26:52.662824+00:00"
-lastmod: "2026-03-21T02:06:54.816234+00:00"
+lastmod: "2026-03-25T02:04:40.912366+00:00"
 product_name: "FastestPass"
 slug: "fastestpass-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 58
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/FastestPass.png?v=1756215109"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.816234+00:00"
-last_updated: "2026-03-21T02:06:54.816234+00:00"
+last_scraped: "2026-03-25T02:04:40.912366+00:00"
+last_updated: "2026-03-25T02:04:40.912366+00:00"
 categories:
   - "Web & Hosting"
 sources:
@@ -39,7 +39,7 @@ Best for website owners and webmasters who need fastestpass capabilities — Loo
 At **$30 one-time** vs $72 regular price, you're saving **58%** ($42) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

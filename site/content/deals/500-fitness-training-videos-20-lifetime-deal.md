@@ -2,7 +2,7 @@
 title: "500 Fitness Training Videos 2.0 Lifetime Deal — $14"
 description: "What you get in this dealGet in shape with 500 exercise videosSuitable for all fitness levelsFit your schedule with different durationsHigh-quality HD video tutorialsHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.320591+00:00"
-lastmod: "2026-03-21T02:06:49.471543+00:00"
+lastmod: "2026-03-25T02:04:35.665263+00:00"
 product_name: "500 Fitness Training Videos 2.0"
 slug: "500-fitness-training-videos-20-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 71
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/yoga-4.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.471543+00:00"
-last_updated: "2026-03-21T02:06:49.471543+00:00"
+last_scraped: "2026-03-25T02:04:35.665263+00:00"
+last_updated: "2026-03-25T02:04:35.665263+00:00"
 categories:
   - "Creative Resources"
 sources:
@@ -40,7 +40,7 @@ Best for creative resources users who need 500 fitness training videos 2.0 capab
 At **$14 one-time** vs $49 regular price, you're saving **71%** ($35) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

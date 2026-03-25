@@ -2,7 +2,7 @@
 title: "Branalyzer Lifetime Deal — $49"
 description: "Branalyzeris the AI-base all-in-one Brand Analysis Software"
 date: "2026-03-19T16:26:52.773297+00:00"
-lastmod: "2026-03-21T02:06:54.929961+00:00"
+lastmod: "2026-03-25T02:04:41.080048+00:00"
 product_name: "Branalyzer"
 slug: "branalyzer-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/branalyzer1.webp?v=1731130955"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.929961+00:00"
-last_updated: "2026-03-21T02:06:54.929961+00:00"
+last_scraped: "2026-03-25T02:04:41.080048+00:00"
+last_updated: "2026-03-25T02:04:41.080048+00:00"
 categories:
   - "SEO"
 sources:
@@ -39,7 +39,7 @@ Best for digital marketers and SEO professionals who need branalyzer capabilitie
 At **$49 one-time** vs $468 regular price, you're saving **90%** ($419) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $39/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

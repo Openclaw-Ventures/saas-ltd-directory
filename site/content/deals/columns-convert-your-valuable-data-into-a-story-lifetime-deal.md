@@ -2,7 +2,7 @@
 title: "Columns : Convert Your Valuable Data Into A Story Lifetime Deal — $59"
 description: "What you get in this dealUnlimited Data ConnectionsUnlimited Visual SavingUnlimited Story PublishingUnlimited App Building50 GB Cloud Storage60-days money-back guaranteeHurry! Only74Licence are left"
 date: "2026-03-19T16:28:03.316010+00:00"
-lastmod: "2026-03-21T02:06:50.546161+00:00"
+lastmod: "2026-03-25T02:04:36.846615+00:00"
 product_name: "Columns : Convert Your Valuable Data Into A Story"
 slug: "columns-convert-your-valuable-data-into-a-story-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/07/Columns-Lifetime-Deal-Feature-Image-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.546161+00:00"
-last_updated: "2026-03-21T02:06:50.546161+00:00"
+last_scraped: "2026-03-25T02:04:36.846615+00:00"
+last_updated: "2026-03-25T02:04:36.846615+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need columns : co
 At **$59 one-time** vs $228 regular price, you're saving **74%** ($169) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $19/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

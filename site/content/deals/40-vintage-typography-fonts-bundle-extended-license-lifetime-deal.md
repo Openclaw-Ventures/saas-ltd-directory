@@ -2,7 +2,7 @@
 title: "40 Vintage Typography Fonts Bundle | Extended License Lifetime Deal — $5"
 description: "Get 40 Vintage Typography Fonts Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.114097+00:00"
-lastmod: "2026-03-21T02:05:46.646480+00:00"
+lastmod: "2026-03-25T02:03:30.994421+00:00"
 product_name: "40 Vintage Typography Fonts Bundle | Extended License"
 slug: "40-vintage-typography-fonts-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 98
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/preview-9-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.646480+00:00"
-last_updated: "2026-03-21T02:05:46.646480+00:00"
+last_scraped: "2026-03-25T02:03:30.994421+00:00"
+last_updated: "2026-03-25T02:03:30.994421+00:00"
 categories:
   - "Graphic Design Resources"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources users who need 40 vintage typography fonts bun
 At **$5 one-time** vs $300 regular price, you're saving **98%** ($295) compared to buying at full price. That's equivalent to paying just 0.4 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

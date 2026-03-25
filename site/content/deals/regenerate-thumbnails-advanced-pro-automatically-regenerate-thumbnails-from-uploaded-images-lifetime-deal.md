@@ -2,7 +2,7 @@
 title: "reGenerate Thumbnails Advanced Pro : Automatically reGenerate Thumbnails From Uploaded Images Lifetime Deal — $25"
 description: "Remove Metadata & Unused ThumbsRemove Non-Existent ImagesWP-CLI SupportCustom Date Interval"
 date: "2026-03-19T16:28:00.074744+00:00"
-lastmod: "2026-03-21T02:06:47.198727+00:00"
+lastmod: "2026-03-25T02:04:33.484285+00:00"
 product_name: "reGenerate Thumbnails Advanced Pro : Automatically reGenerate Thumbnails From Uploaded Images"
 slug: "regenerate-thumbnails-advanced-pro-automatically-regenerate-thumbnails-from-uploaded-images-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 49
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/04/rta-pro.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.198727+00:00"
-last_updated: "2026-03-21T02:06:47.198727+00:00"
+last_scraped: "2026-03-25T02:04:33.484285+00:00"
+last_updated: "2026-03-25T02:04:33.484285+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need regenerate thumbnails advanced pro : autom
 At **$25 one-time** vs $49 regular price, you're saving **49%** ($24) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

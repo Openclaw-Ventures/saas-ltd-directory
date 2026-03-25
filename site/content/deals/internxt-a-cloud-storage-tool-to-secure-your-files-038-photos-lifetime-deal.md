@@ -2,7 +2,7 @@
 title: "Internxt : A Cloud Storage Tool To Secure Your Files &#038; Photos Lifetime Deal — $200"
 description: "Enjoy 2 TB foreverEncrypted file and folder sharingPassword-protected file sharingAccess your files from any device"
 date: "2026-03-19T16:28:02.969511+00:00"
-lastmod: "2026-03-21T02:06:50.225968+00:00"
+lastmod: "2026-03-25T02:04:36.507545+00:00"
 product_name: "Internxt : A Cloud Storage Tool To Secure Your Files &#038; Photos"
 slug: "internxt-a-cloud-storage-tool-to-secure-your-files-038-photos-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2022/12/WhatsApp-Telegram-Chatbot-Marketing-Tool-7.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.225968+00:00"
-last_updated: "2026-03-21T02:06:50.225968+00:00"
+last_scraped: "2026-03-25T02:04:36.507545+00:00"
+last_updated: "2026-03-25T02:04:36.507545+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need internxt : a cloud storage tool to secure 
 At **$200 one-time** vs $999 regular price, you're saving **80%** ($799) compared to buying at full price. That's equivalent to paying just 16.7 months of the regular $83/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "VirtlX : AI-Powered Employee Survey &#038; Training Tool Lifetime Deal — $49"
 description: "VirtlX Yearly DealAre you running a business and want full access to your employee’s data by collecting feedback or arranging surveys?Handling this on your own can be daunting.IntroducingVirtlX Yearly"
 date: "2026-03-19T16:27:59.507210+00:00"
-lastmod: "2026-03-21T02:06:46.643386+00:00"
+lastmod: "2026-03-25T02:04:32.875512+00:00"
 product_name: "VirtlX : AI-Powered Employee Survey &#038; Training Tool"
 slug: "virtlx-ai-powered-employee-survey-038-training-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2025/04/VirtlX-Feature-image.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.643386+00:00"
-last_updated: "2026-03-21T02:06:46.643386+00:00"
+last_scraped: "2026-03-25T02:04:32.875512+00:00"
+last_updated: "2026-03-25T02:04:32.875512+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need virtlx : ai-powered employee survey &#038; tra
 At **$49 one-time** vs $325 regular price, you're saving **85%** ($276) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $27/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

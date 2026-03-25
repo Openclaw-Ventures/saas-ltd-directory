@@ -2,7 +2,7 @@
 title: "Formspark Lifetime Deal — $49"
 description: "The simple & powerful form solution for developers"
 date: "2026-03-19T16:26:52.955699+00:00"
-lastmod: "2026-03-21T02:06:55.115531+00:00"
+lastmod: "2026-03-25T02:04:41.309498+00:00"
 product_name: "Formspark"
 slug: "formspark-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 92
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/formspark-deal-page.png?v=1733000683"
 deal_active: true
-last_scraped: "2026-03-21T02:06:55.115531+00:00"
-last_updated: "2026-03-21T02:06:55.115531+00:00"
+last_scraped: "2026-03-25T02:04:41.309498+00:00"
+last_updated: "2026-03-25T02:04:41.309498+00:00"
 categories:
   - "Developer Tools"
 sources:
@@ -39,7 +39,7 @@ Best for software developers and engineering teams who need formspark capabiliti
 At **$49 one-time** vs $600 regular price, you're saving **92%** ($551) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $50/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

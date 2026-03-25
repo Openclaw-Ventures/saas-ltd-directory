@@ -2,7 +2,7 @@
 title: "FlexClip : AI-Powered Video Maker &#038; Editor for Quick &#038; Engaging Videos Lifetime Deal — $69"
 description: "5K+ professionally-designed templatesUnlimited video downloads1 stock video/audio per project onlineVideo length up to 25 mins10 GB Cloud Space"
 date: "2026-03-19T16:27:58.801554+00:00"
-lastmod: "2026-03-21T02:06:46.120798+00:00"
+lastmod: "2026-03-25T02:04:32.175141+00:00"
 product_name: "FlexClip : AI-Powered Video Maker &#038; Editor for Quick &#038; Engaging Videos"
 slug: "flexclip-ai-powered-video-maker-038-editor-for-quick-038-engaging-videos-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 15
 image: "https://dealmirror.com/wp-content/uploads/2021/12/FlexClip-AI-Powered-Video-Maker-Editor-for-Quick-Engaging-Videos.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.120798+00:00"
-last_updated: "2026-03-21T02:06:46.120798+00:00"
+last_scraped: "2026-03-25T02:04:32.175141+00:00"
+last_updated: "2026-03-25T02:04:32.175141+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need flexclip : ai-powered video maker &#038; e
 At **$69 one-time** vs $400 regular price, you're saving **83%** ($331) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $33/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "20+ Resume Templates Lifetime Deal — $7"
 description: "Over 20 Resume TemplatesCover Letter TemplatesInstant Download"
 date: "2026-03-19T16:27:59.801509+00:00"
-lastmod: "2026-03-21T02:06:46.930857+00:00"
+lastmod: "2026-03-25T02:04:33.199283+00:00"
 product_name: "20+ Resume Templates"
 slug: "20-resume-templates-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/02/Resume-templates.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.930857+00:00"
-last_updated: "2026-03-21T02:06:46.930857+00:00"
+last_scraped: "2026-03-25T02:04:33.199283+00:00"
+last_updated: "2026-03-25T02:04:33.199283+00:00"
 categories:
   - "Creative Resources"
 sources:
@@ -40,7 +40,7 @@ Best for creative resources users who need 20+ resume templates capabilities —
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

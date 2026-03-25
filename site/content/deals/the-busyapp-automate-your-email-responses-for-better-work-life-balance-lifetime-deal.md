@@ -2,7 +2,7 @@
 title: "The BusyApp : Automate Your Email Responses For Better Work-Life Balance Lifetime Deal — $12"
 description: "Default busy responsesCalendar-based busy responsesUnlimited daily responses"
 date: "2026-03-19T16:28:01.066530+00:00"
-lastmod: "2026-03-21T02:06:48.112445+00:00"
+lastmod: "2026-03-25T02:04:34.374507+00:00"
 product_name: "The BusyApp : Automate Your Email Responses For Better Work-Life Balance"
 slug: "the-busyapp-automate-your-email-responses-for-better-work-life-balance-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2024/03/busy-1.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.112445+00:00"
-last_updated: "2026-03-21T02:06:48.112445+00:00"
+last_scraped: "2026-03-25T02:04:34.374507+00:00"
+last_updated: "2026-03-25T02:04:34.374507+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need the busyapp : automate your email responses fo
 At **$12 one-time** vs $40 regular price, you're saving **70%** ($28) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

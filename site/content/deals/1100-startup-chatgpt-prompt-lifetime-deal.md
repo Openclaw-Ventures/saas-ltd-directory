@@ -2,7 +2,7 @@
 title: "1100+ Startup ChatGPT Prompt Lifetime Deal — $7"
 description: "What you get in this deal1100+ Startup ChatGPT PromptHurry! Only181Licence are left"
 date: "2026-03-19T16:28:00.912309+00:00"
-lastmod: "2026-03-21T02:06:48.002366+00:00"
+lastmod: "2026-03-25T02:04:34.290076+00:00"
 product_name: "1100+ Startup ChatGPT Prompt"
 slug: "1100-startup-chatgpt-prompt-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 93
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/05/11.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.002366+00:00"
-last_updated: "2026-03-21T02:06:48.002366+00:00"
+last_scraped: "2026-03-25T02:04:34.290076+00:00"
+last_updated: "2026-03-25T02:04:34.290076+00:00"
 categories:
   - "Deals Under $20"
 sources:
@@ -40,7 +40,7 @@ Best for deals under $20 users who need 1100+ startup chatgpt prompt capabilitie
 At **$7 one-time** vs $99 regular price, you're saving **93%** ($92) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

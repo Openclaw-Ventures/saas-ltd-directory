@@ -2,7 +2,7 @@
 title: "1000+ Sales Funnel ChatGPT Prompts Lifetime Deal — $9"
 description: "1000+ Sales Funnel ChatGPT Prompts"
 date: "2026-03-19T16:28:00.749008+00:00"
-lastmod: "2026-03-21T02:06:47.862094+00:00"
+lastmod: "2026-03-25T02:04:34.196968+00:00"
 product_name: "1000+ Sales Funnel ChatGPT Prompts"
 slug: "1000-sales-funnel-chatgpt-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/1000-Sales-funnels.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.862094+00:00"
-last_updated: "2026-03-21T02:06:47.862094+00:00"
+last_scraped: "2026-03-25T02:04:34.196968+00:00"
+last_updated: "2026-03-25T02:04:34.196968+00:00"
 categories:
   - "GPT Prompt"
 sources:
@@ -40,7 +40,7 @@ Best for gpt prompt users who need 1000+ sales funnel chatgpt prompts capabiliti
 At **$9 one-time** vs $99 regular price, you're saving **91%** ($90) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

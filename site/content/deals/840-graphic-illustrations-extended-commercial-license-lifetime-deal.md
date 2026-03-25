@@ -2,7 +2,7 @@
 title: "840+ Graphic Illustrations | Extended Commercial License Lifetime Deal — $29"
 description: "Get 840+ Graphic Illustrations | Extended Commercial License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.203502+00:00"
-lastmod: "2026-03-21T02:05:46.747989+00:00"
+lastmod: "2026-03-25T02:03:31.059611+00:00"
 product_name: "840+ Graphic Illustrations | Extended Commercial License"
 slug: "840-graphic-illustrations-extended-commercial-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 80
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Graphic-illustrations-Feature-image-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.747989+00:00"
-last_updated: "2026-03-21T02:05:46.747989+00:00"
+last_scraped: "2026-03-25T02:03:31.059611+00:00"
+last_updated: "2026-03-25T02:03:31.059611+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 840+ graphic illustrations | extended commercia
 At **$29 one-time** vs $145 regular price, you're saving **80%** ($116) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

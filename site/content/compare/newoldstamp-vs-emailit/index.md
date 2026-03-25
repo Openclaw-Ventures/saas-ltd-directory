@@ -19,7 +19,7 @@ Comparing two email marketing lifetime deals to help you make the right choice.
 | **LTD Price** | $39 | $49 |
 | **Regular Price** | $109 | $288 |
 | **Discount** | 64% | 83% |
-| **Rating** | 4.73/5 (110 reviews) | 4.32/5 (171 reviews) |
+| **Rating** | 4.73/5 (110 reviews) | 4.34/5 (175 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | Email marketing | Email marketing |
 

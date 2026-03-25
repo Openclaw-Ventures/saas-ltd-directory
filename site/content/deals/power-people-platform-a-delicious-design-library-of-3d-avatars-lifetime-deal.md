@@ -2,7 +2,7 @@
 title: "Power People Platform : A Delicious Design Library of 3D Avatars Lifetime Deal"
 description: "Say hello to the spicy Power People,There are 12 different characters, everyone with 3 different skin colors, 6 hair colors, 5 dresses, 23 dress colors, and endless Background colors.Cook your individ"
 date: "2026-03-19T16:28:04.218531+00:00"
-lastmod: "2026-03-21T02:06:51.420783+00:00"
+lastmod: "2026-03-25T02:04:37.703116+00:00"
 product_name: "Power People Platform : A Delicious Design Library of 3D Avatars"
 slug: "power-people-platform-a-delicious-design-library-of-3d-avatars-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 100
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/10/feature-1-2.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.420783+00:00"
-last_updated: "2026-03-21T02:06:51.420783+00:00"
+last_scraped: "2026-03-25T02:04:37.703116+00:00"
+last_updated: "2026-03-25T02:04:37.703116+00:00"
 categories:
   - "Freebies"
 sources:
@@ -35,7 +35,7 @@ Say hello to the spicy Power People,There are 12 different characters, everyone 
 Best for freebies users who need power people platform : a delicious design library of 3d avatars capabilities.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

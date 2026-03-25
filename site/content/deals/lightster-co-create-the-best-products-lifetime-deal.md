@@ -2,7 +2,7 @@
 title: "Lightster : Co-Create the Best Products Lifetime Deal — $49"
 description: "What you get in this dealSegment users with custom criteriaFree chat with unlimited usersAI-enabled voice transcriptionsDedicated 1:1 supportHurry! Only999License are left"
 date: "2026-03-19T16:28:01.955304+00:00"
-lastmod: "2026-03-21T02:06:49.010789+00:00"
+lastmod: "2026-03-25T02:04:35.139765+00:00"
 product_name: "Lightster : Co-Create the Best Products"
 slug: "lightster-co-create-the-best-products-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2023/08/lightster-feature-new-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.010789+00:00"
-last_updated: "2026-03-21T02:06:49.010789+00:00"
+last_scraped: "2026-03-25T02:04:35.139765+00:00"
+last_updated: "2026-03-25T02:04:35.139765+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need lightster : co-create the best products ca
 At **$49 one-time** vs $999 regular price, you're saving **95%** ($950) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $83/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

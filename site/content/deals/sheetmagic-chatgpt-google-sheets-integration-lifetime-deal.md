@@ -2,7 +2,7 @@
 title: "SheetMagic : ChatGPT + Google Sheets Integration Lifetime Deal — $69"
 description: "Use ChatGPT in Google SheetsCreate Unlimited AI ContentOpenAI API Key For Unlimited UsagePrompt library with popular promptsHurry! Only199Licenses are left."
 date: "2026-03-19T16:28:01.843252+00:00"
-lastmod: "2026-03-21T02:06:48.903369+00:00"
+lastmod: "2026-03-25T02:04:35.063963+00:00"
 product_name: "SheetMagic : ChatGPT + Google Sheets Integration"
 slug: "sheetmagic-chatgpt-google-sheets-integration-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 77
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/sheetGPT-feature-image-2nd-1-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.903369+00:00"
-last_updated: "2026-03-21T02:06:48.903369+00:00"
+last_scraped: "2026-03-25T02:04:35.063963+00:00"
+last_updated: "2026-03-25T02:04:35.063963+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need sheetmagic : chatgpt + google sheets integ
 At **$69 one-time** vs $299 regular price, you're saving **77%** ($230) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

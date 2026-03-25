@@ -2,7 +2,7 @@
 title: "Social_Testimony : Collect &#038; Embed Client Testimony in Minutes Lifetime Deal — $29"
 description: "What you get in this deal4 Testimony Wall/Space75 Testimonies per Wall150 Draft testimonies per WallCustomization options4 Testimony Collection PagesSocial Import"
 date: "2026-03-19T16:28:03.261503+00:00"
-lastmod: "2026-03-21T02:06:50.488645+00:00"
+lastmod: "2026-03-25T02:04:36.810147+00:00"
 product_name: "Social_Testimony : Collect &#038; Embed Client Testimony in Minutes"
 slug: "social-testimony-collect-038-embed-client-testimony-in-minutes-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2022/08/SocialTestomony-Lifetime-Deal-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.488645+00:00"
-last_updated: "2026-03-21T02:06:50.488645+00:00"
+last_scraped: "2026-03-25T02:04:36.810147+00:00"
+last_updated: "2026-03-25T02:04:36.810147+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need social_testi
 At **$29 one-time** vs $80 regular price, you're saving **64%** ($51) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

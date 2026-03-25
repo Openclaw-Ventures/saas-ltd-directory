@@ -2,7 +2,7 @@
 title: "275+ Halloween Graphics: Elements, Overlays And Backgrounds | Extended License Lifetime Deal — $19"
 description: "Get 275+ Halloween Graphics: Elements, Overlays And Backgrounds | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.540963+00:00"
-lastmod: "2026-03-21T02:05:46.031682+00:00"
+lastmod: "2026-03-25T02:03:30.423887+00:00"
 product_name: "275+ Halloween Graphics: Elements, Overlays And Backgrounds | Extended License"
 slug: "275-halloween-graphics-elements-overlays-and-backgrounds-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 96
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/cover-page-new-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.031682+00:00"
-last_updated: "2026-03-21T02:05:46.031682+00:00"
+last_scraped: "2026-03-25T02:03:30.423887+00:00"
+last_updated: "2026-03-25T02:03:30.423887+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources addons users who need 275+ halloween graphics:
 At **$19 one-time** vs $499 regular price, you're saving **96%** ($480) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

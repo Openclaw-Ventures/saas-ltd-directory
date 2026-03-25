@@ -2,7 +2,7 @@
 title: "1000+ Floral Illustrations Bundle | Extended License Lifetime Deal — $17"
 description: "Get 1000+ Floral Illustrations Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.729532+00:00"
-lastmod: "2026-03-21T02:05:46.216898+00:00"
+lastmod: "2026-03-25T02:03:30.629506+00:00"
 product_name: "1000+ Floral Illustrations Bundle | Extended License"
 slug: "1000-floral-illustrations-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 91
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/1000-Floral-Illustrations-Bundle-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.216898+00:00"
-last_updated: "2026-03-21T02:05:46.216898+00:00"
+last_scraped: "2026-03-25T02:03:30.629506+00:00"
+last_updated: "2026-03-25T02:03:30.629506+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 1000+ floral illustrations bundle | extended li
 At **$17 one-time** vs $195 regular price, you're saving **91%** ($178) compared to buying at full price. That's equivalent to paying just 1.4 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

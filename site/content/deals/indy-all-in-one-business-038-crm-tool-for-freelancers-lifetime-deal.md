@@ -2,7 +2,7 @@
 title: "Indy: All-in-One Business &#038; CRM Tool for Freelancers Lifetime Deal — $40"
 description: "IndyRunning a freelance business should feel exciting, not overwhelming. But most freelancers spend more time chasing paperwork than doing the work they love. From proposals and contracts to invoices,"
 date: "2026-03-19T16:27:58.672824+00:00"
-lastmod: "2026-03-21T02:06:46.020148+00:00"
+lastmod: "2026-03-25T02:04:32.079234+00:00"
 product_name: "Indy: All-in-One Business &#038; CRM Tool for Freelancers"
 slug: "indy-all-in-one-business-038-crm-tool-for-freelancers-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2025/12/Indy-All-in-One-Business-CRM-Tools-for-Freelancers.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.020148+00:00"
-last_updated: "2026-03-21T02:06:46.020148+00:00"
+last_scraped: "2026-03-25T02:04:32.079234+00:00"
+last_updated: "2026-03-25T02:04:32.079234+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need indy: all-in-one business &#038; crm tool for 
 At **$40 one-time** vs $99 regular price, you're saving **60%** ($59) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

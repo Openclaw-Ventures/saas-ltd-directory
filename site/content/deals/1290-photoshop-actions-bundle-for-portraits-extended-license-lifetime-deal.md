@@ -2,7 +2,7 @@
 title: "1290+ Photoshop Actions Bundle For Portraits | Extended License Lifetime Deal — $16"
 description: "Get 1290+ Photoshop Actions Bundle For Portraits | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.916286+00:00"
-lastmod: "2026-03-21T02:05:46.396892+00:00"
+lastmod: "2026-03-25T02:03:30.798433+00:00"
 product_name: "1290+ Photoshop Actions Bundle For Portraits | Extended License"
 slug: "1290-photoshop-actions-bundle-for-portraits-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 87
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/nice-banner-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.396892+00:00"
-last_updated: "2026-03-21T02:05:46.396892+00:00"
+last_scraped: "2026-03-25T02:03:30.798433+00:00"
+last_updated: "2026-03-25T02:03:30.798433+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources addons users who need 1290+ photoshop actions 
 At **$16 one-time** vs $120 regular price, you're saving **87%** ($104) compared to buying at full price. That's equivalent to paying just 1.3 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

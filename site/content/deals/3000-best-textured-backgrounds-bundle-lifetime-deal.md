@@ -2,7 +2,7 @@
 title: "3000+ Best Textured Backgrounds Bundle Lifetime Deal — $19"
 description: "Get 3000+ Best Textured Backgrounds Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.987742+00:00"
-lastmod: "2026-03-21T02:05:46.488431+00:00"
+lastmod: "2026-03-25T02:03:30.882713+00:00"
 product_name: "3000+ Best Textured Backgrounds Bundle"
 slug: "3000-best-textured-backgrounds-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 96
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/3000-Best-Textured-Backgrounds-Bundle-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.488431+00:00"
-last_updated: "2026-03-21T02:05:46.488431+00:00"
+last_scraped: "2026-03-25T02:03:30.882713+00:00"
+last_updated: "2026-03-25T02:03:30.882713+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 3000+ best textured backgrounds bundle capabili
 At **$19 one-time** vs $480 regular price, you're saving **96%** ($461) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $40/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

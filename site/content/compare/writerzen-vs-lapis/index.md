@@ -19,7 +19,7 @@ Comparing two content marketing lifetime deals to help you make the right choice
 | **LTD Price** | $79 | $99 |
 | **Regular Price** | $1035 | $1199 |
 | **Discount** | 92% | 92% |
-| **Rating** | 4.65/5 (268 reviews) | 5.0/5 (2 reviews) |
+| **Rating** | 4.65/5 (268 reviews) | 5.0/5 (3 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | Content marketing | Content marketing |
 

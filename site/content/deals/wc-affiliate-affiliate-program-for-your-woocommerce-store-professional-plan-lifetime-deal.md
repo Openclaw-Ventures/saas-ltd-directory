@@ -2,7 +2,7 @@
 title: "WC Affiliate : Affiliate Program For Your WooCommerce Store Professional Plan Lifetime Deal — $149"
 description: "What you get in this deal5 Sites LicenseLifetime SupportLifetime Update60Days Money Back GuaranteeHurry! Only499Licence are left"
 date: "2026-03-19T16:28:03.797629+00:00"
-lastmod: "2026-03-21T02:06:50.972385+00:00"
+lastmod: "2026-03-25T02:04:37.294893+00:00"
 product_name: "WC Affiliate : Affiliate Program For Your WooCommerce Store Professional Plan"
 slug: "wc-affiliate-affiliate-program-for-your-woocommerce-store-professional-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 59
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2022/01/wcaffilite-feature.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.972385+00:00"
-last_updated: "2026-03-21T02:06:50.972385+00:00"
+last_scraped: "2026-03-25T02:04:37.294893+00:00"
+last_updated: "2026-03-25T02:04:37.294893+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need wc affiliate
 At **$149 one-time** vs $360 regular price, you're saving **59%** ($211) compared to buying at full price. That's equivalent to paying just 12.4 months of the regular $30/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

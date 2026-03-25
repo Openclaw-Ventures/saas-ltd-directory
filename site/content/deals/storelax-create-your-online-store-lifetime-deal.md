@@ -2,7 +2,7 @@
 title: "Storelax : Create your online store Lifetime Deal — $79"
 description: "What you get in this dealSell physical & digital productsCustom domainEnable Multi-vendor systemComplete white-label admin account60 Days Refund PolicyHurry! Only22Licence are left"
 date: "2026-03-19T16:28:03.002529+00:00"
-lastmod: "2026-03-21T02:06:50.253079+00:00"
+lastmod: "2026-03-25T02:04:36.552383+00:00"
 product_name: "Storelax : Create your online store"
 slug: "storelax-create-your-online-store-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 11
 image: "https://dealmirror.com/wp-content/uploads/2022/11/storelax-image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.253079+00:00"
-last_updated: "2026-03-21T02:06:50.253079+00:00"
+last_scraped: "2026-03-25T02:04:36.552383+00:00"
+last_updated: "2026-03-25T02:04:36.552383+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need storelax : c
 At **$79 one-time** vs $1049 regular price, you're saving **92%** ($970) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $87/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

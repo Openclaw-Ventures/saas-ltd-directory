@@ -2,7 +2,7 @@
 title: "Movavi : Video Editor for Window/Mac Lifetime Deal — $24"
 description: "What you get in this dealCreate how-tos and presentationsEnhance video qualityCut out unwanted fragmentsHollywood-worthy effectsHigh-grade titles and fadesSupport for a wide range of formatsPremium 24"
 date: "2026-03-19T16:28:05.170722+00:00"
-lastmod: "2026-03-21T02:06:52.400749+00:00"
+lastmod: "2026-03-25T02:04:38.578405+00:00"
 product_name: "Movavi : Video Editor for Window/Mac"
 slug: "movavi-video-editor-for-windowmac-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 1.0
 review_count: 1
 image: "https://dealmirror.com/wp-content/uploads/2019/12/Movavifeature-image-2-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.400749+00:00"
-last_updated: "2026-03-21T02:06:52.400749+00:00"
+last_scraped: "2026-03-25T02:04:38.578405+00:00"
+last_updated: "2026-03-25T02:04:38.578405+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need movavi : vid
 At **$24 one-time** vs $800 regular price, you're saving **97%** ($776) compared to buying at full price. That's equivalent to paying just 2.0 months of the regular $67/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

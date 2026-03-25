@@ -19,7 +19,7 @@ Comparing two marketing management lifetime deals to help you make the right cho
 | **LTD Price** | $79 | $89 |
 | **Regular Price** | $499 | $972 |
 | **Discount** | 84% | 91% |
-| **Rating** | 4.91/5 (1526 reviews) | 3.87/5 (15 reviews) |
+| **Rating** | 4.91/5 (1528 reviews) | 3.62/5 (16 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | Marketing management | Marketing management |
 

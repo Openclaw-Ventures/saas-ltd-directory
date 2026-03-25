@@ -2,7 +2,7 @@
 title: "Wrap : Create Beautiful And Shareable Screenshots With Ease Lifetime Deal — $49"
 description: "Dynamic image backgrounds from UnsplashPre-set social asset sizesAccess to all image editing toolsUnlimited image downloads & exports"
 date: "2026-03-19T16:28:01.710740+00:00"
-lastmod: "2026-03-21T02:06:48.819270+00:00"
+lastmod: "2026-03-25T02:04:34.976782+00:00"
 product_name: "Wrap : Create Beautiful And Shareable Screenshots With Ease"
 slug: "wrap-create-beautiful-and-shareable-screenshots-with-ease-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 75
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/wrap-feature-image-2-2.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.819270+00:00"
-last_updated: "2026-03-21T02:06:48.819270+00:00"
+last_scraped: "2026-03-25T02:04:34.976782+00:00"
+last_updated: "2026-03-25T02:04:34.976782+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need wrap : create beautiful and shareable scre
 At **$49 one-time** vs $199 regular price, you're saving **75%** ($150) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

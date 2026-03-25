@@ -2,7 +2,7 @@
 title: "400+ Couple Vertical Video Shorts Lifetime Deal — $7"
 description: "400+ Couple Vertical Video Shorts"
 date: "2026-03-19T16:28:02.116258+00:00"
-lastmod: "2026-03-21T02:06:49.204806+00:00"
+lastmod: "2026-03-25T02:04:35.340794+00:00"
 product_name: "400+ Couple Vertical Video Shorts"
 slug: "400-couple-vertical-video-shorts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/400-Couple-Vertical-Video-Shorts.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.204806+00:00"
-last_updated: "2026-03-21T02:06:49.204806+00:00"
+last_scraped: "2026-03-25T02:04:35.340794+00:00"
+last_updated: "2026-03-25T02:04:35.340794+00:00"
 categories:
   - "Creative Resources"
 sources:
@@ -40,7 +40,7 @@ Best for creative resources users who need 400+ couple vertical video shorts cap
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

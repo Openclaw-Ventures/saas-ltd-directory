@@ -2,7 +2,7 @@
 title: "Spiry: Grow Your LinkedIn Presence with AI Lifetime Deal — $69"
 description: "Spiry Lifetime DealPosting on LinkedIn can feel like a second job, struggling with generating ideas, rewriting headlines, searching for hashtags, and still wondering why engagement stays low.And if yo"
 date: "2026-03-19T16:27:58.432975+00:00"
-lastmod: "2026-03-21T02:06:45.813641+00:00"
+lastmod: "2026-03-25T02:04:31.903152+00:00"
 product_name: "Spiry: Grow Your LinkedIn Presence with AI"
 slug: "spiry-grow-your-linkedin-presence-with-ai-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2026/02/Spiry-Grow-Your-LinkedIn-Presence-with-AI.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:45.813641+00:00"
-last_updated: "2026-03-21T02:06:45.813641+00:00"
+last_scraped: "2026-03-25T02:04:31.903152+00:00"
+last_updated: "2026-03-25T02:04:31.903152+00:00"
 categories:
   - "AI marketing"
 sources:
@@ -41,7 +41,7 @@ Best for ai marketing users who need spiry: grow your linkedin presence with ai 
 At **$69 one-time** vs $1188 regular price, you're saving **94%** ($1119) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $99/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Dadda Cool Playlist : Get Access to 1000+ Royalty-Free Tracks Lifetime Deal — $30"
 description: "Dadda Cool Playlist Lifetime DealWhether a YouTube video or any other project, we all want them to have that perfect track that just matches the vibe of that mood. And searching for that right audio c"
 date: "2026-03-19T16:27:58.976161+00:00"
-lastmod: "2026-03-21T02:06:46.263873+00:00"
+lastmod: "2026-03-25T02:04:32.333630+00:00"
 product_name: "Dadda Cool Playlist : Get Access to 1000+ Royalty-Free Tracks"
 slug: "dadda-cool-playlist-get-access-to-1000-royalty-free-tracks-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 50
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/09/Dadda-Cool-Playlist-Get-Access-to-1000-Royalty-Free-Tracks.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.263873+00:00"
-last_updated: "2026-03-21T02:06:46.263873+00:00"
+last_scraped: "2026-03-25T02:04:32.333630+00:00"
+last_updated: "2026-03-25T02:04:32.333630+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need dadda cool playlist : get access to 1000+ 
 At **$30 one-time** vs $60 regular price, you're saving **50%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

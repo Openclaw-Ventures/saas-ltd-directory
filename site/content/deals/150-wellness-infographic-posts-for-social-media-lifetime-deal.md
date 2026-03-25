@@ -2,7 +2,7 @@
 title: "150 Wellness Infographic Posts for social media Lifetime Deal — $7"
 description: "What you get in this deal150 wellness infographicsEngage and impress your audienceEach infographic is thoughtfully designedEasily edit with canva freeHigh-resolution social media imagesHurry! Only99Pr"
 date: "2026-03-19T16:28:02.414239+00:00"
-lastmod: "2026-03-21T02:06:49.543198+00:00"
+lastmod: "2026-03-25T02:04:35.765373+00:00"
 product_name: "150 Wellness Infographic Posts for social media"
 slug: "150-wellness-infographic-posts-for-social-media-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 86
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/150-Wellness-Infographic-Posts-for-social-media.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.543198+00:00"
-last_updated: "2026-03-21T02:06:49.543198+00:00"
+last_scraped: "2026-03-25T02:04:35.765373+00:00"
+last_updated: "2026-03-25T02:04:35.765373+00:00"
 categories:
   - "Creative Market's Top Trends"
 sources:
@@ -40,7 +40,7 @@ Best for creative market's top trends users who need 150 wellness infographic po
 At **$7 one-time** vs $49 regular price, you're saving **86%** ($42) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

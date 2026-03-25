@@ -2,7 +2,7 @@
 title: "PromptBuilder Lifetime Deal — $39"
 description: "Ever feel like you spend more time rewriting prompts than actually getting results from AI?Working with tools like ChatGPT, Claude, Gemini, and other AI models often means constant trial and error"
 date: "2026-03-19T16:26:52.475436+00:00"
-lastmod: "2026-03-21T02:06:54.645606+00:00"
+lastmod: "2026-03-25T02:04:40.707174+00:00"
 product_name: "PromptBuilder"
 slug: "promptbuilder-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 94
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/PromptBuilder.jpg?v=1773674837"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.645606+00:00"
-last_updated: "2026-03-21T02:06:54.645606+00:00"
+last_scraped: "2026-03-25T02:04:40.707174+00:00"
+last_updated: "2026-03-25T02:04:40.707174+00:00"
 categories:
   - "AI"
 sources:
@@ -39,7 +39,7 @@ Best for professionals leveraging AI for automation who need promptbuilder capab
 At **$39 one-time** vs $600 regular price, you're saving **94%** ($561) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $50/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

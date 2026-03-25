@@ -2,7 +2,7 @@
 title: "50+ HQ Health and Fitness E-Books Lifetime Deal — $7"
 description: "What you get in this deal50+ HQ Headline and fitness E-BooksThis collection was carefully designedFit your schedule with different durationsHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.308286+00:00"
-lastmod: "2026-03-21T02:06:49.456037+00:00"
+lastmod: "2026-03-25T02:04:35.649387+00:00"
 product_name: "50+ HQ Health and Fitness E-Books"
 slug: "50-hq-health-and-fitness-e-books-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 76
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/yoga-5.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.456037+00:00"
-last_updated: "2026-03-21T02:06:49.456037+00:00"
+last_scraped: "2026-03-25T02:04:35.649387+00:00"
+last_updated: "2026-03-25T02:04:35.649387+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need 50+ hq healt
 At **$7 one-time** vs $29 regular price, you're saving **76%** ($22) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

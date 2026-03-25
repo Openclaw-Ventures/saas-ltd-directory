@@ -2,7 +2,7 @@
 title: "Photoshop Photo Effects Bundle Lifetime Deal — $29"
 description: "Get Photoshop Photo Effects Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.005733+00:00"
-lastmod: "2026-03-21T02:05:46.515353+00:00"
+lastmod: "2026-03-25T02:03:30.905768+00:00"
 product_name: "Photoshop Photo Effects Bundle"
 slug: "photoshop-photo-effects-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 95
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Photoshop-Photo-Effects-Bundle-450x312.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.515353+00:00"
-last_updated: "2026-03-21T02:05:46.515353+00:00"
+last_scraped: "2026-03-25T02:03:30.905768+00:00"
+last_updated: "2026-03-25T02:03:30.905768+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources addons users who need photoshop photo effects 
 At **$29 one-time** vs $528 regular price, you're saving **95%** ($499) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $44/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

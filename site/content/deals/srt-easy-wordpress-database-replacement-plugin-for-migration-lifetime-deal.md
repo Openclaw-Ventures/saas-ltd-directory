@@ -2,7 +2,7 @@
 title: "SRT : Easy WordPress database replacement plugin for migration Lifetime Deal — $5"
 description: "Unlimited Domain DevelopmentSearch and replace text loaded by Ajax / jQueryRegEx supportedFind and replace URLs"
 date: "2026-03-19T16:28:00.016286+00:00"
-lastmod: "2026-03-21T02:06:47.133007+00:00"
+lastmod: "2026-03-25T02:04:33.414889+00:00"
 product_name: "SRT : Easy WordPress database replacement plugin for migration"
 slug: "srt-easy-wordpress-database-replacement-plugin-for-migration-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 90
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/10/SRT_Thumbnail1-1.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.133007+00:00"
-last_updated: "2026-03-21T02:06:47.133007+00:00"
+last_scraped: "2026-03-25T02:04:33.414889+00:00"
+last_updated: "2026-03-25T02:04:33.414889+00:00"
 categories:
   - "50% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 50% off users who need srt : easy wordpress database replacement plugin
 At **$5 one-time** vs $49 regular price, you're saving **90%** ($44) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

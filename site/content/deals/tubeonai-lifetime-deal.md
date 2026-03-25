@@ -2,7 +2,7 @@
 title: "TubeOnAI Lifetime Deal — $59"
 description: "Repurpose videos, podcasts, PDFs, and articles into publish-ready content with AI summarization"
 date: "2026-03-19T16:12:19.345323+00:00"
-lastmod: "2026-03-21T02:04:11.424291+00:00"
+lastmod: "2026-03-25T02:01:44.011694+00:00"
 product_name: "TubeOnAI"
 slug: "tubeonai-lifetime-deal"
 source: "appsumo"
@@ -12,12 +12,12 @@ price_current: 59.0
 price_original: 108.0
 price_currency: "USD"
 discount_pct: 45
-rating: 4.31
-review_count: 26
+rating: 4.33
+review_count: 27
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/tubeonai-as-Header-TubeOnAI-16_9.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-21T02:04:11.424291+00:00"
-last_updated: "2026-03-21T02:04:11.424291+00:00"
+last_scraped: "2026-03-25T02:01:44.011694+00:00"
+last_updated: "2026-03-25T02:01:44.011694+00:00"
 categories:
   - "Productivity"
 sources:
@@ -28,7 +28,7 @@ Repurpose videos, podcasts, PDFs, and articles into publish-ready content with A
 
 ## Is It Worth It?
 
-**Decent option.** TubeOnAI scores 4.31/5 in the productivity space. At $59 one-time vs $108/year ($9/month), this deal pays for itself in 7 months and saves you money every month after that. With 26 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
+**Decent option.** TubeOnAI scores 4.33/5 in the productivity space. At $59 one-time vs $108/year ($9/month), this deal pays for itself in 7 months and saves you money every month after that. With 27 reviews, the feedback sample is moderate — enough for a directional signal but worth checking individual reviews. Worth a closer look if this fits your workflow.
 
 
 ## Who Is This For?
@@ -41,7 +41,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$59 one-time** vs $108 regular price, you're saving **45%** ($49) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $9/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:04 UTC_
+_Last updated: 2026-03-25 02:01 UTC_
 
 
 ## Get This Deal
@@ -56,4 +56,4 @@ Looking for similar tools? Check out these deals:
 
 - [Shareables](/deals/shareables-lifetime-deal/) — $59 (39% off)
 - [Documentation.AI](/deals/documentationai-lifetime-deal/) — $69 (80% off)
-- [Journal it!](/deals/journal-it-lifetime-deal/) — $39 (61% off)
+- [TinyCommand](/deals/tinycommand-lifetime-deal/) — $79 (66% off)

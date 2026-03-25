@@ -2,7 +2,7 @@
 title: "WiredVibe : Personalized Music for Focus Lifetime Deal — $49"
 description: "What you get in this dealUnlimited Tracks AccessPomodoro Timer & To-Do ListFull Virtual Video WorkspacesSound Mix & Match60 Days Money-Back GuaranteeHurry! Only0Licence are left"
 date: "2026-03-19T16:28:03.860612+00:00"
-lastmod: "2026-03-21T02:06:51.025585+00:00"
+lastmod: "2026-03-25T02:04:37.358389+00:00"
 product_name: "WiredVibe : Personalized Music for Focus"
 slug: "wiredvibe-personalized-music-for-focus-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2021/12/273665-P5Y14O-100.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.025585+00:00"
-last_updated: "2026-03-21T02:06:51.025585+00:00"
+last_scraped: "2026-03-25T02:04:37.358389+00:00"
+last_updated: "2026-03-25T02:04:37.358389+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need wiredvibe : personalized music for focus c
 At **$49 one-time** vs $1198 regular price, you're saving **96%** ($1149) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $100/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Afirstsoft PDF : AI-Powered PDF Editing Tool With OCR Lifetime Deal — $50"
 description: "Available for all devices (one account)20GB of Cloud storageOCR for scanned documentsComprehensive Editing Tools"
 date: "2026-03-19T16:28:00.036678+00:00"
-lastmod: "2026-03-21T02:06:47.155743+00:00"
+lastmod: "2026-03-25T02:04:33.438279+00:00"
 product_name: "Afirstsoft PDF : AI-Powered PDF Editing Tool With OCR"
 slug: "afirstsoft-pdf-ai-powered-pdf-editing-tool-with-ocr-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 72
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/10/Afirstsoft_Thumbnail-1.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.155743+00:00"
-last_updated: "2026-03-21T02:06:47.155743+00:00"
+last_scraped: "2026-03-25T02:04:33.438279+00:00"
+last_updated: "2026-03-25T02:04:33.438279+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need afirstsoft pdf : ai-powered pdf editing to
 At **$50 one-time** vs $180 regular price, you're saving **72%** ($130) compared to buying at full price. That's equivalent to paying just 4.2 months of the regular $15/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

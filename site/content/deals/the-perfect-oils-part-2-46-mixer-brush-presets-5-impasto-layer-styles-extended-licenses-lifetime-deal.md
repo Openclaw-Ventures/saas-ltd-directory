@@ -2,7 +2,7 @@
 title: "The Perfect Oils Part 2: 46 Mixer Brush Presets + 5 Impasto Layer Styles | Extended Licenses Lifetime Deal — $19"
 description: "Get The Perfect Oils Part 2: 46 Mixer Brush Presets + 5 Impasto Layer Styles | Extended Licenses lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.787696+00:00"
-lastmod: "2026-03-21T02:05:46.275069+00:00"
+lastmod: "2026-03-25T02:03:30.688789+00:00"
 product_name: "The Perfect Oils Part 2: 46 Mixer Brush Presets + 5 Impasto Layer Styles | Extended Licenses"
 slug: "the-perfect-oils-part-2-46-mixer-brush-presets-5-impasto-layer-styles-extended-licenses-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 75
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/PerfectOilsP2-800x500-1_c4e58aaa9a6dd53894dee0d50d9ecf71-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.275069+00:00"
-last_updated: "2026-03-21T02:05:46.275069+00:00"
+last_scraped: "2026-03-25T02:03:30.688789+00:00"
+last_updated: "2026-03-25T02:03:30.688789+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources addons users who need the perfect oils part 2:
 At **$19 one-time** vs $76 regular price, you're saving **75%** ($57) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

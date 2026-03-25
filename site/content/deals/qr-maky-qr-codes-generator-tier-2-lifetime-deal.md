@@ -2,7 +2,7 @@
 title: "QR-Maky: QR Codes Generator (Tier 2) Lifetime Deal — $97"
 description: "Unlimited QR codesUnlimited scansUnlimited stat retentionUnlimited Pixel tracking"
 date: "2026-03-19T16:28:00.420648+00:00"
-lastmod: "2026-03-21T02:06:47.522156+00:00"
+lastmod: "2026-03-25T02:04:33.859738+00:00"
 product_name: "QR-Maky: QR Codes Generator (Tier 2)"
 slug: "qr-maky-qr-codes-generator-tier-2-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 68
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/05/Featured-image-design-13.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.522156+00:00"
-last_updated: "2026-03-21T02:06:47.522156+00:00"
+last_scraped: "2026-03-25T02:04:33.859738+00:00"
+last_updated: "2026-03-25T02:04:33.859738+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need qr-maky: qr 
 At **$97 one-time** vs $299 regular price, you're saving **68%** ($202) compared to buying at full price. That's equivalent to paying just 8.1 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

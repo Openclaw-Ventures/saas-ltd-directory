@@ -2,7 +2,7 @@
 title: "30+ Video Ads Animation Canva Templates Lifetime Deal — $19"
 description: "What you get in this dealVideo Ads Animation TemplatesEnhance memorability effortlesslyProfessionalize your presentationsHurry! Only99Products are left"
 date: "2026-03-19T16:28:01.776334+00:00"
-lastmod: "2026-03-21T02:06:48.859223+00:00"
+lastmod: "2026-03-25T02:04:35.016830+00:00"
 product_name: "30+ Video Ads Animation Canva Templates"
 slug: "30-video-ads-animation-canva-templates-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 72
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/30-Video-Ads-Animation-Canva-Templates.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.859223+00:00"
-last_updated: "2026-03-21T02:06:48.859223+00:00"
+last_scraped: "2026-03-25T02:04:35.016830+00:00"
+last_updated: "2026-03-25T02:04:35.016830+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need 30+ video ads animation canva templates ca
 At **$19 one-time** vs $69 regular price, you're saving **72%** ($50) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "SMhack : Social Media Management Tool For Premium Plan Lifetime Deal — $59"
 description: "What you get in this deal15 Social Profiles3 UsersUnlimited GroupsUnlimited Scheduled postsPublish & ScheduleBasic AnalyticsAdvanced AnalyticsWhite Label ReportsPremium 24/7 SupportLifetime Updates an"
 date: "2026-03-19T16:28:05.285053+00:00"
-lastmod: "2026-03-21T02:06:52.516388+00:00"
+lastmod: "2026-03-25T02:04:38.665010+00:00"
 product_name: "SMhack : Social Media Management Tool For Premium Plan"
 slug: "smhack-social-media-management-tool-for-premium-plan-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2020/03/new-smhack-image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.516388+00:00"
-last_updated: "2026-03-21T02:06:52.516388+00:00"
+last_scraped: "2026-03-25T02:04:38.665010+00:00"
+last_updated: "2026-03-25T02:04:38.665010+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need smhack : soc
 At **$59 one-time** vs $219 regular price, you're saving **73%** ($160) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $18/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

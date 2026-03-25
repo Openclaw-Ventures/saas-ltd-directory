@@ -2,7 +2,7 @@
 title: "Blazly Lifetime Deal — $79"
 description: "Analyze AI mentions and publish SEO- and GEO-optimized content that ranks on Google"
 date: "2026-03-19T16:12:19.293154+00:00"
-lastmod: "2026-03-21T02:04:11.340114+00:00"
+lastmod: "2026-03-25T02:01:43.900129+00:00"
 product_name: "Blazly"
 slug: "blazly-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 4.9
 review_count: 10
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/blazly-as-Header-Blazly-16_9.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-21T02:04:11.340114+00:00"
-last_updated: "2026-03-21T02:04:11.340114+00:00"
+last_scraped: "2026-03-25T02:01:43.900129+00:00"
+last_updated: "2026-03-25T02:01:43.900129+00:00"
 categories:
   - "SEO"
 sources:
@@ -41,7 +41,7 @@ Best for digital marketers and SEO professionals who need blazly capabilities �
 At **$79 one-time** vs $300 regular price, you're saving **74%** ($221) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:04 UTC_
+_Last updated: 2026-03-25 02:01 UTC_
 
 
 ## Get This Deal

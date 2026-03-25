@@ -2,7 +2,7 @@
 title: "800+ Hand Drawn Icons Bundle | Extended Commercial License Lifetime Deal — $35"
 description: "Get 800+ Hand Drawn Icons Bundle | Extended Commercial License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.439815+00:00"
-lastmod: "2026-03-21T02:05:45.957680+00:00"
+lastmod: "2026-03-25T02:03:30.342157+00:00"
 product_name: "800+ Hand Drawn Icons Bundle | Extended Commercial License"
 slug: "800-hand-drawn-icons-bundle-extended-commercial-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 81
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/hand_drawn_big_bundle_800x500-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:45.957680+00:00"
-last_updated: "2026-03-21T02:05:45.957680+00:00"
+last_scraped: "2026-03-25T02:03:30.342157+00:00"
+last_updated: "2026-03-25T02:03:30.342157+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 800+ hand drawn icons bundle | extended commerc
 At **$35 one-time** vs $180 regular price, you're saving **81%** ($145) compared to buying at full price. That's equivalent to paying just 2.9 months of the regular $15/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

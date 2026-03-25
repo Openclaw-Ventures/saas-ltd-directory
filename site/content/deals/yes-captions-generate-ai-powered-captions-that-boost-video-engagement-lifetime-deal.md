@@ -2,7 +2,7 @@
 title: "Yes Captions: Generate AI-Powered Captions That Boost Video Engagement Lifetime Deal — $39"
 description: "Yes Captions Lifetime DealMost people scroll with the sound off, so captions decide whether your short video gets noticed or ignored.But not anymore. MeetYesCaptions, an AI caption generatorthat trans"
 date: "2026-03-19T16:27:58.708482+00:00"
-lastmod: "2026-03-21T02:06:46.050793+00:00"
+lastmod: "2026-03-25T02:04:32.104853+00:00"
 product_name: "Yes Captions: Generate AI-Powered Captions That Boost Video Engagement"
 slug: "yes-captions-generate-ai-powered-captions-that-boost-video-engagement-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/11/Yes-Captions-Generate-AI-Powered-Captions-That-Boost-Video-Engagement-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.050793+00:00"
-last_updated: "2026-03-21T02:06:46.050793+00:00"
+last_scraped: "2026-03-25T02:04:32.104853+00:00"
+last_updated: "2026-03-25T02:04:32.104853+00:00"
 categories:
   - "20% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 20% off users who need yes captions: generate ai-powered captions that 
 At **$39 one-time** vs $79 regular price, you're saving **51%** ($40) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

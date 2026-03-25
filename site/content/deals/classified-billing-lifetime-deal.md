@@ -2,7 +2,7 @@
 title: "Classified Billing Lifetime Deal — $59"
 description: "Tired of chasing payments, juggling clunky invoicing tools, and wasting hours on admin work?Classified Billingis your all-in-one solution to simplify invoicing, get paid faster, and keep your business"
 date: "2026-03-19T16:26:52.713771+00:00"
-lastmod: "2026-03-21T02:06:54.864586+00:00"
+lastmod: "2026-03-25T02:04:40.993866+00:00"
 product_name: "Classified Billing"
 slug: "classified-billing-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Classified_Billing.png?v=1745403042"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.864586+00:00"
-last_updated: "2026-03-21T02:06:54.864586+00:00"
+last_scraped: "2026-03-25T02:04:40.993866+00:00"
+last_updated: "2026-03-25T02:04:40.993866+00:00"
 categories:
   - "Business"
 sources:
@@ -39,7 +39,7 @@ Best for business owners and entrepreneurs who need classified billing capabilit
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "100+Robots and AI Midjourney Prompt Lifetime Deal — $7"
 description: "100+Robots and AI Midjourney Prompt"
 date: "2026-03-19T16:28:02.276600+00:00"
-lastmod: "2026-03-21T02:06:49.410356+00:00"
+lastmod: "2026-03-25T02:04:35.600402+00:00"
 product_name: "100+Robots and AI Midjourney Prompt"
 slug: "100robots-and-ai-midjourney-prompt-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/100Robots-and-AI.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.410356+00:00"
-last_updated: "2026-03-21T02:06:49.410356+00:00"
+last_scraped: "2026-03-25T02:04:35.600402+00:00"
+last_updated: "2026-03-25T02:04:35.600402+00:00"
 categories:
   - "Midjourney Prompts"
 sources:
@@ -40,7 +40,7 @@ Best for midjourney prompts users who need 100+robots and ai midjourney prompt c
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

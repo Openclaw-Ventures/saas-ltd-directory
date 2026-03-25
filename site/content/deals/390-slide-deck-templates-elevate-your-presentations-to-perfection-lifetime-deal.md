@@ -2,7 +2,7 @@
 title: "390+ Slide deck Templates: Elevate Your Presentations to Perfection! Lifetime Deal — $39"
 description: "What you get in this dealCanva Editable Slide Deck TemplatesTransform ideas into visualsAccessible to all skill levelsEnsure consistent flowHurry! Only99Products are left"
 date: "2026-03-19T16:28:01.913683+00:00"
-lastmod: "2026-03-21T02:06:48.966996+00:00"
+lastmod: "2026-03-25T02:04:35.109442+00:00"
 product_name: "390+ Slide deck Templates: Elevate Your Presentations to Perfection!"
 slug: "390-slide-deck-templates-elevate-your-presentations-to-perfection-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 43
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/feature-image-5.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.966996+00:00"
-last_updated: "2026-03-21T02:06:48.966996+00:00"
+last_scraped: "2026-03-25T02:04:35.109442+00:00"
+last_updated: "2026-03-25T02:04:35.109442+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need 390+ slide deck templates: elevate your pr
 At **$39 one-time** vs $69 regular price, you're saving **43%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

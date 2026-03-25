@@ -2,7 +2,7 @@
 title: "120+ Font Big Bundle : By Amin Mario Lifetime Deal — $19"
 description: "What you get in this deal120+ High Quality, Premium FontsLicensed for commercial/personal useUse in videos, social media & for moreNon-RefundableHurry! Only199Licence are left"
 date: "2026-03-19T16:28:03.018628+00:00"
-lastmod: "2026-03-21T02:06:50.267546+00:00"
+lastmod: "2026-03-25T02:04:36.569559+00:00"
 product_name: "120+ Font Big Bundle : By Amin Mario"
 slug: "120-font-big-bundle-by-amin-mario-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2022/11/COVER-120-ALL-FONTS-BUNDLE.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.267546+00:00"
-last_updated: "2026-03-21T02:06:50.267546+00:00"
+last_scraped: "2026-03-25T02:04:36.569559+00:00"
+last_updated: "2026-03-25T02:04:36.569559+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need 120+ font bi
 At **$19 one-time** vs $299 regular price, you're saving **94%** ($280) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

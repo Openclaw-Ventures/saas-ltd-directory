@@ -2,7 +2,7 @@
 title: "Social Media Calendar Masterplan: Build Powerful Personal Brand Lifetime Deal — $15"
 description: "What you get in this deal500Motivational quotes287Engagement Questions987Did you know the factsPeace of mindCompetitive advantage StorageMeaningful connectionsMeaningful connectionsEnthusiastic follow"
 date: "2026-03-19T16:28:04.842728+00:00"
-lastmod: "2026-03-21T02:06:52.125229+00:00"
+lastmod: "2026-03-25T02:04:38.315960+00:00"
 product_name: "Social Media Calendar Masterplan: Build Powerful Personal Brand"
 slug: "social-media-calendar-masterplan-build-powerful-personal-brand-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 10
 image: "https://dealmirror.com/wp-content/uploads/2021/03/SMCM-Feature-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.125229+00:00"
-last_updated: "2026-03-21T02:06:52.125229+00:00"
+last_scraped: "2026-03-25T02:04:38.315960+00:00"
+last_updated: "2026-03-25T02:04:38.315960+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need social media
 At **$15 one-time** vs $103 regular price, you're saving **85%** ($88) compared to buying at full price. That's equivalent to paying just 1.2 months of the regular $9/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

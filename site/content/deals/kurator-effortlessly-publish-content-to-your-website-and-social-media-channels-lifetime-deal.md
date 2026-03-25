@@ -2,7 +2,7 @@
 title: "Kurator: Effortlessly publish content to your website, and social media channels Lifetime Deal — $59"
 description: "Unlimited FoldersUnlimited LinksImport/Export FoldersShared Folders"
 date: "2026-03-19T16:28:02.836842+00:00"
-lastmod: "2026-03-21T02:06:50.062045+00:00"
+lastmod: "2026-03-25T02:04:36.300646+00:00"
 product_name: "Kurator: Effortlessly publish content to your website, and social media channels"
 slug: "kurator-effortlessly-publish-content-to-your-website-and-social-media-channels-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2023/03/optimal-access-feature.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.062045+00:00"
-last_updated: "2026-03-21T02:06:50.062045+00:00"
+last_scraped: "2026-03-25T02:04:36.300646+00:00"
+last_updated: "2026-03-25T02:04:36.300646+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need kurator: eff
 At **$59 one-time** vs $600 regular price, you're saving **90%** ($541) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $50/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

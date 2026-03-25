@@ -2,7 +2,7 @@
 title: "Discountify : Boost Store Conversion with Dynamic Pricing &#038; Advanced Discount Rules Lifetime Deal — $13"
 description: "Fixed/Percentage/Conditional DiscountsDiscount on Total SpendBulk PricingFree Product/Gift"
 date: "2026-03-19T16:28:00.956658+00:00"
-lastmod: "2026-03-21T02:06:48.037579+00:00"
+lastmod: "2026-03-25T02:04:34.316405+00:00"
 product_name: "Discountify : Boost Store Conversion with Dynamic Pricing &#038; Advanced Discount Rules"
 slug: "discountify-boost-store-conversion-with-dynamic-pricing-038-advanced-discount-rules-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 67
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/04/discountify.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.037579+00:00"
-last_updated: "2026-03-21T02:06:48.037579+00:00"
+last_scraped: "2026-03-25T02:04:34.316405+00:00"
+last_updated: "2026-03-25T02:04:34.316405+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need discountify : boost store conversion with 
 At **$13 one-time** vs $39 regular price, you're saving **67%** ($26) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

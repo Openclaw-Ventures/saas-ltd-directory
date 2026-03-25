@@ -2,7 +2,7 @@
 title: "WP Effect : WordPress Multiple Effects Plugin Lifetime Deal Lifetime Deal — $9"
 description: "Customize your WordPress site as per the occasionSelect the effects as per your needCustomizable visual effectsOne-time price"
 date: "2026-03-19T16:27:59.730024+00:00"
-lastmod: "2026-03-21T02:06:46.877383+00:00"
+lastmod: "2026-03-25T02:04:33.141633+00:00"
 product_name: "WP Effect : WordPress Multiple Effects Plugin Lifetime Deal"
 slug: "wp-effect-wordpress-multiple-effects-plugin-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 82
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/11/wp-effect.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.877383+00:00"
-last_updated: "2026-03-21T02:06:46.877383+00:00"
+last_scraped: "2026-03-25T02:04:33.141633+00:00"
+last_updated: "2026-03-25T02:04:33.141633+00:00"
 categories:
   - "30% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 30% off users who need wp effect : wordpress multiple effects plugin li
 At **$9 one-time** vs $49 regular price, you're saving **82%** ($40) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Reporposely Lifetime Deal — $107"
 description: "Turn One Piece of Content Into Dozens of Posts — Without Spending Hours Doing ItEver publish a great blog post, video, or podcast… and then realise you still need to create posts for Twitter, LinkedIn"
 date: "2026-03-19T16:26:52.481280+00:00"
-lastmod: "2026-03-21T02:06:54.652358+00:00"
+lastmod: "2026-03-25T02:04:40.712164+00:00"
 product_name: "Reporposely"
 slug: "reporposely-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 23
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Reporposely1.png?v=1773246990"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.652358+00:00"
-last_updated: "2026-03-21T02:06:54.652358+00:00"
+last_scraped: "2026-03-25T02:04:40.712164+00:00"
+last_updated: "2026-03-25T02:04:40.712164+00:00"
 categories:
   - "AI"
 sources:
@@ -39,7 +39,7 @@ Best for professionals leveraging AI for automation who need reporposely capabil
 At **$107 one-time** vs $139 regular price, you're saving **23%** ($32) compared to buying at full price. That's equivalent to paying just 8.9 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

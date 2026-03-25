@@ -2,7 +2,7 @@
 title: "DupDub : Create engaging content from scratch Lifetime Deal — $69"
 description: "What you get in this deal100K Generation Characters/MUnlimited Preview Voiceovers20+ Professional VoiceCommercial Rights"
 date: "2026-03-19T16:28:01.824145+00:00"
-lastmod: "2026-03-21T02:06:48.887673+00:00"
+lastmod: "2026-03-25T02:04:35.051591+00:00"
 product_name: "DupDub : Create engaging content from scratch"
 slug: "dupdub-create-engaging-content-from-scratch-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 1
 image: "https://dealmirror.com/wp-content/uploads/2023/08/dupdub.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.887673+00:00"
-last_updated: "2026-03-21T02:06:48.887673+00:00"
+last_scraped: "2026-03-25T02:04:35.051591+00:00"
+last_updated: "2026-03-25T02:04:35.051591+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need dupdub : cre
 At **$69 one-time** vs $1320 regular price, you're saving **95%** ($1251) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $110/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

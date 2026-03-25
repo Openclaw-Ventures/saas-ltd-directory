@@ -2,7 +2,7 @@
 title: "LeadClosure : Find Your Targeted leads Lifetime Deal — $29"
 description: "What you get in this dealFor One P.C (For Windows)Unlimited EmailsUnlimited Phone Numbers"
 date: "2026-03-19T16:28:03.245056+00:00"
-lastmod: "2026-03-21T02:06:50.471782+00:00"
+lastmod: "2026-03-25T02:04:36.796308+00:00"
 product_name: "LeadClosure : Find Your Targeted leads"
 slug: "leadclosure-find-your-targeted-leads-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/08/LeadClousure-Lifetime-Deal-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.471782+00:00"
-last_updated: "2026-03-21T02:06:50.471782+00:00"
+last_scraped: "2026-03-25T02:04:36.796308+00:00"
+last_updated: "2026-03-25T02:04:36.796308+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need leadclosure : find your targeted leads cap
 At **$29 one-time** vs $49 regular price, you're saving **41%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

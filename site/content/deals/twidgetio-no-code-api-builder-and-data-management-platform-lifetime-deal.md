@@ -2,7 +2,7 @@
 title: "Twidget.io : No-Code API Builder and Data Management Platform Lifetime Deal — $39"
 description: "1 Workspace5 GB File Storage500 MB Database Storage30k request/month"
 date: "2026-03-19T16:28:00.450320+00:00"
-lastmod: "2026-03-21T02:06:47.551057+00:00"
+lastmod: "2026-03-25T02:04:33.887805+00:00"
 product_name: "Twidget.io : No-Code API Builder and Data Management Platform"
 slug: "twidgetio-no-code-api-builder-and-data-management-platform-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 61
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/05/Twidget.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.551057+00:00"
-last_updated: "2026-03-21T02:06:47.551057+00:00"
+last_scraped: "2026-03-25T02:04:33.887805+00:00"
+last_updated: "2026-03-25T02:04:33.887805+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need twidget.io : no-code api builder and data 
 At **$39 one-time** vs $99 regular price, you're saving **61%** ($60) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

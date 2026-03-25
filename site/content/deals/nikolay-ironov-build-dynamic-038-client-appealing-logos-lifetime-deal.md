@@ -2,7 +2,7 @@
 title: "Nikolay Ironov : Build Dynamic &#038; Client-Appealing Logos Lifetime Deal — $99"
 description: "1 Project999 Unique logo options5 design packsHigh-resolution logo images"
 date: "2026-03-19T16:28:02.958864+00:00"
-lastmod: "2026-03-21T02:06:50.215630+00:00"
+lastmod: "2026-03-25T02:04:36.489178+00:00"
 product_name: "Nikolay Ironov : Build Dynamic &#038; Client-Appealing Logos"
 slug: "nikolay-ironov-build-dynamic-038-client-appealing-logos-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2022/12/ironov-banner.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.215630+00:00"
-last_updated: "2026-03-21T02:06:50.215630+00:00"
+last_scraped: "2026-03-25T02:04:36.489178+00:00"
+last_updated: "2026-03-25T02:04:36.489178+00:00"
 categories:
   - "AI Image Creator"
 sources:
@@ -41,7 +41,7 @@ Best for ai image creator users who need nikolay ironov : build dynamic &#038; c
 At **$99 one-time** vs $210 regular price, you're saving **53%** ($111) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $18/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

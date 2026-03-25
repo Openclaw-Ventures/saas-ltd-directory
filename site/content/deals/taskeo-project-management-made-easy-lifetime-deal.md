@@ -2,7 +2,7 @@
 title: "Taskeo: Project Management Made Easy Lifetime Deal — $39"
 description: "What you get in this dealAutomated Recurring TasksUnlimited projects, workspaces, and tasksPrivate workspaces and projectsHurry! Only00Licence are left"
 date: "2026-03-19T16:28:05.350233+00:00"
-lastmod: "2026-03-21T02:06:52.578077+00:00"
+lastmod: "2026-03-25T02:04:38.714208+00:00"
 product_name: "Taskeo: Project Management Made Easy"
 slug: "taskeo-project-management-made-easy-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 99
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2019/09/feature-image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.578077+00:00"
-last_updated: "2026-03-21T02:06:52.578077+00:00"
+last_scraped: "2026-03-25T02:04:38.714208+00:00"
+last_updated: "2026-03-25T02:04:38.714208+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need taskeo: proj
 At **$39 one-time** vs $2880 regular price, you're saving **99%** ($2841) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $240/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

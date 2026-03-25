@@ -2,7 +2,7 @@
 title: "600+ SEO ChatGPT Prompts Lifetime Deal — $7"
 description: "What you get in this deal600+ SEO ChatGPT PromptsHurry! Only99Licence are left."
 date: "2026-03-19T16:28:00.802892+00:00"
-lastmod: "2026-03-21T02:06:47.911578+00:00"
+lastmod: "2026-03-25T02:04:34.235867+00:00"
 product_name: "600+ SEO ChatGPT Prompts"
 slug: "600-seo-chatgpt-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 93
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/05/600-SEO-ChatGPT-Prompts.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.911578+00:00"
-last_updated: "2026-03-21T02:06:47.911578+00:00"
+last_scraped: "2026-03-25T02:04:34.235867+00:00"
+last_updated: "2026-03-25T02:04:34.235867+00:00"
 categories:
   - "Creative Market's Top Trends"
 sources:
@@ -40,7 +40,7 @@ Best for creative market's top trends users who need 600+ seo chatgpt prompts ca
 At **$7 one-time** vs $99 regular price, you're saving **93%** ($92) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

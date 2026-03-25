@@ -2,7 +2,7 @@
 title: "9000+ Social Media Canva Templates Bundle Lifetime Deal — $29"
 description: "What you get in this dealTemplates on Various Categories19 Modules to be Edited Using CanvaCovering Various NichesHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.769314+00:00"
-lastmod: "2026-03-21T02:06:49.931946+00:00"
+lastmod: "2026-03-25T02:04:36.176334+00:00"
 product_name: "9000+ Social Media Canva Templates Bundle"
 slug: "9000-social-media-canva-templates-bundle-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 81
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/04/social-media-canva-2.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.931946+00:00"
-last_updated: "2026-03-21T02:06:49.931946+00:00"
+last_scraped: "2026-03-25T02:04:36.176334+00:00"
+last_updated: "2026-03-25T02:04:36.176334+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need 9000+ social
 At **$29 one-time** vs $149 regular price, you're saving **81%** ($120) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

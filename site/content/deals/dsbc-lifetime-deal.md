@@ -2,7 +2,7 @@
 title: "DSBC Lifetime Deal — $32"
 description: "Get DSBC lifetime deal at a discounted price."
 date: "2026-03-19T16:28:05.686869+00:00"
-lastmod: "2026-03-21T02:06:52.852797+00:00"
+lastmod: "2026-03-25T02:04:39.025244+00:00"
 product_name: "DSBC"
 slug: "dsbc-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 96
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2019/03/storyboardthat.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.852797+00:00"
-last_updated: "2026-03-21T02:06:52.852797+00:00"
+last_scraped: "2026-03-25T02:04:39.025244+00:00"
+last_updated: "2026-03-25T02:04:39.025244+00:00"
 sources:
   - "dealmirror"
 ---
@@ -37,7 +37,7 @@ Best for businesses looking for specialized software tools who need dsbc capabil
 At **$32 one-time** vs $780 regular price, you're saving **96%** ($748) compared to buying at full price. That's equivalent to paying just 2.7 months of the regular $65/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

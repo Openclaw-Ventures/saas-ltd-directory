@@ -2,7 +2,7 @@
 title: "Creative Graphic Paper Textures Bundle Lifetime Deal — $25"
 description: "Get Creative Graphic Paper Textures Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.725268+00:00"
-lastmod: "2026-03-21T02:05:46.211494+00:00"
+lastmod: "2026-03-25T02:03:30.624237+00:00"
 product_name: "Creative Graphic Paper Textures Bundle"
 slug: "creative-graphic-paper-textures-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 75
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Creative-Graphic-Paper-Textures-Bundle-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.211494+00:00"
-last_updated: "2026-03-21T02:05:46.211494+00:00"
+last_scraped: "2026-03-25T02:03:30.624237+00:00"
+last_updated: "2026-03-25T02:03:30.624237+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need creative graphic paper textures bundle capabili
 At **$25 one-time** vs $99 regular price, you're saving **75%** ($74) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

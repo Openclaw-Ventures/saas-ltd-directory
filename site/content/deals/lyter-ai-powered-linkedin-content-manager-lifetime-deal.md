@@ -2,7 +2,7 @@
 title: "Lyter: AI-Powered LinkedIn Content Manager Lifetime Deal — $199"
 description: "Lyter Lifetime DealManaging a strong LinkedIn presence can lead to hours on time invested in generating ideas, writing content, selecting the perfect time, and more.And if you are also struggling to s"
 date: "2026-03-19T16:27:59.200824+00:00"
-lastmod: "2026-03-21T02:06:46.391770+00:00"
+lastmod: "2026-03-25T02:04:32.569362+00:00"
 product_name: "Lyter: AI-Powered LinkedIn Content Manager"
 slug: "lyter-ai-powered-linkedin-content-manager-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2025/07/Lyter-Feature-Image-768x657-1.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.391770+00:00"
-last_updated: "2026-03-21T02:06:46.391770+00:00"
+last_scraped: "2026-03-25T02:04:32.569362+00:00"
+last_updated: "2026-03-25T02:04:32.569362+00:00"
 categories:
   - "20% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 20% off users who need lyter: ai-powered linkedin content manager capab
 At **$199 one-time** vs $1078 regular price, you're saving **82%** ($879) compared to buying at full price. That's equivalent to paying just 16.6 months of the regular $90/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Ebookany Lifetime Deal — $69"
 description: "Drowning in useful content but can't keep track of it all?The internet is full of blogs, articles, and docs worth saving—but they’re scattered and easy to lose"
 date: "2026-03-19T16:26:52.707041+00:00"
-lastmod: "2026-03-21T02:06:54.857821+00:00"
+lastmod: "2026-03-25T02:04:40.981978+00:00"
 product_name: "Ebookany"
 slug: "ebookany-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 54
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/ebookany.png?v=1746543489"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.857821+00:00"
-last_updated: "2026-03-21T02:06:54.857821+00:00"
+last_scraped: "2026-03-25T02:04:40.981978+00:00"
+last_updated: "2026-03-25T02:04:40.981978+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$69 one-time** vs $149 regular price, you're saving **54%** ($80) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal
@@ -54,4 +54,4 @@ Looking for similar tools? Check out these deals:
 
 - [Shareables](/deals/shareables-lifetime-deal/) — $59 (39% off)
 - [Documentation.AI](/deals/documentationai-lifetime-deal/) — $69 (80% off)
-- [Journal it!](/deals/journal-it-lifetime-deal/) — $39 (61% off)
+- [TinyCommand](/deals/tinycommand-lifetime-deal/) — $79 (66% off)

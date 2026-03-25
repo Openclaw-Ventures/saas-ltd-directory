@@ -2,7 +2,7 @@
 title: "ChatGPT Master Excel : Boost Your Excel Skill Lifetime Deal — $7"
 description: "What you get in this dealChatGPT Master Excel"
 date: "2026-03-19T16:28:00.872136+00:00"
-lastmod: "2026-03-21T02:06:47.971152+00:00"
+lastmod: "2026-03-25T02:04:34.267408+00:00"
 product_name: "ChatGPT Master Excel : Boost Your Excel Skill"
 slug: "chatgpt-master-excel-boost-your-excel-skill-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 93
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/ChatGPT-Master-Excel-.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.971152+00:00"
-last_updated: "2026-03-21T02:06:47.971152+00:00"
+last_scraped: "2026-03-25T02:04:34.267408+00:00"
+last_updated: "2026-03-25T02:04:34.267408+00:00"
 categories:
   - "GPT Prompt"
 sources:
@@ -40,7 +40,7 @@ Best for gpt prompt users who need chatgpt master excel : boost your excel skill
 At **$7 one-time** vs $99 regular price, you're saving **93%** ($92) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

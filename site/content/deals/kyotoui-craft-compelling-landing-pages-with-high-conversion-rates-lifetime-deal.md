@@ -2,7 +2,7 @@
 title: "KyotoUI : Craft Compelling Landing Pages With High Conversion Rates Lifetime Deal — $40"
 description: "500+ Components & Variants250+ Global Color & Text StylesSingle-User License"
 date: "2026-03-19T16:28:01.161227+00:00"
-lastmod: "2026-03-21T02:06:48.205266+00:00"
+lastmod: "2026-03-25T02:04:34.466798+00:00"
 product_name: "KyotoUI : Craft Compelling Landing Pages With High Conversion Rates"
 slug: "kyotoui-craft-compelling-landing-pages-with-high-conversion-rates-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2023/12/Kyoto-ui-banner.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.205266+00:00"
-last_updated: "2026-03-21T02:06:48.205266+00:00"
+last_scraped: "2026-03-25T02:04:34.466798+00:00"
+last_updated: "2026-03-25T02:04:34.466798+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need kyotoui : craft compelling landing pages with 
 At **$40 one-time** vs $70 regular price, you're saving **43%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

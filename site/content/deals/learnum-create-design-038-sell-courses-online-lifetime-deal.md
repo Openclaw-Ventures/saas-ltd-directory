@@ -2,7 +2,7 @@
 title: "Learnum : Create, Design &#038; Sell Courses Online Lifetime Deal — $49"
 description: "What you get in this deal5 WebsitesUnlimited Courses & LessonsSite & Course BuilderCustom DomainHurry! Only00Licence are left"
 date: "2026-03-19T16:28:03.501469+00:00"
-lastmod: "2026-03-21T02:06:50.677478+00:00"
+lastmod: "2026-03-25T02:04:36.974353+00:00"
 product_name: "Learnum : Create, Design &#038; Sell Courses Online"
 slug: "learnum-create-design-038-sell-courses-online-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2022/04/learnum-lifetime-deal-feature-image-5.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.677478+00:00"
-last_updated: "2026-03-21T02:06:50.677478+00:00"
+last_scraped: "2026-03-25T02:04:36.974353+00:00"
+last_updated: "2026-03-25T02:04:36.974353+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need learnum : create, design &#038; sell cours
 At **$49 one-time** vs $999 regular price, you're saving **95%** ($950) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $83/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

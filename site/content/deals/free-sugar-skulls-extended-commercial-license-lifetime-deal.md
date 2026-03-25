@@ -2,7 +2,7 @@
 title: "Free Sugar Skulls | Extended Commercial License Lifetime Deal"
 description: "Get Free Sugar Skulls | Extended Commercial License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.096419+00:00"
-lastmod: "2026-03-21T02:05:46.621745+00:00"
+lastmod: "2026-03-25T02:03:30.978506+00:00"
 product_name: "Free Sugar Skulls | Extended Commercial License"
 slug: "free-sugar-skulls-extended-commercial-license-lifetime-deal"
 source: "dealfuel"
@@ -13,8 +13,8 @@ price_original: 15.0
 price_currency: "USD"
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/sugar-skulls2-preview-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.621745+00:00"
-last_updated: "2026-03-21T02:05:46.621745+00:00"
+last_scraped: "2026-03-25T02:03:30.978506+00:00"
+last_updated: "2026-03-25T02:03:30.978506+00:00"
 categories:
   - "Affinity"
 sources:
@@ -32,7 +32,7 @@ sources:
 Best for affinity users who need free sugar skulls | extended commercial license capabilities.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "AI Mentions Lifetime Deal — $59"
 description: "What if you couldsee exactly how ChatGPT, Claude, Gemini, and other AI models talk about your brand—without running a single manual search?AI Mentionsgives you a simple, smart way to understand your v"
 date: "2026-03-19T16:26:52.617287+00:00"
-lastmod: "2026-03-21T02:06:54.764345+00:00"
+lastmod: "2026-03-25T02:04:40.832430+00:00"
 product_name: "AI Mentions"
 slug: "ai-mentions-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 40
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Ai_Mentions.png?v=1763802670"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.764345+00:00"
-last_updated: "2026-03-21T02:06:54.764345+00:00"
+last_scraped: "2026-03-25T02:04:40.832430+00:00"
+last_updated: "2026-03-25T02:04:40.832430+00:00"
 categories:
   - "AI"
 sources:
@@ -39,7 +39,7 @@ Best for professionals leveraging AI for automation who need ai mentions capabil
 At **$59 one-time** vs $99 regular price, you're saving **40%** ($40) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

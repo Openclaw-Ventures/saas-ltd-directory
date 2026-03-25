@@ -2,7 +2,7 @@
 title: "Learnitive Lifetime Deal — $49"
 description: "Dealify EXCLUSIVE!Learnitiveis an interactive platform powered by AI for academics, copywriters, and education organizations"
 date: "2026-03-19T16:26:52.981169+00:00"
-lastmod: "2026-03-21T02:06:55.135489+00:00"
+lastmod: "2026-03-25T02:04:41.331200+00:00"
 product_name: "Learnitive"
 slug: "learnitive-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Learnitive-1_jpg.webp?v=1733000667"
 deal_active: true
-last_scraped: "2026-03-21T02:06:55.135489+00:00"
-last_updated: "2026-03-21T02:06:55.135489+00:00"
+last_scraped: "2026-03-25T02:04:41.331200+00:00"
+last_updated: "2026-03-25T02:04:41.331200+00:00"
 categories:
   - "AI"
 sources:
@@ -39,7 +39,7 @@ Best for professionals leveraging AI for automation who need learnitive capabili
 At **$49 one-time** vs $500 regular price, you're saving **90%** ($451) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

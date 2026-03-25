@@ -2,7 +2,7 @@
 title: "Keeprix: All-in-One OTT Video Downloader, Save Streaming Videos Easily Lifetime Deal — $127"
 description: "Keeprix Lifetime DealHave you ever been excited to watch your favourite show or a cool video, but then you couldn’t because there was no internet? Maybe you were in the car, on a bus, or just somewher"
 date: "2026-03-19T16:27:58.782894+00:00"
-lastmod: "2026-03-21T02:06:46.104709+00:00"
+lastmod: "2026-03-25T02:04:32.160991+00:00"
 product_name: "Keeprix: All-in-One OTT Video Downloader, Save Streaming Videos Easily"
 slug: "keeprix-all-in-one-ott-video-downloader-save-streaming-videos-easily-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/11/Keeprix-Images.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.104709+00:00"
-last_updated: "2026-03-21T02:06:46.104709+00:00"
+last_scraped: "2026-03-25T02:04:32.160991+00:00"
+last_updated: "2026-03-25T02:04:32.160991+00:00"
 categories:
   - "15% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 15% off users who need keeprix: all-in-one ott video downloader, save s
 At **$127 one-time** vs $1270 regular price, you're saving **90%** ($1143) compared to buying at full price. That's equivalent to paying just 10.6 months of the regular $106/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

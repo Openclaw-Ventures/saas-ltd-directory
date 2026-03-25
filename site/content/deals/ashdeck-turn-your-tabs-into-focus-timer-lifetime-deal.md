@@ -2,7 +2,7 @@
 title: "Ashdeck: Turn Your Tabs Into Focus Timer Lifetime Deal — $74"
 description: "Ashdeck Lifetime DealWhen you open your browser for work, do you often find yourself overwhelmed by numerous tabs, notifications, and endless scrolling? Does managing multiple tasks, context-switching"
 date: "2026-03-19T16:27:58.413563+00:00"
-lastmod: "2026-03-21T02:06:45.802682+00:00"
+lastmod: "2026-03-25T02:04:31.890477+00:00"
 product_name: "Ashdeck: Turn Your Tabs Into Focus Timer"
 slug: "ashdeck-turn-your-tabs-into-focus-timer-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 30
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2026/03/Ashdeck-Turn-Your-Tabs-Into-Focus-Timer.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:45.802682+00:00"
-last_updated: "2026-03-21T02:06:45.802682+00:00"
+last_scraped: "2026-03-25T02:04:31.890477+00:00"
+last_updated: "2026-03-25T02:04:31.890477+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need ashdeck: tur
 At **$74 one-time** vs $105 regular price, you're saving **30%** ($32) compared to buying at full price. That's equivalent to paying just 6.1 months of the regular $9/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

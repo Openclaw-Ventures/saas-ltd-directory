@@ -2,7 +2,7 @@
 title: "AdPeekr Lifetime Deal — $59"
 description: "Are your competitors quietly testing new Facebook and Instagram campaigns while you only spot them weeks later in the Ad Library?AdPeekrgives you alive radar for their paid ads, sending instant alerts"
 date: "2026-03-19T16:26:52.604600+00:00"
-lastmod: "2026-03-21T02:06:54.747098+00:00"
+lastmod: "2026-03-25T02:04:40.811245+00:00"
 product_name: "AdPeekr"
 slug: "adpeekr-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/AdPeekr.png?v=1763045058"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.747098+00:00"
-last_updated: "2026-03-21T02:06:54.747098+00:00"
+last_scraped: "2026-03-25T02:04:40.811245+00:00"
+last_updated: "2026-03-25T02:04:40.811245+00:00"
 categories:
   - "Sales & Marketing"
 sources:
@@ -39,7 +39,7 @@ Best for sales and marketing professionals who need adpeekr capabilities.
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

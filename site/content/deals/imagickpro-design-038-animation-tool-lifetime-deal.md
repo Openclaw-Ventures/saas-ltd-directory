@@ -2,7 +2,7 @@
 title: "ImagickPro : Design &#038; Animation Tool Lifetime Deal — $55"
 description: "What you get in this deal500+ design templatesRemove photo backdropCreate/Save unlimited designsExport video, GIF, APNGHurry! Only199Licence are left"
 date: "2026-03-19T16:28:03.059233+00:00"
-lastmod: "2026-03-21T02:06:50.304897+00:00"
+lastmod: "2026-03-25T02:04:36.612991+00:00"
 product_name: "ImagickPro : Design &#038; Animation Tool"
 slug: "imagickpro-design-038-animation-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/11/imagicpro.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.304897+00:00"
-last_updated: "2026-03-21T02:06:50.304897+00:00"
+last_scraped: "2026-03-25T02:04:36.612991+00:00"
+last_updated: "2026-03-25T02:04:36.612991+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need imagickpro :
 At **$55 one-time** vs $350 regular price, you're saving **84%** ($295) compared to buying at full price. That's equivalent to paying just 4.6 months of the regular $29/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Image Shadow Generator for Web Frames Lifetime Deal — $1"
 description: "Get Image Shadow Generator for Web Frames lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.045600+00:00"
-lastmod: "2026-03-21T02:05:46.563455+00:00"
+lastmod: "2026-03-25T02:03:30.939121+00:00"
 product_name: "Image Shadow Generator for Web Frames"
 slug: "image-shadow-generator-for-web-frames-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Image-Shadow-Generator-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.563455+00:00"
-last_updated: "2026-03-21T02:05:46.563455+00:00"
+last_scraped: "2026-03-25T02:03:30.939121+00:00"
+last_updated: "2026-03-25T02:03:30.939121+00:00"
 categories:
   - "Photoshop Actions"
 sources:
@@ -38,7 +38,7 @@ Best for photoshop actions users who need image shadow generator for web frames 
 At **$1 one-time** vs $10 regular price, you're saving **90%** ($9) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Free ChatGPT Master Excel : Boost Your Excel Skill Lifetime Deal"
 description: "What you get in this dealChatGPT Master Excel"
 date: "2026-03-19T16:28:02.652412+00:00"
-lastmod: "2026-03-21T02:06:49.761315+00:00"
+lastmod: "2026-03-25T02:04:36.004662+00:00"
 product_name: "Free ChatGPT Master Excel : Boost Your Excel Skill"
 slug: "free-chatgpt-master-excel-boost-your-excel-skill-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 100
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/ChatGPT-Master-Excel-free-offer.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.761315+00:00"
-last_updated: "2026-03-21T02:06:49.761315+00:00"
+last_scraped: "2026-03-25T02:04:36.004662+00:00"
+last_updated: "2026-03-25T02:04:36.004662+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -35,7 +35,7 @@ What you get in this dealChatGPT Master Excel
 Best for expired deals users who need free chatgpt master excel : boost your excel skill capabilities — What you get in this dealChatGPT Master Excel.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

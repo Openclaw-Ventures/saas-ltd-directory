@@ -19,7 +19,7 @@ Comparing two audio lifetime deals to help you make the right choice.
 | **LTD Price** | $59 | $39 |
 | **Regular Price** | $144 | $95 |
 | **Discount** | 59% | 59% |
-| **Rating** | 4.63/5 (109 reviews) | 4.82/5 (67 reviews) |
+| **Rating** | 4.57/5 (127 reviews) | 4.82/5 (68 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | Audio | Audio |
 

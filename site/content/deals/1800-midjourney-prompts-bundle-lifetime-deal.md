@@ -2,7 +2,7 @@
 title: "1800 Midjourney Prompts Bundle Lifetime Deal — $39"
 description: "1800 Midjourney Prompts Bundle"
 date: "2026-03-19T16:28:01.570722+00:00"
-lastmod: "2026-03-21T02:06:48.689212+00:00"
+lastmod: "2026-03-25T02:04:34.871424+00:00"
 product_name: "1800 Midjourney Prompts Bundle"
 slug: "1800-midjourney-prompts-bundle-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 65
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/mid-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.689212+00:00"
-last_updated: "2026-03-21T02:06:48.689212+00:00"
+last_scraped: "2026-03-25T02:04:34.871424+00:00"
+last_updated: "2026-03-25T02:04:34.871424+00:00"
 categories:
   - "50% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 50% off users who need 1800 midjourney prompts bundle capabilities — 
 At **$39 one-time** vs $112 regular price, you're saving **65%** ($73) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $9/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

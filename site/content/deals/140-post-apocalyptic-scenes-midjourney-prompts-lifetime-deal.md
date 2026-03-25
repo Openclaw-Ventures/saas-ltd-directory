@@ -2,7 +2,7 @@
 title: "140+ Post-Apocalyptic Scenes Midjourney Prompts Lifetime Deal — $7"
 description: "140+ Post-Apocalyptic Scenes Midjourney Prompts"
 date: "2026-03-19T16:28:02.234196+00:00"
-lastmod: "2026-03-21T02:06:49.368382+00:00"
+lastmod: "2026-03-25T02:04:35.531799+00:00"
 product_name: "140+ Post-Apocalyptic Scenes Midjourney Prompts"
 slug: "140-post-apocalyptic-scenes-midjourney-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/140-Post-Apocalyptic-Scenes.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.368382+00:00"
-last_updated: "2026-03-21T02:06:49.368382+00:00"
+last_scraped: "2026-03-25T02:04:35.531799+00:00"
+last_updated: "2026-03-25T02:04:35.531799+00:00"
 categories:
   - "Midjourney Prompts"
 sources:
@@ -40,7 +40,7 @@ Best for midjourney prompts users who need 140+ post-apocalyptic scenes midjourn
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

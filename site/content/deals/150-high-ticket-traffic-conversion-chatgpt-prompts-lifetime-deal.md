@@ -2,7 +2,7 @@
 title: "150+ High ticket Traffic Conversion ChatGPT Prompts Lifetime Deal — $7"
 description: "150+ High ticket Traffic Conversion ChatGPT Prompts"
 date: "2026-03-19T16:28:00.755133+00:00"
-lastmod: "2026-03-21T02:06:47.866319+00:00"
+lastmod: "2026-03-25T02:04:34.203421+00:00"
 product_name: "150+ High ticket Traffic Conversion ChatGPT Prompts"
 slug: "150-high-ticket-traffic-conversion-chatgpt-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/150-High-Traffic-Tickets.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.866319+00:00"
-last_updated: "2026-03-21T02:06:47.866319+00:00"
+last_scraped: "2026-03-25T02:04:34.203421+00:00"
+last_updated: "2026-03-25T02:04:34.203421+00:00"
 categories:
   - "GPT Prompt"
 sources:
@@ -40,7 +40,7 @@ Best for gpt prompt users who need 150+ high ticket traffic conversion chatgpt p
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

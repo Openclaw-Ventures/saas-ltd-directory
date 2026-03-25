@@ -2,7 +2,7 @@
 title: "NotePad : Note Taking App Lifetime Deal Lifetime Deal — $29"
 description: "50 GB cloud storageUnlimited notes, photos and websUnlimited AI assistsWorkspace and Collaboration"
 date: "2026-03-19T16:28:01.058026+00:00"
-lastmod: "2026-03-21T02:06:48.101932+00:00"
+lastmod: "2026-03-25T02:04:34.366285+00:00"
 product_name: "NotePad : Note Taking App Lifetime Deal"
 slug: "notepad-note-taking-app-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2024/03/notepad-banner.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.101932+00:00"
-last_updated: "2026-03-21T02:06:48.101932+00:00"
+last_scraped: "2026-03-25T02:04:34.366285+00:00"
+last_updated: "2026-03-25T02:04:34.366285+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -41,7 +41,7 @@ Best for professionals leveraging AI for automation who need notepad : note taki
 At **$29 one-time** vs $290 regular price, you're saving **90%** ($261) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $24/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

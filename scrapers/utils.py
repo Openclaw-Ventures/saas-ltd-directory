@@ -40,24 +40,62 @@ def random_delay(min_sec=1, max_sec=3):
 
 def build_affiliate_url(source_url, source, partner_ids=None):
     """Build affiliate URL with tracking parameters.
-    
-    partner_ids: dict of network -> partner_id
+
+    Supported sources: appsumo, dealmirror, dealfuel, dealify,
+    monday, brevo, kit, apollo, gorgias, default.
+
+    partner_ids: dict of source -> partner_id (loaded from env if not provided).
     Returns source_url with affiliate params appended.
+
+    NOTE: PartnerStack rejected 2026-03-24 — migrated to direct programs.
+    To activate a direct program, set the corresponding env var once Jaisev
+    receives approval and update the placeholder value below.
     """
     import os
     if partner_ids is None:
         partner_ids = {
+            # Primary
             "appsumo": os.environ.get("APPSUMO_IMPACT_ID", "placeholder_impact_id"),
-            "partnerstack": os.environ.get("PARTNERSTACK_KEY", "placeholder_ps_key"),
+            # Direct vendor programs (replaces PartnerStack — see direct-affiliate-research.md)
+            "monday": os.environ.get("MONDAY_AFFILIATE_ID", ""),
+            "brevo": os.environ.get("BREVO_AFFILIATE_ID", ""),
+            "kit": os.environ.get("KIT_AFFILIATE_ID", ""),
+            "apollo": os.environ.get("APOLLO_AFFILIATE_ID", ""),
+            "gorgias": os.environ.get("GORGIAS_AFFILIATE_ID", ""),  # deferred
+            # Fallback
             "default_ref": os.environ.get("DEFAULT_REF", "saasltddir"),
         }
 
     separator = "&" if "?" in source_url else "?"
+    ref = partner_ids.get("default_ref", "saasltddir")
 
     if source == "appsumo":
-        # Impact.com handles tracking via their pixel, but we add a ref param
-        return f"{source_url}{separator}ref={partner_ids.get('default_ref', 'saasltddir')}"
-    elif source == "partnerstack":
-        return f"{source_url}{separator}ps_partner_key={partner_ids.get('partnerstack', '')}&ps_xid=saasltddir"
+        # Impact.com tracking pixel handles attribution; ref param for fallback tracking
+        return f"{source_url}{separator}ref={ref}"
+    elif source == "monday":
+        partner_id = partner_ids.get("monday", "")
+        if partner_id:
+            return f"{source_url}{separator}ref={partner_id}"
+        return f"{source_url}{separator}ref={ref}"
+    elif source == "brevo":
+        partner_id = partner_ids.get("brevo", "")
+        if partner_id:
+            return f"{source_url}{separator}fpr={partner_id}"
+        return f"{source_url}{separator}ref={ref}"
+    elif source == "kit":
+        partner_id = partner_ids.get("kit", "")
+        if partner_id:
+            return f"{source_url}{separator}lmref={partner_id}"
+        return f"{source_url}{separator}ref={ref}"
+    elif source == "apollo":
+        partner_id = partner_ids.get("apollo", "")
+        if partner_id:
+            return f"{source_url}{separator}ref={partner_id}"
+        return f"{source_url}{separator}ref={ref}"
+    elif source == "gorgias":
+        partner_id = partner_ids.get("gorgias", "")
+        if partner_id:
+            return f"{source_url}{separator}ref={partner_id}"
+        return f"{source_url}{separator}ref={ref}"
     else:
-        return f"{source_url}{separator}ref={partner_ids.get('default_ref', 'saasltddir')}"
+        return f"{source_url}{separator}ref={ref}"

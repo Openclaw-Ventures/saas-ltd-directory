@@ -2,7 +2,7 @@
 title: "LoopCV : The first job search automation platform Lifetime Deal — $39"
 description: "30+ Integrated PlatformsAutomated Email FinderAuto-Apply To New JobsAPI Available"
 date: "2026-03-19T16:28:03.737732+00:00"
-lastmod: "2026-03-21T02:06:50.902643+00:00"
+lastmod: "2026-03-25T02:04:37.203531+00:00"
 product_name: "LoopCV : The first job search automation platform"
 slug: "loopcv-the-first-job-search-automation-platform-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 7
 image: "https://dealmirror.com/wp-content/uploads/2022/02/loopcv-banner-image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.902643+00:00"
-last_updated: "2026-03-21T02:06:50.902643+00:00"
+last_scraped: "2026-03-25T02:04:37.203531+00:00"
+last_updated: "2026-03-25T02:04:37.203531+00:00"
 categories:
   - "AI Automation"
 sources:
@@ -41,7 +41,7 @@ Best for ai automation users who need loopcv : the first job search automation p
 At **$39 one-time** vs $367 regular price, you're saving **89%** ($328) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $31/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

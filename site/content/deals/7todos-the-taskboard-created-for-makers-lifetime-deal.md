@@ -2,7 +2,7 @@
 title: "7todos : The Taskboard Created For Makers Lifetime Deal — $20"
 description: "What you get in this deal7 WorkspacesEmail NotificationsAnalyticsShared workspacesAPI AccessChrome ExtensionZapier Integration"
 date: "2026-03-19T16:28:02.993583+00:00"
-lastmod: "2026-03-21T02:06:50.245718+00:00"
+lastmod: "2026-03-25T02:04:36.538372+00:00"
 product_name: "7todos : The Taskboard Created For Makers"
 slug: "7todos-the-taskboard-created-for-makers-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 4.5
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2022/11/todos.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.245718+00:00"
-last_updated: "2026-03-21T02:06:50.245718+00:00"
+last_scraped: "2026-03-25T02:04:36.538372+00:00"
+last_updated: "2026-03-25T02:04:36.538372+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need 7todos : the taskboard created for makers 
 At **$20 one-time** vs $120 regular price, you're saving **83%** ($100) compared to buying at full price. That's equivalent to paying just 1.7 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

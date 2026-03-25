@@ -2,7 +2,7 @@
 title: "FlowVid : Turn Prompts into Viral Short Videos Lifetime Deal — $59"
 description: "FlowVidLifetime DealAre you also using five different text-to-video generator ai tool to make one short video, writing scripts, hiring voice talent, licensing music, timing captions, and resizing for "
 date: "2026-03-19T16:27:58.971427+00:00"
-lastmod: "2026-03-21T02:06:46.261004+00:00"
+lastmod: "2026-03-25T02:04:32.328312+00:00"
 product_name: "FlowVid : Turn Prompts into Viral Short Videos"
 slug: "flowvid-turn-prompts-into-viral-short-videos-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 4.86
 review_count: 7
 image: "https://dealmirror.com/wp-content/uploads/2025/10/FlowVid-Turn-Prompts-into-Viral-Short-Videos.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.261004+00:00"
-last_updated: "2026-03-21T02:06:46.261004+00:00"
+last_scraped: "2026-03-25T02:04:32.328312+00:00"
+last_updated: "2026-03-25T02:04:32.328312+00:00"
 categories:
   - "AI marketing"
 sources:
@@ -41,7 +41,7 @@ Best for ai marketing users who need flowvid : turn prompts into viral short vid
 At **$59 one-time** vs $79 regular price, you're saving **25%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

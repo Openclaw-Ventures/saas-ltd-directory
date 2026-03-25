@@ -2,7 +2,7 @@
 title: "AllInvestView: All-in-One Investment Tracker for Stocks, Crypto, ETFs, Bonds &#038; Dividends Lifetime Deal — $249"
 description: "Unlimited HoldingsUnlimited Portfolios+30y Performance TrackingWeekly summary emails"
 date: "2026-03-19T16:27:59.588711+00:00"
-lastmod: "2026-03-21T02:06:46.742384+00:00"
+lastmod: "2026-03-25T02:04:32.982843+00:00"
 product_name: "AllInvestView: All-in-One Investment Tracker for Stocks, Crypto, ETFs, Bonds &#038; Dividends"
 slug: "allinvestview-all-in-one-investment-tracker-for-stocks-crypto-etfs-bonds-038-dividends-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 37
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/11/AllInvestView.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.742384+00:00"
-last_updated: "2026-03-21T02:06:46.742384+00:00"
+last_scraped: "2026-03-25T02:04:32.982843+00:00"
+last_updated: "2026-03-25T02:04:32.982843+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -40,7 +40,7 @@ Best for professionals leveraging AI for automation who need allinvestview: all-
 At **$249 one-time** vs $397 regular price, you're saving **37%** ($148) compared to buying at full price. That's equivalent to paying just 20.8 months of the regular $33/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

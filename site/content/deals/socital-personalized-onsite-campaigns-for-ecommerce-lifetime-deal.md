@@ -2,7 +2,7 @@
 title: "Socital: Personalized Onsite Campaigns For ecommerce Lifetime Deal — $95"
 description: "What you get in this dealReportingSeasonal CampaignsTargeted Exit PopupsIncrease Email/Subscriber ListCart Abandonment CampaignsUnlimited simultaneously popupsUnlimited team members & adminsLifetime U"
 date: "2026-03-19T16:28:05.160746+00:00"
-lastmod: "2026-03-21T02:06:52.390368+00:00"
+lastmod: "2026-03-25T02:04:38.569113+00:00"
 product_name: "Socital: Personalized Onsite Campaigns For ecommerce"
 slug: "socital-personalized-onsite-campaigns-for-ecommerce-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2019/10/Feature-images3.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.390368+00:00"
-last_updated: "2026-03-21T02:06:52.390368+00:00"
+last_scraped: "2026-03-25T02:04:38.569113+00:00"
+last_updated: "2026-03-25T02:04:38.569113+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need socital: per
 At **$95 one-time** vs $1140 regular price, you're saving **92%** ($1045) compared to buying at full price. That's equivalent to paying just 7.9 months of the regular $95/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

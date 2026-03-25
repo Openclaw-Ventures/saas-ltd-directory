@@ -2,7 +2,7 @@
 title: "2200 Premium Design Resources | Extended License Lifetime Deal — $16"
 description: "Get 2200 Premium Design Resources | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.898943+00:00"
-lastmod: "2026-03-21T02:05:46.378453+00:00"
+lastmod: "2026-03-25T02:03:30.779130+00:00"
 product_name: "2200 Premium Design Resources | Extended License"
 slug: "2200-premium-design-resources-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 95
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/2200-mega-bundle-revised-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.378453+00:00"
-last_updated: "2026-03-21T02:05:46.378453+00:00"
+last_scraped: "2026-03-25T02:03:30.779130+00:00"
+last_updated: "2026-03-25T02:03:30.779130+00:00"
 categories:
   - "Graphic Design Resources"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources users who need 2200 premium design resources |
 At **$16 one-time** vs $321 regular price, you're saving **95%** ($305) compared to buying at full price. That's equivalent to paying just 1.3 months of the regular $27/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "InvoiceDeck: Generate Professional Invoices in Seconds Lifetime Deal — $29"
 description: "InvoiceDeck Lifetime DealEver stared at a blank invoice and thought, “Why is this so hard?” Maybe you’ve chased clients for payments, fixed silly invoice mistakes, or spent way too much time using con"
 date: "2026-03-19T16:27:58.609986+00:00"
-lastmod: "2026-03-21T02:06:45.962601+00:00"
+lastmod: "2026-03-25T02:04:32.021537+00:00"
 product_name: "InvoiceDeck: Generate Professional Invoices in Seconds"
 slug: "invoicedeck-generate-professional-invoices-in-seconds-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2026/01/InvoiceDeck-Generate-Professional-Invoices-in-Seconds.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:45.962601+00:00"
-last_updated: "2026-03-21T02:06:45.962601+00:00"
+last_scraped: "2026-03-25T02:04:32.021537+00:00"
+last_updated: "2026-03-25T02:04:32.021537+00:00"
 categories:
   - "Accounting software"
 sources:
@@ -41,7 +41,7 @@ Best for accounting software users who need invoicedeck: generate professional i
 At **$29 one-time** vs $60 regular price, you're saving **52%** ($31) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

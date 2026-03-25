@@ -2,7 +2,7 @@
 title: "198 Editable Typography Templates Lifetime Deal — $24"
 description: "Get 198 Editable Typography Templates lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.092997+00:00"
-lastmod: "2026-03-21T02:05:46.617231+00:00"
+lastmod: "2026-03-25T02:03:30.975497+00:00"
 product_name: "198 Editable Typography Templates"
 slug: "198-editable-typography-templates-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 99
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/40-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.617231+00:00"
-last_updated: "2026-03-21T02:05:46.617231+00:00"
+last_scraped: "2026-03-25T02:03:30.975497+00:00"
+last_updated: "2026-03-25T02:03:30.975497+00:00"
 categories:
   - "Android"
 sources:
@@ -38,7 +38,7 @@ Best for android users who need 198 editable typography templates capabilities.
 At **$24 one-time** vs $2277 regular price, you're saving **99%** ($2253) compared to buying at full price. That's equivalent to paying just 2.0 months of the regular $190/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

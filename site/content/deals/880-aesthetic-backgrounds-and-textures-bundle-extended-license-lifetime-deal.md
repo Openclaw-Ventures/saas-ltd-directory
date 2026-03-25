@@ -2,7 +2,7 @@
 title: "880+ Aesthetic Backgrounds And Textures Bundle | Extended License Lifetime Deal — $19"
 description: "Get 880+ Aesthetic Backgrounds And Textures Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.864066+00:00"
-lastmod: "2026-03-21T02:05:46.343800+00:00"
+lastmod: "2026-03-25T02:03:30.751183+00:00"
 product_name: "880+ Aesthetic Backgrounds And Textures Bundle | Extended License"
 slug: "880-aesthetic-backgrounds-and-textures-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 97
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/800x500-preview-1-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.343800+00:00"
-last_updated: "2026-03-21T02:05:46.343800+00:00"
+last_scraped: "2026-03-25T02:03:30.751183+00:00"
+last_updated: "2026-03-25T02:03:30.751183+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 880+ aesthetic backgrounds and textures bundle 
 At **$19 one-time** vs $635 regular price, you're saving **97%** ($616) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $53/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

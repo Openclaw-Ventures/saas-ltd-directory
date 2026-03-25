@@ -2,7 +2,7 @@
 title: "Loopin CE : AI Meeting Assistant Lifetime Deal — $45"
 description: "What you get in this dealChrome extensionUnlimited Meetings & History15 AI Meeting Recordings/monthHurry! Only90License are left"
 date: "2026-03-19T16:28:02.751939+00:00"
-lastmod: "2026-03-21T02:06:49.896026+00:00"
+lastmod: "2026-03-25T02:04:36.141612+00:00"
 product_name: "Loopin CE : AI Meeting Assistant"
 slug: "loopin-ce-ai-meeting-assistant-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2023/05/loopin-feature-image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.896026+00:00"
-last_updated: "2026-03-21T02:06:49.896026+00:00"
+last_scraped: "2026-03-25T02:04:36.141612+00:00"
+last_updated: "2026-03-25T02:04:36.141612+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need loopin ce : 
 At **$45 one-time** vs $180 regular price, you're saving **75%** ($135) compared to buying at full price. That's equivalent to paying just 3.8 months of the regular $15/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

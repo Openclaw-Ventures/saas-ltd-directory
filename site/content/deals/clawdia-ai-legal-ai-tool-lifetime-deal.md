@@ -2,7 +2,7 @@
 title: "Clawdia AI : legal ai tool lifetime deal Lifetime Deal — $99"
 description: "Includes All Legal TopicsComprehensive VideosE-sign, share, manage and collaborateUpload external documents"
 date: "2026-03-19T16:28:01.507793+00:00"
-lastmod: "2026-03-21T02:06:48.615458+00:00"
+lastmod: "2026-03-25T02:04:34.787332+00:00"
 product_name: "Clawdia AI : legal ai tool lifetime deal"
 slug: "clawdia-ai-legal-ai-tool-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 41
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/09/Clawdia-feature.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.615458+00:00"
-last_updated: "2026-03-21T02:06:48.615458+00:00"
+last_scraped: "2026-03-25T02:04:34.787332+00:00"
+last_updated: "2026-03-25T02:04:34.787332+00:00"
 categories:
   - "All Deals"
 sources:
@@ -40,7 +40,7 @@ Best for all deals users who need clawdia ai : legal ai tool lifetime deal capab
 At **$99 one-time** vs $168 regular price, you're saving **41%** ($69) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $14/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

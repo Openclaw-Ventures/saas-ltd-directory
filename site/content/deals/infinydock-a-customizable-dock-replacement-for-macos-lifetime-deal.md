@@ -2,7 +2,7 @@
 title: "InfinyDock : A customizable dock replacement for macOS Lifetime Deal — $16"
 description: "PluginsThemes SupportMulti-window managementMultiple Screens"
 date: "2026-03-19T16:28:01.263312+00:00"
-lastmod: "2026-03-21T02:06:48.354158+00:00"
+lastmod: "2026-03-25T02:04:34.585458+00:00"
 product_name: "InfinyDock : A customizable dock replacement for macOS"
 slug: "infinydock-a-customizable-dock-replacement-for-macos-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 30
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/10/infynidock-banner.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.354158+00:00"
-last_updated: "2026-03-21T02:06:48.354158+00:00"
+last_scraped: "2026-03-25T02:04:34.585458+00:00"
+last_updated: "2026-03-25T02:04:34.585458+00:00"
 categories:
   - "All Deals"
 sources:
@@ -40,7 +40,7 @@ Best for all deals users who need infinydock : a customizable dock replacement f
 At **$16 one-time** vs $23 regular price, you're saving **30%** ($7) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

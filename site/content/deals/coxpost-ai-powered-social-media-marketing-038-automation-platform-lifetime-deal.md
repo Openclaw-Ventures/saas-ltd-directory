@@ -2,7 +2,7 @@
 title: "CoxPost: AI-Powered Social Media Marketing &#038; Automation Platform Lifetime Deal — $49"
 description: "Unlimited AI ReplyUnlimited Messenger BotUnlimited Insta Reply BoosterUnlimited WooCommerce Cart Recovery"
 date: "2026-03-19T16:27:59.305642+00:00"
-lastmod: "2026-03-21T02:06:46.462865+00:00"
+lastmod: "2026-03-25T02:04:32.663505+00:00"
 product_name: "CoxPost: AI-Powered Social Media Marketing &#038; Automation Platform"
 slug: "coxpost-ai-powered-social-media-marketing-038-automation-platform-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2025/01/Coxpost3.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.462865+00:00"
-last_updated: "2026-03-21T02:06:46.462865+00:00"
+last_scraped: "2026-03-25T02:04:32.663505+00:00"
+last_updated: "2026-03-25T02:04:32.663505+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need coxpost: ai-powered social media marketing
 At **$49 one-time** vs $199 regular price, you're saving **75%** ($150) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

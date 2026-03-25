@@ -2,7 +2,7 @@
 title: "DUOTONE Particle Photoshop Action | Standard & Extended License Lifetime Deal — $15"
 description: "Get DUOTONE Particle Photoshop Action | Standard & Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.041048+00:00"
-lastmod: "2026-03-21T02:05:46.558725+00:00"
+lastmod: "2026-03-25T02:03:30.935301+00:00"
 product_name: "DUOTONE Particle Photoshop Action | Standard & Extended License"
 slug: "duotone-particle-photoshop-action-standard-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -12,8 +12,8 @@ price_current: 15.0
 price_currency: "USD"
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/DUOTONE-Particle-Photoshop-Action-450x281.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.558725+00:00"
-last_updated: "2026-03-21T02:05:46.558725+00:00"
+last_scraped: "2026-03-25T02:03:30.935301+00:00"
+last_updated: "2026-03-25T02:03:30.935301+00:00"
 categories:
   - "Graphic Design Resources Addons"
 sources:
@@ -36,7 +36,7 @@ Best for graphic design resources addons users who need duotone particle photosh
 Available as a one-time purchase at **$15** — no recurring fees.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "4500_ Infographics_Bundle for Social Media Lifetime Deal — $49"
 description: "What you get in this dealMassive Infographics for Social MediaStunning graphics and fascinating factsEasily edit with canva freeHigh-resolution social media imagesHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.403359+00:00"
-lastmod: "2026-03-21T02:06:49.534400+00:00"
+lastmod: "2026-03-25T02:04:35.749659+00:00"
 product_name: "4500_ Infographics_Bundle for Social Media"
 slug: "4500-infographics-bundle-for-social-media-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 59
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/Feature-Image-4.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.534400+00:00"
-last_updated: "2026-03-21T02:06:49.534400+00:00"
+last_scraped: "2026-03-25T02:04:35.749659+00:00"
+last_updated: "2026-03-25T02:04:35.749659+00:00"
 categories:
   - "Creative Resources"
 sources:
@@ -40,7 +40,7 @@ Best for creative resources users who need 4500_ infographics_bundle for social 
 At **$49 one-time** vs $119 regular price, you're saving **59%** ($70) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

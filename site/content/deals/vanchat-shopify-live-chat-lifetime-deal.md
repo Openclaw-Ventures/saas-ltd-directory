@@ -2,7 +2,7 @@
 title: "VanChat : Shopify Live Chat Lifetime Deal Lifetime Deal — $59"
 description: "AI proactive salesAI order trackingAI agent handoverAI product recommendation"
 date: "2026-03-19T16:27:59.893044+00:00"
-lastmod: "2026-03-21T02:06:47.019529+00:00"
+lastmod: "2026-03-25T02:04:33.293456+00:00"
 product_name: "VanChat : Shopify Live Chat Lifetime Deal"
 slug: "vanchat-shopify-live-chat-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2024/12/vanchat-lifetime-deal.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.019529+00:00"
-last_updated: "2026-03-21T02:06:47.019529+00:00"
+last_scraped: "2026-03-25T02:04:33.293456+00:00"
+last_updated: "2026-03-25T02:04:33.293456+00:00"
 categories:
   - "AI marketing"
 sources:
@@ -41,7 +41,7 @@ Best for ai marketing users who need vanchat : shopify live chat lifetime deal c
 At **$59 one-time** vs $99 regular price, you're saving **40%** ($40) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

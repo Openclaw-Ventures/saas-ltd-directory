@@ -19,7 +19,7 @@ Comparing two calendar & scheduling lifetime deals to help you make the right ch
 | **LTD Price** | $29 | $59 |
 | **Regular Price** | $144 | $360 |
 | **Discount** | 80% | 84% |
-| **Rating** | 4.38/5 (876 reviews) | 4.74/5 (99 reviews) |
+| **Rating** | 4.38/5 (878 reviews) | 4.71/5 (102 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | Calendar & scheduling | Calendar & scheduling |
 

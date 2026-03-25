@@ -2,7 +2,7 @@
 title: "VibeSheet : AI-Powered Google Sheets Coder Lifetime Deal — $119"
 description: "VibeSheetLifetime DealCreating apps, extensions, or automation shouldn’t require a big dev team or months of coding. Traditional IDEs, SaaS tools, and rigid platforms can slow you down — and lock you "
 date: "2026-03-19T16:27:58.997282+00:00"
-lastmod: "2026-03-21T02:06:46.275367+00:00"
+lastmod: "2026-03-25T02:04:32.359248+00:00"
 product_name: "VibeSheet : AI-Powered Google Sheets Coder"
 slug: "vibesheet-ai-powered-google-sheets-coder-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 88
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/09/VibeSheet-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.275367+00:00"
-last_updated: "2026-03-21T02:06:46.275367+00:00"
+last_scraped: "2026-03-25T02:04:32.359248+00:00"
+last_updated: "2026-03-25T02:04:32.359248+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need vibesheet : ai-powered google sheets coder
 At **$119 one-time** vs $999 regular price, you're saving **88%** ($880) compared to buying at full price. That's equivalent to paying just 9.9 months of the regular $83/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

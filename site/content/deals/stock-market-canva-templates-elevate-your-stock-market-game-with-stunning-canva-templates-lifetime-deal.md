@@ -2,7 +2,7 @@
 title: "Stock Market Canva Templates: Elevate Your Stock Market Game with Stunning Canva Templates! Lifetime Deal — $7"
 description: "What you get in this dealDynamic charts and graphsUnlock the power of contentDress up your financial showsHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.182006+00:00"
-lastmod: "2026-03-21T02:06:49.293050+00:00"
+lastmod: "2026-03-25T02:04:35.451051+00:00"
 product_name: "Stock Market Canva Templates: Elevate Your Stock Market Game with Stunning Canva Templates!"
 slug: "stock-market-canva-templates-elevate-your-stock-market-game-with-stunning-canva-templates-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/Stock-Market-Canva-Templates-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.293050+00:00"
-last_updated: "2026-03-21T02:06:49.293050+00:00"
+last_scraped: "2026-03-25T02:04:35.451051+00:00"
+last_updated: "2026-03-25T02:04:35.451051+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need stock market
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

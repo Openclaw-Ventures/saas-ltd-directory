@@ -2,7 +2,7 @@
 title: "Qlango Lifetime Deal — $59"
 description: "Have you ever noticed that after weeks of learning a language, you still freeze when it's time to speak? That's because most language apps focus on recognition, rather than actual use"
 date: "2026-03-19T16:26:52.544208+00:00"
-lastmod: "2026-03-21T02:06:54.705279+00:00"
+lastmod: "2026-03-25T02:04:40.766283+00:00"
 product_name: "Qlango"
 slug: "qlango-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 75
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/qlango-1.jpg?v=1767859300"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.705279+00:00"
-last_updated: "2026-03-21T02:06:54.705279+00:00"
+last_scraped: "2026-03-25T02:04:40.766283+00:00"
+last_updated: "2026-03-25T02:04:40.766283+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$59 one-time** vs $240 regular price, you're saving **75%** ($181) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $20/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal
@@ -54,4 +54,4 @@ Looking for similar tools? Check out these deals:
 
 - [Shareables](/deals/shareables-lifetime-deal/) — $59 (39% off)
 - [Documentation.AI](/deals/documentationai-lifetime-deal/) — $69 (80% off)
-- [Journal it!](/deals/journal-it-lifetime-deal/) — $39 (61% off)
+- [TinyCommand](/deals/tinycommand-lifetime-deal/) — $79 (66% off)

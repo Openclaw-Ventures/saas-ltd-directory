@@ -2,7 +2,7 @@
 title: "500 Vintage Photos Bundle: A Glimpse into the Past Lifetime Deal — $39"
 description: "What you get in this dealMeticulously restored vintage photosCapture essence of bygone decadesInfuse your projectsEffortlessly enhance designsHurry! Only99Products are left"
 date: "2026-03-19T16:28:01.830047+00:00"
-lastmod: "2026-03-21T02:06:48.892881+00:00"
+lastmod: "2026-03-25T02:04:35.056392+00:00"
 product_name: "500 Vintage Photos Bundle: A Glimpse into the Past"
 slug: "500-vintage-photos-bundle-a-glimpse-into-the-past-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 43
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/feature-image-9.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.892881+00:00"
-last_updated: "2026-03-21T02:06:48.892881+00:00"
+last_scraped: "2026-03-25T02:04:35.056392+00:00"
+last_updated: "2026-03-25T02:04:35.056392+00:00"
 categories:
   - "Creative Resources"
 sources:
@@ -40,7 +40,7 @@ Best for creative resources users who need 500 vintage photos bundle: a glimpse 
 At **$39 one-time** vs $69 regular price, you're saving **43%** ($30) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "60+ Entrepreneur Course Collection Lifetime Deal — $7"
 description: "Marketing MasteryFacebook Ads StrategiesDropshipping SuccessWebshop Building Essentials"
 date: "2026-03-19T16:27:59.793449+00:00"
-lastmod: "2026-03-21T02:06:46.926058+00:00"
+lastmod: "2026-03-25T02:04:33.193497+00:00"
 product_name: "60+ Entrepreneur Course Collection"
 slug: "60-entrepreneur-course-collection-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/02/60-Entrepreneur-Course-Collection.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.926058+00:00"
-last_updated: "2026-03-21T02:06:46.926058+00:00"
+last_scraped: "2026-03-25T02:04:33.193497+00:00"
+last_updated: "2026-03-25T02:04:33.193497+00:00"
 categories:
   - "Courses &amp; Learning"
 sources:
@@ -40,7 +40,7 @@ Best for courses &amp; learning users who need 60+ entrepreneur course collectio
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Labrika Lifetime Deal — $69"
 description: "Thecompetition for top search engine rankings is fierce and getting more so every day"
 date: "2026-03-19T16:26:52.961340+00:00"
-lastmod: "2026-03-21T02:06:55.120609+00:00"
+lastmod: "2026-03-25T02:04:41.314501+00:00"
 product_name: "Labrika"
 slug: "labrika-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/labrika-deal-page.png?v=1733000670"
 deal_active: true
-last_scraped: "2026-03-21T02:06:55.120609+00:00"
-last_updated: "2026-03-21T02:06:55.120609+00:00"
+last_scraped: "2026-03-25T02:04:41.314501+00:00"
+last_updated: "2026-03-25T02:04:41.314501+00:00"
 categories:
   - "SEO"
 sources:
@@ -39,7 +39,7 @@ Best for digital marketers and SEO professionals who need labrika capabilities �
 At **$69 one-time** vs $684 regular price, you're saving **90%** ($615) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $57/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "SocialBu Social Media Management Super Plan Lifetime Deal — $149"
 description: "What you get in this dealManage multiple Social AccountsScheduling to multiple platformsDirect Instagram Stories SchedulingUnlimited number of postsUnlimited repliesFully-dynamic Automation RulesHasht"
 date: "2026-03-19T16:28:05.641676+00:00"
-lastmod: "2026-03-21T02:06:52.822376+00:00"
+lastmod: "2026-03-25T02:04:38.983335+00:00"
 product_name: "SocialBu Social Media Management Super Plan"
 slug: "socialbu-social-media-management-super-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2019/07/1-Featured-or-Thumbnail-Deal-Mirror-Image-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.822376+00:00"
-last_updated: "2026-03-21T02:06:52.822376+00:00"
+last_scraped: "2026-03-25T02:04:38.983335+00:00"
+last_updated: "2026-03-25T02:04:38.983335+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need socialbu soc
 At **$149 one-time** vs $1600 regular price, you're saving **91%** ($1451) compared to buying at full price. That's equivalent to paying just 12.4 months of the regular $133/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

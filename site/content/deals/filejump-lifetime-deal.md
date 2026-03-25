@@ -2,7 +2,7 @@
 title: "FileJump Lifetime Deal — $89"
 description: "FileJumpisthe ultimate solutionfor all your file storage needs, andit's $50 CHEAPER than Dropbox's yearly 2TB plan"
 date: "2026-03-19T16:26:53.057366+00:00"
-lastmod: "2026-03-21T02:06:55.188491+00:00"
+lastmod: "2026-03-25T02:04:41.397321+00:00"
 product_name: "FileJump"
 slug: "filejump-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 89
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/filejump_01_png.webp?v=1733000688"
 deal_active: true
-last_scraped: "2026-03-21T02:06:55.188491+00:00"
-last_updated: "2026-03-21T02:06:55.188491+00:00"
+last_scraped: "2026-03-25T02:04:41.397321+00:00"
+last_updated: "2026-03-25T02:04:41.397321+00:00"
 categories:
   - "Cloud"
 sources:
@@ -39,7 +39,7 @@ Best for cloud users who need filejump capabilities — FileJumpisthe ultimate s
 At **$89 one-time** vs $799 regular price, you're saving **89%** ($710) compared to buying at full price. That's equivalent to paying just 7.4 months of the regular $67/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

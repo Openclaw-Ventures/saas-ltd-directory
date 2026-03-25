@@ -2,7 +2,7 @@
 title: "QrVersion : Get Information You Need Instantly And Accurately Lifetime Deal — $19"
 description: "What you get in this dealDynamic And Static QR CodesQR Code Management20+ QR Code Types"
 date: "2026-03-19T16:28:02.889642+00:00"
-lastmod: "2026-03-21T02:06:50.144717+00:00"
+lastmod: "2026-03-25T02:04:36.393694+00:00"
 product_name: "QrVersion : Get Information You Need Instantly And Accurately"
 slug: "qrversion-get-information-you-need-instantly-and-accurately-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 4.4
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2023/02/QR-Version-Lifetime-Deal-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.144717+00:00"
-last_updated: "2026-03-21T02:06:50.144717+00:00"
+last_scraped: "2026-03-25T02:04:36.393694+00:00"
+last_updated: "2026-03-25T02:04:36.393694+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need qrversion : 
 At **$19 one-time** vs $299 regular price, you're saving **94%** ($280) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

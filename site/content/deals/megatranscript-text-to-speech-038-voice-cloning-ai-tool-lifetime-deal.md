@@ -2,7 +2,7 @@
 title: "Megatranscript : Text-to-Speech &#038; Voice Cloning AI Tool Lifetime Deal — $69"
 description: "MegatranscriptLifetime DealWant to create high-quality audio content, but tired of using multiple tools for transcription, voice cloning, and text-to-speech?Managing everything separately can get comp"
 date: "2026-03-19T16:27:59.085350+00:00"
-lastmod: "2026-03-21T02:06:46.321024+00:00"
+lastmod: "2026-03-25T02:04:32.446333+00:00"
 product_name: "Megatranscript : Text-to-Speech &#038; Voice Cloning AI Tool"
 slug: "megatranscript-text-to-speech-038-voice-cloning-ai-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2025/08/Megatranscript-Feature.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.321024+00:00"
-last_updated: "2026-03-21T02:06:46.321024+00:00"
+last_scraped: "2026-03-25T02:04:32.446333+00:00"
+last_updated: "2026-03-25T02:04:32.446333+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -41,7 +41,7 @@ Best for professionals leveraging AI for automation who need megatranscript : te
 At **$69 one-time** vs $690 regular price, you're saving **90%** ($621) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $58/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

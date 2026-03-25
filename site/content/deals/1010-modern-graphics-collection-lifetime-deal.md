@@ -2,7 +2,7 @@
 title: "1010 Modern Graphics Collection Lifetime Deal — $21"
 description: "Get 1010 Modern Graphics Collection lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.844431+00:00"
-lastmod: "2026-03-21T02:05:46.328218+00:00"
+lastmod: "2026-03-25T02:03:30.735204+00:00"
 product_name: "1010 Modern Graphics Collection"
 slug: "1010-modern-graphics-collection-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/banner-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.328218+00:00"
-last_updated: "2026-03-21T02:05:46.328218+00:00"
+last_scraped: "2026-03-25T02:03:30.735204+00:00"
+last_updated: "2026-03-25T02:03:30.735204+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 1010 modern graphics collection capabilities.
 At **$21 one-time** vs $210 regular price, you're saving **90%** ($189) compared to buying at full price. That's equivalent to paying just 1.8 months of the regular $18/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

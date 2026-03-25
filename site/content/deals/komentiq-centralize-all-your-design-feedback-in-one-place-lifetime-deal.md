@@ -2,7 +2,7 @@
 title: "Komentiq: Centralize All Your Design Feedback in One Place Lifetime Deal — $48"
 description: "Komentiq Lifetime DealAre you tired of searching for design feedback inendless email threads, Slack messages, and Figma comments?With teams sharing notes everywhere, important suggestions get lost, an"
 date: "2026-03-19T16:27:59.211823+00:00"
-lastmod: "2026-03-21T02:06:46.399228+00:00"
+lastmod: "2026-03-25T02:04:32.582396+00:00"
 product_name: "Komentiq: Centralize All Your Design Feedback in One Place"
 slug: "komentiq-centralize-all-your-design-feedback-in-one-place-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/07/Komentiq-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.399228+00:00"
-last_updated: "2026-03-21T02:06:46.399228+00:00"
+last_scraped: "2026-03-25T02:04:32.582396+00:00"
+last_updated: "2026-03-25T02:04:32.582396+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need komentiq: centralize all your design feedback 
 At **$48 one-time** vs $120 regular price, you're saving **60%** ($72) compared to buying at full price. That's equivalent to paying just 4.0 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

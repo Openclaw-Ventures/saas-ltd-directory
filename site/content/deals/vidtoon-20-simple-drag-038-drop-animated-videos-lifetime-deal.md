@@ -2,7 +2,7 @@
 title: "Vidtoon 2.0 : Simple Drag &#038; Drop Animated Videos Lifetime Deal — $49"
 description: "What you get in this deal25 Animated characters20 Animations Per Characters34 Background ImagesRoyalty-Free Music TracksText To SpeechText AnimationHurry! Only0Licence are left"
 date: "2026-03-19T16:28:04.062537+00:00"
-lastmod: "2026-03-21T02:06:51.240201+00:00"
+lastmod: "2026-03-25T02:04:37.548879+00:00"
 product_name: "Vidtoon 2.0 : Simple Drag &#038; Drop Animated Videos"
 slug: "vidtoon-20-simple-drag-038-drop-animated-videos-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 7
 image: "https://dealmirror.com/wp-content/uploads/2020/05/Vidtoon-2.0.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.240201+00:00"
-last_updated: "2026-03-21T02:06:51.240201+00:00"
+last_scraped: "2026-03-25T02:04:37.548879+00:00"
+last_updated: "2026-03-25T02:04:37.548879+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need vidtoon 2.0 
 At **$49 one-time** vs $149 regular price, you're saving **67%** ($100) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

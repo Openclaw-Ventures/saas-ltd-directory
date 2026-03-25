@@ -2,7 +2,7 @@
 title: "600+ Awesome Inspiring Quotes and Designs Bundle | Extended License Lifetime Deal — $22"
 description: "Get 600+ Awesome Inspiring Quotes and Designs Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.698840+00:00"
-lastmod: "2026-03-21T02:05:46.178893+00:00"
+lastmod: "2026-03-25T02:03:30.589276+00:00"
 product_name: "600+ Awesome Inspiring Quotes and Designs Bundle | Extended License"
 slug: "600-awesome-inspiring-quotes-and-designs-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 91
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Cover-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.178893+00:00"
-last_updated: "2026-03-21T02:05:46.178893+00:00"
+last_scraped: "2026-03-25T02:03:30.589276+00:00"
+last_updated: "2026-03-25T02:03:30.589276+00:00"
 categories:
   - "Affinity"
 sources:
@@ -38,7 +38,7 @@ Best for affinity users who need 600+ awesome inspiring quotes and designs bundl
 At **$22 one-time** vs $250 regular price, you're saving **91%** ($228) compared to buying at full price. That's equivalent to paying just 1.8 months of the regular $21/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

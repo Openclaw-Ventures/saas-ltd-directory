@@ -13,7 +13,7 @@ Looking for photo lifetime deals? Here are the best one-time deals available in 
 
 ## ⭐ Top Picks
 
-1. **[Crezlo Tours](/deals/crezlo-tours-lifetime-deal/)** — $49 (67% off) — 5.0/5 (1 reviews)
+1. **[Crezlo Tours](/deals/crezlo-tours-lifetime-deal/)** — $49 (67% off) — 5.0/5 (2 reviews)
 
 ## All Deals
 

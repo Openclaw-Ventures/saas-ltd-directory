@@ -2,7 +2,7 @@
 title: "Resmume: Your Perfect Resume Ready in Minutes Lifetime Deal — $18"
 description: "Resmume Lifetime DealCreate job-winning resumes in minutes using AI. No design or writing skills required.Resmume resume maker lifetime deal, resume maker is ideal for job seekers, freelancers, career"
 date: "2026-03-19T16:27:59.419174+00:00"
-lastmod: "2026-03-21T02:06:46.541588+00:00"
+lastmod: "2026-03-25T02:04:32.770396+00:00"
 product_name: "Resmume: Your Perfect Resume Ready in Minutes"
 slug: "resmume-your-perfect-resume-ready-in-minutes-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 64
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/05/Resmume-Feature-image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.541588+00:00"
-last_updated: "2026-03-21T02:06:46.541588+00:00"
+last_scraped: "2026-03-25T02:04:32.770396+00:00"
+last_updated: "2026-03-25T02:04:32.770396+00:00"
 categories:
   - "AI Tools"
 sources:
@@ -40,7 +40,7 @@ Best for professionals leveraging AI for automation who need resmume: your perfe
 At **$18 one-time** vs $50 regular price, you're saving **64%** ($32) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

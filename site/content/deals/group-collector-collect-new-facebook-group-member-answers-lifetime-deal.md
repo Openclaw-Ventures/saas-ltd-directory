@@ -2,7 +2,7 @@
 title: "Group Collector : Collect New Facebook Group Member Answers Lifetime Deal — $67"
 description: "What you get in this dealConnect Unlimited FB GroupsApprove Unlimited FB Group MembersSave FB Group MembersIntegrate FB Group CollectorAuto-Approve New FB Group MembersGenerate FB Custom AudienceCreat"
 date: "2026-03-19T16:28:04.921779+00:00"
-lastmod: "2026-03-21T02:06:52.195238+00:00"
+lastmod: "2026-03-25T02:04:38.381593+00:00"
 product_name: "Group Collector : Collect New Facebook Group Member Answers"
 slug: "group-collector-collect-new-facebook-group-member-answers-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 8
 image: "https://dealmirror.com/wp-content/uploads/2020/10/feature-image-gf.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.195238+00:00"
-last_updated: "2026-03-21T02:06:52.195238+00:00"
+last_scraped: "2026-03-25T02:04:38.381593+00:00"
+last_updated: "2026-03-25T02:04:38.381593+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need group collec
 At **$67 one-time** vs $297 regular price, you're saving **77%** ($230) compared to buying at full price. That's equivalent to paying just 5.6 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

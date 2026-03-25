@@ -2,7 +2,7 @@
 title: "Socialscribe : Creates Social Opt-in Buttons Lifetime Deal — $69"
 description: "What you get in this dealUnlimited SubscribersCreate one Lead MagnetConnect to 1 Email Marketing AppIncludes all Socialscribe ButtonsHurry! Only89Licence are left"
 date: "2026-03-19T16:28:03.029673+00:00"
-lastmod: "2026-03-21T02:06:50.276950+00:00"
+lastmod: "2026-03-25T02:04:36.580527+00:00"
 product_name: "Socialscribe : Creates Social Opt-in Buttons"
 slug: "socialscribe-creates-social-opt-in-buttons-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/11/socialscribe.jpeg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.276950+00:00"
-last_updated: "2026-03-21T02:06:50.276950+00:00"
+last_scraped: "2026-03-25T02:04:36.580527+00:00"
+last_updated: "2026-03-25T02:04:36.580527+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need socialscribe
 At **$69 one-time** vs $96 regular price, you're saving **28%** ($27) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

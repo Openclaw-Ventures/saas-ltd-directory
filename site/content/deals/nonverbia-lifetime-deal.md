@@ -2,7 +2,7 @@
 title: "Nonverbia Lifetime Deal — $89"
 description: "Analyze nonverbal cues, buyer signals, and insights from every video call with an AI sales assistant"
 date: "2026-03-19T16:12:19.241831+00:00"
-lastmod: "2026-03-21T02:04:11.331406+00:00"
+lastmod: "2026-03-25T02:01:44.005957+00:00"
 product_name: "Nonverbia"
 slug: "nonverbia-lifetime-deal"
 source: "appsumo"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://appsumo2-cdn.appsumo.com/media/deals/images/nonverbia-as-Header-Nonverbia-16_9.png?width=432&height=243&aspect_ratio=16:9"
 deal_active: true
-last_scraped: "2026-03-21T02:04:11.331406+00:00"
-last_updated: "2026-03-21T02:04:11.331406+00:00"
+last_scraped: "2026-03-25T02:01:44.005957+00:00"
+last_updated: "2026-03-25T02:01:44.005957+00:00"
 categories:
   - "Sales management"
 sources:
@@ -41,7 +41,7 @@ Best for sales management users who need nonverbia capabilities — Analyze nonv
 At **$89 one-time** vs $439 regular price, you're saving **80%** ($350) compared to buying at full price. That's equivalent to paying just 7.4 months of the regular $37/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:04 UTC_
+_Last updated: 2026-03-25 02:01 UTC_
 
 
 ## Get This Deal

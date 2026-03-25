@@ -2,7 +2,7 @@
 title: "E-Commerce Canva Templates Collection &#8211; Elevate Your Brand with 100 Stunning Designs! Lifetime Deal — $7"
 description: "What you get in this deal100 E-Commerce Canva Templates100% EditableCanva Templates to Boost your AuthorityHurry! Only199License are left"
 date: "2026-03-19T16:28:02.775777+00:00"
-lastmod: "2026-03-21T02:06:49.945057+00:00"
+lastmod: "2026-03-25T02:04:36.187787+00:00"
 product_name: "E-Commerce Canva Templates Collection &#8211; Elevate Your Brand with 100 Stunning Designs!"
 slug: "e-commerce-canva-templates-collection-8211-elevate-your-brand-with-100-stunning-designs-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 93
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/04/100-E-Commerce-Canva-Templates.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.945057+00:00"
-last_updated: "2026-03-21T02:06:49.945057+00:00"
+last_scraped: "2026-03-25T02:04:36.187787+00:00"
+last_updated: "2026-03-25T02:04:36.187787+00:00"
 categories:
   - "Canva"
 sources:
@@ -40,7 +40,7 @@ Best for canva users who need e-commerce canva templates collection &#8211; elev
 At **$7 one-time** vs $100 regular price, you're saving **93%** ($93) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "PrettyWP Support Plans :  Get Expert Help to Keep Your WordPress Site Secure, Fast &#038; Updated Lifetime Deal — $89"
 description: "Monthly BackupsLive chat supportTroubleshooting SupportGoogle Analytics Setup"
 date: "2026-03-19T16:28:02.630775+00:00"
-lastmod: "2026-03-21T02:06:49.743141+00:00"
+lastmod: "2026-03-25T02:04:35.980315+00:00"
 product_name: "PrettyWP Support Plans :  Get Expert Help to Keep Your WordPress Site Secure, Fast &#038; Updated"
 slug: "prettywp-support-plans-get-expert-help-to-keep-your-wordpress-site-secure-fast-038-updated-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/05/PrettyWP-Support-Plans-Expert-Help-with-Multichannel-Support.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.743141+00:00"
-last_updated: "2026-03-21T02:06:49.743141+00:00"
+last_scraped: "2026-03-25T02:04:35.980315+00:00"
+last_updated: "2026-03-25T02:04:35.980315+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need prettywp support plans :  get expert help 
 At **$89 one-time** vs $199 regular price, you're saving **55%** ($110) compared to buying at full price. That's equivalent to paying just 7.4 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Adobe Premiere Pro Course Bundle | Lifetime Access Lifetime Deal — $19"
 description: "Get Adobe Premiere Pro Course Bundle | Lifetime Access lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.357623+00:00"
-lastmod: "2026-03-21T02:05:45.889795+00:00"
+lastmod: "2026-03-25T02:03:30.284869+00:00"
 product_name: "Adobe Premiere Pro Course Bundle | Lifetime Access"
 slug: "adobe-premiere-pro-course-bundle-lifetime-access-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 24
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/Adobe-premiere-pro-course-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:45.889795+00:00"
-last_updated: "2026-03-21T02:05:45.889795+00:00"
+last_scraped: "2026-03-25T02:03:30.284869+00:00"
+last_updated: "2026-03-25T02:03:30.284869+00:00"
 categories:
   - "Browser Based"
 sources:
@@ -38,7 +38,7 @@ Best for browser based users who need adobe premiere pro course bundle | lifetim
 At **$19 one-time** vs $25 regular price, you're saving **24%** ($6) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

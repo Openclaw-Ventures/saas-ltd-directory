@@ -2,7 +2,7 @@
 title: "KamuSites : Drag &#038; Drop Website Builder Lifetime Deal — $10"
 description: "What you get in this dealBuild up to 20 WebsitesWebsite Builder400+ Website-Building TemplatesDesigning & Customisation60 Days Money Back GuaranteeHurry! Only199Licence are left"
 date: "2026-03-19T16:28:03.231285+00:00"
-lastmod: "2026-03-21T02:06:50.458473+00:00"
+lastmod: "2026-03-25T02:04:36.786603+00:00"
 product_name: "KamuSites : Drag &#038; Drop Website Builder"
 slug: "kamusites-drag-038-drop-website-builder-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2022/09/KamuSites-Lifetime-Deal-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.458473+00:00"
-last_updated: "2026-03-21T02:06:50.458473+00:00"
+last_scraped: "2026-03-25T02:04:36.786603+00:00"
+last_updated: "2026-03-25T02:04:36.786603+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need kamusites : 
 At **$10 one-time** vs $30 regular price, you're saving **67%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "CollectBreeze : Secure, Easy Document Collection Tool Lifetime Deal — $59"
 description: "CollectBreeze Lifetime DealAs an agency or accountant, you have to deal with documents on a daily basis, and managing them manually is a struggle.Do you want a space that securely stores all your docu"
 date: "2026-03-19T16:27:59.014152+00:00"
-lastmod: "2026-03-21T02:06:46.285385+00:00"
+lastmod: "2026-03-25T02:04:32.377217+00:00"
 product_name: "CollectBreeze : Secure, Easy Document Collection Tool"
 slug: "collectbreeze-secure-easy-document-collection-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/09/CollectBreeze-Feature-Image.webp"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.285385+00:00"
-last_updated: "2026-03-21T02:06:46.285385+00:00"
+last_scraped: "2026-03-25T02:04:32.377217+00:00"
+last_updated: "2026-03-25T02:04:32.377217+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need collectbreeze : secure, easy document collecti
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

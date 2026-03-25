@@ -2,7 +2,7 @@
 title: "WP Sales Booster &#038; Exact Links: Maximize Sales and Optimize Links for WooCommerce Lifetime Deal — $19"
 description: "Woocommerce Countdown TimerWoocommerce Exit Intent Popup For Lead CaptureWoocommerce Product Enquiry FormBanner And Corner Ads setting"
 date: "2026-03-19T16:27:59.966012+00:00"
-lastmod: "2026-03-21T02:06:47.085568+00:00"
+lastmod: "2026-03-25T02:04:33.363308+00:00"
 product_name: "WP Sales Booster &#038; Exact Links: Maximize Sales and Optimize Links for WooCommerce"
 slug: "wp-sales-booster-038-exact-links-maximize-sales-and-optimize-links-for-woocommerce-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2024/11/Codesmash_thumbnail-1.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.085568+00:00"
-last_updated: "2026-03-21T02:06:47.085568+00:00"
+last_scraped: "2026-03-25T02:04:33.363308+00:00"
+last_updated: "2026-03-25T02:04:33.363308+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need wp sales booster &#038; exact links: maximize 
 At **$19 one-time** vs $99 regular price, you're saving **81%** ($80) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

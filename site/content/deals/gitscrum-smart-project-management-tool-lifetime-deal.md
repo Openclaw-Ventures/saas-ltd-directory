@@ -2,7 +2,7 @@
 title: "GitScrum : Smart Project Management Tool Lifetime Deal — $49"
 description: "What you get in this dealUnlimited ProjectsUnlimited Storage SpaceUnlimited Future Updates60 Days Money-Back GuaranteeHurry! Only0Licence are left"
 date: "2026-03-19T16:28:03.943391+00:00"
-lastmod: "2026-03-21T02:06:51.101132+00:00"
+lastmod: "2026-03-25T02:04:37.434556+00:00"
 product_name: "GitScrum : Smart Project Management Tool"
 slug: "gitscrum-smart-project-management-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2021/12/Gitscrum-lifetime-deal-feature-image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.101132+00:00"
-last_updated: "2026-03-21T02:06:51.101132+00:00"
+last_scraped: "2026-03-25T02:04:37.434556+00:00"
+last_updated: "2026-03-25T02:04:37.434556+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need gitscrum : s
 At **$49 one-time** vs $399 regular price, you're saving **88%** ($350) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $33/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

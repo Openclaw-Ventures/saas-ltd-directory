@@ -2,7 +2,7 @@
 title: "1minAI:  All-in-one AI app lifetime deal Lifetime Deal — $39"
 description: "Flagship Al ModelsUnlimited prompt libraryUnlimited storage & brand voiceFree 450,000 credits/monthUnlimited AI for $0.67/million credits"
 date: "2026-03-19T16:28:00.345684+00:00"
-lastmod: "2026-03-21T02:06:47.440856+00:00"
+lastmod: "2026-03-25T02:04:33.777251+00:00"
 product_name: "1minAI:  All-in-one AI app lifetime deal"
 slug: "1minai-all-in-one-ai-app-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2024/06/1min-ai.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.440856+00:00"
-last_updated: "2026-03-21T02:06:47.440856+00:00"
+last_scraped: "2026-03-25T02:04:33.777251+00:00"
+last_updated: "2026-03-25T02:04:33.777251+00:00"
 categories:
   - "20% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 20% off users who need 1minai:  all-in-one ai app lifetime deal capabil
 At **$39 one-time** vs $390 regular price, you're saving **90%** ($351) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $32/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "InfographsAI : AI Infographic Maker &#038; Chart Generator Lifetime Deal — $29"
 description: "InfographsAI Lifetime DealHave you ever stared at spreadsheets full of numbers that nobody wants to read? Spent hours creating amateur-looking charts, graphs in Excel?Needed visuals for a topic but ha"
 date: "2026-03-19T16:27:59.063603+00:00"
-lastmod: "2026-03-21T02:06:46.308261+00:00"
+lastmod: "2026-03-25T02:04:32.422115+00:00"
 product_name: "InfographsAI : AI Infographic Maker &#038; Chart Generator"
 slug: "infographsai-ai-infographic-maker-038-chart-generator-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 89
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/09/Infographs-AI-Feature-image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.308261+00:00"
-last_updated: "2026-03-21T02:06:46.308261+00:00"
+last_scraped: "2026-03-25T02:04:32.422115+00:00"
+last_updated: "2026-03-25T02:04:32.422115+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -40,7 +40,7 @@ Best for expired deals users who need infographsai : ai infographic maker &#038;
 At **$29 one-time** vs $270 regular price, you're saving **89%** ($241) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $22/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

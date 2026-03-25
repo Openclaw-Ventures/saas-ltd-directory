@@ -2,7 +2,7 @@
 title: "WorkHub_Tasks : Affordable Ticketing System Software Lifetime Deal — $90"
 description: "What you get in this dealTicket Creation & ManagementTicket Creation From EmailsTicket Creation From Chat MessagesHurry! Only124Licence are left"
 date: "2026-03-19T16:28:02.926200+00:00"
-lastmod: "2026-03-21T02:06:50.176876+00:00"
+lastmod: "2026-03-25T02:04:36.436894+00:00"
 product_name: "WorkHub_Tasks : Affordable Ticketing System Software"
 slug: "workhub-tasks-affordable-ticketing-system-software-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2022/12/Tasks-One-Year-Deal-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.176876+00:00"
-last_updated: "2026-03-21T02:06:50.176876+00:00"
+last_scraped: "2026-03-25T02:04:36.436894+00:00"
+last_updated: "2026-03-25T02:04:36.436894+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need workhub_task
 At **$90 one-time** vs $1404 regular price, you're saving **94%** ($1314) compared to buying at full price. That's equivalent to paying just 7.5 months of the regular $117/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

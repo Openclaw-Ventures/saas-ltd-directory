@@ -2,7 +2,7 @@
 title: "Brand2Social : Social Media Management tool for generating automated messages Lifetime Deal — $29"
 description: "Management of various social mediaSchedule posting, comment, or likeAutomated frequent message repliesMaintain the social presence"
 date: "2026-03-19T16:27:59.701573+00:00"
-lastmod: "2026-03-21T02:06:46.849726+00:00"
+lastmod: "2026-03-25T02:04:33.112059+00:00"
 product_name: "Brand2Social : Social Media Management tool for generating automated messages"
 slug: "brand2social-social-media-management-tool-for-generating-automated-messages-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 5
 image: "https://dealmirror.com/wp-content/uploads/2024/10/Brand2Social.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.849726+00:00"
-last_updated: "2026-03-21T02:06:46.849726+00:00"
+last_scraped: "2026-03-25T02:04:33.112059+00:00"
+last_updated: "2026-03-25T02:04:33.112059+00:00"
 categories:
   - "15% OFF"
 sources:
@@ -41,7 +41,7 @@ Best for 15% off users who need brand2social : social media management tool for 
 At **$29 one-time** vs $190 regular price, you're saving **85%** ($161) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

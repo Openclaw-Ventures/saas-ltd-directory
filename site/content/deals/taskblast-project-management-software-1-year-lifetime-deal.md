@@ -2,7 +2,7 @@
 title: "TaskBlast: Project Management Software (1-Year) Lifetime Deal — $49"
 description: "What you get in this dealUnlimited ProjectsKanban moduleOverview moduleGantt moduleList-View moduleReports module60 Days Money-Back GuaranteeHurry! Only00Licence are left"
 date: "2026-03-19T16:28:04.122599+00:00"
-lastmod: "2026-03-21T02:06:51.321257+00:00"
+lastmod: "2026-03-25T02:04:37.624146+00:00"
 product_name: "TaskBlast: Project Management Software (1-Year)"
 slug: "taskblast-project-management-software-1-year-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 84
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/11/tb.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.321257+00:00"
-last_updated: "2026-03-21T02:06:51.321257+00:00"
+last_scraped: "2026-03-25T02:04:37.624146+00:00"
+last_updated: "2026-03-25T02:04:37.624146+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need taskblast: p
 At **$49 one-time** vs $297 regular price, you're saving **84%** ($248) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Shopia : AI Content Writer &#038; SEO Tool Lifetime Deal — $99"
 description: "25K words per month80+ AI Writers5K+ IntegrationsWrite & Translate 30+ Languages"
 date: "2026-03-19T16:28:02.910271+00:00"
-lastmod: "2026-03-21T02:06:50.160544+00:00"
+lastmod: "2026-03-25T02:04:36.420528+00:00"
 product_name: "Shopia : AI Content Writer &#038; SEO Tool"
 slug: "shopia-ai-content-writer-038-seo-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 9
 image: "https://dealmirror.com/wp-content/uploads/2024/06/Shopia.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.160544+00:00"
-last_updated: "2026-03-21T02:06:50.160544+00:00"
+last_scraped: "2026-03-25T02:04:36.420528+00:00"
+last_updated: "2026-03-25T02:04:36.420528+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need shopia : ai content writer &#038; seo tool
 At **$99 one-time** vs $199 regular price, you're saving **50%** ($100) compared to buying at full price. That's equivalent to paying just 8.2 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

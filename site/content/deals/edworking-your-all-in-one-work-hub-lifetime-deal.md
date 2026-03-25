@@ -2,7 +2,7 @@
 title: "Edworking : Your All-in-One Work Hub Lifetime Deal — $79"
 description: "1 Member AccountUnlimited GuestUnlimited SpacesUnlimited Video calls"
 date: "2026-03-19T16:28:01.109459+00:00"
-lastmod: "2026-03-21T02:06:48.153370+00:00"
+lastmod: "2026-03-25T02:04:34.424051+00:00"
 product_name: "Edworking : Your All-in-One Work Hub"
 slug: "edworking-your-all-in-one-work-hub-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2024/02/Edworking-Your-AllinOne-Work-Hub.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.153370+00:00"
-last_updated: "2026-03-21T02:06:48.153370+00:00"
+last_scraped: "2026-03-25T02:04:34.424051+00:00"
+last_updated: "2026-03-25T02:04:34.424051+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need edworking : your all-in-one work hub capab
 At **$79 one-time** vs $180 regular price, you're saving **56%** ($101) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $15/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

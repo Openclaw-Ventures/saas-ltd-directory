@@ -2,7 +2,7 @@
 title: "400+ Amazing Vector Clip Art with 27 different sets Lifetime Deal — $19"
 description: "Get 400+ Amazing Vector Clip Art with 27 different sets lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.085697+00:00"
-lastmod: "2026-03-21T02:05:46.608591+00:00"
+lastmod: "2026-03-25T02:03:30.969191+00:00"
 product_name: "400+ Amazing Vector Clip Art with 27 different sets"
 slug: "400-amazing-vector-clip-art-with-27-different-sets-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 95
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/preview8-1-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.608591+00:00"
-last_updated: "2026-03-21T02:05:46.608591+00:00"
+last_scraped: "2026-03-25T02:03:30.969191+00:00"
+last_updated: "2026-03-25T02:03:30.969191+00:00"
 categories:
   - "Android"
 sources:
@@ -38,7 +38,7 @@ Best for android users who need 400+ amazing vector clip art with 27 different s
 At **$19 one-time** vs $405 regular price, you're saving **95%** ($386) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $34/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "ClickWhale : Streamline Your Links, Unleash Your WordPress Potential Lifetime Deal — $79"
 description: "What you get in this deal1 Site LicenseLink ManagerBio Link PagesTracking Codes Manager"
 date: "2026-03-19T16:28:01.042381+00:00"
-lastmod: "2026-03-21T02:06:48.097288+00:00"
+lastmod: "2026-03-25T02:04:34.362259+00:00"
 product_name: "ClickWhale : Streamline Your Links, Unleash Your WordPress Potential"
 slug: "clickwhale-streamline-your-links-unleash-your-wordpress-potential-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 2
 image: "https://dealmirror.com/wp-content/uploads/2024/03/clickwhale.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:48.097288+00:00"
-last_updated: "2026-03-21T02:06:48.097288+00:00"
+last_scraped: "2026-03-25T02:04:34.362259+00:00"
+last_updated: "2026-03-25T02:04:34.362259+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need clickwhale :
 At **$79 one-time** vs $149 regular price, you're saving **47%** ($70) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

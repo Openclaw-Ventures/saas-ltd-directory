@@ -2,7 +2,7 @@
 title: "CrossLike Lifetime Deal — $59"
 description: "What if every Linkedin post you publish could reliably turn into new conversations, clients, and opportunities?CrossLikehelps your posts break out of the echo chamber by activating real professionals "
 date: "2026-03-19T16:26:52.589218+00:00"
-lastmod: "2026-03-21T02:06:54.734621+00:00"
+lastmod: "2026-03-25T02:04:40.795652+00:00"
 product_name: "CrossLike"
 slug: "crosslike-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/crosslike.png?v=1770740773"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.734621+00:00"
-last_updated: "2026-03-21T02:06:54.734621+00:00"
+last_scraped: "2026-03-25T02:04:40.795652+00:00"
+last_updated: "2026-03-25T02:04:40.795652+00:00"
 categories:
   - "Social Media"
 sources:
@@ -39,7 +39,7 @@ Best for social media managers and content creators who need crosslike capabilit
 At **$59 one-time** vs $590 regular price, you're saving **90%** ($531) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $49/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

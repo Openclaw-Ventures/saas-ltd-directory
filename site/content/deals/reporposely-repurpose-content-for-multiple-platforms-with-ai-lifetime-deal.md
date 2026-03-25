@@ -2,7 +2,7 @@
 title: "Reporposely: Repurpose Content For Multiple Platforms With AI Lifetime Deal — $44"
 description: "Reporposely Lifetime DealImagine this: instead of staring at a blank screen every morning, you start your day with a friendly report of what the world is talking about.Reporposelyis a Content Repurpos"
 date: "2026-03-19T16:27:58.558169+00:00"
-lastmod: "2026-03-21T02:06:45.921474+00:00"
+lastmod: "2026-03-25T02:04:31.990479+00:00"
 product_name: "Reporposely: Repurpose Content For Multiple Platforms With AI"
 slug: "reporposely-repurpose-content-for-multiple-platforms-with-ai-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 6
 image: "https://dealmirror.com/wp-content/uploads/2025/11/Reporposely-Feature-image-.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:45.921474+00:00"
-last_updated: "2026-03-21T02:06:45.921474+00:00"
+last_scraped: "2026-03-25T02:04:31.990479+00:00"
+last_updated: "2026-03-25T02:04:31.990479+00:00"
 categories:
   - "AI marketing"
 sources:
@@ -41,7 +41,7 @@ Best for ai marketing users who need reporposely: repurpose content for multiple
 At **$44 one-time** vs $348 regular price, you're saving **87%** ($304) compared to buying at full price. That's equivalent to paying just 3.7 months of the regular $29/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

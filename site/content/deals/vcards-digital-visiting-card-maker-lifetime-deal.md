@@ -2,7 +2,7 @@
 title: "vCards: Digital Visiting Card Maker Lifetime Deal — $87"
 description: "Unlimited vCardsUnlimited PixelsUnlimited stats retentionCustom Backgrounds"
 date: "2026-03-19T16:28:00.433840+00:00"
-lastmod: "2026-03-21T02:06:47.534145+00:00"
+lastmod: "2026-03-25T02:04:33.869629+00:00"
 product_name: "vCards: Digital Visiting Card Maker"
 slug: "vcards-digital-visiting-card-maker-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 56
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/05/VCards-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.534145+00:00"
-last_updated: "2026-03-21T02:06:47.534145+00:00"
+last_scraped: "2026-03-25T02:04:33.869629+00:00"
+last_updated: "2026-03-25T02:04:33.869629+00:00"
 categories:
   - "50% OFF"
 sources:
@@ -40,7 +40,7 @@ Best for 50% off users who need vcards: digital visiting card maker capabilities
 At **$87 one-time** vs $199 regular price, you're saving **56%** ($112) compared to buying at full price. That's equivalent to paying just 7.2 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Stella AI: AI Executive Assistant lifetime deal that schedules meetings Lifetime Deal — $49"
 description: "Manage emails, meetings, tasks and reminders on WhatsAppMultilingual support (50+ languages)Voice and text commandsUnlimited email account"
 date: "2026-03-19T16:27:59.931387+00:00"
-lastmod: "2026-03-21T02:06:47.054988+00:00"
+lastmod: "2026-03-25T02:04:33.328474+00:00"
 product_name: "Stella AI: AI Executive Assistant lifetime deal that schedules meetings"
 slug: "stella-ai-ai-executive-assistant-lifetime-deal-that-schedules-meetings-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2024/12/Stella-AI-AI-Executive-Assistant-lifetime-deal-that-schedules-meetings-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.054988+00:00"
-last_updated: "2026-03-21T02:06:47.054988+00:00"
+last_scraped: "2026-03-25T02:04:33.328474+00:00"
+last_updated: "2026-03-25T02:04:33.328474+00:00"
 categories:
   - "AI Automation"
 sources:
@@ -41,7 +41,7 @@ Best for ai automation users who need stella ai: ai executive assistant lifetime
 At **$49 one-time** vs $100 regular price, you're saving **51%** ($51) compared to buying at full price. That's equivalent to paying just 4.1 months of the regular $8/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

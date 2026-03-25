@@ -13,7 +13,7 @@ Looking for native app builders lifetime deals? Here are the best one-time deals
 
 ## ⭐ Top Picks
 
-1. **[NoCodeBackend](/deals/nocodebackend-lifetime-deal/)** — $79 (89% off) — 4.81/5 (116 reviews)
+1. **[NoCodeBackend](/deals/nocodebackend-lifetime-deal/)** — $79 (89% off) — 4.8/5 (117 reviews)
 
 ## All Deals
 

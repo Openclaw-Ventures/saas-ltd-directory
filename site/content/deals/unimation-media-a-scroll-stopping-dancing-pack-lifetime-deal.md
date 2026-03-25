@@ -2,7 +2,7 @@
 title: "Unimation Media : A Scroll Stopping Dancing pack Lifetime Deal — $47"
 description: "What you get in this deal150+ 3D character animated assets14 – 3D characters with 11 video filesDrag & Drop easy to use48 minutes of 3D animated dance movesHurry!Only00License are left"
 date: "2026-03-19T16:28:04.954959+00:00"
-lastmod: "2026-03-21T02:06:52.218553+00:00"
+lastmod: "2026-03-25T02:04:38.409340+00:00"
 product_name: "Unimation Media : A Scroll Stopping Dancing pack"
 slug: "unimation-media-a-scroll-stopping-dancing-pack-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 7
 image: "https://dealmirror.com/wp-content/uploads/2021/02/Unimation-Media-feature.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.218553+00:00"
-last_updated: "2026-03-21T02:06:52.218553+00:00"
+last_scraped: "2026-03-25T02:04:38.409340+00:00"
+last_updated: "2026-03-25T02:04:38.409340+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need unimation media : a scroll stopping dancin
 At **$47 one-time** vs $800 regular price, you're saving **94%** ($753) compared to buying at full price. That's equivalent to paying just 3.9 months of the regular $67/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

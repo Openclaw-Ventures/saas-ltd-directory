@@ -240,6 +240,22 @@
           <p><span class="checkmark">✓</span> 30-day money-back guarantee via {{ .Params.source | title }}</p>
         </div>
       </div>
+
+      {{/* monday.com affiliate widget — show on relevant categories */}}
+      {{ $mondayCategories := slice "project-management" "productivity" "crm" "team-collaboration" "collaboration" "task-management" "business" }}
+      {{ $showMonday := false }}
+      {{ range .Params.categories }}
+        {{ if in $mondayCategories (. | urlize) }}
+          {{ $showMonday = true }}
+        {{ end }}
+      {{ end }}
+      {{ if $showMonday }}
+      <div style="margin-top: 1.5rem; background: #F0F4FF; border: 1px solid #BFDBFE; border-radius: 0.75rem; padding: 1.25rem;">
+        <p style="font-size: 0.75rem; font-weight: 700; color: #1D4ED8; text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 0.5rem;">Need a Full Subscription?</p>
+        <p style="font-size: 0.875rem; color: #374151; margin: 0 0 1rem;">monday.com is used by 180,000+ teams for project management and operations.</p>
+        <a href="https://try.monday.com/dn12momppylf-p7wfga" target="_blank" rel="noopener sponsored" style="display: block; text-align: center; padding: 0.625rem 1rem; background-color: #F97316; color: white; border-radius: 0.5rem; text-decoration: none; font-weight: 600; font-size: 0.875rem;">See monday.com Plans →</a>
+      </div>
+      {{ end }}
     </div>
   </div>
 

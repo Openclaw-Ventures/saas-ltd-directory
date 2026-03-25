@@ -2,7 +2,7 @@
 title: "Subledger : Automate Your Accounting and Save Hours Every Week Lifetime Deal — $59"
 description: "Subledger Yearly DealTired of clunky, outdated accounting software that slows you down?If manual reconciliation and time-consuming data entry are eating up your productivity, you’re not alone.Introduc"
 date: "2026-03-19T16:27:59.495544+00:00"
-lastmod: "2026-03-21T02:06:46.626795+00:00"
+lastmod: "2026-03-25T02:04:32.857274+00:00"
 product_name: "Subledger : Automate Your Accounting and Save Hours Every Week"
 slug: "subledger-automate-your-accounting-and-save-hours-every-week-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/04/Subledger-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.626795+00:00"
-last_updated: "2026-03-21T02:06:46.626795+00:00"
+last_scraped: "2026-03-25T02:04:32.857274+00:00"
+last_updated: "2026-03-25T02:04:32.857274+00:00"
 categories:
   - "Accounting software"
 sources:
@@ -41,7 +41,7 @@ Best for accounting software users who need subledger : automate your accounting
 At **$59 one-time** vs $199 regular price, you're saving **70%** ($140) compared to buying at full price. That's equivalent to paying just 4.9 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

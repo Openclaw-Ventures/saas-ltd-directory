@@ -2,7 +2,7 @@
 title: "300+ SMMA Owner ChatGPT Prompts! Lifetime Deal — $7"
 description: "300+ SMMA owner ChatGPT Prompts"
 date: "2026-03-19T16:28:00.785885+00:00"
-lastmod: "2026-03-21T02:06:47.893114+00:00"
+lastmod: "2026-03-25T02:04:34.227505+00:00"
 product_name: "300+ SMMA Owner ChatGPT Prompts!"
 slug: "300-smma-owner-chatgpt-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/300-SMMA-owner.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.893114+00:00"
-last_updated: "2026-03-21T02:06:47.893114+00:00"
+last_scraped: "2026-03-25T02:04:34.227505+00:00"
+last_updated: "2026-03-25T02:04:34.227505+00:00"
 categories:
   - "GPT Prompt"
 sources:
@@ -40,7 +40,7 @@ Best for gpt prompt users who need 300+ smma owner chatgpt prompts! capabilities
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

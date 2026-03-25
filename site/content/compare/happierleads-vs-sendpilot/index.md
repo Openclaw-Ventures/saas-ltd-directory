@@ -19,7 +19,7 @@ Comparing two lead generation lifetime deals to help you make the right choice.
 | **LTD Price** | $69 | $69 |
 | **Regular Price** | $2988 | $792 |
 | **Discount** | 98% | 91% |
-| **Rating** | 4.3/5 (103 reviews) | 4.93/5 (73 reviews) |
+| **Rating** | 4.31/5 (104 reviews) | 4.94/5 (77 reviews) |
 | **Platform** | Appsumo | Appsumo |
 | **Category** | Lead generation | Lead generation |
 

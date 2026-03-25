@@ -2,7 +2,7 @@
 title: "Paperbot AI Lifetime Deal — $79"
 description: "Don't waste hours watching a painfully long video! Get the value you need NOW"
 date: "2026-03-19T16:26:52.913859+00:00"
-lastmod: "2026-03-21T02:06:55.082305+00:00"
+lastmod: "2026-03-25T02:04:41.262423+00:00"
 product_name: "Paperbot AI"
 slug: "paperbot-ai-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 87
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/paperbot2.png?v=1733000756"
 deal_active: true
-last_scraped: "2026-03-21T02:06:55.082305+00:00"
-last_updated: "2026-03-21T02:06:55.082305+00:00"
+last_scraped: "2026-03-25T02:04:41.262423+00:00"
+last_updated: "2026-03-25T02:04:41.262423+00:00"
 categories:
   - "AI"
 sources:
@@ -39,7 +39,7 @@ Best for professionals leveraging AI for automation who need paperbot ai capabil
 At **$79 one-time** vs $599 regular price, you're saving **87%** ($520) compared to buying at full price. That's equivalent to paying just 6.6 months of the regular $50/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

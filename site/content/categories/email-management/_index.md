@@ -13,7 +13,7 @@ Looking for email management lifetime deals? Here are the best one-time deals av
 
 ## ⭐ Top Picks
 
-1. **[DMARC Report](/deals/dmarc-report-lifetime-deal/)** — $69 (86% off) — 4.82/5 (221 reviews)
+1. **[DMARC Report](/deals/dmarc-report-lifetime-deal/)** — $69 (86% off) — 4.82/5 (222 reviews)
 
 ## All Deals
 

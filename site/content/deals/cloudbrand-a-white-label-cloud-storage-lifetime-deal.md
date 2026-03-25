@@ -2,7 +2,7 @@
 title: "Cloudbrand :  A White-Label Cloud Storage Lifetime Deal"
 description: "30 GB storage for the teamFree fair usage bandwidthPublic file sharing with clientsCustom client portal"
 date: "2026-03-19T16:28:00.011264+00:00"
-lastmod: "2026-03-21T02:06:47.127826+00:00"
+lastmod: "2026-03-25T02:04:33.409566+00:00"
 product_name: "Cloudbrand :  A White-Label Cloud Storage"
 slug: "cloudbrand-a-white-label-cloud-storage-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 3.0
 review_count: 1
 image: "https://dealmirror.com/wp-content/uploads/2024/10/Cloudbrand.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.127826+00:00"
-last_updated: "2026-03-21T02:06:47.127826+00:00"
+last_scraped: "2026-03-25T02:04:33.409566+00:00"
+last_updated: "2026-03-25T02:04:33.409566+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -36,7 +36,7 @@ sources:
 Best for expired deals users who need cloudbrand :  a white-label cloud storage capabilities — 30 gb storage for the teamfree fair usage bandwidthpublic file sharing with clientscustom client portal.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

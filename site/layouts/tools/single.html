@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="tool-page" style="max-width: 860px; margin: 0 auto; padding: 2rem 1rem;">
+  <nav class="breadcrumb" aria-label="Breadcrumb" style="font-size: 0.875rem; color: #6B7280; margin-bottom: 1.5rem;">
+    <a href="/" style="color: #2563EB;">Home</a> /
+    <span class="current">{{ .Title }}</span>
+  </nav>
+  <h1 style="font-size: 2rem; font-weight: 800; color: #111827; margin-bottom: 1rem;">{{ .Title }}</h1>
+  <div class="tool-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

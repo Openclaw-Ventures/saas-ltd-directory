@@ -2,7 +2,7 @@
 title: "Ngage.ai : The Ultimate Audience Engagement Platform Agency Plan Lifetime Deal — $199"
 description: "What you get in this deal1500 Participants10 AdminsUnlimited Live Polls and QuizzesAudience Q&AInteractive SlidesQuizzesTheme CustomizationLive Streaming60 Days Money Back GuaranteeHurry! Only99Licenc"
 date: "2026-03-19T16:28:03.657616+00:00"
-lastmod: "2026-03-21T02:06:50.814389+00:00"
+lastmod: "2026-03-25T02:04:37.112352+00:00"
 product_name: "Ngage.ai : The Ultimate Audience Engagement Platform Agency Plan"
 slug: "ngageai-the-ultimate-audience-engagement-platform-agency-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 80
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2022/02/DealMirror-Ngage-AI-Lifetime-Deal-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.814389+00:00"
-last_updated: "2026-03-21T02:06:50.814389+00:00"
+last_scraped: "2026-03-25T02:04:37.112352+00:00"
+last_updated: "2026-03-25T02:04:37.112352+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need ngage.ai : t
 At **$199 one-time** vs $999 regular price, you're saving **80%** ($800) compared to buying at full price. That's equivalent to paying just 16.6 months of the regular $83/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

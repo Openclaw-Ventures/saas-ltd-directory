@@ -2,7 +2,7 @@
 title: "327 Premium Photoshop Text Styles | Extended License Lifetime Deal — $24"
 description: "Get 327 Premium Photoshop Text Styles | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.180809+00:00"
-lastmod: "2026-03-21T02:05:46.730651+00:00"
+lastmod: "2026-03-25T02:03:31.045048+00:00"
 product_name: "327 Premium Photoshop Text Styles | Extended License"
 slug: "327-premium-photoshop-text-styles-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 94
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/327-photoshop-styles-preview-v2-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.730651+00:00"
-last_updated: "2026-03-21T02:05:46.730651+00:00"
+last_scraped: "2026-03-25T02:03:31.045048+00:00"
+last_updated: "2026-03-25T02:03:31.045048+00:00"
 categories:
   - "Graphic Design Resources"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources users who need 327 premium photoshop text styl
 At **$24 one-time** vs $392 regular price, you're saving **94%** ($368) compared to buying at full price. That's equivalent to paying just 2.0 months of the regular $33/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

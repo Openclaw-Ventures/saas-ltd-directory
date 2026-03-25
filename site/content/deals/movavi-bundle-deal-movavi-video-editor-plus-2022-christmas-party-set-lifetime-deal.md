@@ -2,7 +2,7 @@
 title: "Movavi Bundle Deal: Movavi Video Editor Plus 2022 + Christmas Party Set Lifetime Deal — $55"
 description: "What you get in this dealMovavi Video Editor Plus 2022Christmas Party Set60 Days Money-Back GuaranteeHurry! Only00Licence are left"
 date: "2026-03-19T16:28:03.978527+00:00"
-lastmod: "2026-03-21T02:06:51.145880+00:00"
+lastmod: "2026-03-25T02:04:37.460459+00:00"
 product_name: "Movavi Bundle Deal: Movavi Video Editor Plus 2022 + Christmas Party Set"
 slug: "movavi-bundle-deal-movavi-video-editor-plus-2022-christmas-party-set-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2021/12/mova-1.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.145880+00:00"
-last_updated: "2026-03-21T02:06:51.145880+00:00"
+last_scraped: "2026-03-25T02:04:37.460459+00:00"
+last_updated: "2026-03-25T02:04:37.460459+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need movavi bundl
 At **$55 one-time** vs $80 regular price, you're saving **31%** ($25) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

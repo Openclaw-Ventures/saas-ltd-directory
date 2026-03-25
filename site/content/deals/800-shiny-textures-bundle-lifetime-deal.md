@@ -2,7 +2,7 @@
 title: "800+ Shiny Textures Bundle Lifetime Deal — $29"
 description: "Get 800+ Shiny Textures Bundle lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.946559+00:00"
-lastmod: "2026-03-21T02:05:46.432671+00:00"
+lastmod: "2026-03-25T02:03:30.834180+00:00"
 product_name: "800+ Shiny Textures Bundle"
 slug: "800-shiny-textures-bundle-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 94
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/whole-Bundle-Preview-1-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.432671+00:00"
-last_updated: "2026-03-21T02:05:46.432671+00:00"
+last_scraped: "2026-03-25T02:03:30.834180+00:00"
+last_updated: "2026-03-25T02:03:30.834180+00:00"
 categories:
   - "Android"
 sources:
@@ -38,7 +38,7 @@ Best for android users who need 800+ shiny textures bundle capabilities.
 At **$29 one-time** vs $500 regular price, you're saving **94%** ($471) compared to buying at full price. That's equivalent to paying just 2.4 months of the regular $42/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

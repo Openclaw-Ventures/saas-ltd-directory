@@ -2,7 +2,7 @@
 title: "FlexClip : Create Stunning Videos with Customizable Templates Plus Plan Lifetime Deal — $138"
 description: "What you get in this deal720p HDdownloads1 stock video per projectSave 50 projectsonlineVideo length up to3 minsNo FlexClip introHurry! Only30Licence are left"
 date: "2026-03-19T16:28:04.508981+00:00"
-lastmod: "2026-03-21T02:06:51.755092+00:00"
+lastmod: "2026-03-25T02:04:38.057831+00:00"
 product_name: "FlexClip : Create Stunning Videos with Customizable Templates Plus Plan"
 slug: "flexclip-create-stunning-videos-with-customizable-templates-plus-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 83
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/12/Flexclip-Lifetime-Deal-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.755092+00:00"
-last_updated: "2026-03-21T02:06:51.755092+00:00"
+last_scraped: "2026-03-25T02:04:38.057831+00:00"
+last_updated: "2026-03-25T02:04:38.057831+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need flexclip : c
 At **$138 one-time** vs $800 regular price, you're saving **83%** ($662) compared to buying at full price. That's equivalent to paying just 11.5 months of the regular $67/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

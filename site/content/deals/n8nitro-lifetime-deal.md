@@ -2,7 +2,7 @@
 title: "N8Nitro Lifetime Deal — $220"
 description: "Ever wished you could run n8n with the speed of a managed cloud, but without the costs, limits, or lock-in of traditional hosting?N8Nitrois a self-hosted n8n hosting platform built for speed and simpl"
 date: "2026-03-19T16:26:52.565939+00:00"
-lastmod: "2026-03-21T02:06:54.721865+00:00"
+lastmod: "2026-03-25T02:04:40.782319+00:00"
 product_name: "N8Nitro"
 slug: "n8nitro-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 82
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/N8Nitro.png?v=1768352667"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.721865+00:00"
-last_updated: "2026-03-21T02:06:54.721865+00:00"
+last_scraped: "2026-03-25T02:04:40.782319+00:00"
+last_updated: "2026-03-25T02:04:40.782319+00:00"
 categories:
   - "Developer Tools"
 sources:
@@ -39,7 +39,7 @@ Best for software developers and engineering teams who need n8nitro capabilities
 At **$220 one-time** vs $1200 regular price, you're saving **82%** ($980) compared to buying at full price. That's equivalent to paying just 18.3 months of the regular $100/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

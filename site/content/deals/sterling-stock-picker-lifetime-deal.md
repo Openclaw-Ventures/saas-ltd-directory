@@ -2,7 +2,7 @@
 title: "Sterling Stock Picker Lifetime Deal — $69"
 description: "Struggling to pick the right stocks and manage your portfolio with confidence?Sterling Stock Pickergives self-directed investors a smarter, faster, and simpler way to invest—without needing a backgrou"
 date: "2026-03-19T16:26:52.717782+00:00"
-lastmod: "2026-03-21T02:06:54.868087+00:00"
+lastmod: "2026-03-25T02:04:40.999708+00:00"
 product_name: "Sterling Stock Picker"
 slug: "sterling-stock-picker-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 72
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Sterling_Stock_Picker.png?v=1744904501"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.868087+00:00"
-last_updated: "2026-03-21T02:06:54.868087+00:00"
+last_scraped: "2026-03-25T02:04:40.999708+00:00"
+last_updated: "2026-03-25T02:04:40.999708+00:00"
 categories:
   - "Business"
 sources:
@@ -39,7 +39,7 @@ Best for business owners and entrepreneurs who need sterling stock picker capabi
 At **$69 one-time** vs $243 regular price, you're saving **72%** ($174) compared to buying at full price. That's equivalent to paying just 5.8 months of the regular $20/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

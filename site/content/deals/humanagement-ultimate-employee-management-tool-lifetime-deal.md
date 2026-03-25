@@ -2,7 +2,7 @@
 title: "Humanagement : Ultimate Employee Management Tool Lifetime Deal — $49"
 description: "What you get in this deal5 UsersUnlimited StatsFull-Featured DashboardKnowledgeBase & LMSLimited KB Video RecPurchase RequestsEmployee Requests60-days money-back guaranteeHurry! Only00Licence are left"
 date: "2026-03-19T16:28:03.284394+00:00"
-lastmod: "2026-03-21T02:06:50.513662+00:00"
+lastmod: "2026-03-25T02:04:36.826536+00:00"
 product_name: "Humanagement : Ultimate Employee Management Tool"
 slug: "humanagement-ultimate-employee-management-tool-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2022/07/Humanagement-Lifetime-Deal-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.513662+00:00"
-last_updated: "2026-03-21T02:06:50.513662+00:00"
+last_scraped: "2026-03-25T02:04:36.826536+00:00"
+last_updated: "2026-03-25T02:04:36.826536+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need humanagement
 At **$49 one-time** vs $99 regular price, you're saving **51%** ($50) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

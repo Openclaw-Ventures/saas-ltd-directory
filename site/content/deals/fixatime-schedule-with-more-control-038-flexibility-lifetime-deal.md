@@ -2,7 +2,7 @@
 title: "Fixatime : Schedule with more control &#038; flexibility Lifetime Deal — $39"
 description: "Sync up to 6 different calendarsOutlook/Google Calendar integrationOne-on-one meetingsGroup Meetings & Meeting Polls"
 date: "2026-03-19T16:28:02.724064+00:00"
-lastmod: "2026-03-21T02:06:49.843733+00:00"
+lastmod: "2026-03-25T02:04:36.095990+00:00"
 product_name: "Fixatime : Schedule with more control &#038; flexibility"
 slug: "fixatime-schedule-with-more-control-038-flexibility-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2023/05/fixatime.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.843733+00:00"
-last_updated: "2026-03-21T02:06:49.843733+00:00"
+last_scraped: "2026-03-25T02:04:36.095990+00:00"
+last_updated: "2026-03-25T02:04:36.095990+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need fixatime : schedule with more control &#03
 At **$39 one-time** vs $324 regular price, you're saving **88%** ($285) compared to buying at full price. That's equivalent to paying just 3.2 months of the regular $27/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

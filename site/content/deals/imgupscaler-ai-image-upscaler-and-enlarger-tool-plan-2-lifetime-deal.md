@@ -2,7 +2,7 @@
 title: "Img.Upscaler : AI Image UpScaler and Enlarger Tool Plan 2 Lifetime Deal — $89"
 description: "What you get in this dealUnlimited Access to UpscaleIncrease Image Resolution by 400%Support Batch ProcessRetouch Face PhotosUpscale & Enhanced PhotosEnhance Color & ContractFix Blurry Pictures using "
 date: "2026-03-19T16:28:03.607674+00:00"
-lastmod: "2026-03-21T02:06:50.763140+00:00"
+lastmod: "2026-03-25T02:04:37.068244+00:00"
 product_name: "Img.Upscaler : AI Image UpScaler and Enlarger Tool Plan 2"
 slug: "imgupscaler-ai-image-upscaler-and-enlarger-tool-plan-2-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 1
 image: "https://dealmirror.com/wp-content/uploads/2022/03/DealMirror-ImgUpscaler-Lifetime-Deal-Feature-Image-2.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.763140+00:00"
-last_updated: "2026-03-21T02:06:50.763140+00:00"
+last_scraped: "2026-03-25T02:04:37.068244+00:00"
+last_updated: "2026-03-25T02:04:37.068244+00:00"
 sources:
   - "dealmirror"
 ---
@@ -39,7 +39,7 @@ Best for businesses looking for specialized software tools who need img.upscaler
 At **$89 one-time** vs $999 regular price, you're saving **91%** ($910) compared to buying at full price. That's equivalent to paying just 7.4 months of the regular $83/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

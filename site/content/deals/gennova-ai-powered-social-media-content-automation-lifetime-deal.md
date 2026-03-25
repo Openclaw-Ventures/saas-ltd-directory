@@ -2,7 +2,7 @@
 title: "Gennova: AI-Powered Social Media Content Automation Lifetime Deal — $49"
 description: "50 pieces of content every monthFull personalizationSchedule and post on 4 socials"
 date: "2026-03-19T16:27:59.532234+00:00"
-lastmod: "2026-03-21T02:06:46.676195+00:00"
+lastmod: "2026-03-25T02:04:32.910240+00:00"
 product_name: "Gennova: AI-Powered Social Media Content Automation"
 slug: "gennova-ai-powered-social-media-content-automation-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 3
 image: "https://dealmirror.com/wp-content/uploads/2025/04/Genova-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.676195+00:00"
-last_updated: "2026-03-21T02:06:46.676195+00:00"
+last_scraped: "2026-03-25T02:04:32.910240+00:00"
+last_updated: "2026-03-25T02:04:32.910240+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need gennova: ai-powered social media content a
 At **$49 one-time** vs $99 regular price, you're saving **51%** ($50) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Logo Creation Kit: 850+ Logo Elements | Extended License Lifetime Deal — $19"
 description: "Get Logo Creation Kit: 850+ Logo Elements | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.971285+00:00"
-lastmod: "2026-03-21T02:05:46.465827+00:00"
+lastmod: "2026-03-25T02:03:30.864888+00:00"
 product_name: "Logo Creation Kit: 850+ Logo Elements | Extended License"
 slug: "logo-creation-kit-850-logo-elements-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 90
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/800x500-1-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.465827+00:00"
-last_updated: "2026-03-21T02:05:46.465827+00:00"
+last_scraped: "2026-03-25T02:03:30.864888+00:00"
+last_updated: "2026-03-25T02:03:30.864888+00:00"
 categories:
   - "Graphic Design Resources"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources users who need logo creation kit: 850+ logo el
 At **$19 one-time** vs $194 regular price, you're saving **90%** ($175) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

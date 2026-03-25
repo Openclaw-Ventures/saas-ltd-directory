@@ -2,7 +2,7 @@
 title: "48 Retro Sales Badges with an Extended Royalty License Lifetime Deal — $4"
 description: "Get 48 Retro Sales Badges with an Extended Royalty License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.150977+00:00"
-lastmod: "2026-03-21T02:05:46.695695+00:00"
+lastmod: "2026-03-25T02:03:31.024271+00:00"
 product_name: "48 Retro Sales Badges with an Extended Royalty License"
 slug: "48-retro-sales-badges-with-an-extended-royalty-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 97
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/friday-special-48-retro-sales-badges-preview-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.695695+00:00"
-last_updated: "2026-03-21T02:05:46.695695+00:00"
+last_scraped: "2026-03-25T02:03:31.024271+00:00"
+last_updated: "2026-03-25T02:03:31.024271+00:00"
 categories:
   - "Android"
 sources:
@@ -38,7 +38,7 @@ Best for android users who need 48 retro sales badges with an extended royalty l
 At **$4 one-time** vs $120 regular price, you're saving **97%** ($116) compared to buying at full price. That's equivalent to paying just 0.3 months of the regular $10/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

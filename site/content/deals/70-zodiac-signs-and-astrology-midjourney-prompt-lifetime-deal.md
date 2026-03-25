@@ -2,7 +2,7 @@
 title: "70+ Zodiac Signs and Astrology Midjourney Prompt Lifetime Deal — $7"
 description: "70+ Zodiac Signs and Astrology Midjourney Prompt"
 date: "2026-03-19T16:28:00.625166+00:00"
-lastmod: "2026-03-21T02:06:47.735090+00:00"
+lastmod: "2026-03-25T02:04:34.054455+00:00"
 product_name: "70+ Zodiac Signs and Astrology Midjourney Prompt"
 slug: "70-zodiac-signs-and-astrology-midjourney-prompt-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/zodiac.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.735090+00:00"
-last_updated: "2026-03-21T02:06:47.735090+00:00"
+last_scraped: "2026-03-25T02:04:34.054455+00:00"
+last_updated: "2026-03-25T02:04:34.054455+00:00"
 categories:
   - "Midjourney Prompts"
 sources:
@@ -40,7 +40,7 @@ Best for midjourney prompts users who need 70+ zodiac signs and astrology midjou
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

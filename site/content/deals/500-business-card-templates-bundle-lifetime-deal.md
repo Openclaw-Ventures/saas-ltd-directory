@@ -2,7 +2,7 @@
 title: "500+ Business Card Templates Bundle Lifetime Deal — $7"
 description: "Over 500 Business Card TemplatesCustomizable LayoutsHigh-Resolution FilesFree Font & Image Recommendation"
 date: "2026-03-19T16:27:59.819615+00:00"
-lastmod: "2026-03-21T02:06:46.946077+00:00"
+lastmod: "2026-03-25T02:04:33.216782+00:00"
 product_name: "500+ Business Card Templates Bundle"
 slug: "500-business-card-templates-bundle-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2025/02/500-Business-card-bundle.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.946077+00:00"
-last_updated: "2026-03-21T02:06:46.946077+00:00"
+last_scraped: "2026-03-25T02:04:33.216782+00:00"
+last_updated: "2026-03-25T02:04:33.216782+00:00"
 categories:
   - "Bundles"
 sources:
@@ -40,7 +40,7 @@ Best for bundles users who need 500+ business card templates bundle capabilities
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

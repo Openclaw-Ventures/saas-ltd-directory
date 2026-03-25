@@ -2,7 +2,7 @@
 title: "MarketingCopy AI : An AI Powered Marketing Copywriter Growth LTD Plan Lifetime Deal — $149"
 description: "What you get in this deal3 Users100K AI-Generated Words/ MonthUnlimited ProjectsUnlimited Documents60DaysMoney Back GuaranteeHurry! Only499Licence are left"
 date: "2026-03-19T16:28:03.721306+00:00"
-lastmod: "2026-03-21T02:06:50.880779+00:00"
+lastmod: "2026-03-25T02:04:37.179836+00:00"
 product_name: "MarketingCopy AI : An AI Powered Marketing Copywriter Growth LTD Plan"
 slug: "marketingcopy-ai-an-ai-powered-marketing-copywriter-growth-ltd-plan-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2022/02/DealMirror-MarketingCopy-Lifetime-Deal-Feature-Image.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.880779+00:00"
-last_updated: "2026-03-21T02:06:50.880779+00:00"
+last_scraped: "2026-03-25T02:04:37.179836+00:00"
+last_updated: "2026-03-25T02:04:37.179836+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need marketingcop
 At **$149 one-time** vs $1600 regular price, you're saving **91%** ($1451) compared to buying at full price. That's equivalent to paying just 12.4 months of the regular $133/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

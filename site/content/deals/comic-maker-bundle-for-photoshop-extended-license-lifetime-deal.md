@@ -2,7 +2,7 @@
 title: "Comic Maker Bundle For Photoshop | Extended License Lifetime Deal — $8"
 description: "Get Comic Maker Bundle For Photoshop | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:38.831380+00:00"
-lastmod: "2026-03-21T02:05:46.318068+00:00"
+lastmod: "2026-03-25T02:03:30.724583+00:00"
 product_name: "Comic Maker Bundle For Photoshop | Extended License"
 slug: "comic-maker-bundle-for-photoshop-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 60
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/unnamed-1-450x281.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.318068+00:00"
-last_updated: "2026-03-21T02:05:46.318068+00:00"
+last_scraped: "2026-03-25T02:03:30.724583+00:00"
+last_updated: "2026-03-25T02:03:30.724583+00:00"
 categories:
   - "Graphic Design Resources"
 sources:
@@ -38,7 +38,7 @@ Best for graphic design resources users who need comic maker bundle for photosho
 At **$8 one-time** vs $20 regular price, you're saving **60%** ($12) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "Logii : Multi-Login &#038; Anti-Detect Browser Lifetime Deal — $129"
 description: "Unlimited ProfilesRuns on Mac & PCFingerprinting FeaturesExport & Import Profiles"
 date: "2026-03-19T16:28:03.280370+00:00"
-lastmod: "2026-03-21T02:06:50.508361+00:00"
+lastmod: "2026-03-25T02:04:36.822779+00:00"
 product_name: "Logii : Multi-Login &#038; Anti-Detect Browser"
 slug: "logii-multi-login-038-anti-detect-browser-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2022/07/logii-banner.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:50.508361+00:00"
-last_updated: "2026-03-21T02:06:50.508361+00:00"
+last_scraped: "2026-03-25T02:04:36.822779+00:00"
+last_updated: "2026-03-25T02:04:36.822779+00:00"
 categories:
   - "All Deals"
 sources:
@@ -41,7 +41,7 @@ Best for all deals users who need logii : multi-login &#038; anti-detect browser
 At **$129 one-time** vs $194 regular price, you're saving **34%** ($65) compared to buying at full price. That's equivalent to paying just 10.8 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "240+ T-Shirt Design Midjourney Prompts Lifetime Deal — $7"
 description: "240+ T-Shirt Design Midjourney Prompts"
 date: "2026-03-19T16:28:00.693391+00:00"
-lastmod: "2026-03-21T02:06:47.814533+00:00"
+lastmod: "2026-03-25T02:04:34.136444+00:00"
 product_name: "240+ T-Shirt Design Midjourney Prompts"
 slug: "240-t-shirt-design-midjourney-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/08/300-T-Shirt-Designs-.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.814533+00:00"
-last_updated: "2026-03-21T02:06:47.814533+00:00"
+last_scraped: "2026-03-25T02:04:34.136444+00:00"
+last_updated: "2026-03-25T02:04:34.136444+00:00"
 categories:
   - "Design"
 sources:
@@ -40,7 +40,7 @@ Best for design users who need 240+ t-shirt design midjourney prompts capabiliti
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

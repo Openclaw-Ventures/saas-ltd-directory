@@ -2,7 +2,7 @@
 title: "Black Bird System Info Lifetime Deal — $9"
 description: "What you get in this dealPC’s Battery, CD ROM, Keyboard, PrinterEntire information about your HardwareAll about the computer’s Video CardAll about PC’s Audio properties and DriverEntire information ab"
 date: "2026-03-19T16:28:05.553382+00:00"
-lastmod: "2026-03-21T02:06:52.766716+00:00"
+lastmod: "2026-03-25T02:04:38.904683+00:00"
 product_name: "Black Bird System Info"
 slug: "black-bird-system-info-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 95
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2019/09/feature-imageBBSI.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.766716+00:00"
-last_updated: "2026-03-21T02:06:52.766716+00:00"
+last_scraped: "2026-03-25T02:04:38.904683+00:00"
+last_updated: "2026-03-25T02:04:38.904683+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need black bird s
 At **$9 one-time** vs $189 regular price, you're saving **95%** ($180) compared to buying at full price. That's equivalent to paying just 0.8 months of the regular $16/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

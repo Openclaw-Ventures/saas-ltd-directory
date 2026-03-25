@@ -2,7 +2,7 @@
 title: "NFT Canva Templates: Unlock the Power of Digital Art! Lifetime Deal — $7"
 description: "What you get in this dealExpertly produced Canva templatesProfessional polish impresses buyersSmooth interface for easy editingHurry! Only99Products are left"
 date: "2026-03-19T16:28:02.168926+00:00"
-lastmod: "2026-03-21T02:06:49.278699+00:00"
+lastmod: "2026-03-25T02:04:35.431848+00:00"
 product_name: "NFT Canva Templates: Unlock the Power of Digital Art!"
 slug: "nft-canva-templates-unlock-the-power-of-digital-art-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 91
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/07/nft.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.278699+00:00"
-last_updated: "2026-03-21T02:06:49.278699+00:00"
+last_scraped: "2026-03-25T02:04:35.431848+00:00"
+last_updated: "2026-03-25T02:04:35.431848+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need nft canva te
 At **$7 one-time** vs $79 regular price, you're saving **91%** ($72) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

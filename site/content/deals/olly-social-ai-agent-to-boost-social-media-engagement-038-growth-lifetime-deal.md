@@ -2,7 +2,7 @@
 title: "Olly Social: AI Agent to Boost Social Media Engagement &#038; Growth Lifetime Deal — $34"
 description: "AI Comments, Summaries, Posts & Virality ScoresSupports OpenAI, Claude, Gemini, and Local ModelsMulti-language supportGamification"
 date: "2026-03-19T16:27:59.557661+00:00"
-lastmod: "2026-03-21T02:06:46.707117+00:00"
+lastmod: "2026-03-25T02:04:32.943633+00:00"
 product_name: "Olly Social: AI Agent to Boost Social Media Engagement &#038; Growth"
 slug: "olly-social-ai-agent-to-boost-social-media-engagement-038-growth-lifetime-deal"
 source: "dealmirror"
@@ -16,8 +16,8 @@ rating: 5.0
 review_count: 4
 image: "https://dealmirror.com/wp-content/uploads/2025/03/Olly-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:46.707117+00:00"
-last_updated: "2026-03-21T02:06:46.707117+00:00"
+last_scraped: "2026-03-25T02:04:32.943633+00:00"
+last_updated: "2026-03-25T02:04:32.943633+00:00"
 categories:
   - "Expired Deals"
 sources:
@@ -41,7 +41,7 @@ Best for expired deals users who need olly social: ai agent to boost social medi
 At **$34 one-time** vs $99 regular price, you're saving **66%** ($65) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

@@ -2,7 +2,7 @@
 title: "250+ Simple Illustrations Bundle | Extended License Lifetime Deal — $23"
 description: "Get 250+ Simple Illustrations Bundle | Extended License lifetime deal at a discounted price."
 date: "2026-03-19T16:29:39.078310+00:00"
-lastmod: "2026-03-21T02:05:46.600114+00:00"
+lastmod: "2026-03-25T02:03:30.962824+00:00"
 product_name: "250+ Simple Illustrations Bundle | Extended License"
 slug: "250-simple-illustrations-bundle-extended-license-lifetime-deal"
 source: "dealfuel"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 98
 image: "https://www.dealfuel.com/wp-content/uploads/2025/02/250-premium-illustrations-preview-450x312.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:05:46.600114+00:00"
-last_updated: "2026-03-21T02:05:46.600114+00:00"
+last_scraped: "2026-03-25T02:03:30.962824+00:00"
+last_updated: "2026-03-25T02:03:30.962824+00:00"
 categories:
   - "Illustrations"
 sources:
@@ -38,7 +38,7 @@ Best for illustrations users who need 250+ simple illustrations bundle | extende
 At **$23 one-time** vs $1148 regular price, you're saving **98%** ($1125) compared to buying at full price. That's equivalent to paying just 1.9 months of the regular $96/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:05 UTC_
+_Last updated: 2026-03-25 02:03 UTC_
 
 
 ## Get This Deal

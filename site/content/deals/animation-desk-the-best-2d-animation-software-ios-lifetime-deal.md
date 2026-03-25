@@ -2,7 +2,7 @@
 title: "Animation Desk : The Best 2D Animation Software (iOS) Lifetime Deal — $20"
 description: "What you get in this dealExport/import image sequencesFrame viewerCustomize your own brushesHSV & color wheel supportedImport multiple soundtracksCreate & manage color palettesAudio recording supporte"
 date: "2026-03-19T16:28:01.990242+00:00"
-lastmod: "2026-03-21T02:06:49.044849+00:00"
+lastmod: "2026-03-25T02:04:35.170160+00:00"
 product_name: "Animation Desk : The Best 2D Animation Software (iOS)"
 slug: "animation-desk-the-best-2d-animation-software-ios-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 50
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/Animation-new-image-1.jpeg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:49.044849+00:00"
-last_updated: "2026-03-21T02:06:49.044849+00:00"
+last_scraped: "2026-03-25T02:04:35.170160+00:00"
+last_updated: "2026-03-25T02:04:35.170160+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need animation de
 At **$20 one-time** vs $40 regular price, you're saving **50%** ($20) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

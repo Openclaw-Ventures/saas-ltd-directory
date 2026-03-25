@@ -2,7 +2,7 @@
 title: "MailPoet – Emails and Newsletters in WordPress Lifetime Deal"
 description: "MailPoet: Emails and Newsletters in WordPressWith MailPoet, your website visitors can sign up as newsletter subscribers and build your mailing list, all without leaving your WordPress admin.Our newsle"
 date: "2026-03-19T16:28:04.224112+00:00"
-lastmod: "2026-03-21T02:06:51.424860+00:00"
+lastmod: "2026-03-25T02:04:37.706835+00:00"
 product_name: "MailPoet – Emails and Newsletters in WordPress"
 slug: "mailpoet-emails-and-newsletters-in-wordpress-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 100
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/10/Free-Deal-copy2.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.424860+00:00"
-last_updated: "2026-03-21T02:06:51.424860+00:00"
+last_scraped: "2026-03-25T02:04:37.706835+00:00"
+last_updated: "2026-03-25T02:04:37.706835+00:00"
 categories:
   - "Freebies"
 sources:
@@ -35,7 +35,7 @@ MailPoet: Emails and Newsletters in WordPressWith MailPoet, your website visitor
 Best for freebies users who need mailpoet – emails and newsletters in wordpress capabilities.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

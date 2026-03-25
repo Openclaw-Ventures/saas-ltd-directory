@@ -2,7 +2,7 @@
 title: "Interactive Shell Lifetime Deal — $57"
 description: "In the ever-evolving world of software development,tools that simplify the coding experience are essential"
 date: "2026-03-19T16:26:52.766170+00:00"
-lastmod: "2026-03-21T02:06:54.919525+00:00"
+lastmod: "2026-03-25T02:04:41.068584+00:00"
 product_name: "Interactive Shell"
 slug: "interactive-shell-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 62
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Interactive_Shell_1.png?v=1737057298"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.919525+00:00"
-last_updated: "2026-03-21T02:06:54.919525+00:00"
+last_scraped: "2026-03-25T02:04:41.068584+00:00"
+last_updated: "2026-03-25T02:04:41.068584+00:00"
 categories:
   - "Developer Tools"
 sources:
@@ -39,7 +39,7 @@ Best for software developers and engineering teams who need interactive shell ca
 At **$57 one-time** vs $150 regular price, you're saving **62%** ($93) compared to buying at full price. That's equivalent to paying just 4.8 months of the regular $12/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

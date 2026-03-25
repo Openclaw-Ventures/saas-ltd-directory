@@ -2,7 +2,7 @@
 title: "Mondly by Pearson Lifetime Deal — $90"
 description: "⭐⭐⭐⭐⭐ 4.5 on Google Play and 4.7 on Apple with over 900,000 reviews!Get access to 41 languages!Mondly by Pearson was namedApp of the Year by FacebookandBest New App by Applewith over140 million downlo"
 date: "2026-03-19T16:26:52.997432+00:00"
-lastmod: "2026-03-21T02:06:55.145192+00:00"
+lastmod: "2026-03-25T02:04:41.342825+00:00"
 product_name: "Mondly by Pearson"
 slug: "mondly-by-pearson-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 70
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Mondly_01.png?v=1743482947"
 deal_active: true
-last_scraped: "2026-03-21T02:06:55.145192+00:00"
-last_updated: "2026-03-21T02:06:55.145192+00:00"
+last_scraped: "2026-03-25T02:04:41.342825+00:00"
+last_updated: "2026-03-25T02:04:41.342825+00:00"
 categories:
   - "Productivity"
 sources:
@@ -39,7 +39,7 @@ Best for teams and professionals looking to streamline their workflows who need 
 At **$90 one-time** vs $300 regular price, you're saving **70%** ($210) compared to buying at full price. That's equivalent to paying just 7.5 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal
@@ -54,4 +54,4 @@ Looking for similar tools? Check out these deals:
 
 - [Shareables](/deals/shareables-lifetime-deal/) — $59 (39% off)
 - [Documentation.AI](/deals/documentationai-lifetime-deal/) — $69 (80% off)
-- [Journal it!](/deals/journal-it-lifetime-deal/) — $39 (61% off)
+- [TinyCommand](/deals/tinycommand-lifetime-deal/) — $79 (66% off)

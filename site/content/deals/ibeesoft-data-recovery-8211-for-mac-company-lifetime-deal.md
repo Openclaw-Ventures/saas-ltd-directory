@@ -2,7 +2,7 @@
 title: "iBeesoft: Data Recovery &#8211; For Mac (Company) Lifetime Deal — $150"
 description: "What you get in this dealRecover Deleted Files200+file formatsLifetime Technical SupportLifetime Updates For FreeHurry! Only100Licence are left"
 date: "2026-03-19T16:28:04.567403+00:00"
-lastmod: "2026-03-21T02:06:51.823764+00:00"
+lastmod: "2026-03-25T02:04:38.100099+00:00"
 product_name: "iBeesoft: Data Recovery &#8211; For Mac (Company)"
 slug: "ibeesoft-data-recovery-8211-for-mac-company-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 50
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2021/04/imgpsh_fullsize_anim-2-1.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:51.823764+00:00"
-last_updated: "2026-03-21T02:06:51.823764+00:00"
+last_scraped: "2026-03-25T02:04:38.100099+00:00"
+last_updated: "2026-03-25T02:04:38.100099+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need ibeesoft: da
 At **$150 one-time** vs $300 regular price, you're saving **50%** ($150) compared to buying at full price. That's equivalent to paying just 12.5 months of the regular $25/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

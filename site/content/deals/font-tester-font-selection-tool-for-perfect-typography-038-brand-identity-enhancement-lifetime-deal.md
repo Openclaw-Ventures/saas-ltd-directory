@@ -2,7 +2,7 @@
 title: "Font Tester: Font selection Tool for Perfect Typography &#038; Brand Identity Enhancement Lifetime Deal — $19"
 description: "Upload local fontsAdjust font-size and colorsEarly access to new featuresCompare fonts side-by-side"
 date: "2026-03-19T16:27:59.949727+00:00"
-lastmod: "2026-03-21T02:06:47.070971+00:00"
+lastmod: "2026-03-25T02:04:33.345448+00:00"
 product_name: "Font Tester: Font selection Tool for Perfect Typography &#038; Brand Identity Enhancement"
 slug: "font-tester-font-selection-tool-for-perfect-typography-038-brand-identity-enhancement-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 72
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2024/11/Font-Tester-Font-selection-Tool-for-Perfect-Typography-Brand-Identity-Enhancement.png"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.070971+00:00"
-last_updated: "2026-03-21T02:06:47.070971+00:00"
+last_scraped: "2026-03-25T02:04:33.345448+00:00"
+last_updated: "2026-03-25T02:04:33.345448+00:00"
 categories:
   - "All Deals"
 sources:
@@ -40,7 +40,7 @@ Best for all deals users who need font tester: font selection tool for perfect t
 At **$19 one-time** vs $69 regular price, you're saving **72%** ($50) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

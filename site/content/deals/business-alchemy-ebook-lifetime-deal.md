@@ -2,7 +2,7 @@
 title: "Business Alchemy eBook Lifetime Deal — $39"
 description: "Dive into the world of business alchemy withBusiness Alchemy eBook, where we unveil the hidden gems within over 100 top business books"
 date: "2026-03-19T16:26:52.798574+00:00"
-lastmod: "2026-03-21T02:06:54.962012+00:00"
+lastmod: "2026-03-25T02:04:41.121232+00:00"
 product_name: "Business Alchemy eBook"
 slug: "business-alchemy-ebook-lifetime-deal"
 source: "dealify"
@@ -14,8 +14,8 @@ price_currency: "USD"
 discount_pct: 51
 image: "https://cdn.shopify.com/s/files/1/0604/5984/3651/files/Business-Alchemy-1_jpg.webp?v=1728889434"
 deal_active: true
-last_scraped: "2026-03-21T02:06:54.962012+00:00"
-last_updated: "2026-03-21T02:06:54.962012+00:00"
+last_scraped: "2026-03-25T02:04:41.121232+00:00"
+last_updated: "2026-03-25T02:04:41.121232+00:00"
 categories:
   - "Business"
 sources:
@@ -39,7 +39,7 @@ Best for business owners and entrepreneurs who need business alchemy ebook capab
 At **$39 one-time** vs $79 regular price, you're saving **51%** ($40) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

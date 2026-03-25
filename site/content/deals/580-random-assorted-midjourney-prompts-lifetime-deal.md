@@ -2,7 +2,7 @@
 title: "580+ Random Assorted Midjourney Prompts Lifetime Deal — $7"
 description: "580+ Random Assorted Midjourney Prompts"
 date: "2026-03-19T16:28:00.640269+00:00"
-lastmod: "2026-03-21T02:06:47.752508+00:00"
+lastmod: "2026-03-25T02:04:34.073210+00:00"
 product_name: "580+ Random Assorted Midjourney Prompts"
 slug: "580-random-assorted-midjourney-prompts-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 92
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2023/06/580-Random-Assorted-Midjourney-Prompts-Feature-Image.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:47.752508+00:00"
-last_updated: "2026-03-21T02:06:47.752508+00:00"
+last_scraped: "2026-03-25T02:04:34.073210+00:00"
+last_updated: "2026-03-25T02:04:34.073210+00:00"
 categories:
   - "Midjourney Prompts"
 sources:
@@ -40,7 +40,7 @@ Best for midjourney prompts users who need 580+ random assorted midjourney promp
 At **$7 one-time** vs $89 regular price, you're saving **92%** ($82) compared to buying at full price.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal

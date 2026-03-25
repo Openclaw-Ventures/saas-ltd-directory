@@ -2,7 +2,7 @@
 title: "WonderFox DVD Video Converter Lifetime Deal — $19"
 description: "What you get in this deal300+ sites Download online videosConvert videos to more than 300 formatsBack up old and scratched DVDsA multilingual interfaceMake ringtones for devicesPrivacy ProtectionSearc"
 date: "2026-03-19T16:28:05.483016+00:00"
-lastmod: "2026-03-21T02:06:52.701010+00:00"
+lastmod: "2026-03-25T02:04:38.829481+00:00"
 product_name: "WonderFox DVD Video Converter"
 slug: "wonderfox-dvd-video-converter-lifetime-deal"
 source: "dealmirror"
@@ -15,8 +15,8 @@ discount_pct: 90
 rating: 0.0
 image: "https://dealmirror.com/wp-content/uploads/2019/10/feature-image3-video-Converter.jpg"
 deal_active: true
-last_scraped: "2026-03-21T02:06:52.701010+00:00"
-last_updated: "2026-03-21T02:06:52.701010+00:00"
+last_scraped: "2026-03-25T02:04:38.829481+00:00"
+last_updated: "2026-03-25T02:04:38.829481+00:00"
 sources:
   - "dealmirror"
 ---
@@ -38,7 +38,7 @@ Best for businesses looking for specialized software tools who need wonderfox dv
 At **$19 one-time** vs $199 regular price, you're saving **90%** ($180) compared to buying at full price. That's equivalent to paying just 1.6 months of the regular $17/month subscription — and keeping it forever.
 
 
-_Last updated: 2026-03-21 02:06 UTC_
+_Last updated: 2026-03-25 02:04 UTC_
 
 
 ## Get This Deal
